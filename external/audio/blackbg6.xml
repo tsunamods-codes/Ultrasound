@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blackbg6\0.wav" ID="0">kyoukai no yane kara 5bangai</Entry>
+	<Entry File="blackbg6\1.wav" ID="1">colneo yakata</Entry>
+	<Entry File="blackbg6\2.wav" ID="2">red to oyaji</Entry>
+	<Entry File="blackbg6\3.wav" ID="3">5bangai he choku</Entry>
+	<Entry File="blackbg6\4.wav" ID="4"> 5bangai         kyoukai no yane         yane pyon         yane kara oriru         yame</Entry>
+	<Entry File="blackbg6\5.wav" ID="5"> 5bangai2         slum chuusin         dokan         icchaya         yame</Entry>
+	<Entry File="blackbg6\6.wav" ID="6"> colneo         ponbiki         irasshai         tifa to gouryuu         yame</Entry>
+	<Entry File="blackbg6\7.wav" ID="7">yametayo</Entry>
+	<Entry File="blackbg6\8.wav" ID="8"> colneo no heya         cloud erabareru         earith erabareru         tifa erabareru         yame</Entry>
+	<Entry File="blackbg6\9.wav" ID="9"> colneo sinsitu         cloud no baai         earith no baai         tifa no baai         yame</Entry>
+	<Entry File="blackbg6\10.wav" ID="10">mada</Entry>
+	<Entry File="blackbg6\11.wav" ID="11"> colneo osiokibeya         tifa to saikai         earith to gouryuu         colneo sonogo         yame</Entry>
+	<Entry File="blackbg6\12.wav" ID="12"> iroiro         colneo kobun beya         sinra kaidan1         sinra kaidan2         sinra kaidan3         sinra 59F         sinra elevetor         sinrabil totunyuu         sinrabil dasshutu         yame</Entry>
+	<Entry File="blackbg6\13.wav" ID="13">        cosmo Materia ya         cosmo touchaku         seto no kabe         movie check         boogen jikkensitu         sayonara cosmo         meteo go cosmo         onegai boogen         hyuji Materia         sayonara boogen         …………</Entry>
+	<Entry File="blackbg6\14.wav" ID="14">        sinra 60F         sinra 61F         sinra 64F         sinra 63F         sinra 62F         sinrabil shoumen         sinrabil uraguti         minigame         sinrabil matane         yame</Entry>
+	<Entry File="blackbg6\15.wav" ID="15">        cloud dake         ballet         tifa         earith         red         caitsith         yufi         cid         cincent         tifa dake         cid dake</Entry>
+	<Entry File="blackbg6\16.wav" ID="16">        unpansen         corel kaisou1         corel kaisou2         saishuukessen         yame</Entry>
+	<Entry File="blackbg6\17.wav" ID="17">        utai iriguti         yufi wo oe!         yufi nakamani         yufi nigeru1         yufi nigeru2         meteo1         meteo2         meteo3         yame</Entry>
+-->
+</VoiceList>

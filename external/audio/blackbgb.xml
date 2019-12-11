@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blackbgb\0.wav" ID="0">          End of Part 1</Entry>
+	<Entry File="blackbgb\1.wav" ID="1">Save the game to this point   on your computer?  Yes  No</Entry>
+	<Entry File="blackbgb\2.wav" ID="2">          End of Part 2</Entry>
+	<Entry File="blackbgb\3.wav" ID="3">Control the bike with the [Directional buttons]  and save your friends in the truck  from the Shinra pursuit troops.</Entry>
+	<Entry File="blackbgb\4.wav" ID="4"> [OK] Attack on right</Entry>
+	<Entry File="blackbgb\5.wav" ID="5">  [SWITCH] Attack on left</Entry>
+	<Entry File="blackbgb\6.wav" ID="6">  [MENU] Menu   [CANCEL] Form Party   [START] Start Game</Entry>
+	<Entry File="blackbgb\7.wav" ID="7">Midgar Highway</Entry>
+	<Entry File="blackbgb\8.wav" ID="8">DEBUG MODE</Entry>
+	<Entry File="blackbgb\9.wav" ID="9"> CLOUD</Entry>
+	<Entry File="blackbgb\10.wav" ID="10"> BARETT</Entry>
+	<Entry File="blackbgb\11.wav" ID="11"> TIFA</Entry>
+	<Entry File="blackbgb\12.wav" ID="12"> AERITH</Entry>
+	<Entry File="blackbgb\13.wav" ID="13"> YUFI</Entry>
+	<Entry File="blackbgb\14.wav" ID="14"> CAIT SITH</Entry>
+	<Entry File="blackbgb\15.wav" ID="15"> CID</Entry>
+	<Entry File="blackbgb\16.wav" ID="16"> VINCENT</Entry>
+	<Entry File="blackbgb\17.wav" ID="17"> RED13</Entry>
+	<Entry File="blackbgb\18.wav" ID="18"> SEPHIROTH</Entry>
+	<Entry File="blackbgb\19.wav" ID="19">TUNNEL Cancel Tunnel 5th Reactor</Entry>
+	<Entry File="blackbgb\20.wav" ID="20">LEVEL of TORIYAMA EVENT Perfect! Normal Oh,NO!!</Entry>
+	<Entry File="blackbgb\21.wav" ID="21">AERITH EVENT Decline Church Forgotten Relm Go to NorthLand</Entry>
+	<Entry File="blackbgb\22.wav" ID="22">KARM TOWN Cancel First come After Armagedon</Entry>
+	<Entry File="blackbgb\23.wav" ID="23">   Organize your party.    Select member,please.</Entry>
+	<Entry File="blackbgb\24.wav" ID="24">Check old man's event? Yes No</Entry>
+	<Entry File="blackbgb\25.wav" ID="25">get GUIDE BOOK get DESERT ROSE get EARTH HARP event start</Entry>
+	<Entry File="blackbgb\26.wav" ID="26">GONGAGA VILLAGE Cancel Meet TARCKS Who am I?</Entry>
+	<Entry File="blackbgb\27.wav" ID="27">SOUTH DUNGEON Cancel Meet TARCKS We can't go</Entry>
+	<Entry File="blackbgb\28.wav" ID="28">Join AERITH ? Yes No</Entry>
+	<Entry File="blackbgb\29.wav" ID="29">ROCKET VILLAGE Meet CID METEO intercept Rocket at Space</Entry>
+	<Entry File="blackbgb\30.wav" ID="30">SETUP DEBUG STATUS DEBUG mode NORMAL mode CD Emulator Check</Entry>
+	<Entry File="blackbgb\31.wav" ID="31">SETUP DEBUG STATUS DEBUG mode NORMAL mode CD Emulator Check</Entry>
+	<Entry File="blackbgb\32.wav" ID="32">ANOTHER CHECK Last Dungeon HIGHWAY minigame Shinra AirShip</Entry>
+	<Entry File="blackbgb\33.wav" ID="33">join YUFI join VINCENT join BOTH join cancel</Entry>
+	<Entry File="blackbgb\34.wav" ID="34"> SAVE CRYSTAL…… Give 99!! No need</Entry>
+	<Entry File="blackbgb\35.wav" ID="35">FORGOTTEN REALM Cancel First come Go to NorthLand</Entry>
+	<Entry File="blackbgb\36.wav" ID="36"> CG MOVIE VIEWER use cancel</Entry>
+	<Entry File="blackbgb\37.wav" ID="37">South Reactor    NIVLHAIM tragedy    Gold Saucer take off Tiny Bronco AERITH death SEPHIROTH WEAPON attack CLOUD psychoanalusis    METEO intercept failure Shoot SISTER LAY</Entry>
+-->
+</VoiceList>

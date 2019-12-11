@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="southmk1\1.wav" ID="1">Barret “This way!”</Entry>
+  <Entry File="southmk1\2.wav" ID="2">Barret “Shinra soldiers!?”</Entry>
+  <Entry File="southmk1\3.wav" ID="3">Barret “$#%&amp;!  What the hell's goin' on?”</Entry>
+  <Entry File="southmk1\4.wav" ID="4">Cloud “…A trap…”</Entry>
+  <Entry File="southmk1\5.wav" ID="5">Barret “Pres…President Shinra?”</Entry>
+  <Entry File="southmk1\6.wav" ID="6">Tifa “Why is the President here?”</Entry>
+  <Entry File="southmk1\7.wav" ID="7">President Shinra “Hmm…  So you all must be…  What was it?”</Entry>
+  <Entry File="southmk1\8.wav" ID="8">Barret “AVALANCHE!  And don't ya forget it!  So you're President Shinra,huh?”</Entry>
+  <Entry File="southmk1\9.wav" ID="9">Cloud “Long time no see,sir.”</Entry>
+  <Entry File="southmk1\10a.wav" ID="10" Part="a">President Shinra “…Long time no see?  Oh…you.”</Entry>
+  <Entry File="southmk1\10b.wav" ID="10" Part="b">“You're the one who quit SOLDIER  and joined AVALANCHE.  I knew you'd been exposed to Mako,  from the look in your eyes…”</Entry>
+  <Entry File="southmk1\10c.wav" ID="10" Part="c">“Tell me,traitor…  what was your name?”</Entry>
+  <Entry File="southmk1\11.wav" ID="11">Cloud “Cloud.”</Entry>
+  <Entry File="southmk1\12a.wav" ID="12" Part="a">President Shinra “Forgive me for asking,  but I can't be expected to  remember everyone's name.”</Entry>
+  <Entry File="southmk1\12b.wav" ID="12" Part="b">“Unless you become  another Sephiroth.”</Entry>
+  <Entry File="southmk1\13.wav" ID="13">President Shinra “Aah,Sephiroth…  He was brilliant.  Perhaps too brilliant.”</Entry>
+  <Entry File="southmk1\14.wav" ID="14">Cloud “Sephiroth?”</Entry>
+  <Entry File="southmk1\15.wav" ID="15">Barret “Don't give a damn 'bout none of that!  This place's goin' up with a big BANG soon!  Serves y'all right!”</Entry>
+  <Entry File="southmk1\16.wav" ID="16">President Shinra “And such a waste of good fireworks,  just to get rid of vermin like you…”</Entry>
+  <Entry File="southmk1\17a.wav" ID="17" Part="a">Barret “VERMIN!?  That's all you can say? VERMIN!?”</Entry>
+  <Entry File="southmk1\17b.wav" ID="17" Part="b">“Shinra're the VERMIN,for  killing the Planet!  Guess that'd make you King VERMIN!  So shu'up jackass!”</Entry>
+  <Entry File="southmk1\18a.wav" ID="18" Part="a">President Shinra “…You are beginning to bore me.”</Entry>
+  <Entry File="southmk1\18b.wav" ID="18" Part="b">“I'm a very busy man,  so if you'll excuse me…  I have a dinner I must attend.”</Entry>
+  <Entry File="southmk1\19.wav" ID="19">Barret “Dinner!? Don't gimme that!  I ain't even started wit' you yet!”</Entry>
+  <Entry File="southmk1\20.wav" ID="20">President Shinra “But,I've made arrangements for  a playmate for you all.”</Entry>
+  <Entry File="southmk1\21.wav" ID="21">Tifa “!?  What's that noise?”</Entry>
+  <Entry File="southmk1\22.wav" ID="22">Barret “The hell is this!?”</Entry>
+  <Entry File="southmk1\23.wav" ID="23">President Shinra “Now then,  if you'll excuse me.”</Entry>
+  <Entry File="southmk1\24.wav" ID="24">Cloud “Wait,President!”</Entry>
+  <Entry File="southmk1\25a.wav" ID="25" Part="a">President Shinra “Meet 'Airbuster',a techno-soldier.  Our Weapon Development Department  created him.”</Entry>
+  <Entry File="southmk1\25b.wav" ID="25" Part="b">“I'm sure the data he'll extract from   your dead bodies will be of great  use to us in future experiments.”</Entry>
+  <Entry File="southmk1\26.wav" ID="26">Tifa “Help,Cloud!”</Entry>
+  <Entry File="southmk1\27.wav" ID="27">Tifa “THIS is from SOLDIER?”</Entry>
+  <Entry File="southmk1\28.wav" ID="28">Barret “Yo,Cloud!  We've gotta do somethin'  'bout him!”</Entry>
+  <Entry File="southmk1\29.wav" ID="29">Cloud “No way! It's just a machine.”</Entry>
+  <Entry File="southmk1\30.wav" ID="30">Barret “I don't care what it is!!  I'm gonna bust him up!”</Entry>
+  <Entry File="southmk1\31.wav" ID="31">Barret “It's gonna blow!  Let's go,Tifa!”</Entry>
+  <Entry File="southmk1\32.wav" ID="32">Tifa “Barret!  Can't you do something?”</Entry>
+  <Entry File="southmk1\33.wav" ID="33">Barret “Not a damn thing.”</Entry>
+  <Entry File="southmk1\34.wav" ID="34">Tifa “Cloud!  Please don't die! You can't die!  There's still so much I want to tell you!”</Entry>
+  <Entry File="southmk1\35.wav" ID="35">Cloud “I know,Tifa…”</Entry>
+  <Entry File="southmk1\36.wav" ID="36">Barret “Hey,you gonna be alright?” (Be strong) (I don't know if I can hold on)</Entry>
+  <Entry File="southmk1\37a.wav" ID="37" Part="a">Cloud “…”</Entry>
+  <Entry File="southmk1\37b.wav" ID="37" Part="b">“You worry about yourselves!  I'm all right,  but take care of Tifa!”</Entry>
+  <Entry File="southmk1\38.wav" ID="38">Barret “…Alright.  Sorry 'bout all this.”</Entry>
+  <Entry File="southmk1\39.wav" ID="39">Cloud “Stop talkin' like this is the end!”</Entry>
+  <Entry File="southmk1\40.wav" ID="40">Barret “OK,hold on!”</Entry>
+  <Entry File="southmk1\41.wav" ID="41">Barret “Don't go cryin' like a woman.  There ain't nothin' I can do for ya.  Ya gotta do it on your own.”</Entry>
+  <Entry File="southmk1\42.wav" ID="42">Cloud “Barret…”</Entry>
+  <Entry File="southmk1\43.wav" ID="43">Cloud “&amp;#%^!  Can't hold on much longer.&gt;   BarretHurry!”</Entry>
+  <Entry File="southmk1\44.wav" ID="44">Cloud “…Techno-soldier?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="southmk1\0.wav" ID="0">No.5 Reactor</Entry>
+-->
+</VoiceList>

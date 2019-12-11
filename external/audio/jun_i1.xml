@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jun_i1\1.wav" ID="1">“Oh,a Soldier!  Welcome!”</Entry>
+  <Entry File="jun_i1\2.wav" ID="2">“Oh,welcome!”</Entry>
+  <Entry File="jun_i1\3a.wav" ID="3" Part="a">“They're not going to get me down!  Not me!!”</Entry>
+  <Entry File="jun_i1\3b.wav" ID="3" Part="b">“Weapon,Meteor,even bad customers,  aren't going to get me!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jun_i1\0.wav" ID="0">Item Store</Entry>
+-->
+</VoiceList>

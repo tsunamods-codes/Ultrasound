@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="trnad_52\2.wav" ID="2">Rufus “Who…was that?”</Entry>
+  <Entry File="trnad_52\3a.wav" ID="3" Part="a">Hojo “…He's a Sephiroth-clone I created   after the real Sephiroth died five years ago.”</Entry>
+  <Entry File="trnad_52\3b.wav" ID="3" Part="b">“Jenova cells and Mako,with my  knowledge and skills,have been  combined with science and nature  to bring him to life.”</Entry>
+  <Entry File="trnad_52\4.wav" ID="4">Hojo “…I'm not wild about the failure  part,but the Jenova Reunion Theory  has now been proven.”</Entry>
+  <Entry File="trnad_52\5.wav" ID="5">Hojo “You see,even if Jenova's body is dismembered,  it will eventually become one again.  That's what is meant by Jenova's Reunion.”</Entry>
+  <Entry File="trnad_52\6.wav" ID="6">Hojo “I have been waiting for the Reunion to start.  Five years have passed,and now the clones  have begun to return.”</Entry>
+  <Entry File="trnad_52\7.wav" ID="7">Hojo “I thought the clones would begin  to gather at Midgar  where Jenova is stored.”</Entry>
+  <Entry File="trnad_52\8.wav" ID="8">“But my predictions were not entirely correct.  Jenova itself began to move away  from the Shinra Building.”</Entry>
+  <Entry File="trnad_52\9a.wav" ID="9" Part="a">Hojo “But being the genius that I am,  I soon figured it out.  You see it was all Sephiroth's doing.”</Entry>
+  <Entry File="trnad_52\9b.wav" ID="9" Part="b">“Sephiroth is not just content  to diffuse his will  into the Lifestream. He wants  to manipulate the Clones himself.”</Entry>
+  <Entry File="trnad_52\10.wav" ID="10">“Yes,that was how it got started.”</Entry>
+  <Entry File="trnad_52\11.wav" ID="11">Hojo “I wondered where the clones were going,  but I was never able to figure it out.”</Entry>
+  <Entry File="trnad_52\12.wav" ID="12">“I couldn't figure it out either.”</Entry>
+  <Entry File="trnad_52\13.wav" ID="13">Hojo “The one thing that I did know was that  Sephiroth was at their final destination.”</Entry>
+  <Entry File="trnad_52\14.wav" ID="14">“I wasn't pursuing Sephiroth.”</Entry>
+  <Entry File="trnad_52\15.wav" ID="15">“I was being summoned by Sephiroth.”</Entry>
+  <Entry File="trnad_52\16.wav" ID="16">“All the anger and hatred I bore him,  made it impossible for me to ever forget him.  That and what he gave me.”</Entry>
+  <Entry File="trnad_52\17.wav" ID="17">“Sephiroth? Sephiroth?   I'm here.  And I brought you the Black Materia.”</Entry>
+  <Entry File="trnad_52\18.wav" ID="18">“Show yourself to me.  Where are you?”</Entry>
+  <Entry File="trnad_52\19.wav" ID="19">“Sephiroth…  So we finally meet again.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="trnad_52\0.wav" ID="0" />
+	<Entry File="trnad_52\1.wav" ID="1" />
+-->
+</VoiceList>

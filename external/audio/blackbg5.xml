@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blackbg5\0.wav" ID="0"> Church  First of all  Following roof incident  After Aeris's death</Entry>
+	<Entry File="blackbg5\1.wav" ID="1">My dear hometown Nibelhelm.  village  1st floor of inn  2nd floor of inn  store  Cloud's house  Tifa's house  1st floor of house  2nd floor of house  Quit</Entry>
+	<Entry File="blackbg5\2.wav" ID="2">  Tifa's house   1st floor   2nd floor   2nd floor window   reminiscing</Entry>
+	<Entry File="blackbg5\3.wav" ID="3">highwind(not going) Shinra's highwind Party's highwind Evening's highwind sign passageway Conference room Chocobo Cloud Highwind</Entry>
+	<Entry File="blackbg5\4.wav" ID="4">global . re-set:   yes    no    ended reflecting on the past</Entry>
+	<Entry File="blackbg5\5.wav" ID="5">tragedy of Nibelhelm quit Part 1 Part 2</Entry>
+	<Entry File="blackbg5\6.wav" ID="6">Sephiroth-related  quit  from pinball  from Cam's inn  starry sky  gate  gate no. 2  starry sky  village no. 2  truck no. 2</Entry>
+	<Entry File="blackbg5\7.wav" ID="7">present day Nibelheim Go Don't go</Entry>
+	<Entry File="blackbg5\8.wav" ID="8">for the party Tifa is present Tifa is not present</Entry>
+	<Entry File="blackbg5\9.wav" ID="9" />
+	<Entry File="blackbg5\10.wav" ID="10" />
+	<Entry File="blackbg5\11.wav" ID="11"> quit  TRNAD51  TRNAD52  TRNAD53  BLACKBGD</Entry>
+	<Entry File="blackbg5\12.wav" ID="12">Cloud Barret Tifa Aeris Red XIII Yuffie Cait Sith Vincent Cid only Cloud 16 only Cloud Tifa leads the way Cid leads the way</Entry>
+	<Entry File="blackbg5\13.wav" ID="13">Cloud Barret Tifa Aeris Red XIII Yuffie Cait Sith Vincent Cid only Cloud 16 only Cloud Tifa leads the way Cid leads the way</Entry>
+	<Entry File="blackbg5\14.wav" ID="14">quit regular hours star's scream weapon appears What happened to Sephiroth? On the final day everyone came home. Called from the last dungeon</Entry>
+	<Entry File="blackbg5\15.wav" ID="15">  Saying good-bye to party members Cloud</Entry>
+-->
+</VoiceList>

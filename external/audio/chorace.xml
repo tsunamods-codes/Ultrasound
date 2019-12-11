@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="chorace\0.wav" ID="0">“Attention! Dismissed!!”</Entry>
+  <Entry File="chorace\1.wav" ID="1">Cloud “Shinra soldiers…  Even here…”</Entry>
+  <Entry File="chorace\2.wav" ID="2">Aeris “What happened?”</Entry>
+  <Entry File="chorace\3.wav" ID="3">Tifa “What?”</Entry>
+  <Entry File="chorace\4.wav" ID="4">Red XIII “What happened?”</Entry>
+  <Entry File="chorace\5.wav" ID="5">Yuffie “What is it?”</Entry>
+  <Entry File="chorace\6.wav" ID="6">Cloud “Sh…!”</Entry>
+  <Entry File="chorace\7.wav" ID="7">“Yaaay!!”</Entry>
+  <Entry File="chorace\8.wav" ID="8">“Yaay Yaay!”</Entry>
+  <Entry File="chorace\9.wav" ID="9">“Come on now,no running.”</Entry>
+  <Entry File="chorace\11.wav" ID="11">Cait Sith “Hey! Look here!  The Key Materia!”</Entry>
+  <Entry File="chorace\12.wav" ID="12">“Well done.”</Entry>
+  <Entry File="chorace\13.wav" ID="13">Cloud “Hey!”</Entry>
+  <Entry File="chorace\14a.wav" ID="14" Part="a">Cait Sith “W,   a second.  I won't run or hide.”</Entry>
+  <Entry File="chorace\14b.wav" ID="14" Part="b">“Yes,I was a spy.  I was hired by the Shinra.”</Entry>
+  <Entry File="chorace\15.wav" ID="15">Tifa “Don't mess with us!”</Entry>
+  <Entry File="chorace\16.wav" ID="16">Aeris “…I trusted you.  I can't believe you!”</Entry>
+  <Entry File="chorace\17.wav" ID="17">“Ya dirty &amp;*$*%$!”</Entry>
+  <Entry File="chorace\18.wav" ID="18">Cloud “You think this's a big joke!?”</Entry>
+  <Entry File="chorace\19a.wav" ID="19" Part="a">Cait Sith “I can't help it.  What's done is done.  That's just the way it is.”</Entry>
+  <Entry File="chorace\19b.wav" ID="19" Part="b">“How 'bout if we go on like  nothing ever happened?”</Entry>
+  <Entry File="chorace\20.wav" ID="20">Cloud “You're pushin' it,Cait Sith!  You gotta lot of nerve staying with us  all the while being a spy!”</Entry>
+  <Entry File="chorace\21.wav" ID="21">Cait Sith “Then,what are you goin' to do?  Destroy me?”</Entry>
+  <Entry File="chorace\22a.wav" ID="22" Part="a">Cait Sith “You'd just be wastin' your time if you tried.  This body's just a toy anyway.”</Entry>
+  <Entry File="chorace\22b.wav" ID="22" Part="b">“My real body's at Shinra Headquarters  in Midgar.  I'm controlin' this  toy cat from there.”</Entry>
+  <Entry File="chorace\23.wav" ID="23">Tifa “So you're from Shinra.  Who are you?”</Entry>
+  <Entry File="chorace\24.wav" ID="24">Aeris “So you're from Shinra.  Who? Who are you!  Tell me!”</Entry>
+  <Entry File="chorace\25.wav" ID="25">Barret “Who the hell are ya!?  What's your real name!?”</Entry>
+  <Entry File="chorace\26.wav" ID="26">Yuffie “Part of the Shinra!  Who the *&amp;$# are you!?”</Entry>
+  <Entry File="chorace\27.wav" ID="27">Cait Sith “Whoa,I can't tell you my name.”</Entry>
+  <Entry File="chorace\28.wav" ID="28">Cloud “We're not gettin' anywhere.”</Entry>
+  <Entry File="chorace\29.wav" ID="29">Cait Sith “Right? I told you!  Talking won't do any good,so can't  we just continue our journey?”</Entry>
+  <Entry File="chorace\30.wav" ID="30">Cait Sith “…Alright,yes,I am a Shinra employee.” “But we're not completely enemies.”</Entry>
+  <Entry File="chorace\31a.wav" ID="31" Part="a">Cait Sith “…Something bothers me.  I think it's you're ways of living”</Entry>
+  <Entry File="chorace\31b.wav" ID="31" Part="b">“You don't get paid  You don't get praised. And yet you  still risk your lives and continue on  your journey. Seeing that makes me…”</Entry>
+  <Entry File="chorace\32.wav" ID="32">Cait Sith “It just makes me think about my life.  I don't think I'd feel too good  if things ended the way it is now.”</Entry>
+  <Entry File="chorace\33.wav" ID="33">Tifa “You're lying again.”</Entry>
+  <Entry File="chorace\34.wav" ID="34">Aeris “…And so on,and so on…”</Entry>
+  <Entry File="chorace\35.wav" ID="35">Barret “Hmph! You ain't foolin' us this time!”</Entry>
+  <Entry File="chorace\36.wav" ID="36">Yuffie “Sounds fishy---”</Entry>
+  <Entry File="chorace\37a.wav" ID="37" Part="a">Cloud “He won't come clean.  And he won't quit being a spy.”</Entry>
+  <Entry File="chorace\37b.wav" ID="37" Part="b">“We can't go on with  someone like that.  Pull your head out!”</Entry>
+  <Entry File="chorace\38a.wav" ID="38" Part="a">Cait Sith “…I thought so.  It won't do any good talking to you.”</Entry>
+  <Entry File="chorace\38b.wav" ID="38" Part="b">“So,I've prepared myself in case  something like this happened.”</Entry>
+  <Entry File="chorace\39.wav" ID="39">Cait Sith “Why don't you listen to this.”</Entry>
+  <Entry File="chorace\40.wav" ID="40">“Dad! Tifa!”</Entry>
+  <Entry File="chorace\41.wav" ID="41">Tifa “Marlene!”</Entry>
+  <Entry File="chorace\42.wav" ID="42">Aeris “Hey! That's Marlene!”</Entry>
+  <Entry File="chorace\43.wav" ID="43">Barret “Ma…Marlene!?”</Entry>
+  <Entry File="chorace\44.wav" ID="44">Cloud “…Marlene?”</Entry>
+  <Entry File="chorace\45.wav" ID="45">“Hey! It's dad!  Dad! It's me,Marlene!”</Entry>
+  <Entry File="chorace\46.wav" ID="46">“Hey! It's Tifa!  Tifa! You know what!”</Entry>
+  <Entry File="chorace\47.wav" ID="47">“Hey! It's the flower lady!  Flower lady…”</Entry>
+  <Entry File="chorace\48.wav" ID="48">“Hey! It's Cloud!”</Entry>
+  <Entry File="chorace\49.wav" ID="49">Cait Sith “…So,there's no other way  but to listen to me.”</Entry>
+  <Entry File="chorace\50.wav" ID="50">Cloud “You're the lowest…”</Entry>
+  <Entry File="chorace\51.wav" ID="51">Cait Sith “I didn't want to do this either.  Not by using dirty tricks  and taking hostages…”</Entry>
+  <Entry File="chorace\52.wav" ID="52">Cait Sith “So,this is how it is.  There's no room for compromises.  So why don't we go on as we did.”</Entry>
+  <Entry File="chorace\53a.wav" ID="53" Part="a">Cait Sith “Tomorrow is the Temple of the Ancients,right?  I know where it is  so I'll tell you later.”</Entry>
+  <Entry File="chorace\53b.wav" ID="53" Part="b">“Of course we'll get there after the Shinra,  but you'll have to deal with that.”</Entry>
+  <Entry File="chorace\54.wav" ID="54">Cloud “…Well,we're stuck…  We'll have to do what he says.”</Entry>
+  <Entry File="chorace\55.wav" ID="55">Tifa “…Marlene.”</Entry>
+  <Entry File="chorace\56.wav" ID="56">Aeris “I wonder if Marlene is all right…  I wonder what happened to Mom?”</Entry>
+  <Entry File="chorace\57.wav" ID="57">Barret “Sorry,Cloud.”</Entry>
+  <Entry File="chorace\58.wav" ID="58">Yuffie “Uh,yup.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="chorace\10.wav" ID="10" />
+	<Entry File="chorace\59.wav" ID="59">Chocobo Square</Entry>
+-->
+</VoiceList>

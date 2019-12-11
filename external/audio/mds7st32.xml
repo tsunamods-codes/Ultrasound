@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds7st32\1.wav" ID="1">Her last words were, “Please take Aeris  somewhere safe.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds7st32\0.wav" ID="0">  You used to see this sort of thing  a lot during the war.</Entry>
+	<Entry File="mds7st32\2.wav" ID="2"> My husband never came back.  I had no child. I was lonely.   So I decided to take her home w</Entry>
+-->
+</VoiceList>

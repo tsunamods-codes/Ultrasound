@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jetin1\0.wav" ID="0">“This way,Sir,  to register.”</Entry>
+  <Entry File="jetin1\1.wav" ID="1">“This attraction  costs 10 GP.” Pay Changed my mind</Entry>
+  <Entry File="jetin1\2.wav" ID="2">“Is this your first time?  First,listen to the explanation  of the game over there.”</Entry>
+  <Entry File="jetin1\3.wav" ID="3">“Thank you.”</Entry>
+  <Entry File="jetin1\4.wav" ID="4"> “Later,just a second.”</Entry>
+  <Entry File="jetin1\5.wav" ID="5">“…  You don't have enough GP”</Entry>
+  <Entry File="jetin1\6.wav" ID="6">“Hear the rules  for this attraction?” Yes Not interested</Entry>
+  <Entry File="jetin1\7a.wav" ID="7" Part="a">“This attraction is the  Shooting Coaster.”</Entry>
+  <Entry File="jetin1\7b.wav" ID="7" Part="b">“While your ride's going ZOOM,you're  going BANG BANG,and things are going  PHEW PHEW and you destroy them with a  big BOOM. Pretty simple,isn't it?”</Entry>
+  <Entry File="jetin1\7c.wav" ID="7" Part="c">“Oh,to shoot,hit [OK].  The bar on the  left side of the screen is  your Power Meter.”</Entry>
+  <Entry File="jetin1\7d.wav" ID="7" Part="d">“When it's full,it'll go BROOOOOM and  when it's empty,it'll only go  …brm…and putter out.   So be careful.”</Entry>
+  <Entry File="jetin1\7e.wav" ID="7" Part="e">“If you make it to the Top 3,  you'll get on the Wall of Fame.”</Entry>
+  <Entry File="jetin1\8.wav" ID="8">“It's currently under repair…”</Entry>
+  <Entry File="jetin1\9.wav" ID="9">“I'm sorry,please come again.”</Entry>
+  <Entry File="jetin1\12.wav" ID="12">“Wait just a little longer please.”</Entry>
+  <Entry File="jetin1\13.wav" ID="13">“You had    points.”</Entry>
+  <Entry File="jetin1\14.wav" ID="14">“Your score is     points.”</Entry>
+  <Entry File="jetin1\15.wav" ID="15">“Would you like to see the Wall of Fame?” Yes Not interested</Entry>
+  <Entry File="jetin1\16.wav" ID="16">“You'll receive a prize if you get  more than 3000 Points. So good luck.”</Entry>
+  <Entry File="jetin1\18.wav" ID="18">Cloud “Ugh…”</Entry>
+  <Entry File="jetin1\24.wav" ID="24">Aeris “We've got no time for this!  Let's go after Cait Sith!”</Entry>
+  <Entry File="jetin1\25.wav" ID="25">Tifa “We've got no time to relax.  Let's go after Cait Sith!”</Entry>
+  <Entry File="jetin1\26.wav" ID="26">Yuffie “Is it all right to relax like that?    Aren't we going after Cait Sith?”</Entry>
+  <Entry File="jetin1\27.wav" ID="27">Barret “What're ya doin'?    We're goin' after Cait Sith!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jetin1\10.wav" ID="10">Platform</Entry>
+	<Entry File="jetin1\11.wav" ID="11">Current GP   GP</Entry>
+	<Entry File="jetin1\17.wav" ID="17">HighScore Cloud   1    2    3   </Entry>
+	<Entry File="jetin1\19.wav" ID="19">As a prize, Received "1/35 soldier"!!</Entry>
+	<Entry File="jetin1\20.wav" ID="20">As a prize, Received "Super Sweeper"!!</Entry>
+	<Entry File="jetin1\21.wav" ID="21">As a prize, Received "Masamune Blade"!!</Entry>
+	<Entry File="jetin1\22.wav" ID="22">As a prize, Received "Umbrella"!!</Entry>
+	<Entry File="jetin1\23.wav" ID="23">As a prize,received  "Flayer"!!</Entry>
+-->
+</VoiceList>

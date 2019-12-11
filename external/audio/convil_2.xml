@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="convil_2\1.wav" ID="1">“Do you guys want to see it,too?”</Entry>
+  <Entry File="convil_2\2.wav" ID="2">Cloud “See what?”</Entry>
+  <Entry File="convil_2\3.wav" ID="3">Tifa “What?”</Entry>
+  <Entry File="convil_2\4.wav" ID="4">Cid “What is it?”</Entry>
+  <Entry File="convil_2\5.wav" ID="5">“The condor.  It's huge.  Come on,have a look.”</Entry>
+  <Entry File="convil_2\6.wav" ID="6">“What do ya think?  Awesome,huh?”</Entry>
+  <Entry File="convil_2\7.wav" ID="7">“So,will you help us?  I don't want them to get killed.”</Entry>
+  <Entry File="convil_2\8a.wav" ID="8" Part="a">“They're gigantic birds and so striking.  We simply can't let them be killed  by man's selfishness.”</Entry>
+  <Entry File="convil_2\8b.wav" ID="8" Part="b">“Of course not.  There's no way,  especially by the Shinra.”</Entry>
+  <Entry File="convil_2\9.wav" ID="9">“If you want to see them,  get on that chair over there.”</Entry>
+  <Entry File="convil_2\10.wav" ID="10">“Thanks for accepting.”</Entry>
+  <Entry File="convil_2\11a.wav" ID="11" Part="a">“So shall I let you in on our strategy?”</Entry>
+  <Entry File="convil_2\11b.wav" ID="11" Part="b">“The enemy has targeted  our mountain reactor and  will be climbing to reach it.”</Entry>
+  <Entry File="convil_2\11c.wav" ID="11" Part="c">“We must set a trap and  hire soldiers to protect the place.”</Entry>
+  <Entry File="convil_2\11d.wav" ID="11" Part="d">“Well,this is all we have…  This village doesn't have any money.  Even if we wanted to fight,  we can't because we're broke.”</Entry>
+  <Entry File="convil_2\11e.wav" ID="11" Part="e">“We need 400 gil to hire one soldier.  So,if we hire 20 soldiers,  we need 8000 gil.”</Entry>
+  <Entry File="convil_2\11f.wav" ID="11" Part="f">“We need to ask you to use  your own money to hire these soldiers,  buy the equipment,set it  up and give the commands.”</Entry>
+  <Entry File="convil_2\11g.wav" ID="11" Part="g">“We know what we're asking is selfish.  We sent our wives and children  to another village,  But,we're resigned to stay.”</Entry>
+  <Entry File="convil_2\11h.wav" ID="11" Part="h">“Let's get back to basics.  If the enemy reaches this shed,  you'll have to fight them off  immediately.”</Entry>
+  <Entry File="convil_2\11i.wav" ID="11" Part="i">“It's a one shot gamble but  we're asking for your help.”</Entry>
+  <Entry File="convil_2\12a.wav" ID="12" Part="a">“So,shall I let you in on our strategy?”</Entry>
+  <Entry File="convil_2\12b.wav" ID="12" Part="b">“The enemy has targeted  our mountain reactor and  will be climbing to reach it.”</Entry>
+  <Entry File="convil_2\12c.wav" ID="12" Part="c">“We must set a trap and  hire soldiers to protect the place.”</Entry>
+  <Entry File="convil_2\12d.wav" ID="12" Part="d">“Well,this is all we have…  this village doesn't have any money.  Even if we wanted to fight,  we can't because we're broke.”</Entry>
+  <Entry File="convil_2\12e.wav" ID="12" Part="e">“We need 400 gil to hire one soldier.  So,if we hire 20 soldiers,  we need 8000 gil.”</Entry>
+  <Entry File="convil_2\12f.wav" ID="12" Part="f">“We need to ask you to use  your own money to hire these soldiers,  buy the equipment,set it  up and give the commands.”</Entry>
+  <Entry File="convil_2\12g.wav" ID="12" Part="g">“If you don't have time  could you help us  with a donation?”</Entry>
+  <Entry File="convil_2\12h.wav" ID="12" Part="h">“If you donate the money,  we can hire the soldiers  and block Shinra's attack.”</Entry>
+  <Entry File="convil_2\12i.wav" ID="12" Part="i">“We know what we're asking is selfish.  We sent our wives and children  to another village,  But,we're resigned to stay.”</Entry>
+  <Entry File="convil_2\12j.wav" ID="12" Part="j">“Let's get back to basics.  If the enemy reaches this shed,  you'll have to fight them off  immediately.”</Entry>
+  <Entry File="convil_2\13.wav" ID="13">“Now then,is there anything you wish to ask?” Conditions for victory The enemy Type of soldiers Funding Other Enough</Entry>
+  <Entry File="convil_2\14a.wav" ID="14" Part="a">“You can win by wiping out the enemy or  killing the enemy commander.”</Entry>
+  <Entry File="convil_2\14b.wav" ID="14" Part="b">“If the enemy reaches the shed,  they'll attack,  and you'll have no choice  but to battle immediately.”</Entry>
+  <Entry File="convil_2\14c.wav" ID="14" Part="c">“If you lose,the Condor's life  and ours…are over.”</Entry>
+  <Entry File="convil_2\15a.wav" ID="15" Part="a">“You can win by wiping out the enemy or  killing the enemy commander.”</Entry>
+  <Entry File="convil_2\15b.wav" ID="15" Part="b">“If the enemy reaches the shed,  they'll attack,  and you'll have no choice  but to battle immediately.”</Entry>
+  <Entry File="convil_2\15c.wav" ID="15" Part="c">“If you lose during direct  contact,and even if the enemy  gets to the reactor,  there's still a chance to win.”</Entry>
+  <Entry File="convil_2\15d.wav" ID="15" Part="d">“But,it's only a slight chance,  and we have no idea how much  the reactor can endure in an attack.”</Entry>
+  <Entry File="convil_2\15e.wav" ID="15" Part="e">“When we can't defend against  the attack any longer,  the Shinra will take our  lives,the Condor and  all the Materia in the reactor.”</Entry>
+  <Entry File="convil_2\16.wav" ID="16">“We can't use the Tristoner or  Fire Catapult,because they  are still not ready.”</Entry>
+  <Entry File="convil_2\17a.wav" ID="17" Part="a">“The Fire Catapult is ready now,  so we can set it up.”</Entry>
+  <Entry File="convil_2\17b.wav" ID="17" Part="b">“We can't use the Tristoner,  because it is still not ready.”</Entry>
+  <Entry File="convil_2\18a.wav" ID="18" Part="a">“First off,  we must prepare the troops.”</Entry>
+  <Entry File="convil_2\18b.wav" ID="18" Part="b">“Move the cursor wherever the x mark  does not appear,  then press [OK] to set-up.”</Entry>
+  <Entry File="convil_2\18c.wav" ID="18" Part="c">“After all positions are in place,  press [CANCEL].  This starts the battle.”</Entry>
+  <Entry File="convil_2\18d.wav" ID="18" Part="d">“Soldiers can only be arranged  near the shed,in the beginning.”</Entry>
+  <Entry File="convil_2\18e.wav" ID="18" Part="e">“That's because if the soldiers are  too far away,they won't be able to  follow instructions.”</Entry>
+  <Entry File="convil_2\18f.wav" ID="18" Part="f">“You can only put soldiers above the  horizontal line at the very bottom.”</Entry>
+  <Entry File="convil_2\18g.wav" ID="18" Part="g">“Soldiers can be instructed  by pushing [ASSIST].  So if any commands are unclear,  push it.”</Entry>
+  <Entry File="convil_2\18h.wav" ID="18" Part="h">“Soldiers can report by  pushing [OK]…”</Entry>
+  <Entry File="convil_2\18i.wav" ID="18" Part="i">“The cursor will move to  the soldier who made the report.”</Entry>
+  <Entry File="convil_2\18j.wav" ID="18" Part="j">“Press [CANCEL] and  you'll hear the report without moving.”</Entry>
+  <Entry File="convil_2\18k.wav" ID="18" Part="k">“And you can bet Shinra will send  platoons at you on a regular basis.”</Entry>
+  <Entry File="convil_2\18l.wav" ID="18" Part="l">“It would be great if you could  spare the time to help us…”</Entry>
+  <Entry File="convil_2\18m.wav" ID="18" Part="m">“But,if you really don't have time,  would you contribute  some financial assistance?”</Entry>
+  <Entry File="convil_2\19.wav" ID="19">“Hey,looks like they're getting  ready to attack right now!  Please,any help is appreciated…”</Entry>
+  <Entry File="convil_2\20a.wav" ID="20" Part="a">“Whew,that was good.  But,Shinra's troops will be back.”</Entry>
+  <Entry File="convil_2\20b.wav" ID="20" Part="b">“Be sure and scout the area well…  We don't know when they'll attack again.”</Entry>
+  <Entry File="convil_2\21.wav" ID="21">“My God! They're attacking!  We're counting on you.”</Entry>
+  <Entry File="convil_2\22a.wav" ID="22" Part="a">“We made it through that one somehow.  But,Shinra'll be back.”</Entry>
+  <Entry File="convil_2\22b.wav" ID="22" Part="b">“Be sure and scout the area well…  We don't know when they'll attack again.”</Entry>
+  <Entry File="convil_2\23.wav" ID="23">“Are you all right?  Looks like a few got through.”</Entry>
+  <Entry File="convil_2\24.wav" ID="24">“We have  allies left,  so here's  gil.”</Entry>
+  <Entry File="convil_2\25.wav" ID="25">“We have 20 allies left,  so we'll return 4000 gil to you.”</Entry>
+  <Entry File="convil_2\26.wav" ID="26">“Hey we're a little short on money…  so could you at least  make it  gil?”</Entry>
+  <Entry File="convil_2\27.wav" ID="27">“Hang in there,  if we lose  more times,  we're in deep trouble.”</Entry>
+  <Entry File="convil_2\28.wav" ID="28">“How are things going?  Seems like there's no activity  at Shinra.”</Entry>
+  <Entry File="convil_2\29.wav" ID="29">“Perfect timing!  They're just around the corner.  Get ready.” Wait OK,ready Contribute gil Let them handle it Hear more</Entry>
+  <Entry File="convil_2\30.wav" ID="30">“Preparations ready?” Wait OK,ready Contribute gil Let them handle it Hear more</Entry>
+  <Entry File="convil_2\31.wav" ID="31">“Ready?” Wait OK,ready Hear more</Entry>
+  <Entry File="convil_2\32.wav" ID="32">“I see,very well then.  Maybe,we'll fight together  again sometime.”</Entry>
+  <Entry File="convil_2\33.wav" ID="33">“Sorry.  We only have  gil.  We have to beg for your help.”</Entry>
+  <Entry File="convil_2\34.wav" ID="34">“We have  gil right now.”</Entry>
+  <Entry File="convil_2\35.wav" ID="35">“We need 3000 gil  for each battle.”</Entry>
+  <Entry File="convil_2\36.wav" ID="36">“How much can you help?” 500 gil 1000 gil 2000 gil 3000 gil 5000 gil Nothing right now</Entry>
+  <Entry File="convil_2\37.wav" ID="37">“We are very grateful,  but you don't have enough money.”</Entry>
+  <Entry File="convil_2\38.wav" ID="38">“Thanks.  This makes    gil.”</Entry>
+  <Entry File="convil_2\39.wav" ID="39">“That's enough money for now.  If we run out,we'll ask you for more.”</Entry>
+  <Entry File="convil_2\40a.wav" ID="40" Part="a">“How goes it?  The Shinra troops have attacked   times since you were here.”</Entry>
+  <Entry File="convil_2\40b.wav" ID="40" Part="b">“So we're getting a little short  on funds.”</Entry>
+  <Entry File="convil_2\41.wav" ID="41">“You're just a little too late…  They attacked when  you weren't here.”</Entry>
+  <Entry File="convil_2\42a.wav" ID="42" Part="a">“The situation has changed.  Looks like the enemy is set to attack.  If we lose here,it's over.”</Entry>
+  <Entry File="convil_2\42b.wav" ID="42" Part="b">“Our lives are in your hands.  We're counting on you.”</Entry>
+  <Entry File="convil_2\43.wav" ID="43">“…  Even if you could only spare them…”</Entry>
+  <Entry File="convil_2\44.wav" ID="44">“YES! We did it!  That was wonderful! Thank you!!  I doubt Shinra will attack now.”</Entry>
+  <Entry File="convil_2\45.wav" ID="45">“A,arrgghh…”</Entry>
+  <Entry File="convil_2\46.wav" ID="46">“Th,that light just now…  The Condor…  The egg…”</Entry>
+  <Entry File="convil_2\47.wav" ID="47">“What!?  Would you go outside  and see what it was?”</Entry>
+  <Entry File="convil_2\48.wav" ID="48">“Would you go check on it immediately?”</Entry>
+  <Entry File="convil_2\49.wav" ID="49">“Gone…”</Entry>
+  <Entry File="convil_2\50.wav" ID="50">“Oh,it's you.  Thanks a lot.”</Entry>
+  <Entry File="convil_2\51.wav" ID="51">“Be sure and report  to my father,too.”</Entry>
+  <Entry File="convil_2\52.wav" ID="52">“Oh,yeah. I found this just now  on the battlefield.  Maybe it'll come in handy  for you guys.”</Entry>
+  <Entry File="convil_2\62.wav" ID="62">“There are four types of enemies.” Wyverns Beasts Barbarians Commanders Anything else?</Entry>
+  <Entry File="convil_2\63.wav" ID="63">“Wyverns are flying types  that can move at high speed.  Stoner and Tristoner  aren't effective against them.”</Entry>
+  <Entry File="convil_2\64.wav" ID="64">“Beasts are monster types  that do not move quickly,  but have explosive attacking power.”</Entry>
+  <Entry File="convil_2\65.wav" ID="65">“Barbarians are human types.  They attack from a distance,  so you've got to be on your toes.”</Entry>
+  <Entry File="convil_2\66.wav" ID="66">“Commanders are the enemy commanders.  They're the ones we want to subdue,  but they're formidable foes.”</Entry>
+  <Entry File="convil_2\67a.wav" ID="67" Part="a">“Your mobile allies are:  Fighters,Attackers,Defenders,  Shooters,Repairers and Workers.”</Entry>
+  <Entry File="convil_2\67b.wav" ID="67" Part="b">“Your immobile allies are:  Stoner,Tristoner,Catapult,  and Fire Catapult.”</Entry>
+  <Entry File="convil_2\68.wav" ID="68">“Which do you want to hear about?” Mobile types Immobile types Anything else</Entry>
+  <Entry File="convil_2\69.wav" ID="69">“Which do you want to hear about?” Fighters Attackers Defenders Shooters Repairers Workers Anything else</Entry>
+  <Entry File="convil_2\71.wav" ID="71">“Fighters are good at defending  and attacking,  but aren't especially effective  or deficient for any enemy.”</Entry>
+  <Entry File="convil_2\72a.wav" ID="72" Part="a">“Attackers move extremely fast  and are best for expanding  the front line.”</Entry>
+  <Entry File="convil_2\72b.wav" ID="72" Part="b">“They work good against enemy Beasts,  but not enemy Barbarians.”</Entry>
+  <Entry File="convil_2\73a.wav" ID="73" Part="a">“Defenders have high endurance,  but move slowly.  They're best suited for defense.”</Entry>
+  <Entry File="convil_2\73b.wav" ID="73" Part="b">“Defenders work best against enemy  Barbarians,but not enemy Wyverns.”</Entry>
+  <Entry File="convil_2\74.wav" ID="74">“Shooters attack from a distance,  but have low endurance.  Shooters work best against  enemy Wyverns,but not enemy Beasts.”</Entry>
+  <Entry File="convil_2\75.wav" ID="75">“Repairers repair allied units,  but have little attacking power.”</Entry>
+  <Entry File="convil_2\76a.wav" ID="76" Part="a">“Workers set mines.  Mines have strong  attacking power,  but Workers don't.”</Entry>
+  <Entry File="convil_2\76b.wav" ID="76" Part="b">“Mines explode when touched  by the enemy.  The explosions will damage  everything in the immediate area.”</Entry>
+  <Entry File="convil_2\77.wav" ID="77">“Stoners can fire a single boulder,  causing extensive damage to  every enemy it hits.”</Entry>
+  <Entry File="convil_2\78.wav" ID="78">“Tristoners can fire three boulders  simultaneously,  causing extensive damage to  every enemy they hit.”</Entry>
+  <Entry File="convil_2\79.wav" ID="79">“Catapults shoot rocks a great distance,  causing extensive damage to  every enemy they hit.”</Entry>
+  <Entry File="convil_2\80.wav" ID="80">“Fire Catapults fire bombs  a great distance,  causing extensive damage to  every enemy they hit.”</Entry>
+  <Entry File="convil_2\81.wav" ID="81">“You must pay for every weapon you set up.  Even if you decide to move it later,  you can only get back  half of the gil you spent.”</Entry>
+  <Entry File="convil_2\82.wav" ID="82">“You have 10 enemies.  There appear to be many Beasts,  so you may want to deploy  more Attackers.”</Entry>
+  <Entry File="convil_2\83a.wav" ID="83" Part="a">“The Barbarians are mixed  during this attack.”</Entry>
+  <Entry File="convil_2\83b.wav" ID="83" Part="b">“There are more than 20.  Set up for a balanced-attack  or we'll be in trouble.”</Entry>
+  <Entry File="convil_2\84a.wav" ID="84" Part="a">“A strong unit's on their way.  Looks like around 30.”</Entry>
+  <Entry File="convil_2\84b.wav" ID="84" Part="b">“They'll probably climb up here  using various routes.  Better be careful or  we'll be in trouble.”</Entry>
+  <Entry File="convil_2\84c.wav" ID="84" Part="c">“And make sure to deploy  Fire Catapults.”</Entry>
+  <Entry File="convil_2\85a.wav" ID="85" Part="a">“You're probably used to it now,  but don't let your guard down.”</Entry>
+  <Entry File="convil_2\85b.wav" ID="85" Part="b">“Deploy Tristoners.”</Entry>
+  <Entry File="convil_2\86.wav" ID="86">“Looks like the enemy numbers 40.  Don't let your guard down.”</Entry>
+  <Entry File="convil_2\87.wav" ID="87">“I think you don't need my advice.  The rest is up to you.”</Entry>
+  <Entry File="convil_2\88a.wav" ID="88" Part="a">“This is the deciding battle.  The enemy numbers more  than ever before.”</Entry>
+  <Entry File="convil_2\88b.wav" ID="88" Part="b">“Let's give them  all the gil we have.”</Entry>
+  <Entry File="convil_2\89.wav" ID="89">“This is the deciding battle.  The enemy numbers  more than ever before.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="convil_2\0.wav" ID="0">Watch Room</Entry>
+	<Entry File="convil_2\12k.wav" ID="12" Part="k"> It's not the end of the world,  but if you lose repeatedly,  it could be dangerous.”</Entry>
+	<Entry File="convil_2\53.wav" ID="53">Received "Magic Comb"!</Entry>
+	<Entry File="convil_2\54.wav" ID="54">Received "Peace Ring"!</Entry>
+	<Entry File="convil_2\55.wav" ID="55">Received "Megalixir"!</Entry>
+	<Entry File="convil_2\56.wav" ID="56">Received "Super Ball"!</Entry>
+	<Entry File="convil_2\57.wav" ID="57">Received three "Tincture"!</Entry>
+	<Entry File="convil_2\58.wav" ID="58">Received five "Potion"!</Entry>
+	<Entry File="convil_2\59.wav" ID="59">Received three "Turbo Ether"!</Entry>
+	<Entry File="convil_2\60.wav" ID="60">Received three "Elixir"!</Entry>
+	<Entry File="convil_2\61.wav" ID="61">Received three "Elixir"!</Entry>
+	<Entry File="convil_2\70.wav" ID="70">Which do you want to hear about?   Stoners   Tristoners   Catapults   Fire Catapult   Anything else</Entry>
+	<Entry File="convil_2\90.wav" ID="90">Received " gil"!</Entry>
+	<Entry File="convil_2\91.wav" ID="91">Received "40,000 gil"!</Entry>
+	<Entry File="convil_2\92.wav" ID="92">scenario =  number of defeats = </Entry>
+	<Entry File="convil_2\93.wav" ID="93">win lost</Entry>
+-->
+</VoiceList>

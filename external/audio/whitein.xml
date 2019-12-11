@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="whitein\26.wav" ID="26">Tifa “It gets harder from here!  Follow me!”</Entry>
+  <Entry File="whitein\27.wav" ID="27">“I'm all right.  You be careful too,Guide.”</Entry>
+  <Entry File="whitein\28.wav" ID="28">“Let's hurry.”</Entry>
+  <Entry File="whitein\29.wav" ID="29">Tifa “Uh…the bridge!!”</Entry>
+  <Entry File="whitein\30.wav" ID="30">Sephiroth “Everyone seems to be all right.  Will we be able to get back?”</Entry>
+  <Entry File="whitein\31a.wav" ID="31" Part="a">Tifa “These caves are intertwined,  like an ant farm…”</Entry>
+  <Entry File="whitein\31b.wav" ID="31" Part="b">“Oh,and Sephiroth…  One person seems to be missing…”</Entry>
+  <Entry File="whitein\32.wav" ID="32">Sephiroth “It may sound cruel,  but we've no time to search for him.  We can't go back,so we must go on.  We'll travel together from here.”</Entry>
+  <Entry File="whitein\33.wav" ID="33">“Welcome to Bone Village,  a town for nature lovers.”</Entry>
+  <Entry File="whitein\34.wav" ID="34">“What do you want?”     Where is the City of the Ancients?     Do you know where Aeris is?     What are you doing?</Entry>
+  <Entry File="whitein\35.wav" ID="35">“What do you want?”    Have you seen Sephiroth?    What are you doing?</Entry>
+  <Entry File="whitein\36.wav" ID="36">“Oh,the man in a black cape.  He was looking for the Temple of the Ancients.”   The Temple of the Ancients?   Thanks</Entry>
+  <Entry File="whitein\37a.wav" ID="37" Part="a">“It's way down south.  It's on the other side of  this town and the inland sea.”</Entry>
+  <Entry File="whitein\37b.wav" ID="37" Part="b">“It's the pyramid rising out of the forest.”   How do you get in?   That's enough</Entry>
+  <Entry File="whitein\38.wav" ID="38">“You'll need the Keystone.”   What's a Keystone?   Oh yeah,I know</Entry>
+  <Entry File="whitein\39.wav" ID="39">“Just like it sounds.  A rock that's a key.  I heard that some rich guy has it.”</Entry>
+  <Entry File="whitein\40.wav" ID="40">“You need something?”   Are you going to run away??   What are you doing?</Entry>
+  <Entry File="whitein\41a.wav" ID="41" Part="a">“Through fossils,we already know  everything that happened  on this Planet since the beginning.”</Entry>
+  <Entry File="whitein\41b.wav" ID="41" Part="b">“Now,we want to see the rest  up to the end of the Planet…  It's a mixed feeling…”</Entry>
+  <Entry File="whitein\42.wav" ID="42">“The City of the Ancients?  Oh,you must mean the Forgotten City.”</Entry>
+  <Entry File="whitein\43.wav" ID="43">“Are you talking about that girl?  I warned her,but she went into the   Sleeping Forest anyway.”</Entry>
+  <Entry File="whitein\44.wav" ID="44">“Excavating is great.  It's like a history of the  Planet told in the land.”</Entry>
+  <Entry File="whitein\45a.wav" ID="45" Part="a">“This town's motto is not to think  about anything.”</Entry>
+  <Entry File="whitein\45b.wav" ID="45" Part="b">“Just live.  Eat,work,and sleep.”</Entry>
+  <Entry File="whitein\45c.wav" ID="45" Part="c">“It's pretty hard not to   think about anything.”</Entry>
+  <Entry File="whitein\46.wav" ID="46">“Want to buy something?”</Entry>
+  <Entry File="whitein\47.wav" ID="47">“Want to buy something?”   I want the Lunar Harp   Don't want anything</Entry>
+  <Entry File="whitein\48.wav" ID="48">“Thanks!  Now,the forest will awaken.”</Entry>
+  <Entry File="whitein\49.wav" ID="49">“The Lunar Harp is somewhere in the ground here.   We could excavate it for you if you want us to.”   Start diggin'   I want to buy something   Not right now</Entry>
+  <Entry File="whitein\50.wav" ID="50">“Other than the Lunar Harp,  What else do you want us to dig for?”   Lunar Harp   Good treasure   Normal treasure</Entry>
+  <Entry File="whitein\51.wav" ID="51">“This has already been excavated.”</Entry>
+  <Entry File="whitein\52.wav" ID="52">“All right! Then I'll lend you some of my staff.  Show us where you want us to dig!”</Entry>
+  <Entry File="whitein\53.wav" ID="53">“Everything already excavated is in   the box next to the tent.”</Entry>
+  <Entry File="whitein\54.wav" ID="54">“The memory of this planet is buried   layer by layer in this geological stratum.  Kind of romantic,don't you think?”</Entry>
+  <Entry File="whitein\55.wav" ID="55">“The forest just beyond here  is called the Sleeping Forest.  Right now the forest is asleep.  Anyone who wanders in while  it's asleep,gets confused.  You can go in,but you may never come out…”</Entry>
+  <Entry File="whitein\56.wav" ID="56">“But just now,a girl in pink  and a man in a black cape went in.  You think they'll be all right?”</Entry>
+  <Entry File="whitein\57a.wav" ID="57" Part="a">“You can awaken the Sleeping Forest  if you have the Lunar Harp.”</Entry>
+  <Entry File="whitein\57b.wav" ID="57" Part="b">“Once awake,they say the forest   will open a road for you.”</Entry>
+  <Entry File="whitein\58.wav" ID="58">“The girl in pink who just went in  used a Lunar Harp to get through.”   I want a Lunar Harp   Not interested</Entry>
+  <Entry File="whitein\59.wav" ID="59">“Ask the guy in the tent below.”</Entry>
+  <Entry File="whitein\60.wav" ID="60">“We use the newest system  to find buried treasure.  We use bombs to make earthquakes,  and then check the sound waves  given off by the tremors.”</Entry>
+  <Entry File="whitein\61.wav" ID="61">“If you learn the special qualities  of the animals in the (Old Forest),  there'll be nothing to fear.  Do you want to hear more?”    Yeah,tell me    Not now</Entry>
+  <Entry File="whitein\62.wav" ID="62">“What do you want to know about?”    About Pitcher Plants     About Scent Balls      About     About Inchworms</Entry>
+  <Entry File="whitein\63a.wav" ID="63" Part="a">“It's a strange plant that hangs  down from above.  It's mouth is usually open  to catch insects.”</Entry>
+  <Entry File="whitein\63b.wav" ID="63" Part="b">“When an insect gets in,  it closes its mouth,trapping it.  It's lid's stronger than  it looks.  It's big enough to  hold a human.  But it's really picky and  spits out lots of stuff.”</Entry>
+  <Entry File="whitein\64.wav" ID="64">“Be really cautious with this flower.  It'll snap at anything.  If you're going to go through here…  do it the instant it closes its mouth.”</Entry>
+  <Entry File="whitein\65.wav" ID="65">“It may not look it…or maybe it does,  but this insect is really timid.  If you go near it,it'll run away…  If you touch it,it'll just turn in to a ball…”</Entry>
+  <Entry File="whitein\66.wav" ID="66">“Excavating is a slow process.  The treasures we excavate are stored  in the box next to the tent.  Remember that.”</Entry>
+  <Entry File="whitein\67.wav" ID="67">“It,it's scary…”</Entry>
+  <Entry File="whitein\68.wav" ID="68">“Just a while ago,a young girl  asked me the same things.”</Entry>
+  <Entry File="whitein\69.wav" ID="69">“Then the entrance to the forest made   a funny sound,like 'Grrrrrrgh!'.”</Entry>
+  <Entry File="whitein\70.wav" ID="70">“I thought that maybe I could do it,too.”</Entry>
+  <Entry File="whitein\71.wav" ID="71">“Please,let me in!”</Entry>
+  <Entry File="whitein\72.wav" ID="72">“While ago,a man in black came and  said this as he went into the forest.”</Entry>
+  <Entry File="whitein\73.wav" ID="73">“Nnnnnnghaah!”</Entry>
+  <Entry File="whitein\74.wav" ID="74">Cloud “Aeris?”</Entry>
+  <Entry File="whitein\75.wav" ID="75">Cloud “Aeris?”</Entry>
+  <Entry File="whitein\76.wav" ID="76">Cloud “Aeris?”</Entry>
+  <Entry File="whitein\77.wav" ID="77">Cloud “Aeris?”</Entry>
+  <Entry File="whitein\78.wav" ID="78">Barret “Cloud!”</Entry>
+  <Entry File="whitein\79.wav" ID="79">Tifa “Cloud!”</Entry>
+  <Entry File="whitein\80.wav" ID="80">Red XIII “Cloud!”</Entry>
+  <Entry File="whitein\81.wav" ID="81">Cait Sith “Cloud!”</Entry>
+  <Entry File="whitein\82.wav" ID="82">Yuffie “Cloud!”</Entry>
+  <Entry File="whitein\83.wav" ID="83">Cid “Cloud!”</Entry>
+  <Entry File="whitein\84.wav" ID="84">Vincent “Cloud!”</Entry>
+  <Entry File="whitein\85.wav" ID="85">Barret “Stop it!!”</Entry>
+  <Entry File="whitein\86.wav" ID="86">Tifa “Stop!”</Entry>
+  <Entry File="whitein\87.wav" ID="87">Red XIII “Please stop that!”</Entry>
+  <Entry File="whitein\88.wav" ID="88">Cait Sith “What're you doing?”</Entry>
+  <Entry File="whitein\89.wav" ID="89">Yuffie “Sto----p!”</Entry>
+  <Entry File="whitein\90.wav" ID="90">Cid “Dumb #^%@!”</Entry>
+  <Entry File="whitein\91.wav" ID="91">Vincent “Stop it!”</Entry>
+  <Entry File="whitein\92.wav" ID="92">Cloud “Ugh…what are you making me do?”</Entry>
+  <Entry File="whitein\93.wav" ID="93">Aeris “…stay…back…”</Entry>
+  <Entry File="whitein\94.wav" ID="94">Cloud “…Aeris.”</Entry>
+  <Entry File="whitein\95.wav" ID="95">Cloud “This can't be real!”</Entry>
+  <Entry File="whitein\96a.wav" ID="96" Part="a">Sephiroth “Do not worry.  Soon the girl will become   part of the Planet's energy.”</Entry>
+  <Entry File="whitein\96b.wav" ID="96" Part="b">“All that is left is to go North.  The 'Promised Land' waits  for me over the snowy fields.”</Entry>
+  <Entry File="whitein\97.wav" ID="97">Sephiroth “There,I will become a new being  by uniting with the Planet.  As will this girl…”</Entry>
+  <Entry File="whitein\98.wav" ID="98">Cloud “…Shut up.”</Entry>
+  <Entry File="whitein\99.wav" ID="99">Cloud “The cycle of nature and your  stupid plan don't mean a thing.”</Entry>
+  <Entry File="whitein\100a.wav" ID="100" Part="a">Cloud “Aeris is gone.”</Entry>
+  <Entry File="whitein\100b.wav" ID="100" Part="b">“Aeris will no longer talk,  no longer laugh,cry…or get angry…”</Entry>
+  <Entry File="whitein\101.wav" ID="101">Cloud “What about us…what are WE supposed to do?”</Entry>
+  <Entry File="whitein\102.wav" ID="102">Cloud “What is this pain?”</Entry>
+  <Entry File="whitein\103.wav" ID="103">Cloud “My fingers are tingling.  My mouth is dry.  My eyes are burning!”</Entry>
+  <Entry File="whitein\104.wav" ID="104">Sephiroth “What are you talking about?  Are you trying to tell me  you have feelings now?”</Entry>
+  <Entry File="whitein\105.wav" ID="105">Cloud “Of course!  What do you think I am!?”</Entry>
+  <Entry File="whitein\106a.wav" ID="106" Part="a">Sephiroth “Ha,ha,ha……  Stop acting as if you're sad.”</Entry>
+  <Entry File="whitein\106b.wav" ID="106" Part="b">“And there's no need to act as if  you're angry either.”</Entry>
+  <Entry File="whitein\107.wav" ID="107">Sephiroth “Because,Cloud.  You are…”</Entry>
+  <Entry File="whitein\108.wav" ID="108">Jenova “Because,you are…a puppet.”</Entry>
+  <Entry File="whitein\109.wav" ID="109">Jenova “You are…”</Entry>
+  <Entry File="whitein\110.wav" ID="110">Cloud “I'm…a puppet?”</Entry>
+  <Entry File="whitein\111.wav" ID="111">Cloud “Everyone,listen to me.”</Entry>
+  <Entry File="whitein\112.wav" ID="112">Cloud “I am Cloud,born in Nibelheim and  formerly of SOLDIER.”</Entry>
+  <Entry File="whitein\113.wav" ID="113">Cloud “I came here to settle up  with Sephiroth.”</Entry>
+  <Entry File="whitein\114.wav" ID="114">Tifa “…What's wrong?”</Entry>
+  <Entry File="whitein\115.wav" ID="115">Barret “…yeah,so?”</Entry>
+  <Entry File="whitein\116.wav" ID="116">Red XIII “…Huh?”</Entry>
+  <Entry File="whitein\117.wav" ID="117">Yuffie “What hit you so suddenly?”</Entry>
+  <Entry File="whitein\118.wav" ID="118">Vincent “…Yes.”</Entry>
+  <Entry File="whitein\119.wav" ID="119">Cid “I've heard all this before.”</Entry>
+  <Entry File="whitein\120.wav" ID="120">Cloud “I came here on my own will……  or at least that's what I thought.  But…”</Entry>
+  <Entry File="whitein\121.wav" ID="121">Cloud “To be honest…  I'm afraid of myself.”</Entry>
+  <Entry File="whitein\122a.wav" ID="122" Part="a">Cloud “There's a part of me I don't understand.”</Entry>
+  <Entry File="whitein\122b.wav" ID="122" Part="b">“Like when I gave away the Black Materia.”</Entry>
+  <Entry File="whitein\123.wav" ID="123">Cloud “And if you all hadn't stopped me,  …Aeris might have…”</Entry>
+  <Entry File="whitein\124.wav" ID="124">Cloud “…It's something inside me.”</Entry>
+  <Entry File="whitein\125a.wav" ID="125" Part="a">Cloud “That is why,maybe I shouldn't   go on with this journey.”</Entry>
+  <Entry File="whitein\125b.wav" ID="125" Part="b">“I may do something terrible.”</Entry>
+  <Entry File="whitein\126.wav" ID="126">Cloud “But,I AM going on.”</Entry>
+  <Entry File="whitein\127a.wav" ID="127" Part="a">Cloud “Five years ago,he burned down my hometown,  then he took Aeris.”</Entry>
+  <Entry File="whitein\127b.wav" ID="127" Part="b">“And now he's trying to destroy the Planet.  I won't let him get away with it.”</Entry>
+  <Entry File="whitein\128.wav" ID="128">Cloud “…I must go on.”</Entry>
+  <Entry File="whitein\130.wav" ID="130">Cloud “…Will you all still go with me?”</Entry>
+  <Entry File="whitein\131.wav" ID="131">Cloud “Please watch me so I don't do anything horrible.”</Entry>
+  <Entry File="whitein\132.wav" ID="132">Tifa “…But,Cloud.”</Entry>
+  <Entry File="whitein\133.wav" ID="133">Barret “…But,you know…”</Entry>
+  <Entry File="whitein\134.wav" ID="134">Red XIII “…All right,Cloud.”</Entry>
+  <Entry File="whitein\135.wav" ID="135">Yuffie “All right,we'll watch you.”</Entry>
+  <Entry File="whitein\136.wav" ID="136">Vincent “…I see.”</Entry>
+  <Entry File="whitein\137.wav" ID="137">Cid “Well,if somethin' happens,it happens.”</Entry>
+  <Entry File="whitein\138.wav" ID="138">Cloud “I don't how Aeris was going to save  this planet from Meteor.  We have no way of finding out now.”</Entry>
+  <Entry File="whitein\139.wav" ID="139">Cloud “But…”</Entry>
+  <Entry File="whitein\140.wav" ID="140">Cloud “We still have a chance.  We need to get the Black Materia back  before Sephiroth uses Meteor.”</Entry>
+  <Entry File="whitein\141.wav" ID="141">Tifa “Man!  This is terrible.”</Entry>
+  <Entry File="whitein\142.wav" ID="142">Cloud “You alright?”</Entry>
+  <Entry File="whitein\143.wav" ID="143">Aeris “Yeah.”</Entry>
+  <Entry File="whitein\144.wav" ID="144">Aeris “Well,the worst is over…”</Entry>
+  <Entry File="whitein\145.wav" ID="145">Aeris “Maybe not…”</Entry>
+  <Entry File="whitein\147.wav" ID="147">Tifa “It's too late…  Marlene…Barret  …the people of the Slums.”</Entry>
+  <Entry File="whitein\148.wav" ID="148">Aeris “Don't give up,never give up hope.  It's not easy to destroy the pillar,right?”</Entry>
+  <Entry File="whitein\149.wav" ID="149">Tifa “…Yeah…you're right!  We still have time.”</Entry>
+  <Entry File="whitein\150.wav" ID="150">Cloud “There's a Shinra logo on it.  Tiny Bronco…  This is cool.”</Entry>
+  <Entry File="whitein\151.wav" ID="151">Barret “Shinra always keeps the  best things for themselves.  Let's take it!”</Entry>
+  <Entry File="whitein\152.wav" ID="152">Tifa “I wonder if we can borrow it…”</Entry>
+  <Entry File="whitein\153.wav" ID="153">Aeris “Let's take it,OK Cloud?”</Entry>
+  <Entry File="whitein\154.wav" ID="154">Red XIII “Will it fly?  Is it all right to just take it?”</Entry>
+  <Entry File="whitein\155.wav" ID="155">Cait Sith “Cloud!  If we steal it,we'll get in deep trouble!”</Entry>
+  <Entry File="whitein\156.wav" ID="156">Vincent “…Want me to keep watch?”</Entry>
+  <Entry File="whitein\157.wav" ID="157">Yuffie “Cloud,let's steal it!  I love stealing from the Shinra!”</Entry>
+  <Entry File="whitein\158.wav" ID="158">“Um…may I help you?”</Entry>
+  <Entry File="whitein\159.wav" ID="159">Cloud “No…  We're just looking at it.”</Entry>
+  <Entry File="whitein\160.wav" ID="160">“…If you would like to use it,  please ask the Captain.  The Captain should be in the rocket.”</Entry>
+  <Entry File="whitein\161.wav" ID="161">“I'm Shera.  And what are your names?”</Entry>
+  <Entry File="whitein\162.wav" ID="162">Cloud “I'm Cloud.”</Entry>
+  <Entry File="whitein\163.wav" ID="163">Barret “I'm Barret,of AVALANCHE.”</Entry>
+  <Entry File="whitein\164.wav" ID="164">Tifa “Tifa. Nice to meet you.”</Entry>
+  <Entry File="whitein\165.wav" ID="165">Aeris “I'm Aeris.”</Entry>
+  <Entry File="whitein\166.wav" ID="166">Red XIII “Nanaki,  otherwise known as Red XIII.”</Entry>
+  <Entry File="whitein\167.wav" ID="167">Cait Sith “Fortune telling machine  Cait Sith,here.”</Entry>
+  <Entry File="whitein\168.wav" ID="168">Vincent “Vincent.  I am…nevermind.”</Entry>
+  <Entry File="whitein\169.wav" ID="169">Yuffie “I'm Yuffie!”</Entry>
+  <Entry File="whitein\170a.wav" ID="170" Part="a">Shera “Hmm…  So you're not with the Shinra?”</Entry>
+  <Entry File="whitein\170b.wav" ID="170" Part="b">“I thought you were bringing approval  for the Space Program.”</Entry>
+  <Entry File="whitein\171.wav" ID="171">Cloud “…!?”</Entry>
+  <Entry File="whitein\172.wav" ID="172">Shera “President Rufus is scheduled to come here.  The Captain's been so restless all morning.”</Entry>
+  <Entry File="whitein\173.wav" ID="173">Cloud “Rufus!!?”</Entry>
+  <Entry File="whitein\174.wav" ID="174">Palmer “Hmm…  Why do I have to do this…?  I'm the head of the Space Program…”</Entry>
+  <Entry File="whitein\175.wav" ID="175">Palmer “I've seen you somewhere before…”</Entry>
+  <Entry File="whitein\176.wav" ID="176">Palmer “I know! The Shinra building!  When the President was killed! Ulp!”</Entry>
+  <Entry File="whitein\177.wav" ID="177">Cloud “We'll be taking the Tiny Bronco.”</Entry>
+  <Entry File="whitein\178.wav" ID="178">Palmer “Se…se…security!!”</Entry>
+  <Entry File="whitein\179.wav" ID="179">Barret “I can't stop it!”</Entry>
+  <Entry File="whitein\180.wav" ID="180">Aeris “I can't stop it!”</Entry>
+  <Entry File="whitein\181.wav" ID="181">Tifa “I can't stop it!”</Entry>
+  <Entry File="whitein\182.wav" ID="182">Red XIII “It's taking off.”</Entry>
+  <Entry File="whitein\183.wav" ID="183">Cait Sith “No! It's taking off!”</Entry>
+  <Entry File="whitein\184.wav" ID="184">Yuffie “No!! It's gonna take off!”</Entry>
+  <Entry File="whitein\185.wav" ID="185">Vincent “I can't stop…”</Entry>
+  <Entry File="whitein\186.wav" ID="186">Cloud “Forget it! Get in!!”</Entry>
+  <Entry File="whitein\187.wav" ID="187">Cloud “All right,here we go!”</Entry>
+  <Entry File="whitein\188.wav" ID="188">Barret “Gimme that!”</Entry>
+  <Entry File="whitein\189.wav" ID="189">Aeris “I want to try it!”</Entry>
+  <Entry File="whitein\190.wav" ID="190">Tifa “I wanna try!”</Entry>
+  <Entry File="whitein\191.wav" ID="191">Red XIII “Leave it to me.”</Entry>
+  <Entry File="whitein\192.wav" ID="192">Cait Sith “Let me handle it.”</Entry>
+  <Entry File="whitein\193.wav" ID="193">Yuffie “Let me be the pilot!”</Entry>
+  <Entry File="whitein\194.wav" ID="194">Vincent “I'll do it.”</Entry>
+  <Entry File="whitein\195.wav" ID="195">Cloud “Cid! Get on!”</Entry>
+  <Entry File="whitein\196.wav" ID="196">Cid “Goddammit!  What are you amateurs doing!”</Entry>
+  <Entry File="whitein\197.wav" ID="197">Rufus “Cloud!?  Don't let 'em get away!  Shoot 'em down!”</Entry>
+  <Entry File="whitein\198.wav" ID="198">Cid “$#&amp;%!!  The tail's been hit!”</Entry>
+  <Entry File="whitein\199.wav" ID="199">Cloud “Emergency landing…”</Entry>
+  <Entry File="whitein\200.wav" ID="200">Cid “This's gonna be a big splash.  Hold on to your drawers  and don't piss in 'em!”</Entry>
+  <Entry File="whitein\201.wav" ID="201">Cid “She won't fly anymore.”</Entry>
+  <Entry File="whitein\202.wav" ID="202">Cloud “Can't we use it as a boat?”</Entry>
+  <Entry File="whitein\203.wav" ID="203">Cid “$#&amp;%! Do whatever you want!”</Entry>
+  <Entry File="whitein\204.wav" ID="204">Cloud “Cid,  what will you do now?”</Entry>
+  <Entry File="whitein\205.wav" ID="205">Cid “I dunno.  I'm history with the Shinra,  and I've given up on that town.”</Entry>
+  <Entry File="whitein\206.wav" ID="206">Cloud “How about your wife,Shera?”</Entry>
+  <Entry File="whitein\207.wav" ID="207">Cid “Wife? Don't make me laugh!  Just thinkin' 'bout marryin'  her gives me the chills.”</Entry>
+  <Entry File="whitein\208.wav" ID="208">Cid “What're you guys gonna do?”</Entry>
+  <Entry File="whitein\209.wav" ID="209">Cloud “We're going after a man named Sephiroth.  We'll have to get Rufus  of the Shinra someday,too.”</Entry>
+  <Entry File="whitein\210.wav" ID="210">Cid “I don't know about any of that,but…”</Entry>
+  <Entry File="whitein\211.wav" ID="211">Cid “What the hell!?  Sign me up!”</Entry>
+  <Entry File="whitein\212.wav" ID="212">Cloud “How 'bout it,everyone?”</Entry>
+  <Entry File="whitein\213.wav" ID="213">Barret “I don't care.”</Entry>
+  <Entry File="whitein\214.wav" ID="214">Tifa “Of course,no problem!”</Entry>
+  <Entry File="whitein\215.wav" ID="215">Aeris “I'm all for it.”</Entry>
+  <Entry File="whitein\216.wav" ID="216">Red XIII “I don't really care.”</Entry>
+  <Entry File="whitein\217.wav" ID="217">Cait Sith “I don't mind.”</Entry>
+  <Entry File="whitein\218.wav" ID="218">Yuffie “Whatever!”</Entry>
+  <Entry File="whitein\219.wav" ID="219">Vincent “…Do whatever you like.”</Entry>
+  <Entry File="whitein\220.wav" ID="220">Cid “Glad to be aboard,numbskulls!”</Entry>
+  <Entry File="whitein\221.wav" ID="221">Cloud “Numbskulls…?”</Entry>
+  <Entry File="whitein\222.wav" ID="222">Cid “Yeah. Anyone stupid enough to go up against   Shinra nowadays,has GOTTA be a numbskull!  I like it!”</Entry>
+  <Entry File="whitein\223a.wav" ID="223" Part="a">Cid “So,where we headed?”</Entry>
+  <Entry File="whitein\223b.wav" ID="223" Part="b">“Rufus was goin' after Sephiroth to  the Temple of the Ancients.”</Entry>
+  <Entry File="whitein\224.wav" ID="224">Cloud “Really!?…Where is it?  That Temple of the Ancients?”</Entry>
+  <Entry File="whitein\225.wav" ID="225">Cid “Dunno. That numbskull kid was tellin' me    he was headin 'The wrong direction'…   so maybe it's off this way?”</Entry>
+  <Entry File="whitein\226.wav" ID="226">Cloud “Let's just head for land and  get some information.  Temple of the Ancients…  that name bothers me.”</Entry>
+  <Entry File="whitein\227a.wav" ID="227" Part="a">Yuffie “…Hm.  How 'bout goin' west?”</Entry>
+  <Entry File="whitein\227b.wav" ID="227" Part="b">“No,no reason.  NO reason at all!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="whitein\0.wav" ID="0">You cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="whitein\1.wav" ID="1">Sewer</Entry>
+	<Entry File="whitein\2.wav" ID="2">Mt. Nibel</Entry>
+	<Entry File="whitein\3.wav" ID="3">Bone Village</Entry>
+	<Entry File="whitein\4.wav" ID="4">Water Altar</Entry>
+	<Entry File="whitein\5.wav" ID="5">Forgotten City</Entry>
+	<Entry File="whitein\6.wav" ID="6">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="whitein\7.wav" ID="7">Received "Potion"!</Entry>
+	<Entry File="whitein\8.wav" ID="8">Received "Steal" Materia!</Entry>
+	<Entry File="whitein\9.wav" ID="9">Received "Elixir"!</Entry>
+	<Entry File="whitein\10.wav" ID="10">Received "Buntline"!</Entry>
+	<Entry File="whitein\11.wav" ID="11">Received Key Item "Lunar Harp"!</Entry>
+	<Entry File="whitein\12.wav" ID="12">Received "Mop"!</Entry>
+	<Entry File="whitein\13.wav" ID="13">Received "Elixir"!</Entry>
+	<Entry File="whitein\14.wav" ID="14">Received "Ether"!</Entry>
+	<Entry File="whitein\15.wav" ID="15">Received "Megalixir"!</Entry>
+	<Entry File="whitein\16.wav" ID="16">Received "Bahamut ZERO" Materia!</Entry>
+	<Entry File="whitein\17.wav" ID="17">Received "Phoenix" Materia!</Entry>
+	<Entry File="whitein\18.wav" ID="18">Received "W-Item" Materia!</Entry>
+	<Entry File="whitein\19.wav" ID="19">Nothing in here!</Entry>
+	<Entry File="whitein\20.wav" ID="20">Received "Potion"!</Entry>
+	<Entry File="whitein\21.wav" ID="21">Received "Catastrophe"!</Entry>
+	<Entry File="whitein\22.wav" ID="22">Received "Turbo Ether"!</Entry>
+	<Entry File="whitein\23.wav" ID="23">Received Key Item "Key to Sector 5"!</Entry>
+	<Entry File="whitein\24.wav" ID="24" />
+	<Entry File="whitein\25.wav" ID="25" />
+	<Entry File="whitein\129.wav" ID="129">Cloud But…I have a favor to ask of you.”</Entry>
+	<Entry File="whitein\146.wav" ID="146">  Let's try and jump down   Let's not…</Entry>
+-->
+</VoiceList>

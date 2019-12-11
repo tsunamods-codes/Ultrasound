@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="tin_4\7.wav" ID="7">Barret “Alright!  We clear!?”</Entry>
+  <Entry File="tin_4\8a.wav" ID="8" Part="a">Jessie “Not yet. They're starting another check.  If we're caught,we're done for!”</Entry>
+  <Entry File="tin_4\8b.wav" ID="8" Part="b">“But,don't worry.  If we move up the train,  car by car,we should get past it!”</Entry>
+  <Entry File="tin_4\9.wav" ID="9">Barret “Damn,man!!  Explain it right!”</Entry>
+  <Entry File="tin_4\10.wav" ID="10">Jessie “You want an explanation?  OK!! Let me.”</Entry>
+  <Entry File="tin_4\11a.wav" ID="11" Part="a">Jessie “This train's security system is  the old Shinra A system.”</Entry>
+  <Entry File="tin_4\11b.wav" ID="11" Part="b">“Once it identifies an illegal ID,  the system automatically locks down each car.”</Entry>
+  <Entry File="tin_4\11c.wav" ID="11" Part="c">“It'll stay locked until it gets to the station,  where Shinra guards will be waiting.”</Entry>
+  <Entry File="tin_4\12a.wav" ID="12" Part="a">Jessie “But it's an old system,we can get past it.”</Entry>
+  <Entry File="tin_4\12b.wav" ID="12" Part="b">“If we move from car to car to the front,  we should be able to go on as planned.”</Entry>
+  <Entry File="tin_4\13.wav" ID="13">Jessie “The second detection scan  should be coming up pretty soon.  Let's go to the next car!”</Entry>
+  <Entry File="tin_4\14.wav" ID="14">Jessie “Oh no!”</Entry>
+  <Entry File="tin_4\15.wav" ID="15">Jessie “I'm so sorry.”</Entry>
+  <Entry File="tin_4\16a.wav" ID="16" Part="a">“It's my fault that we didn't  clear the ID scan.”</Entry>
+  <Entry File="tin_4\16b.wav" ID="16" Part="b">“I modified the ID card for  Cloud and that's  what made the sensors go off.”</Entry>
+  <Entry File="tin_4\16c.wav" ID="16" Part="c">“I did my best,but  it just didn't work.”</Entry>
+  <Entry File="tin_4\18.wav" ID="18">Cloud “…Oh,man…”</Entry>
+  <Entry File="tin_4\19.wav" ID="19">Barret “The hell!?  So this is as far as we go?”</Entry>
+  <Entry File="tin_4\20.wav" ID="20">Tifa “We were almost there.”</Entry>
+  <Entry File="tin_4\21.wav" ID="21">Barret “We're gonna jump off here!!  Follow me!!”</Entry>
+  <Entry File="tin_4\22.wav" ID="22">Tifa “Don't worry!  Don't worry!”</Entry>
+  <Entry File="tin_4\28.wav" ID="28">Barret “Shu'up!!  Don't talk to me!  You're gonna mess me up!”</Entry>
+  <Entry File="tin_4\29a.wav" ID="29" Part="a">Barret “…heave…breathe…”</Entry>
+  <Entry File="tin_4\29b.wav" ID="29" Part="b">“urrrrgh!!”</Entry>
+  <Entry File="tin_4\30.wav" ID="30">Tifa “Shhhhhhh!  Not now!”</Entry>
+  <Entry File="tin_4\31.wav" ID="31">Tifa “OK,already!”</Entry>
+  <Entry File="tin_4\32.wav" ID="32">Johnny “Later…Goodbye…Adios,Midgar!!”</Entry>
+  <Entry File="tin_4\33.wav" ID="33">Johnny “sob…”</Entry>
+  <Entry File="tin_4\34.wav" ID="34">“Hee hee!!”</Entry>
+  <Entry File="tin_4\35.wav" ID="35">“Yesss!!”</Entry>
+  <Entry File="tin_4\36.wav" ID="36">“urrrrrrrg”</Entry>
+  <Entry File="tin_4\37.wav" ID="37">“…Nowhere to run…”</Entry>
+  <Entry File="tin_4\38a.wav" ID="38" Part="a">“By any chance…”</Entry>
+  <Entry File="tin_4\38b.wav" ID="38" Part="b">“Busted?” Huh? That's right</Entry>
+  <Entry File="tin_4\39.wav" ID="39">“I'm SO sorry.  I'll give it back…”</Entry>
+  <Entry File="tin_4\40.wav" ID="40">“OK,then.  That's that.”</Entry>
+  <Entry File="tin_4\41a.wav" ID="41" Part="a">“Any idea what happened?”</Entry>
+  <Entry File="tin_4\41b.wav" ID="41" Part="b">“All I know is,  when I woke up,the 3 of us  were butt-naked!”</Entry>
+  <Entry File="tin_4\41c.wav" ID="41" Part="c">“But I guess you couldn't relate…”</Entry>
+  <Entry File="tin_4\42a.wav" ID="42" Part="a">“That scary broad made me  take the bomb.”</Entry>
+  <Entry File="tin_4\42b.wav" ID="42" Part="b">“Of course I couldn't very well refuse her!”</Entry>
+  <Entry File="tin_4\43a.wav" ID="43" Part="a">“Brrrrrr…”</Entry>
+  <Entry File="tin_4\43b.wav" ID="43" Part="b">“It's terrible.  Who'd expect underwear bandits  in this day and age?”</Entry>
+  <Entry File="tin_4\43c.wav" ID="43" Part="c">“They wiped me out!”</Entry>
+  <Entry File="tin_4\44.wav" ID="44">“What the hell?”</Entry>
+  <Entry File="tin_4\45a.wav" ID="45" Part="a">“Hmph!”</Entry>
+  <Entry File="tin_4\45b.wav" ID="45" Part="b">“I know what you want to say.”</Entry>
+  <Entry File="tin_4\46.wav" ID="46">“Here,take it!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="tin_4\0.wav" ID="0">Inside Train</Entry>
+	<Entry File="tin_4\1.wav" ID="1">Last train out of Sector 8 Station. Last stop is Sector 7,Train Graveyard. Expected time of arrival is 12:23AM, Midgar Standard Time…</Entry>
+	<Entry File="tin_4\2.wav" ID="2">Level 2 Warning Car #2: Lock Down</Entry>
+	<Entry File="tin_4\3.wav" ID="3">Car #2: Locked down Upgrading to Warning Level 3</Entry>
+	<Entry File="tin_4\4.wav" ID="4">Unidentified Passengers: Moving to front of Train Currently tracking location</Entry>
+	<Entry File="tin_4\5.wav" ID="5">Level 3 Warning Car #3: Lock down</Entry>
+	<Entry File="tin_4\6.wav" ID="6">Car #3: Locked Down Upgrading to Warning Level 4</Entry>
+	<Entry File="tin_4\17.wav" ID="17">"I'll make a better one next time." "I'll head back to the hideout first  and work on research and development.”</Entry>
+	<Entry File="tin_4\23.wav" ID="23"></Entry>
+	<Entry File="tin_4\24.wav" ID="24">Illegal ID identified in Car #3   Prepare for Lock Down</Entry>
+	<Entry File="tin_4\25.wav" ID="25">Car #3: Locked Down Illegal ID will be taken to the station</Entry>
+	<Entry File="tin_4\26.wav" ID="26">Illegal ID identified in Car #4   Prepare for Lock Down</Entry>
+	<Entry File="tin_4\27.wav" ID="27">Car #4: Locked Down Illegal ID will be taken to the station</Entry>
+-->
+</VoiceList>

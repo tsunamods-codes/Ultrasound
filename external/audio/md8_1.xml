@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="md8_1\0.wav" ID="0">Barret “Alright,now let's get out of here.”</Entry>
+  <Entry File="md8_1\1.wav" ID="1">Barret “Rendezvous at Sector 8 station!  Split up and get on the train!”</Entry>
+  <Entry File="md8_1\2.wav" ID="2">Cloud “H,hey!”</Entry>
+  <Entry File="md8_1\3.wav" ID="3">Barret “If it's about your money,  wait 'til we get back.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="md8_1\4.wav" ID="4">Sector 8</Entry>
+-->
+</VoiceList>

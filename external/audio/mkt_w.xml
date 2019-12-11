@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mkt_w\1.wav" ID="1">“You want somethin'?  I don't wanna hear any complaints  'bout how things look.”</Entry>
+  <Entry File="mkt_w\2.wav" ID="2">“How 'bout it?  Wanna buy somethin'?”</Entry>
+  <Entry File="mkt_w\3.wav" ID="3">“You goin' up to the plate?  You better have batteries.”</Entry>
+  <Entry File="mkt_w\4.wav" ID="4">Cloud “You're gonna sell me  something you just found?”</Entry>
+  <Entry File="mkt_w\5.wav" ID="5">“Hey,you knew?   I repaired them,  so it's all right.”</Entry>
+  <Entry File="mkt_w\6.wav" ID="6">Cloud “Why do I need batteries to  climb up to the plate?”</Entry>
+  <Entry File="mkt_w\7.wav" ID="7">“You'll find out when you get there.  How 'bout 100 gil for each?”</Entry>
+  <Entry File="mkt_w\8.wav" ID="8">Cloud “…” All right,I'll take them I think you're full of it</Entry>
+  <Entry File="mkt_w\9.wav" ID="9">“All right then,go see for yourself.  You'll be back again.”</Entry>
+  <Entry File="mkt_w\10.wav" ID="10">“Great!  How 'bout another one?”</Entry>
+  <Entry File="mkt_w\11.wav" ID="11">Cloud “…Hmm.” All right,I'll take 'em No,that's enough</Entry>
+  <Entry File="mkt_w\12.wav" ID="12">“Huh?  Sorry,those were the last ones.”</Entry>
+  <Entry File="mkt_w\14.wav" ID="14">“Come again.”</Entry>
+  <Entry File="mkt_w\15.wav" ID="15">“Hmm,looks like you're  a little short,son.  Come back again.”</Entry>
+  <Entry File="mkt_w\16.wav" ID="16">“Oh,so you're back?  I got something good for you.  Why don't you buy it?”</Entry>
+  <Entry File="mkt_w\17.wav" ID="17">Cloud “You probably just found it   lying around somewhere,right?”</Entry>
+  <Entry File="mkt_w\18.wav" ID="18">“I'll admit that I found it,  but you may never be able to  get another one like it again.”</Entry>
+  <Entry File="mkt_w\19.wav" ID="19">“How 'bout 129,000 gil for it?”</Entry>
+  <Entry File="mkt_w\20.wav" ID="20">Cloud “…What kind of price is that?” Oh,all right…I'll buy it No,I don't want it</Entry>
+  <Entry File="mkt_w\21.wav" ID="21">“Hey,much obliged.  You'll never regret it!”</Entry>
+  <Entry File="mkt_w\22.wav" ID="22">“Hmm,that's too bad.  This's really something.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mkt_w\0.wav" ID="0">Weapon Store</Entry>
+	<Entry File="mkt_w\13.wav" ID="13">Received "Batteries"!</Entry>
+	<Entry File="mkt_w\23.wav" ID="23">Received "Sneak Glove"!</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="shpin_3\1.wav" ID="1">“…”</Entry>
+  <Entry File="shpin_3\3.wav" ID="3">Cloud “Is it…Sephiroth?”</Entry>
+  <Entry File="shpin_3\4.wav" ID="4">Cloud “No…not Sephiroth!”</Entry>
+  <Entry File="shpin_3\5a.wav" ID="5" Part="a">“…After a long sleep…”</Entry>
+  <Entry File="shpin_3\5b.wav" ID="5" Part="b">“…the time…”</Entry>
+  <Entry File="shpin_3\5c.wav" ID="5" Part="c">“…time has…come…”</Entry>
+  <Entry File="shpin_3\6.wav" ID="6">Barret “Look,Cloud!!”</Entry>
+  <Entry File="shpin_3\7.wav" ID="7">Aeris “Look,Cloud!!”</Entry>
+  <Entry File="shpin_3\8.wav" ID="8">Tifa “Cloud,look!!”</Entry>
+  <Entry File="shpin_3\9.wav" ID="9">Red XIII “Over there,Cloud.”</Entry>
+  <Entry File="shpin_3\10.wav" ID="10">Yuffie “Ov…over there!!”</Entry>
+  <Entry File="shpin_3\11.wav" ID="11">Cloud “Sephiroth!  You're alive!”</Entry>
+  <Entry File="shpin_3\12.wav" ID="12">“…Who are you?”</Entry>
+  <Entry File="shpin_3\13.wav" ID="13">Cloud “You don't remember me!?  I'm Cloud!”</Entry>
+  <Entry File="shpin_3\14.wav" ID="14">“Cloud…”</Entry>
+  <Entry File="shpin_3\15.wav" ID="15">Cloud “Sephiroth! What are you thinking!?  What are you doing!?”</Entry>
+  <Entry File="shpin_3\16.wav" ID="16">“…The time…is now…”</Entry>
+  <Entry File="shpin_3\17.wav" ID="17">Cloud “What!? What are you saying!?  Be more…”</Entry>
+  <Entry File="shpin_3\18.wav" ID="18">Tifa “I've seen this somewhere…before.”</Entry>
+  <Entry File="shpin_3\19.wav" ID="19">Aeris “I've seen this before…”</Entry>
+  <Entry File="shpin_3\20.wav" ID="20">Barret “Isn't he…that guy?”</Entry>
+  <Entry File="shpin_3\21.wav" ID="21">Red XIII “That's what disappeared  from the Shinra building…”</Entry>
+  <Entry File="shpin_3\22.wav" ID="22">Yuffie “Eeeew! What IS it! GROSS!”</Entry>
+  <Entry File="shpin_3\23.wav" ID="23">Cloud “…Jenova.  The arm of Jenova.”</Entry>
+  <Entry File="shpin_3\24.wav" ID="24">Barret “Jenova…You mean he's been walkin'   around with that thing?”</Entry>
+  <Entry File="shpin_3\25.wav" ID="25">Aeris “Jenova…  With this thing?”</Entry>
+  <Entry File="shpin_3\26.wav" ID="26">Tifa “Jenova…  He's been carrying this thing around?”</Entry>
+  <Entry File="shpin_3\27.wav" ID="27">Red XIII “Sephiroth took Jenova…  What does it mean?”</Entry>
+  <Entry File="shpin_3\28.wav" ID="28">Yuffie “Gag…  I'm sick enough as it is without  you having to show me THAT!”</Entry>
+  <Entry File="shpin_3\29.wav" ID="29">Cloud “So it WAS Sephiroth.”</Entry>
+  <Entry File="shpin_3\30.wav" ID="30">Tifa “He said something about  it being time for something.”</Entry>
+  <Entry File="shpin_3\31.wav" ID="31">Aeris “The time is now…  I think that was what was said.”</Entry>
+  <Entry File="shpin_3\32.wav" ID="32">Barret “He said the time is now.”</Entry>
+  <Entry File="shpin_3\33.wav" ID="33">Red XIII “The time is now?  What does that mean?”</Entry>
+  <Entry File="shpin_3\34.wav" ID="34">Yuffie “He was mumbling something  about time!”</Entry>
+  <Entry File="shpin_3\35.wav" ID="35">Cloud “…Time…is now?”</Entry>
+  <Entry File="shpin_3\36.wav" ID="36">“Dock workers--We will be docking  in Costa del Sol in 5 minutes.  Prepare for docking.”</Entry>
+  <Entry File="shpin_3\37a.wav" ID="37" Part="a">Barret “I don't know WHAT the hell's goin' on!”</Entry>
+  <Entry File="shpin_3\37b.wav" ID="37" Part="b">“Cloud,why don't you explain to   me what's happened so far?” I'll try No way</Entry>
+  <Entry File="shpin_3\38a.wav" ID="38" Part="a">Aeris “Hmm…  I don't get it.”</Entry>
+  <Entry File="shpin_3\38b.wav" ID="38" Part="b">“Hey,Cloud.  Can you explain it to us?” I'll try Too much trouble</Entry>
+  <Entry File="shpin_3\39a.wav" ID="39" Part="a">Tifa “I'm getting so confused…”</Entry>
+  <Entry File="shpin_3\39b.wav" ID="39" Part="b">“Cloud,explain what's happened  so far.” I'll try Too much trouble</Entry>
+  <Entry File="shpin_3\40a.wav" ID="40" Part="a">Red XIII “Hmm…  The story's not that simple.”</Entry>
+  <Entry File="shpin_3\40b.wav" ID="40" Part="b">“Cloud,why don't you  summarize what's happened so far?” I'll try Too much trouble</Entry>
+  <Entry File="shpin_3\41a.wav" ID="41" Part="a">Yuffie “So what's the story?”</Entry>
+  <Entry File="shpin_3\41b.wav" ID="41" Part="b">“Hey Cloud.  Give us a quick run down.” I'll try Too much trouble</Entry>
+  <Entry File="shpin_3\42.wav" ID="42">Cloud “…I'll try,but don't interrupt   me while I'm explaining.”</Entry>
+  <Entry File="shpin_3\43.wav" ID="43">Cloud “Sephiroth went off searching for the  Promised Land,so he could become the ruler  of the Planet… That was 5 years ago.”</Entry>
+  <Entry File="shpin_3\44.wav" ID="44">Cloud “Then Sephiroth came back  and killed President Shinra.”</Entry>
+  <Entry File="shpin_3\45.wav" ID="45">Cloud “And then just now all of us saw Sephiroth.”</Entry>
+  <Entry File="shpin_3\46a.wav" ID="46" Part="a">Cloud “He was carrying Jenova with him.”</Entry>
+  <Entry File="shpin_3\46b.wav" ID="46" Part="b">“…This much I do know.  He told me he wants to go to the   Promised Land with his mother,Jenova.”</Entry>
+  <Entry File="shpin_3\47.wav" ID="47">Cloud “…I guess that's about it.”</Entry>
+  <Entry File="shpin_3\48a.wav" ID="48" Part="a">Cloud “Sephiroth…  is alive…”</Entry>
+  <Entry File="shpin_3\48b.wav" ID="48" Part="b">“The Promised Land…  Does it really exist…?”</Entry>
+  <Entry File="shpin_3\49.wav" ID="49">Barret “Whoa!  We'd best hurry and hide somewhere.”</Entry>
+  <Entry File="shpin_3\50.wav" ID="50">Aeris “Maybe we shouldn't stay  in here anymore…”</Entry>
+  <Entry File="shpin_3\51.wav" ID="51">Tifa “We should hide somewhere again.”</Entry>
+  <Entry File="shpin_3\52.wav" ID="52">Red XIII “I don't think it's wise  to stay here any longer.”</Entry>
+  <Entry File="shpin_3\53.wav" ID="53">Yuffie “Phew…  We're finally here…  Now we gotta hide.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="shpin_3\0.wav" ID="0">Cargo Ship</Entry>
+	<Entry File="shpin_3\2.wav" ID="2">Received "Wind Slash"!</Entry>
+	<Entry File="shpin_3\54.wav" ID="54">You cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="shpin_3\55.wav" ID="55">Received "Ifrit" Materia!</Entry>
+-->
+</VoiceList>

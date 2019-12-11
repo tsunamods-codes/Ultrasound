@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="gidun_1\1a.wav" ID="1" Part="a">Bugenhagen “Ho Ho Hoooo.”</Entry>
+  <Entry File="gidun_1\1b.wav" ID="1" Part="b">“Everyone here's a Ghost  of the Gi tribe,  killed in a certain battle.”</Entry>
+  <Entry File="gidun_1\2.wav" ID="2">Red XIII “ A certain battle?”</Entry>
+  <Entry File="gidun_1\3a.wav" ID="3" Part="a">Bugenhagen “The vengeful spirits of the Gi  didn't disappear,and couldn't  return to the Lifestream…”</Entry>
+  <Entry File="gidun_1\3b.wav" ID="3" Part="b">“We still have far to go.     Ho Ho Hoooo.”</Entry>
+  <Entry File="gidun_1\4.wav" ID="4">Bugenhagen “This cave leads to  the back of Cosmo Canyon.”</Entry>
+  <Entry File="gidun_1\5.wav" ID="5">Bugenhagen “If we had been attacked by the Gi here,  we wouldn't have stood a chance.”</Entry>
+  <Entry File="gidun_1\6.wav" ID="6">Red XIII “…”</Entry>
+  <Entry File="gidun_1\7.wav" ID="7">Cloud “This is a strange looking rock…” Break it open Leave it alone</Entry>
+  <Entry File="gidun_1\8.wav" ID="8">Cloud “Funny looking rock…” Break it open Leave it as is</Entry>
+  <Entry File="gidun_1\9.wav" ID="9">Cloud “An odd shaped rock…” Break it open Leave it as is</Entry>
+  <Entry File="gidun_1\10.wav" ID="10">Cloud “A strange shaped rock…” Break it open Leave it as is</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="gidun_1\0.wav" ID="0">Cave of the Gi</Entry>
+	<Entry File="gidun_1\11.wav" ID="11">Received "Added Effect" Materia!</Entry>
+	<Entry File="gidun_1\12.wav" ID="12">You cannot take on any more Materia. Please discard some Materia.</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blin65_2\1.wav" ID="1">Cloud “A model of Midgar…a city born  from the earth's Mako.”</Entry>
+  <Entry File="blin65_2\2.wav" ID="2">“Some parts are missing…” Insert the Midgar parts Leave it alone</Entry>
+  <Entry File="blin65_2\3.wav" ID="3">Cloud “…Sounds like  something opened up…”</Entry>
+  <Entry File="blin65_2\5a.wav" ID="5" Part="a">Cloud “Midgar…a city born  from the earth's Mako.  A model of the city…”</Entry>
+  <Entry File="blin65_2\5b.wav" ID="5" Part="b">“When construction of Sector 6  finishes,Shinra's plan  will be complete.”</Entry>
+  <Entry File="blin65_2\5c.wav" ID="5" Part="c">“That must be why he took  Aeris…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blin65_2\0.wav" ID="0">Shinra Bldg. 65f.</Entry>
+	<Entry File="blin65_2\4.wav" ID="4">Received Key Item "Keycard 66"!</Entry>
+-->
+</VoiceList>

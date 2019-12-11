@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds5_dk\1.wav" ID="1">“ooh…aaah…ughhhh…”</Entry>
+  <Entry File="mds5_dk\2.wav" ID="2">Aeris “This is the one…  won't you help him?”</Entry>
+  <Entry File="mds5_dk\3.wav" ID="3">Cloud “Listen,I'm no doctor.”</Entry>
+  <Entry File="mds5_dk\4.wav" ID="4">Aeris “No,I guess not…”</Entry>
+  <Entry File="mds5_dk\5.wav" ID="5">Aeris “Hey…that man has a tattoo.  I think it's the number 2.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds5_dk\0.wav" ID="0">Earthen Pipe</Entry>
+	<Entry File="mds5_dk\6.wav" ID="6">Received "Elixir"!</Entry>
+-->
+</VoiceList>

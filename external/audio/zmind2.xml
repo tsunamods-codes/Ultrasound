@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="zmind2\1.wav" ID="1">Tifa “There's nothing…  I can say.”</Entry>
+  <Entry File="zmind2\2.wav" ID="2">Tifa “You must find   the answer yourself.”</Entry>
+  <Entry File="zmind2\3.wav" ID="3">Tifa “If you can't,  then…”</Entry>
+  <Entry File="zmind2\4.wav" ID="4">Tifa “Take your time,Cloud.  Slowly…little by little,OK?”</Entry>
+  <Entry File="zmind2\5.wav" ID="5">“You mean that member of SOLDIER  who came with Sephiroth  wasn't…Cloud?”</Entry>
+  <Entry File="zmind2\6.wav" ID="6">“That starry night at the well…  and our promises…What if  the memory was all just a lie?”</Entry>
+  <Entry File="zmind2\7.wav" ID="7">Tifa “Don't hurry,Cloud…  Don't answer too quickly.”</Entry>
+  <Entry File="zmind2\8.wav" ID="8">Tifa “Just keep checking all those small emotions  and it'll come back…  Slowly…little by little…”</Entry>
+  <Entry File="zmind2\9.wav" ID="9">Tifa “Right…like the sky that night…  the heavens were filled with stars…”</Entry>
+  <Entry File="zmind2\10a.wav" ID="10" Part="a">“…A sealed up  secret…wish…”</Entry>
+  <Entry File="zmind2\10b.wav" ID="10" Part="b">“Tender feelings…  that no one can ever know…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="zmind2\0.wav" ID="0" />
+-->
+</VoiceList>

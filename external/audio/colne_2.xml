@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="colne_2\1.wav" ID="1">“Hey,ladies.”</Entry>
+  <Entry File="colne_2\2.wav" ID="2">“I'll go and let the Don know  you're here. Wait here.  Don't wander around…”</Entry>
+  <Entry File="colne_2\3.wav" ID="3">“The Don's waiting in his room…  Ha ha ha…”</Entry>
+  <Entry File="colne_2\4.wav" ID="4">Aeris “Now's our chance.  Let's find Tifa.”</Entry>
+  <Entry File="colne_2\5.wav" ID="5">Aeris “I wonder  where she is?”</Entry>
+  <Entry File="colne_2\8.wav" ID="8">“Cloud!!”</Entry>
+  <Entry File="colne_2\9.wav" ID="9">Cloud “Tifa!!” You all right? We've gotta help Aeris!!</Entry>
+  <Entry File="colne_2\10.wav" ID="10">Tifa “Hey,don't you even care about how I am?  ….nevermind,let's go!”</Entry>
+  <Entry File="colne_2\11.wav" ID="11">Tifa “Of course!  If you take me lightly,  you're gonna pay for it!!”</Entry>
+  <Entry File="colne_2\12.wav" ID="12">Aeris “No---!!  Help!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="colne_2\0.wav" ID="0">Corneo Hall,1f.</Entry>
+	<Entry File="colne_2\6.wav" ID="6">Closed…</Entry>
+	<Entry File="colne_2\7.wav" ID="7">Office of Don Corneo Keep Out!</Entry>
+-->
+</VoiceList>

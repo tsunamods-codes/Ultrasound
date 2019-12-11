@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="gaia_31\0.wav" ID="0">Gaea's Cliff</Entry>
+	<Entry File="gaia_31\1.wav" ID="1">Go up Go left Go right</Entry>
+	<Entry File="gaia_31\2.wav" ID="2">Go up Go down Go down right</Entry>
+	<Entry File="gaia_31\3.wav" ID="3">     Degrees</Entry>
+	<Entry File="gaia_31\4.wav" ID="4">Received "Fire Armlet"!</Entry>
+	<Entry File="gaia_31\5.wav" ID="5">Received "Elixir"!</Entry>
+-->
+</VoiceList>

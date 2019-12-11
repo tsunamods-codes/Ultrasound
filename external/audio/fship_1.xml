@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="fship_1\1.wav" ID="1">Barret “You okay?”</Entry>
+  <Entry File="fship_1\2.wav" ID="2">Tifa “My cheeks hurt a bit.”</Entry>
+  <Entry File="fship_1\3.wav" ID="3">Tifa “Forget it,what's all this about?”</Entry>
+  <Entry File="fship_1\4a.wav" ID="4" Part="a">Cait Sith “Well,I'll catch the details later.”</Entry>
+  <Entry File="fship_1\4b.wav" ID="4" Part="b">“In any case,the airship,  Highwind,is now yours.”</Entry>
+  <Entry File="fship_1\5.wav" ID="5">Yuffie “Ha! Ha…urk!”</Entry>
+  <Entry File="fship_1\6.wav" ID="6">Yuffie “Well…I'm glad you're safe.”</Entry>
+  <Entry File="fship_1\7.wav" ID="7">Yuffie “I'm going to stay up here a little longer.”</Entry>
+  <Entry File="fship_1\8.wav" ID="8">Yuffie “…Urk…I get sick on ships  either in the air or water.”</Entry>
+  <Entry File="fship_1\9.wav" ID="9">“I wonder where you're taking me?”</Entry>
+  <Entry File="fship_1\10.wav" ID="10">Bugenhagen “Traveling is wonderful,isn't it?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="fship_1\0.wav" ID="0">Highwind</Entry>
+-->
+</VoiceList>

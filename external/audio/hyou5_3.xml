@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="hyou5_3\29.wav" ID="29">Cloud “Ugh…”</Entry>
+  <Entry File="hyou5_3\30.wav" ID="30">Cloud “I guess we're still in one piece.”</Entry>
+  <Entry File="hyou5_3\31.wav" ID="31">Cloud “Everyone  all right?”</Entry>
+  <Entry File="hyou5_3\32.wav" ID="32">Tifa “Yeah,I guess.”</Entry>
+  <Entry File="hyou5_3\33.wav" ID="33">Barret “Of course.”</Entry>
+  <Entry File="hyou5_3\34.wav" ID="34">Aeris “I'm sick of this.”</Entry>
+  <Entry File="hyou5_3\35.wav" ID="35">Red XIII “…Snow in my ear.”</Entry>
+  <Entry File="hyou5_3\36.wav" ID="36">Yuffie “God!  I can't stand it!”</Entry>
+  <Entry File="hyou5_3\37.wav" ID="37">Cait Sith “I'm a little off.”</Entry>
+  <Entry File="hyou5_3\38.wav" ID="38">Vincent “Yeah,I'm all right.”</Entry>
+  <Entry File="hyou5_3\39.wav" ID="39">Cid “I'm too old for this!  Damn!”</Entry>
+  <Entry File="hyou5_3\40.wav" ID="40">Cloud “So where did we land?”</Entry>
+  <Entry File="hyou5_3\41.wav" ID="41">Cloud “That didn't seem like  such a big jump…”</Entry>
+  <Entry File="hyou5_3\42.wav" ID="42">Cloud “In fact,it feels like  we didn't even jump at all…”</Entry>
+  <Entry File="hyou5_3\43.wav" ID="43">Cloud “We've jumped pretty far…”</Entry>
+  <Entry File="hyou5_3\44.wav" ID="44">“We've jumped pretty far…”</Entry>
+  <Entry File="hyou5_3\45.wav" ID="45">Tifa “Well,we've got a map,right?  Look at the map by pressing  [SWITCH].”</Entry>
+  <Entry File="hyou5_3\46.wav" ID="46">Aeris “Hey.  Let's take a look at the map.  Press [SWITCH].”</Entry>
+  <Entry File="hyou5_3\47.wav" ID="47">Yuffie “We need the map,okay!?  Let's see it with [SWITCH].”</Entry>
+  <Entry File="hyou5_3\48.wav" ID="48">Barret “Hey,what's that!?  You just got something,right?  Use[SWITCH] to see it.”</Entry>
+  <Entry File="hyou5_3\49.wav" ID="49">Red XIII “All right,let's look at the map.  We use [SWITCH],right?”</Entry>
+  <Entry File="hyou5_3\50.wav" ID="50">Cait Sith “Then,let's look at the map.  Just push [SWITCH].”</Entry>
+  <Entry File="hyou5_3\51.wav" ID="51">Vincent “We should check it on the map.  Press [SWITCH].”</Entry>
+  <Entry File="hyou5_3\52.wav" ID="52">Cid “Quick! The map,the map!  Look at it with [SWITCH]!”</Entry>
+  <Entry File="hyou5_3\53.wav" ID="53">Cloud “It sure is cold.  We'll freeze  if we stay here any longer.”</Entry>
+  <Entry File="hyou5_3\54.wav" ID="54">Cloud “This is the only place not frozen.” Touch it Let's go on</Entry>
+  <Entry File="hyou5_3\55.wav" ID="55">Cloud “Hmm,a hot springs.”</Entry>
+  <Entry File="hyou5_3\56.wav" ID="56">“…Go.”</Entry>
+  <Entry File="hyou5_3\57.wav" ID="57">“Don't worry about me.”</Entry>
+  <Entry File="hyou5_3\58.wav" ID="58">“Now,  I don't want to hurt any of you.”</Entry>
+  <Entry File="hyou5_3\59.wav" ID="59">“And don't come back again.”</Entry>
+  <Entry File="hyou5_3\60.wav" ID="60">“Please,stop it.”</Entry>
+  <Entry File="hyou5_3\61.wav" ID="61">“Please,that's enough.”</Entry>
+  <Entry File="hyou5_3\62a.wav" ID="62" Part="a">“Yeeew…  You got a lot of nerve trying to  touch me with the same dirty hands  that touched that filthy hot spring!”</Entry>
+  <Entry File="hyou5_3\62b.wav" ID="62" Part="b">“I'll never forgive you.”</Entry>
+  <Entry File="hyou5_3\63.wav" ID="63">“Hah,just remember your place!”</Entry>
+  <Entry File="hyou5_3\64.wav" ID="64">“Still don't get it,eh?”</Entry>
+  <Entry File="hyou5_3\65.wav" ID="65">“Why this?”</Entry>
+  <Entry File="hyou5_3\66.wav" ID="66">“Received "Alexander" Materia!</Entry>
+  <Entry File="hyou5_3\68.wav" ID="68">Cloud “The only way is to cross…” That's the way it goes… I don't feel like it</Entry>
+  <Entry File="hyou5_3\69.wav" ID="69">Cloud “Face the direction you want to jump in then press [OK].”</Entry>
+  <Entry File="hyou5_3\71.wav" ID="71">Cloud “Looks like trouble.” We're outta here! Wait a minute!</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="hyou5_3\0.wav" ID="0">Great Glacier</Entry>
+	<Entry File="hyou5_3\1.wav" ID="1">Great Glacier</Entry>
+	<Entry File="hyou5_3\2.wav" ID="2">Great Glacier</Entry>
+	<Entry File="hyou5_3\3.wav" ID="3">Great Glacier</Entry>
+	<Entry File="hyou5_3\4.wav" ID="4">Great Glacier</Entry>
+	<Entry File="hyou5_3\5.wav" ID="5">Great Glacier</Entry>
+	<Entry File="hyou5_3\6.wav" ID="6">Great Glacier</Entry>
+	<Entry File="hyou5_3\7.wav" ID="7">Great Glacier</Entry>
+	<Entry File="hyou5_3\8.wav" ID="8">Great Glacier</Entry>
+	<Entry File="hyou5_3\9.wav" ID="9">Great Glacier</Entry>
+	<Entry File="hyou5_3\10.wav" ID="10">Great Glacier</Entry>
+	<Entry File="hyou5_3\11.wav" ID="11">Great Glacier</Entry>
+	<Entry File="hyou5_3\12.wav" ID="12">Great Glacier</Entry>
+	<Entry File="hyou5_3\13.wav" ID="13">Great Glacier</Entry>
+	<Entry File="hyou5_3\14.wav" ID="14">Great Glacier</Entry>
+	<Entry File="hyou5_3\15.wav" ID="15">Great Glacier</Entry>
+	<Entry File="hyou5_3\16.wav" ID="16">Great Glacier</Entry>
+	<Entry File="hyou5_3\17.wav" ID="17">Great Glacier</Entry>
+	<Entry File="hyou5_3\18.wav" ID="18">Great Glacier</Entry>
+	<Entry File="hyou5_3\19.wav" ID="19">Great Glacier</Entry>
+	<Entry File="hyou5_3\20.wav" ID="20">Great Glacier</Entry>
+	<Entry File="hyou5_3\21.wav" ID="21">Cave</Entry>
+	<Entry File="hyou5_3\22.wav" ID="22">Cave</Entry>
+	<Entry File="hyou5_3\23.wav" ID="23">Cave</Entry>
+	<Entry File="hyou5_3\24.wav" ID="24">Cave</Entry>
+	<Entry File="hyou5_3\25.wav" ID="25">Frostbite Cave</Entry>
+	<Entry File="hyou5_3\26.wav" ID="26">Frostbite Cave</Entry>
+	<Entry File="hyou5_3\27.wav" ID="27">Received "Potion"!</Entry>
+	<Entry File="hyou5_3\28.wav" ID="28">Received "Elixir"!</Entry>
+	<Entry File="hyou5_3\67.wav" ID="67">Cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="hyou5_3\70.wav" ID="70">Received "Added Cut" Materia!</Entry>
+	<Entry File="hyou5_3\72.wav" ID="72">Received "All" Materia!</Entry>
+	<Entry File="hyou5_3\73.wav" ID="73">Received "Safety Bit"!</Entry>
+	<Entry File="hyou5_3\74.wav" ID="74">Received "Mind Source"!</Entry>
+-->
+</VoiceList>

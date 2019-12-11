@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="del1\1a.wav" ID="1" Part="a">Barret “Damn!  Sure is hot here!”</Entry>
+  <Entry File="del1\1b.wav" ID="1" Part="b">“But I sure feel better  now that I can say good-bye  to this sailor suit.”</Entry>
+  <Entry File="del1\1c.wav" ID="1" Part="c">“Yo listen up!!  Y'all be sure to mingle like  regular folks here!”</Entry>
+  <Entry File="del1\2.wav" ID="2">Aeris “Oh,too bad.  I liked Barret's sailor suit.  He looked so cute.”</Entry>
+  <Entry File="del1\3.wav" ID="3">Barret “…What'ya mean 'cute'?”</Entry>
+  <Entry File="del1\4a.wav" ID="4" Part="a">Tifa “Right…well,uh…”</Entry>
+  <Entry File="del1\4b.wav" ID="4" Part="b">“Barret,why don't you use that   sailor suit for pajamas?”</Entry>
+  <Entry File="del1\5.wav" ID="5">“Right,Cloud?” I guess Keep your mind on Sephiroth</Entry>
+  <Entry File="del1\6a.wav" ID="6" Part="a">Cloud “Remember,this isn't a vacation.  We're here after Sephiroth.”</Entry>
+  <Entry File="del1\6b.wav" ID="6" Part="b">“I'm going on ahead.”</Entry>
+  <Entry File="del1\7a.wav" ID="7" Part="a">Barret “Hmmph,Cloud. You're the one  who's always hangin' around wastin' time.”</Entry>
+  <Entry File="del1\7b.wav" ID="7" Part="b">“I'm going to skip this resort!”</Entry>
+  <Entry File="del1\8.wav" ID="8">Cloud “Ahhh…  You look like a bear wearing a marshmallow.”</Entry>
+  <Entry File="del1\9.wav" ID="9">Barret “The hell's that supposed to mean!?  This happens to be the most comfortable,  so shu'up!”</Entry>
+  <Entry File="del1\10a.wav" ID="10" Part="a">Red XIII “…puff…puff…”</Entry>
+  <Entry File="del1\10b.wav" ID="10" Part="b">“Would you kindly hurry?  The heat here is drying my nose.”</Entry>
+  <Entry File="del1\11.wav" ID="11">Yuffie “Yeah,mine,too!!”</Entry>
+  <Entry File="del1\12a.wav" ID="12" Part="a">Cloud “All right.  We'll take a break and then head off.”</Entry>
+  <Entry File="del1\12b.wav" ID="12" Part="b">“Don't wander too far off.”</Entry>
+  <Entry File="del1\13.wav" ID="13">Barret “I'll wander wherever I damn well want!  Who made him the leader?”</Entry>
+  <Entry File="del1\14a.wav" ID="14" Part="a">Red XIII “It looks like my mane got messed up.”</Entry>
+  <Entry File="del1\14b.wav" ID="14" Part="b">“I'm going to rest somewhere cool.”</Entry>
+  <Entry File="del1\15.wav" ID="15">Tifa “I think I'll go swimming.”</Entry>
+  <Entry File="del1\16.wav" ID="16">Aeris “Sounds good to me!”</Entry>
+  <Entry File="del1\17a.wav" ID="17" Part="a">Aeris “Hmm? Cloud,  are you thinking of anything in particular?”</Entry>
+  <Entry File="del1\17b.wav" ID="17" Part="b">“Your cool exterior's cracking…”</Entry>
+  <Entry File="del1\18.wav" ID="18">Aeris “Well then,let's go!”</Entry>
+  <Entry File="del1\19a.wav" ID="19" Part="a">Aeris “Maybe I should get a tan for a change.”</Entry>
+  <Entry File="del1\19b.wav" ID="19" Part="b">“Which do you like,Cloud?” I like fair complexions Maybe a healthy tan is nice</Entry>
+  <Entry File="del1\20.wav" ID="20">Aeris “Got it. I'll remember that.”</Entry>
+  <Entry File="del1\21.wav" ID="21">Yuffie “Don't bother looking for me!”</Entry>
+  <Entry File="del1\22.wav" ID="22">“What a long boat ride that was!!”</Entry>
+  <Entry File="del1\23.wav" ID="23">Rufus “Hmmm…  Good work everyone…”</Entry>
+  <Entry File="del1\24.wav" ID="24">Heidegger “Gya,Haa,haa…ha!!  Hurry up with that!”</Entry>
+  <Entry File="del1\25.wav" ID="25">“Yes,sir!!”</Entry>
+  <Entry File="del1\26.wav" ID="26">Rufus “I heard Sephiroth was on board.”</Entry>
+  <Entry File="del1\27.wav" ID="27">Heidegger “Yes.”</Entry>
+  <Entry File="del1\28.wav" ID="28">Rufus “And it seems Cloud  and the others were on board,too.”</Entry>
+  <Entry File="del1\29.wav" ID="29">Heidegger “Yes.”</Entry>
+  <Entry File="del1\30.wav" ID="30">Rufus “They all slipped through…  You messed up big this time,Heidegger.”</Entry>
+  <Entry File="del1\31.wav" ID="31">Heidegger “I'm ashamed of myself.”</Entry>
+  <Entry File="del1\32.wav" ID="32">Rufus “Is that all you can do?  Give one word answers  and apologize for everything?”</Entry>
+  <Entry File="del1\33.wav" ID="33">Rufus “Do something.  I'll be expecting results.”</Entry>
+  <Entry File="del1\34.wav" ID="34">“Ready for departure,sir!!”</Entry>
+  <Entry File="del1\35.wav" ID="35">Rufus “Very well then.  That was fast.”</Entry>
+  <Entry File="del1\36.wav" ID="36">“YES,SIR!!  Thank you,sir.”</Entry>
+  <Entry File="del1\37.wav" ID="37">Rufus “Remember Heidegger,  You're allowed only one mistake.”</Entry>
+  <Entry File="del1\38.wav" ID="38">“I'm the boss!”</Entry>
+  <Entry File="del1\39a.wav" ID="39" Part="a">“But a bunch of hardworking deckhands  like you wouldn't understand.”</Entry>
+  <Entry File="del1\39b.wav" ID="39" Part="b">“On the marine blue sea,  Gazing at the eternal skies  that seem to go on forever…  Gives you the feeling like  you're taking a nap on the wing of a Cessna.”</Entry>
+  <Entry File="del1\39c.wav" ID="39" Part="c">“It's the ultimate high!”</Entry>
+  <Entry File="del1\40a.wav" ID="40" Part="a">“He's quite handsome,isn't he?”</Entry>
+  <Entry File="del1\40b.wav" ID="40" Part="b">“Oh,don't worry,I'm not talking about you.”</Entry>
+  <Entry File="del1\40c.wav" ID="40" Part="c">“I'm talking about President Rufus.  Charming,rich,blond…  He even looks good in a double-breasted suit.”</Entry>
+  <Entry File="del1\41a.wav" ID="41" Part="a">“Heh,heh…  I hear the Shinra brass are arriving soon.”</Entry>
+  <Entry File="del1\41b.wav" ID="41" Part="b">“Heh,heh!  Got nothing to do with us,does it?”</Entry>
+  <Entry File="del1\42a.wav" ID="42" Part="a">“Hey!  Spread out,all of you,out!!”</Entry>
+  <Entry File="del1\42b.wav" ID="42" Part="b">“Put any fingerprints,scratches,or dents  on that plane and I'll put one in your head!”</Entry>
+  <Entry File="del1\42c.wav" ID="42" Part="c">“Da plane,da plane!!  This's something  you'll never be able to do in your lifetime.”</Entry>
+  <Entry File="del1\42d.wav" ID="42" Part="d">“So you just watch from a distance…  and wish.”</Entry>
+  <Entry File="del1\43a.wav" ID="43" Part="a">“Costa del Sol…a harbor paradise   where the sun always shines  and it's summer all year round!”</Entry>
+  <Entry File="del1\43b.wav" ID="43" Part="b">“Hmm…Things aren't going well…  You can go sightseeing in the city.”</Entry>
+  <Entry File="del1\44a.wav" ID="44" Part="a">“You're stowaways,right?”</Entry>
+  <Entry File="del1\44b.wav" ID="44" Part="b">“It's okay.  I'm used to them.”</Entry>
+  <Entry File="del1\44c.wav" ID="44" Part="c">“The truth is,before I worked here,  I was one of the best.”</Entry>
+  <Entry File="del1\45a.wav" ID="45" Part="a">“Don't bug me.  This is Rufus's first official visit  since becoming President.”</Entry>
+  <Entry File="del1\45b.wav" ID="45" Part="b">“It seems like he's here  on business this time.”</Entry>
+  <Entry File="del1\45c.wav" ID="45" Part="c">“I'm so jealous of him I could spit.  We're both about the same age  but he's President.”</Entry>
+  <Entry File="del1\46a.wav" ID="46" Part="a">“Oh crap…  The manager of Shinra won't come down.”</Entry>
+  <Entry File="del1\46b.wav" ID="46" Part="b">“Even though the President's here on business.  All he does is play,  forgetting everything to do with work.”</Entry>
+  <Entry File="del1\47a.wav" ID="47" Part="a">“Rufus complimented me on my job!”</Entry>
+  <Entry File="del1\47b.wav" ID="47" Part="b">“Wow!!  I guess it pays to do good work.”</Entry>
+  <Entry File="del1\48a.wav" ID="48" Part="a">“Damn.  I'm soaking wet down to my underwear.”</Entry>
+  <Entry File="del1\48b.wav" ID="48" Part="b">“Oops! You must be those AVALANCHE guys!”</Entry>
+  <Entry File="del1\48c.wav" ID="48" Part="c">“Quick! Let's get outta here!  Heidegger's in charge of the transport ship.”</Entry>
+  <Entry File="del1\48d.wav" ID="48" Part="d">“That's tough for both of us.”</Entry>
+  <Entry File="del1\49.wav" ID="49">“Ride the Shinra ship?   Yeah,I could go for that   Don't think I could steer it</Entry>
+  <Entry File="del1\50a.wav" ID="50" Part="a">“Oh…is that so?”</Entry>
+  <Entry File="del1\50b.wav" ID="50" Part="b">“Yep!  Actually,we do have an old junker  we're gonna get rid of,  And I was thinking about  going into the tourist business.”</Entry>
+  <Entry File="del1\50c.wav" ID="50" Part="c">“But it's probably tougher than it looks  I better think this through a little more…”</Entry>
+  <Entry File="del1\51.wav" ID="51">“Yeah.  It's too much for an amateur!”</Entry>
+  <Entry File="del1\52a.wav" ID="52" Part="a">Shinra manager “Oh,oh,oh!!!  I'm gonna quit this company!!”</Entry>
+  <Entry File="del1\52b.wav" ID="52" Part="b">“I mean it,I'm really gonna quit!!”</Entry>
+  <Entry File="del1\53a.wav" ID="53" Part="a">Shinra manager “Heidegger's such an idiot!!”</Entry>
+  <Entry File="del1\53b.wav" ID="53" Part="b">“And Rufus,acting all big!!”</Entry>
+  <Entry File="del1\54.wav" ID="54">Shinra manager “God,that sure felt good…”</Entry>
+  <Entry File="del1\55.wav" ID="55">“The transport ship won't be sailing  for quite awhile.  Heidegger's orders.”</Entry>
+  <Entry File="del1\56.wav" ID="56">“Thinking of being stowaways?”</Entry>
+  <Entry File="del1\57a.wav" ID="57" Part="a">“It's 100 gil to Junon.  Give it to me,  and I'll put in a good word with the captain.”</Entry>
+  <Entry File="del1\57b.wav" ID="57" Part="b">“What'll we do?”  Pay up  Don't do it</Entry>
+  <Entry File="del1\58.wav" ID="58">“Thank you. Come back any time   you want to stowaway on our ship.”</Entry>
+  <Entry File="del1\59.wav" ID="59">“Hey! No money?  And you're trying to stowaway?  Don't make me laugh!”</Entry>
+  <Entry File="del1\60.wav" ID="60">“Okay.  Come on. This way.”</Entry>
+  <Entry File="del1\61.wav" ID="61">“It's not the most pleasant ride   but make the best of it.”</Entry>
+  <Entry File="del1\62.wav" ID="62">“Ever since Rufus complimented him,  he strutted around for awhile,  and haven't heard a peep from him since…”</Entry>
+  <Entry File="del1\63.wav" ID="63">“Today's a great day for a nap in the sun.  It always puts me in a good mood!”</Entry>
+  <Entry File="del1\64a.wav" ID="64" Part="a">“Hey,who're you?  You look like  you've been around the world twice.”</Entry>
+  <Entry File="del1\64b.wav" ID="64" Part="b">“I don't know what your story is,  but hang in there.”</Entry>
+  <Entry File="del1\65.wav" ID="65">“Everyone's in a rush to get one last vacation in   before the Meteor strikes.  That's why it's so busy here.”</Entry>
+  <Entry File="del1\66.wav" ID="66">“There's no ship to Junon.  Recently,there's been a hoard on materials.  Everything's topsy-turvy.”</Entry>
+  <Entry File="del1\67a.wav" ID="67" Part="a">“Not gonna be able to nap like this  for much longer.”</Entry>
+  <Entry File="del1\67b.wav" ID="67" Part="b">“When you put it that way,I feel kind of sad.”</Entry>
+  <Entry File="del1\68a.wav" ID="68" Part="a">“Well,I'm not worried.  When it all comes down,  I'm heading for the skies.”</Entry>
+  <Entry File="del1\68b.wav" ID="68" Part="b">“The only problem is…  will there be anywhere  left to land?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="del1\0.wav" ID="0">Costa del Sol Harbor</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="losin2\9.wav" ID="9">Cloud “This place…!”</Entry>
+  <Entry File="losin2\10.wav" ID="10">Cloud “So that's……the capital of the Ancients  'The Forgotten City'.”</Entry>
+  <Entry File="losin2\11.wav" ID="11">Cloud “Aeris is in that 'City'.”</Entry>
+  <Entry File="losin2\12.wav" ID="12">Cloud “…Ugh.”</Entry>
+  <Entry File="losin2\13.wav" ID="13">Cloud “…Words of the Ancients?”</Entry>
+  <Entry File="losin2\14.wav" ID="14">Cloud “…no good.  I can't understand.”</Entry>
+  <Entry File="losin2\15.wav" ID="15">Cloud “…Ugh,again?”</Entry>
+  <Entry File="losin2\16.wav" ID="16">Cloud “This stream of consciousness…  Could this be the words  of the Ancients…?”</Entry>
+  <Entry File="losin2\17.wav" ID="17">Tifa “Eyaaaa!”</Entry>
+  <Entry File="losin2\18.wav" ID="18">Tifa “…Consciousness of the Ancients?”</Entry>
+  <Entry File="losin2\19.wav" ID="19">Tifa “…I'm sorry.  …I can't…understand.”</Entry>
+  <Entry File="losin2\20.wav" ID="20">Tifa “Eaayy!?  Again?”</Entry>
+  <Entry File="losin2\21.wav" ID="21">Tifa “It speaks directly to my mind…  Is this the Consciousness  of the Ancients?”</Entry>
+  <Entry File="losin2\22.wav" ID="22">Cid “Whoa…!”</Entry>
+  <Entry File="losin2\23.wav" ID="23">Cid “What the hell's this?”</Entry>
+  <Entry File="losin2\24.wav" ID="24">Cid “Hey Ancients,  I don't even have a clue,  what you're trying to say to me.”</Entry>
+  <Entry File="losin2\25.wav" ID="25">Cid “Whoa,shit!  Not again!”</Entry>
+  <Entry File="losin2\26a.wav" ID="26" Part="a">Cid “Who is it? Who's trying to peek  into my mind?”</Entry>
+  <Entry File="losin2\26b.wav" ID="26" Part="b">“Is it the Consciousness  of the Ancients?”</Entry>
+  <Entry File="losin2\27.wav" ID="27">Barret “heh,there's a bed.”</Entry>
+  <Entry File="losin2\28.wav" ID="28">Tifa “Do you think the people who  used to live here used it?”</Entry>
+  <Entry File="losin2\29.wav" ID="29">Red XIII “Look,there's a bed here.”</Entry>
+  <Entry File="losin2\30.wav" ID="30">Cid “Yeah,and it looks  pretty comfortable.”</Entry>
+  <Entry File="losin2\31.wav" ID="31">Yuffie “How COOL! I can't believe  we found such a soft bed   in a dive like this.”</Entry>
+  <Entry File="losin2\32.wav" ID="32">Cait Sith “We're in luck.  There's a bed in here.”</Entry>
+  <Entry File="losin2\33.wav" ID="33">Vincent “I wonder if the owners used this?”</Entry>
+  <Entry File="losin2\34.wav" ID="34">Barret “Yo,Cloud.  Let's take a break here.”</Entry>
+  <Entry File="losin2\35.wav" ID="35">Tifa “Shall we take a break here?”</Entry>
+  <Entry File="losin2\36.wav" ID="36">Red XIII “Hey,let's rest a bit.  I'm tired…”</Entry>
+  <Entry File="losin2\37.wav" ID="37">Cid “I'm beat.  Why don't we get some rest?”</Entry>
+  <Entry File="losin2\38.wav" ID="38">Yuffie “Come on--,let's rest for a while---  I don't want to walk anymore…”</Entry>
+  <Entry File="losin2\39.wav" ID="39">Cait Sith “Why don't we catch some ZZZs?…”</Entry>
+  <Entry File="losin2\40.wav" ID="40">Vincent “Maybe we should take a short nap?”</Entry>
+  <Entry File="losin2\42.wav" ID="42">Cloud “I feel it…”</Entry>
+  <Entry File="losin2\43.wav" ID="43">Cloud “Aeris is here.  …and so is Sephiroth.”</Entry>
+  <Entry File="losin2\44.wav" ID="44">Cloud “…It's not an excuse.  I feel it in my soul.”</Entry>
+  <Entry File="losin2\45.wav" ID="45">Barret “Cloud,what is it?”</Entry>
+  <Entry File="losin2\46.wav" ID="46">Tifa “Cloud…what's wrong?”</Entry>
+  <Entry File="losin2\47.wav" ID="47">Red XIII “What's wrong?  Are you sick?”</Entry>
+  <Entry File="losin2\48.wav" ID="48">Cid “Do you know what TIME it is!?”</Entry>
+  <Entry File="losin2\49.wav" ID="49">Yuffie “Hey---,Cloud.  What's your problem?”</Entry>
+  <Entry File="losin2\50.wav" ID="50">Cait Sith “What's wrong?  What time is it…?”</Entry>
+  <Entry File="losin2\51.wav" ID="51">Vincent “…What's wrong?”</Entry>
+  <Entry File="losin2\52.wav" ID="52">Barret “Wh,what!  Sephiroth!?”</Entry>
+  <Entry File="losin2\53.wav" ID="53">Tifa “You're saying it's not just Aeris,  but Sephiroth,too?”</Entry>
+  <Entry File="losin2\54.wav" ID="54">Red XIII “What! Sephiroth's here too!?”</Entry>
+  <Entry File="losin2\55.wav" ID="55">Cid “Wa,wa,wait a minute.  You serious!?”</Entry>
+  <Entry File="losin2\56.wav" ID="56">Yuffie “No way---!  Sephiroth wasn't invited!”</Entry>
+  <Entry File="losin2\57.wav" ID="57">Cait Sith “Are you serious,Cloud!?”</Entry>
+  <Entry File="losin2\58.wav" ID="58">Vincent “…If that's true,  then we're in for it.”</Entry>
+  <Entry File="losin2\59.wav" ID="59">Barret “How do you know that?”</Entry>
+  <Entry File="losin2\60.wav" ID="60">Tifa “But how can you tell?”</Entry>
+  <Entry File="losin2\61.wav" ID="61">Red XIII “How did you find out?”</Entry>
+  <Entry File="losin2\62.wav" ID="62">Cid “Hey,how do you know!?”</Entry>
+  <Entry File="losin2\63.wav" ID="63">Yuffie “Wh…why?  How can you tell  that kind of stuff?”</Entry>
+  <Entry File="losin2\64.wav" ID="64">Cait Sith “But how can you tell that?”</Entry>
+  <Entry File="losin2\65.wav" ID="65">Vincent “…How did you find that out?”</Entry>
+  <Entry File="losin2\66.wav" ID="66">Barret “Then,we better get up  offa our lazy asses!!”</Entry>
+  <Entry File="losin2\67.wav" ID="67">Tifa “If that's true,then we've got to hurry!  We've got to get to Aeris!”</Entry>
+  <Entry File="losin2\68.wav" ID="68">Red XIII “Wh,…what should we do?  We must hurry to her!”</Entry>
+  <Entry File="losin2\69.wav" ID="69">Cid “Shit,Cloud.  We can't be sittin' around  on our asses.”</Entry>
+  <Entry File="losin2\70.wav" ID="70">Yuffie “That means it's pretty bad  …doesn't it?”</Entry>
+  <Entry File="losin2\71.wav" ID="71">Cait Sith “If that's true,then we're in for it!  We have to find Aeris fast!”</Entry>
+  <Entry File="losin2\72.wav" ID="72">Vincent “If that's true,we should hurry.  Something terrible could happen  at any moment.”</Entry>
+  <Entry File="losin2\73.wav" ID="73">Cloud “…Right.  Let's hurry and  find Aeris.”</Entry>
+  <Entry File="losin2\74.wav" ID="74">Cloud “No time to be sleeping.”</Entry>
+  <Entry File="losin2\75.wav" ID="75">Cloud “No time to think about it.”</Entry>
+  <Entry File="losin2\76.wav" ID="76">Cloud “Aeris's voice……  Coming from there?”</Entry>
+  <Entry File="losin2\77.wav" ID="77">Cloud “We have to find Aeris.”</Entry>
+  <Entry File="losin2\78.wav" ID="78">Barret “Hey yo!  Wait up.”</Entry>
+  <Entry File="losin2\79.wav" ID="79">Barret “I hate to say it,but I'm beat.  Isn't there anywhere to rest.”</Entry>
+  <Entry File="losin2\80.wav" ID="80">Tifa “Hey,hey Cloud.”</Entry>
+  <Entry File="losin2\81.wav" ID="81">Tifa “I'm…I'm so tired.  Can't we find somewhere to rest?”</Entry>
+  <Entry File="losin2\82.wav" ID="82">Red XIII “Wait!”</Entry>
+  <Entry File="losin2\83.wav" ID="83">Red XIII “I'm exhausted.  Let me get some rest somewhere.”</Entry>
+  <Entry File="losin2\84.wav" ID="84">Cid “H…ey,Cloud”</Entry>
+  <Entry File="losin2\85.wav" ID="85">Cid “I gotta get some more rest.  Let me catch a snooze  somewhere around here.”</Entry>
+  <Entry File="losin2\86.wav" ID="86">Yuffie “Ahhh--- I can't go another step!!”</Entry>
+  <Entry File="losin2\87.wav" ID="87">Yuffie “I'm so----o tired!  If you don't get me to a bed,  I'm not taking another step!”</Entry>
+  <Entry File="losin2\88.wav" ID="88">Cait Sith “Wa------it!”</Entry>
+  <Entry File="losin2\89.wav" ID="89">Cait Sith “I'm exhausted. I'm sorry,  but please let me rest somewhere.”</Entry>
+  <Entry File="losin2\90.wav" ID="90">Vincent “Wait,Cloud.”</Entry>
+  <Entry File="losin2\91.wav" ID="91">Vincent “…I'm tired.”</Entry>
+  <Entry File="losin2\92.wav" ID="92">Cloud “Everyone,listen to me.”</Entry>
+  <Entry File="losin2\93.wav" ID="93">Cloud “I'm Cloud,ex-SOLDIER,  born in Nibelheim.”</Entry>
+  <Entry File="losin2\94.wav" ID="94">Cloud “I came to settle up  with Sephiroth.”</Entry>
+  <Entry File="losin2\95.wav" ID="95">Barret “What're ya tryin' to say?”</Entry>
+  <Entry File="losin2\96.wav" ID="96">Tifa “…What's going on?”</Entry>
+  <Entry File="losin2\97.wav" ID="97">Red XIII “…Hmm?”</Entry>
+  <Entry File="losin2\98.wav" ID="98">Cid “I heard that before.”</Entry>
+  <Entry File="losin2\99.wav" ID="99">Yuffie “Why now?”</Entry>
+  <Entry File="losin2\100.wav" ID="100">Cait Sith “Why're you being so formal?  Is something wrong?”</Entry>
+  <Entry File="losin2\101.wav" ID="101">Vincent “…You're right.”</Entry>
+  <Entry File="losin2\102a.wav" ID="102" Part="a">Cloud “I came here by my own free will…  Or so I thought.”</Entry>
+  <Entry File="losin2\102b.wav" ID="102" Part="b">“However…”</Entry>
+  <Entry File="losin2\103.wav" ID="103">Cloud “…To tell the truth,  I'm afraid of myself.”</Entry>
+  <Entry File="losin2\104a.wav" ID="104" Part="a">Cloud “…There is a part of me  that I don't understand.”</Entry>
+  <Entry File="losin2\104b.wav" ID="104" Part="b">“That part that made me give   the Black Materia to Sephiroth.”</Entry>
+  <Entry File="losin2\105a.wav" ID="105" Part="a">Cloud “If you hadn't stopped me,  Aeris might have been…”</Entry>
+  <Entry File="losin2\105b.wav" ID="105" Part="b">“…There's something inside of me.  A person who is not really me.”</Entry>
+  <Entry File="losin2\106a.wav" ID="106" Part="a">Cloud “That's why  I should quit this journey.”</Entry>
+  <Entry File="losin2\106b.wav" ID="106" Part="b">“Before I do something terrible.”</Entry>
+  <Entry File="losin2\107b.wav" ID="107" Part="b">“He destroyed my hometown five years ago,  killed Aeris,and is  now trying to destroy the Planet.  I'll never forgive…Sephiroth.”</Entry>
+  <Entry File="losin2\108.wav" ID="108">Cloud “I…  I must go on.”</Entry>
+  <Entry File="losin2\109.wav" ID="109">Cloud “…I have a favor to ask of you.”</Entry>
+  <Entry File="losin2\110.wav" ID="110">Cloud “Will you all come with me?”</Entry>
+  <Entry File="losin2\111.wav" ID="111">Cloud “…to save me  from doing something terrible.”</Entry>
+  <Entry File="losin2\112.wav" ID="112">Barret “…I dunno,man…”</Entry>
+  <Entry File="losin2\113.wav" ID="113">Tifa “…But,Cloud”</Entry>
+  <Entry File="losin2\114.wav" ID="114">Red XIII “…All right,Cloud.”</Entry>
+  <Entry File="losin2\115.wav" ID="115">Cid “Well,we'll face it  when it happens.”</Entry>
+  <Entry File="losin2\116.wav" ID="116">Yuffie “Leave it to me!”</Entry>
+  <Entry File="losin2\117.wav" ID="117">Cait Sith “Watch you?……  We're all in this together!”</Entry>
+  <Entry File="losin2\118.wav" ID="118">Vincent “…I guess so.”</Entry>
+  <Entry File="losin2\119a.wav" ID="119" Part="a">Cloud “I don't know how Aeris  tried to save the planet  from the Meteor.”</Entry>
+  <Entry File="losin2\119b.wav" ID="119" Part="b">“And I guess now,  we'll never know.”</Entry>
+  <Entry File="losin2\120.wav" ID="120">Cloud “But!”</Entry>
+  <Entry File="losin2\121.wav" ID="121">Cloud “We still have a chance.  We must get that Black Materia back  before Sephiroth uses it.”</Entry>
+  <Entry File="losin2\122.wav" ID="122">Cloud “Let's go.”</Entry>
+  <Entry File="losin2\123.wav" ID="123">Barret “That way goes to  the Mountains up north.  Let's hurry and find Aeris.”</Entry>
+  <Entry File="losin2\124.wav" ID="124">Tifa “If we continue this way,we'll end  up in the Northern Mountains.  Aeris isn't over there,right?”</Entry>
+  <Entry File="losin2\125.wav" ID="125">Red XIII “That road leads to the Northern Mountains.  We have to go the other way  to find Aeris.”</Entry>
+  <Entry File="losin2\126.wav" ID="126">Cid “You thinkin' of going skiing?  If we wanna find Aeris,  we go THAT way!”</Entry>
+  <Entry File="losin2\127.wav" ID="127">Yuffie “We're looking for Aeris,right!  Then why are you heading for  the mountains!? What a dork!”</Entry>
+  <Entry File="losin2\128a.wav" ID="128" Part="a">Cait Sith “Cloud,uh  that's the road to the Northern Mountains.”</Entry>
+  <Entry File="losin2\128b.wav" ID="128" Part="b">“Aeris is waiting,  let's go find her.”</Entry>
+  <Entry File="losin2\129.wav" ID="129">Vincent “This is the road to the Northern  Mountains.  Don't you want to find Aeris?”</Entry>
+  <Entry File="losin2\130.wav" ID="130">Barret “Which way'd that damn foo'  Sephiroth go?”</Entry>
+  <Entry File="losin2\131.wav" ID="131">Tifa “Sephiroth…  I wonder which way he went?”</Entry>
+  <Entry File="losin2\132.wav" ID="132">Red XIII “Sephiroth…  Which way did he go?”</Entry>
+  <Entry File="losin2\133.wav" ID="133">Cid “…Which way did that  creep Sephiroth go!?”</Entry>
+  <Entry File="losin2\134.wav" ID="134">Yuffie “Ummm…  Which way did that  Sephiroth guy go?”</Entry>
+  <Entry File="losin2\135.wav" ID="135">Cait Sith “I wonder which way   Sephiroth went?”</Entry>
+  <Entry File="losin2\136.wav" ID="136">Vincent “Which way did Sephiroth head?”</Entry>
+  <Entry File="losin2\137.wav" ID="137">Barret “Hey,you alright?”</Entry>
+  <Entry File="losin2\138.wav" ID="138">Tifa “Cloud!  Get a hold of yourself!!”</Entry>
+  <Entry File="losin2\139.wav" ID="139">Red XIII “You all right?”</Entry>
+  <Entry File="losin2\140.wav" ID="140">Cid “Ey,hey!  You alright?”</Entry>
+  <Entry File="losin2\141.wav" ID="141">Yuffie “Wait!  Get a hold of yourself!”</Entry>
+  <Entry File="losin2\142.wav" ID="142">Cait Sith “Cloud!  Are you all right?”</Entry>
+  <Entry File="losin2\143.wav" ID="143">Vincent “…you all right?”</Entry>
+  <Entry File="losin2\144.wav" ID="144">Cloud “Sephiroth said to me…  Head North……  ……past the Snow Fields……”</Entry>
+  <Entry File="losin2\145.wav" ID="145">Cloud “…ugh.”</Entry>
+  <Entry File="losin2\146.wav" ID="146">Cloud “Hmmm…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="losin2\0.wav" ID="0">Forgotten Capital</Entry>
+	<Entry File="losin2\1.wav" ID="1">Corel Valley</Entry>
+	<Entry File="losin2\2.wav" ID="2">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="losin2\3.wav" ID="3">Received "Comet" Materia!</Entry>
+	<Entry File="losin2\4.wav" ID="4">Cannot take on anymore Materia. Please discard some Materia.</Entry>
+	<Entry File="losin2\5.wav" ID="5">Received "Elixir"!</Entry>
+	<Entry File="losin2\6.wav" ID="6">Received "Guard Source"!</Entry>
+	<Entry File="losin2\7.wav" ID="7">Received "Magic Source"!</Entry>
+	<Entry File="losin2\8.wav" ID="8">Received "Enemy Skill" Materia!</Entry>
+	<Entry File="losin2\41.wav" ID="41"> Here's a bed.  Get some rest? Yes No</Entry>
+	<Entry File="losin2\107a.wav" ID="107" Part="a">Cloud "But I am going.”</Entry>
+-->
+</VoiceList>

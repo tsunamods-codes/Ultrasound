@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds7_w1\1a.wav" ID="1" Part="a">“He,HEY! Waitaminit you!!”</Entry>
+  <Entry File="mds7_w1\1b.wav" ID="1" Part="b">“You can't just walk outta here  without buyin' somethin'!”</Entry>
+  <Entry File="mds7_w1\1c.wav" ID="1" Part="c">“Might be unhealthy fer ya,  if ya know what I mean.”</Entry>
+  <Entry File="mds7_w1\2a.wav" ID="2" Part="a">“Hey!! What the--YOU!?”</Entry>
+  <Entry File="mds7_w1\2b.wav" ID="2" Part="b">“Anyone talking to me must be a novice.” Yep,that's me I used to be in SOLDIER,  the name's Cloud</Entry>
+  <Entry File="mds7_w1\3.wav" ID="3">Cloud “So what.  Everyone's gotta start sometime.”</Entry>
+  <Entry File="mds7_w1\4.wav" ID="4">Cloud “The name's Cloud.  Used to be with SOLDIER,  I got no business with you.”</Entry>
+  <Entry File="mds7_w1\5.wav" ID="5">“Hmmph!!  Well,I never heard of ya!”</Entry>
+  <Entry File="mds7_w1\6a.wav" ID="6" Part="a">“Don't act so big,amateur.  Seein' as how I'm such a warm hearted guy,  I'll show ya the ropes.”</Entry>
+  <Entry File="mds7_w1\6b.wav" ID="6" Part="b">“You come back here tomorrow.  I got some things I gots ta do.”</Entry>
+  <Entry File="mds7_w1\7a.wav" ID="7" Part="a">“Heh heh…He'll forget about it.  OH,you!!”</Entry>
+  <Entry File="mds7_w1\7b.wav" ID="7" Part="b">“Get my friend on the second floor  to teach ya.”</Entry>
+  <Entry File="mds7_w1\8a.wav" ID="8" Part="a">“Crap!! Watch it,you old guy!”</Entry>
+  <Entry File="mds7_w1\8b.wav" ID="8" Part="b">“I was just about to rip up that smooth  little head of yours!”</Entry>
+  <Entry File="mds7_w1\9a.wav" ID="9" Part="a">“In the slums  ya gotta take care of yourself first.”</Entry>
+  <Entry File="mds7_w1\9b.wav" ID="9" Part="b">“I been livin' like that ever since I was a kid.”</Entry>
+  <Entry File="mds7_w1\9c.wav" ID="9" Part="c">“You wanna be tough like me?  Then you gotta pick out some good weapons.”</Entry>
+  <Entry File="mds7_w1\10a.wav" ID="10" Part="a">“Oh and uh,by the way  old guy…”</Entry>
+  <Entry File="mds7_w1\10b.wav" ID="10" Part="b">“You can see this store don't have no customers…  and even tough guys like me  could use a buck or two…”</Entry>
+  <Entry File="mds7_w1\10c.wav" ID="10" Part="c">“Ya think you could spare some cash?” Give him some Don't give him any</Entry>
+  <Entry File="mds7_w1\11.wav" ID="11">“YESSS…”</Entry>
+  <Entry File="mds7_w1\12.wav" ID="12">“Damn,man!!  Ya chinsey old %*&amp;!”</Entry>
+  <Entry File="mds7_w1\13.wav" ID="13">“Hey old guy! I got a good-lookin' sister!!” Give him some Forget it</Entry>
+  <Entry File="mds7_w1\14.wav" ID="14">“What's the matter,old dude?  You don't like women?”</Entry>
+  <Entry File="mds7_w1\15a.wav" ID="15" Part="a">“You dried up old geez.   You tired?”</Entry>
+  <Entry File="mds7_w1\15b.wav" ID="15" Part="b">“Why don't you rest up  on the third floor of my house?”</Entry>
+  <Entry File="mds7_w1\16a.wav" ID="16" Part="a">“There's just one condition.”</Entry>
+  <Entry File="mds7_w1\16b.wav" ID="16" Part="b">“You gotta give me some cash.” 1 gil 10 gil nothin'</Entry>
+  <Entry File="mds7_w1\17.wav" ID="17">“Damn,man!! Just forget about it!”</Entry>
+  <Entry File="mds7_w1\18a.wav" ID="18" Part="a">“Oh man,oh man…”</Entry>
+  <Entry File="mds7_w1\18b.wav" ID="18" Part="b">“Go ahead 'n' help yourself to the room.”</Entry>
+  <Entry File="mds7_w1\19.wav" ID="19">“Cheap %#*^…”</Entry>
+  <Entry File="mds7_w1\20.wav" ID="20">“Geez,dude,you're really old.  You sure you ain't poorer than me?”</Entry>
+  <Entry File="mds7_w1\21.wav" ID="21">“Use whatever bed you want.  Sleep tight,old guy.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds7_w1\0.wav" ID="0">Sector 7 Weapon Shop</Entry>
+-->
+</VoiceList>

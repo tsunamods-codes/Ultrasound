@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="cosmin2\1.wav" ID="1">“…num…yawn…Sir…  You…forgot…your…  …change.”</Entry>
+  <Entry File="cosmin2\2a.wav" ID="2" Part="a">“…num…Yes,I'm coming…”</Entry>
+  <Entry File="cosmin2\2b.wav" ID="2" Part="b">“Are you here to shop?” That's right No,what's your problem?</Entry>
+  <Entry File="cosmin2\3.wav" ID="3">“Oh…is that so…  then let me…yawn…sleep…”</Entry>
+  <Entry File="cosmin2\4.wav" ID="4">“Oh…is that so…  You're here to shop?”</Entry>
+  <Entry File="cosmin2\5.wav" ID="5">“I'm sorry!  We hardly ever get any customers.  Oh,but I DO have confidence in our Materia!”</Entry>
+  <Entry File="cosmin2\6.wav" ID="6">“I'm…I'm so sorry!  It seems I've gotten  used to being lazy…”</Entry>
+  <Entry File="cosmin2\7a.wav" ID="7" Part="a">“Oh man…  Everything will be over,  once Meteor hits…”</Entry>
+  <Entry File="cosmin2\7b.wav" ID="7" Part="b">“I've been selling Materia for 10 years now,  ever since I was 16. Geez,what  have I been doing with my life?”</Entry>
+  <Entry File="cosmin2\8.wav" ID="8">“Welcome!  Oh,it's nothing.  Now,please make yourselves comfortable!”</Entry>
+  <Entry File="cosmin2\9.wav" ID="9">“Thank you very much!”</Entry>
+  <Entry File="cosmin2\10.wav" ID="10">Yuffie “Oh man!  This place looks like a real drag.  And their Materia sucks,too.”</Entry>
+  <Entry File="cosmin2\11.wav" ID="11">Yuffie “God.  I HATE studying!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="cosmin2\0.wav" ID="0">Materia Shop</Entry>
+-->
+</VoiceList>

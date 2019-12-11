@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="yufy2\1a.wav" ID="1" Part="a">Yuffie “…I've been hearing that ever  since I was little.”</Entry>
+  <Entry File="yufy2\1b.wav" ID="1" Part="b">“Before I was born,  Wutai was a lot more crowded  and more impressive.”</Entry>
+  <Entry File="yufy2\2a.wav" ID="2" Part="a">Yuffie “You see what it looks like now,right?  …Just a tourist trap…”</Entry>
+  <Entry File="yufy2\2b.wav" ID="2" Part="b">“After the war,we got peace,  but we lost something else.  Now look at Wutai…”</Entry>
+  <Entry File="yufy2\3.wav" ID="3">Yuffie “That's why…  if I had lots of Materia  I could…”</Entry>
+  <Entry File="yufy2\4a.wav" ID="4" Part="a">Cloud “Listen,Yuffie.  I don't care about the history  of Wutai or your feelings.”</Entry>
+  <Entry File="yufy2\4b.wav" ID="4" Part="b">“You've got our Materia and  I want it back…now.”</Entry>
+  <Entry File="yufy2\4c.wav" ID="4" Part="c">“If you give it back now,  we'll drop the whole thing.”</Entry>
+  <Entry File="yufy2\5a.wav" ID="5" Part="a">Tifa “I'm sorry,Yuffie.  I know how you feel,but  we need Materia,too.”</Entry>
+  <Entry File="yufy2\5b.wav" ID="5" Part="b">“…We just can't let you have it.  Please understand.”</Entry>
+  <Entry File="yufy2\6a.wav" ID="6" Part="a">Yuffie “Dammit,Yuffie.  We ain't got time to be  listening to your life story.”</Entry>
+  <Entry File="yufy2\6b.wav" ID="6" Part="b">“If you want Materia,get it yourself.  That's how you should do it.”</Entry>
+  <Entry File="yufy2\7.wav" ID="7">Yuffie “I know.    I know that…”</Entry>
+  <Entry File="yufy2\8.wav" ID="8">Yuffie “That…sniff…switch…  the lever on the left……  Materia's…sniff,hic…in there.”</Entry>
+  <Entry File="yufy2\9.wav" ID="9">Yuffie “Don't make a mistake.  The left lever…”</Entry>
+  <Entry File="yufy2\10.wav" ID="10">Aeris “I'm sorry,but……”</Entry>
+  <Entry File="yufy2\11.wav" ID="11">Barret “Ain't nuthin' we can do about it…”</Entry>
+  <Entry File="yufy2\12.wav" ID="12">Tifa “Now,the Materia…”</Entry>
+  <Entry File="yufy2\13.wav" ID="13">Red XIII “Were we a little too harsh on her?”</Entry>
+  <Entry File="yufy2\14.wav" ID="14">Cait Sith “Well,let's get our Materia back.”</Entry>
+  <Entry File="yufy2\15.wav" ID="15">Cid “Hmmph…  I dunno.”</Entry>
+  <Entry File="yufy2\16.wav" ID="16">Vincent “There was nothing else to do.”</Entry>
+  <Entry File="yufy2\17.wav" ID="17">Barret “Wh…what the hell is this?”</Entry>
+  <Entry File="yufy2\18.wav" ID="18">Aeris “Eyaaaaah!”</Entry>
+  <Entry File="yufy2\19.wav" ID="19">Tifa “Eyaaaaah!”</Entry>
+  <Entry File="yufy2\20.wav" ID="20">Red XIII “Wh,what are you doing?”</Entry>
+  <Entry File="yufy2\21.wav" ID="21">Cait Sith “Wh,what is this?”</Entry>
+  <Entry File="yufy2\22.wav" ID="22">Cid “Whoa!”</Entry>
+  <Entry File="yufy2\23.wav" ID="23">Vincent “!?”</Entry>
+  <Entry File="yufy2\24.wav" ID="24">Yuffie “Ha,ha--!  You should've listened!!”</Entry>
+  <Entry File="yufy2\25.wav" ID="25">Yuffie “Ha,ha,ha--!  Never trust anyone that easily!!”</Entry>
+  <Entry File="yufy2\26.wav" ID="26">Yuffie “The Materia's mine!  Tough!”</Entry>
+  <Entry File="yufy2\27a.wav" ID="27" Part="a">Yuffie “You want your Materia?  Then go find it yourself!”</Entry>
+  <Entry File="yufy2\27b.wav" ID="27" Part="b">“Yeah that's right.   And when you're looking for  the Materia,remember you gotta steel it.”</Entry>
+  <Entry File="yufy2\27c.wav" ID="27" Part="c">“Heh heh…  Steel…steel! Get it?”</Entry>
+  <Entry File="yufy2\28.wav" ID="28">Yuffie “C'ya!!”</Entry>
+  <Entry File="yufy2\29.wav" ID="29">Barret “Y,yo,wait up!!”</Entry>
+  <Entry File="yufy2\30.wav" ID="30">Aeris “Wait,don't leave us!”</Entry>
+  <Entry File="yufy2\31.wav" ID="31">Tifa “W..wait,  don't leave us here!”</Entry>
+  <Entry File="yufy2\32.wav" ID="32">Red XIII “Help us first!”</Entry>
+  <Entry File="yufy2\33.wav" ID="33">Cait Sith “Hey,help us…please!”</Entry>
+  <Entry File="yufy2\34.wav" ID="34">Cid “Hey! Help me first!”</Entry>
+  <Entry File="yufy2\35.wav" ID="35">Vincent “Wait,don't go by yourself!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="yufy2\0.wav" ID="0">Yuffie's House</Entry>
+	<Entry File="yufy2\36.wav" ID="36">Flip the Left Lever Flip the Right Lever</Entry>
+	<Entry File="yufy2\37a.wav" ID="37" Part="a">[Turtle's Paradise] No. 6</Entry>
+	<Entry File="yufy2\37b.wav" ID="37" Part="b">Drink at the "Turtle's Paradise" and talk about Wutai!</Entry>
+	<Entry File="yufy2\37c.wav" ID="37" Part="c">To find "Turtle's Paradise", look for the big pot outside!!</Entry>
+-->
+</VoiceList>

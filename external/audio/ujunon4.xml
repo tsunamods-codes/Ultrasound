@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ujunon4\1.wav" ID="1">“This is bad…  You don't think she's dead,  do you?”</Entry>
+  <Entry File="ujunon4\2.wav" ID="2">Cloud “Mouth to mouth!?”</Entry>
+  <Entry File="ujunon4\3.wav" ID="3">Cloud “But…  she's just a girl…”</Entry>
+  <Entry File="ujunon4\4.wav" ID="4">Cloud “Guess I gotta do it…”</Entry>
+  <Entry File="ujunon4\5.wav" ID="5">Barret “C'mon Cloud.”</Entry>
+  <Entry File="ujunon4\6.wav" ID="6">Tifa “Cloud,what are  you going to do?”</Entry>
+  <Entry File="ujunon4\7.wav" ID="7">Aeris “Cloud,hurry!”</Entry>
+  <Entry File="ujunon4\8.wav" ID="8">Red XIII “You know I can't.”</Entry>
+  <Entry File="ujunon4\9.wav" ID="9">Yuffie “Do it,Cloud!”</Entry>
+  <Entry File="ujunon4\10.wav" ID="10">Priscilla “Uh…ugh…”</Entry>
+  <Entry File="ujunon4\11.wav" ID="11">“Priscilla!!”</Entry>
+  <Entry File="ujunon4\12.wav" ID="12">“Nope…she's not breathing…”</Entry>
+  <Entry File="ujunon4\13.wav" ID="13">“OK,help her…”</Entry>
+  <Entry File="ujunon4\14.wav" ID="14">“Young man,do CPR!”</Entry>
+  <Entry File="ujunon4\15.wav" ID="15">“What? You don't know how?   Come over here,I'll show you.”</Entry>
+  <Entry File="ujunon4\16.wav" ID="16">“Just take a deep breath,hold it in.  Then breathe into her.”</Entry>
+  <Entry File="ujunon4\17.wav" ID="17">“Understand?” Once more Got it</Entry>
+  <Entry File="ujunon4\18.wav" ID="18">“Hurry up and do it!”</Entry>
+  <Entry File="ujunon4\19.wav" ID="19">“Hey hey!  Priscilla,are you alright?”</Entry>
+  <Entry File="ujunon4\20.wav" ID="20">“That's still not enough!”</Entry>
+  <Entry File="ujunon4\21.wav" ID="21">“What are you doing?  Hurry up! Breath deeply and  give her mouth to mouth!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ujunon4\0.wav" ID="0">Dolphin Offing</Entry>
+	<Entry File="ujunon4\22.wav" ID="22">Push [SWITCH] once to start the CPR gauge. Push it again to stop the gauge.</Entry>
+-->
+</VoiceList>

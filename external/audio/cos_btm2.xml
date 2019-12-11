@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="cos_btm2\1a.wav" ID="1" Part="a">Barret “Cosmo Canyon…  This's where AVALANCHE was born…”</Entry>
+  <Entry File="cos_btm2\1b.wav" ID="1" Part="b">“I promised my guys someday…  when we saved the Planet  from the Shinra,that we'd all  go to Cosmo Canyon and celebrate…”</Entry>
+  <Entry File="cos_btm2\1c.wav" ID="1" Part="c">“Biggs…  Wedge…  Jessie…</Entry>
+  <Entry File="cos_btm2\1d.wav" ID="1" Part="d">“Now they're all gone…  died for the Planet.”</Entry>
+  <Entry File="cos_btm2\2a.wav" ID="2" Part="a">Barret “…Really?  To save the Planet?”</Entry>
+  <Entry File="cos_btm2\2b.wav" ID="2" Part="b">“We all…  we all hate the Shinra…”</Entry>
+  <Entry File="cos_btm2\2c.wav" ID="2" Part="c">“But is it right to go on?”</Entry>
+  <Entry File="cos_btm2\2d.wav" ID="2" Part="d">“Will they…  …will they ever forgive me?”</Entry>
+  <Entry File="cos_btm2\3a.wav" ID="3" Part="a">Barret “…Right now,I really don't know.  But I do know one thing.”</Entry>
+  <Entry File="cos_btm2\3b.wav" ID="3" Part="b">“If there's anything I can do,  to save the Planet…or the people livin' on it…  Then I'm gonna do it!”</Entry>
+  <Entry File="cos_btm2\3c.wav" ID="3" Part="c">“I don't care if it's for justice  or revenge,or whatever.  I don't care…”</Entry>
+  <Entry File="cos_btm2\4.wav" ID="4">Barret “Urrrrrgh!  I'm gonna do it!!”</Entry>
+  <Entry File="cos_btm2\5.wav" ID="5">Barret “Again…  Again…AVALANCHE's born again!”</Entry>
+  <Entry File="cos_btm2\6a.wav" ID="6" Part="a">Tifa “Cloud…”</Entry>
+  <Entry File="cos_btm2\6b.wav" ID="6" Part="b">“Bonfires are funny,aren't they?”</Entry>
+  <Entry File="cos_btm2\7.wav" ID="7">“They make you remember  all sorts of things.”</Entry>
+  <Entry File="cos_btm2\8.wav" ID="8">Tifa “You know,Cloud.  five years ago…”</Entry>
+  <Entry File="cos_btm2\9.wav" ID="9">Cloud “…?”</Entry>
+  <Entry File="cos_btm2\10.wav" ID="10">Tifa “…It's nothing.”</Entry>
+  <Entry File="cos_btm2\11.wav" ID="11">Tifa “No,forget it.  I'm afraid to ask…”</Entry>
+  <Entry File="cos_btm2\12.wav" ID="12">Cloud “What is it?”</Entry>
+  <Entry File="cos_btm2\13.wav" ID="13">Tifa “It feels like…  it feels like you're going far away…”</Entry>
+  <Entry File="cos_btm2\14.wav" ID="14">Tifa “You really,really are…  you…right?”</Entry>
+  <Entry File="cos_btm2\15a.wav" ID="15" Part="a">Aeris “I learned a lot.  The elders taught me many things.”</Entry>
+  <Entry File="cos_btm2\15b.wav" ID="15" Part="b">“About the Cetra…  And the Promised Land…”</Entry>
+  <Entry File="cos_btm2\16.wav" ID="16">Aeris “I'm…alone…  I'm all alone now…”</Entry>
+  <Entry File="cos_btm2\17.wav" ID="17">Cloud “But I'm…we're here for you,right?”</Entry>
+  <Entry File="cos_btm2\18.wav" ID="18">Aeris “I know.  I know,but…  I am the only…Cetra.”</Entry>
+  <Entry File="cos_btm2\19.wav" ID="19">Cloud “Does that mean we can't help?”</Entry>
+  <Entry File="cos_btm2\20.wav" ID="20">Aeris “……”</Entry>
+  <Entry File="cos_btm2\21.wav" ID="21">Yuffie “What a boring place,just like I thought.  I wanna go somewhere!  Let's go find some Materia!”</Entry>
+  <Entry File="cos_btm2\22.wav" ID="22">Cait Sith “I wonder how many years it's been…  Gosh,it brings back memories……”</Entry>
+  <Entry File="cos_btm2\23.wav" ID="23">Red XIII “…Long ago.”</Entry>
+  <Entry File="cos_btm2\24.wav" ID="24">Red XIII “…When I was still very small.  We were all around this flame…”</Entry>
+  <Entry File="cos_btm2\25.wav" ID="25">Red XIII “No,never mind…”</Entry>
+  <Entry File="cos_btm2\26.wav" ID="26">Cloud “What happened?”</Entry>
+  <Entry File="cos_btm2\27a.wav" ID="27" Part="a">Red XIII “It's about my parents.”</Entry>
+  <Entry File="cos_btm2\27b.wav" ID="27" Part="b">“When I talk about my Mother,  I am full of pride and joy…”</Entry>
+  <Entry File="cos_btm2\27c.wav" ID="27" Part="c">“And that's fine.  …But when I think of my father,  my heart is full of anger…”</Entry>
+  <Entry File="cos_btm2\28.wav" ID="28">Bugenhagen “…You really can't forgive your father?”</Entry>
+  <Entry File="cos_btm2\29.wav" ID="29">Red XIII “Of course.  He…left Mother for dead.”</Entry>
+  <Entry File="cos_btm2\30.wav" ID="30">Red XIII “When the Gi tribe attacked,  he ran off by himself,leaving  Mother and the people of the Canyon!”</Entry>
+  <Entry File="cos_btm2\31.wav" ID="31">Bugenhagen “…Come,Nanaki.  There's something you should see.”</Entry>
+  <Entry File="cos_btm2\32.wav" ID="32">Red XIII “…?”</Entry>
+  <Entry File="cos_btm2\33a.wav" ID="33" Part="a">Bugenhagen “The place may be dangerous.”</Entry>
+  <Entry File="cos_btm2\33b.wav" ID="33" Part="b">“Cloud.  Will you and one other person come with us?”</Entry>
+  <Entry File="cos_btm2\34.wav" ID="34">Red XIII “…”</Entry>
+  <Entry File="cos_btm2\35.wav" ID="35">Barret “…Where're they going?”</Entry>
+  <Entry File="cos_btm2\36.wav" ID="36">Tifa “Can I go too?”</Entry>
+  <Entry File="cos_btm2\37.wav" ID="37">Aeris “I wonder what he wants to  show Red XIII?”</Entry>
+  <Entry File="cos_btm2\38.wav" ID="38">Cait Sith “Dangerous?  Count me out…”</Entry>
+  <Entry File="cos_btm2\39.wav" ID="39">Yuffie “I wonder what he wants to show him? Hmm,  maybe it's Materia that's been  passed down for generations?”</Entry>
+  <Entry File="cos_btm2\40.wav" ID="40">Cloud “Shall we get going?”</Entry>
+  <Entry File="cos_btm2\41.wav" ID="41">Aeris “So this is it,  Red XIII…”</Entry>
+  <Entry File="cos_btm2\42.wav" ID="42">Barret “That's just the way it goes.  …You came in handy at times…”</Entry>
+  <Entry File="cos_btm2\43.wav" ID="43">Barret “The buggy's fixed,so we can go now.”</Entry>
+  <Entry File="cos_btm2\44.wav" ID="44">Barret “They said they finished fixin' the buggy.”</Entry>
+  <Entry File="cos_btm2\46.wav" ID="46">Cloud “Red XIII…  Is Bugenhagen…?”</Entry>
+  <Entry File="cos_btm2\47a.wav" ID="47" Part="a">Red XIII “…”</Entry>
+  <Entry File="cos_btm2\47b.wav" ID="47" Part="b">“Grandpa told me  that he's going away again!”</Entry>
+  <Entry File="cos_btm2\48.wav" ID="48">Cloud “Away?”</Entry>
+  <Entry File="cos_btm2\49a.wav" ID="49" Part="a">Red XIII “It seems like he really liked  that airship.”</Entry>
+  <Entry File="cos_btm2\49b.wav" ID="49" Part="b">“He told me he couldn't stay still  and just zipped out of here!”</Entry>
+  <Entry File="cos_btm2\50.wav" ID="50">“He even gave me a gift,  look!”</Entry>
+  <Entry File="cos_btm2\52.wav" ID="52">Red XIII “Wait a minute. Aren't you supposed  to give gifts AFTER you come back?”</Entry>
+  <Entry File="cos_btm2\53.wav" ID="53">“Ha ha…Grandpa sure is strange!  Haa…ha ha…ha…”</Entry>
+  <Entry File="cos_btm2\54.wav" ID="54">Cloud “Hmm…  Maybe we'll run  into him again somewhere.”</Entry>
+  <Entry File="cos_btm2\55a.wav" ID="55" Part="a">Red XIII “Yeah…  maybe…”</Entry>
+  <Entry File="cos_btm2\55b.wav" ID="55" Part="b">“Thanks,Cloud…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="cos_btm2\0.wav" ID="0">Cosmo Candle</Entry>
+	<Entry File="cos_btm2\45.wav" ID="45"> Barret  Tifa  Aeris  Cait Sith  Yuffie</Entry>
+	<Entry File="cos_btm2\51.wav" ID="51">Received "Limited Moon"!</Entry>
+-->
+</VoiceList>

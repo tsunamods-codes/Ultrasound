@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="clsin2_1\0.wav" ID="0">Dio “That's as far as you go.”</Entry>
+  <Entry File="clsin2_1\1.wav" ID="1">Cloud “Wait,listen to…”</Entry>
+  <Entry File="clsin2_1\2.wav" ID="2">Cait Sith “Cloud…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="clsin2_1\3.wav" ID="3">Arena</Entry>
+	<Entry File="clsin2_1\4.wav" ID="4"></Entry>
+	<Entry File="clsin2_1\5.wav" ID="5">doing it.</Entry>
+-->
+</VoiceList>

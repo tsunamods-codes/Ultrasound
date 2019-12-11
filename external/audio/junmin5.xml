@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junmin5\1a.wav" ID="1" Part="a">Shinra Manager “This is so embarassing!”</Entry>
+  <Entry File="junmin5\1b.wav" ID="1" Part="b">“…and they told me I would be staying   at five star hotels on these trips…”</Entry>
+  <Entry File="junmin5\2.wav" ID="2">Shinra Manager “How can you guys sleep  in a place like this?”</Entry>
+  <Entry File="junmin5\3a.wav" ID="3" Part="a">Shinra Manager “I only came to help transport  the Sister Ray from Junon…”</Entry>
+  <Entry File="junmin5\3b.wav" ID="3" Part="b">“But now the company says don't  bother coming back…”</Entry>
+  <Entry File="junmin5\3c.wav" ID="3" Part="c">“Is this what happens to a loyal Shinra man?”</Entry>
+  <Entry File="junmin5\4a.wav" ID="4" Part="a">Shinra Manager “Hee Haaaw…”</Entry>
+  <Entry File="junmin5\4b.wav" ID="4" Part="b">“If Weapon killed all the upper management…  then I'll be President!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junmin5\0.wav" ID="0">Barracks</Entry>
+	<Entry File="junmin5\5.wav" ID="5">Received "1/35 soldier"!</Entry>
+-->
+</VoiceList>

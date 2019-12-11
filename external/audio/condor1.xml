@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="condor1\1a.wav" ID="1" Part="a">“We've been fighting the Shinra  on this battlefield for a long time.”</Entry>
+  <Entry File="condor1\1b.wav" ID="1" Part="b">“We've still settled in for  a long war with them.”</Entry>
+  <Entry File="condor1\1c.wav" ID="1" Part="c">“Could you spare some time,  and help us fight them?”</Entry>
+  <Entry File="condor1\2.wav" ID="2">“We don't want to sound pushy,  so if you're busy with something,  why don't you finish that first?” Where is Junon? We'll help you</Entry>
+  <Entry File="condor1\3.wav" ID="3">“We don't want to sound pushy,  so if you're busy with something,  why don't you finish that first?” Like to help but… I guess we'll help</Entry>
+  <Entry File="condor1\4.wav" ID="4">“We don't want to sound pushy,  so if you're busy with something,  why don't you finish that first?” I'm sorry…really All right,we'll help</Entry>
+  <Entry File="condor1\5a.wav" ID="5" Part="a">“Let's see…head north along the coast,  keep going a ways and  you'll run into Junon.”</Entry>
+  <Entry File="condor1\5b.wav" ID="5" Part="b">“But be alert because  it sits in the shadows of  a small hill.”</Entry>
+  <Entry File="condor1\6.wav" ID="6">“All right then…  Take care of yourselves…”</Entry>
+  <Entry File="condor1\7.wav" ID="7">“Really!? Then go on up and  they'll fill you in on the details.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="condor1\0.wav" ID="0">Base of Fort Condor</Entry>
+-->
+</VoiceList>

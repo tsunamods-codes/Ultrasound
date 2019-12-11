@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="gaiin_2\1.wav" ID="1">“Push the rock over?” Push No</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="gaiin_2\0.wav" ID="0">Inside of Gaea's Cliff</Entry>
+-->
+</VoiceList>

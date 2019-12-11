@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junin1a\1.wav" ID="1">“Today's the big day when we   welcome President Rufus!  Hurry up and change!”</Entry>
+  <Entry File="junin1a\2.wav" ID="2">“There's a uniform in the locker.  Hurry and change!”</Entry>
+  <Entry File="junin1a\3.wav" ID="3">“Quit yappin'!  Hurry up!”</Entry>
+  <Entry File="junin1a\4.wav" ID="4">Cloud “It's the Shinra uniform.” Don't change Change</Entry>
+  <Entry File="junin1a\5.wav" ID="5">Cloud “There's Shinra soldiers all around.  Better not try anything dumb…”</Entry>
+  <Entry File="junin1a\6.wav" ID="6">Cloud “Brings back memories…”</Entry>
+  <Entry File="junin1a\7a.wav" ID="7" Part="a">Cloud “A Shinra uniform…”</Entry>
+  <Entry File="junin1a\7b.wav" ID="7" Part="b">“I was so proud when I first  put it on.”</Entry>
+  <Entry File="junin1a\8a.wav" ID="8" Part="a">Cloud “I wonder when it was…”</Entry>
+  <Entry File="junin1a\8b.wav" ID="8" Part="b">“…I couldn't stand wearing  this thing anymore.”</Entry>
+  <Entry File="junin1a\9.wav" ID="9">“Wow!  You look good in it!”</Entry>
+  <Entry File="junin1a\10.wav" ID="10">“You remember the   greeting procedure,right!?”</Entry>
+  <Entry File="junin1a\11.wav" ID="11">“…The look on your face says you forgot.  All right,I'll show you again!”</Entry>
+  <Entry File="junin1a\12.wav" ID="12">“Do just like I do.”</Entry>
+  <Entry File="junin1a\13.wav" ID="13">“Commander!!  We'll help too!”</Entry>
+  <Entry File="junin1a\14.wav" ID="14">“This is how to do it!”</Entry>
+  <Entry File="junin1a\15.wav" ID="15">“We'll sing too!”</Entry>
+  <Entry File="junin1a\16.wav" ID="16">“All right!  Show 'em!!”</Entry>
+  <Entry File="junin1a\17.wav" ID="17">“Then I'll  sing along with you!”</Entry>
+  <Entry File="junin1a\18.wav" ID="18">“Now,march!!  This's the Welcoming March!”</Entry>
+  <Entry File="junin1a\19a.wav" ID="19" Part="a">“Quietly--!!”</Entry>
+  <Entry File="junin1a\19b.wav" ID="19" Part="b">“Aaaaah!”</Entry>
+  <Entry File="junin1a\19c.wav" ID="19" Part="c">“Aaaaah!”</Entry>
+  <Entry File="junin1a\19d.wav" ID="19" Part="d">“Hey,come on now.”</Entry>
+  <Entry File="junin1a\20.wav" ID="20">“Dum,tada!  Dum,tada!!”</Entry>
+  <Entry File="junin1a\21.wav" ID="21">“Now!”</Entry>
+  <Entry File="junin1a\22.wav" ID="22">“And…march!!”</Entry>
+  <Entry File="junin1a\23.wav" ID="23">“One,two!  Three,four!”</Entry>
+  <Entry File="junin1a\31.wav" ID="31">“Got it!?”    Not yet    All clear!</Entry>
+  <Entry File="junin1a\32.wav" ID="32">“All right!    Once more!”</Entry>
+  <Entry File="junin1a\33.wav" ID="33">“Good!  Make sure you do well  at the real parade!”</Entry>
+  <Entry File="junin1a\34.wav" ID="34">“Rufus has arrived!  Preparation completed!”</Entry>
+  <Entry File="junin1a\35.wav" ID="35">“All right,show time!  Don't disgrace yourselves!”</Entry>
+  <Entry File="junin1a\36.wav" ID="36">“Keep in step with the soldier next to you  and march smoothly!”</Entry>
+  <Entry File="junin1a\37.wav" ID="37">“Once you're all in step,  shoulder your gun!”</Entry>
+  <Entry File="junin1a\38.wav" ID="38">“To shoulder your gun,  press [OK]!”</Entry>
+  <Entry File="junin1a\39a.wav" ID="39" Part="a">“We'll practice some more!”</Entry>
+  <Entry File="junin1a\39b.wav" ID="39" Part="b">“Remember to march smoothly!”</Entry>
+  <Entry File="junin1a\40.wav" ID="40">“This is the military,soldier!!  Your orders for today are to send off  President Rufus at the dock!”</Entry>
+  <Entry File="junin1a\41.wav" ID="41">“I'll keep drilling you   until it's time!”</Entry>
+  <Entry File="junin1a\42.wav" ID="42">“I'll help,sir!”</Entry>
+  <Entry File="junin1a\43.wav" ID="43">“Me too,sir!”</Entry>
+  <Entry File="junin1a\44.wav" ID="44">“All right!!  Line up in order and   show me your final pose!”</Entry>
+  <Entry File="junin1a\45a.wav" ID="45" Part="a">“Today's command is Formation!”</Entry>
+  <Entry File="junin1a\45b.wav" ID="45" Part="b">“Remember it!”</Entry>
+  <Entry File="junin1a\46a.wav" ID="46" Part="a">“Ready!?”</Entry>
+  <Entry File="junin1a\46b.wav" ID="46" Part="b">“Junon Military Send Off,BEGIN!”</Entry>
+  <Entry File="junin1a\47.wav" ID="47">“All right!  Now you try it!”</Entry>
+  <Entry File="junin1a\48.wav" ID="48">“So,you got it?” Not yet! I've got it!</Entry>
+  <Entry File="junin1a\49.wav" ID="49">“All right!  Again!”</Entry>
+  <Entry File="junin1a\50.wav" ID="50">“All right! Don't mess up  during the real thing!”</Entry>
+  <Entry File="junin1a\51.wav" ID="51">“[OK]!”</Entry>
+  <Entry File="junin1a\52.wav" ID="52">“[MENU]!”</Entry>
+  <Entry File="junin1a\53.wav" ID="53">“[SWITCH]!”</Entry>
+  <Entry File="junin1a\54.wav" ID="54">“[CANCEL]!”</Entry>
+  <Entry File="junin1a\55.wav" ID="55">“Right: Right Turn!”</Entry>
+  <Entry File="junin1a\56.wav" ID="56">“Left: Left Turn!”</Entry>
+  <Entry File="junin1a\57.wav" ID="57">“All right!!”</Entry>
+  <Entry File="junin1a\58.wav" ID="58">“The Special!!”</Entry>
+  <Entry File="junin1a\59.wav" ID="59">“Commander!!  What's today's special pose?”</Entry>
+  <Entry File="junin1a\60.wav" ID="60">“Huh?  …I haven't decided yet.”</Entry>
+  <Entry File="junin1a\61a.wav" ID="61" Part="a">“All right,rookie!!  I'll let you decide!”</Entry>
+  <Entry File="junin1a\61b.wav" ID="61" Part="b">“Show me your best move!”</Entry>
+  <Entry File="junin1a\62.wav" ID="62">Cloud “Let's see…  My best move is…”</Entry>
+  <Entry File="junin1a\63.wav" ID="63">“Wow!”</Entry>
+  <Entry File="junin1a\64.wav" ID="64">“Awesome!”</Entry>
+  <Entry File="junin1a\65.wav" ID="65">“All right!!  We'll go with that as  as our special!!”</Entry>
+  <Entry File="junin1a\66.wav" ID="66">“Practice it!”</Entry>
+  <Entry File="junin1a\67.wav" ID="67">“Yes sir!!”</Entry>
+  <Entry File="junin1a\68a.wav" ID="68" Part="a">“Well then! Meet at the dock!!  Don't be late!!”</Entry>
+  <Entry File="junin1a\68b.wav" ID="68" Part="b">“Attention!  Dismissed!!”</Entry>
+  <Entry File="junin1a\73.wav" ID="73">“Someday I'll get to use my   special pose in a real battle!”</Entry>
+  <Entry File="junin1a\74.wav" ID="74">“Same here!!  I'll keep practicing until then!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junin1a\0.wav" ID="0">Locker Room</Entry>
+	<Entry File="junin1a\24.wav" ID="24"> Rufus~~-  Rufus Shinra~~~~</Entry>
+	<Entry File="junin1a\25.wav" ID="25">    We~~-are~~-Shinra Company~~~~     The new~~~~-President~~~~~~</Entry>
+	<Entry File="junin1a\26.wav" ID="26"> Oh~~-Oh~~-  Shinra~~~~</Entry>
+	<Entry File="junin1a\27.wav" ID="27"> Oh~~-Oh oh~~-  Shinra,Inc.~~-</Entry>
+	<Entry File="junin1a\28.wav" ID="28">  Realization~~-of the new era~~-   New~~-President~~-Ru~~fus~~-</Entry>
+	<Entry File="junin1a\29.wav" ID="29">  Building~~-the new era~~-   Shinra~~-forev~~-er~~-</Entry>
+	<Entry File="junin1a\30.wav" ID="30" />
+	<Entry File="junin1a\69.wav" ID="69">[OK] [CANCEL] [SWITCH] [MENU] Directional button Left/Right: Left/Right Turn</Entry>
+	<Entry File="junin1a\70.wav" ID="70">[OK]: Present arms.</Entry>
+	<Entry File="junin1a\71.wav" ID="71">Press  [OK],[CANCEL],  [MENU] or [SWITCH].</Entry>
+	<Entry File="junin1a\72.wav" ID="72">Left/Right: Left/Right Turn</Entry>
+-->
+</VoiceList>

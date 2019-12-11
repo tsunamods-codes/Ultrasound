@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="clsin2_2\11.wav" ID="11">Cloud “It's the Keystone…”</Entry>
+  <Entry File="clsin2_2\12.wav" ID="12">Dio “Heh,heh,heh.  Long time no see,boy.  Hmm? You like that,huh?”</Entry>
+  <Entry File="clsin2_2\13.wav" ID="13">Dio “I got it from the guy in  a little shack south  of here,past the 'River'.”</Entry>
+  <Entry File="clsin2_2\14.wav" ID="14">Dio “If you want to know more,  go there and talk to him.”</Entry>
+  <Entry File="clsin2_2\15.wav" ID="15">Cloud “Can you let me borrow this?”</Entry>
+  <Entry File="clsin2_2\16.wav" ID="16">Dio “Heh,heh,heh.  Sorry,but it's not for rent.”</Entry>
+  <Entry File="clsin2_2\17a.wav" ID="17" Part="a">Dio “Hmm.”</Entry>
+  <Entry File="clsin2_2\17b.wav" ID="17" Part="b">“Since you've been good to me in  the past,I CAN let you have  it on one condition.”</Entry>
+  <Entry File="clsin2_2\18.wav" ID="18">Cloud “One condition?”</Entry>
+  <Entry File="clsin2_2\19a.wav" ID="19" Part="a">Dio “Heh,heh,heh.  Entertain me!”</Entry>
+  <Entry File="clsin2_2\20.wav" ID="20">Dio “Hoo boy!”</Entry>
+  <Entry File="clsin2_2\21.wav" ID="21">Dio “I see…  Then let's pretend that this  never happened.”</Entry>
+  <Entry File="clsin2_2\22a.wav" ID="22" Part="a">Dio “Heh,heh,heh! So!  You want the Keystone,right?  How 'bout entertaining me first?”</Entry>
+  <Entry File="clsin2_2\23a.wav" ID="23" Part="a">Dio “Heh,heh,heh.  Nothing all  that difficult.”</Entry>
+  <Entry File="clsin2_2\23b.wav" ID="23" Part="b">“This is the Battle Arena.  Show me your fighting skills.  Just you,boy.  I'm expecting a good fight!”</Entry>
+  <Entry File="clsin2_2\25.wav" ID="25">Dio “That's the best you could do?  Well,a promise is a promise.  Go ahead,take it.”</Entry>
+  <Entry File="clsin2_2\26a.wav" ID="26" Part="a">Dio “Hmm,you did pretty well,  young man!</Entry>
+  <Entry File="clsin2_2\26b.wav" ID="26" Part="b">“Good,it's a promise,   so go ahead and take it.   I'll give this to you too.”</Entry>
+  <Entry File="clsin2_2\27a.wav" ID="27" Part="a">Dio “Heh,heh,heh!  Well done,young man!  And,as I promised,</Entry>
+  <Entry File="clsin2_2\27b.wav" ID="27" Part="b">“you can take it.  Oh,and I'll give you this too.”</Entry>
+  <Entry File="clsin2_2\31.wav" ID="31">Dio “We shall meet again!  Heh,heh,heh.”</Entry>
+  <Entry File="clsin2_2\32.wav" ID="32">Aeris “With this,    We can get into the    Temple of the Ancients.    Let's go,Cloud!”</Entry>
+  <Entry File="clsin2_2\33.wav" ID="33">Tifa “With this Key Materia,  We can get in to the  Temple of the Ancients.  Let's go,Cloud!”</Entry>
+  <Entry File="clsin2_2\34.wav" ID="34">Barret “This'll get us into the  Temple of the Ancients,right?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="clsin2_2\0.wav" ID="0">"Keystone"</Entry>
+	<Entry File="clsin2_2\1.wav" ID="1">"Star Cup"</Entry>
+	<Entry File="clsin2_2\2.wav" ID="2">"Weekend Clock"</Entry>
+	<Entry File="clsin2_2\3.wav" ID="3">"Laugh Sapling"</Entry>
+	<Entry File="clsin2_2\4.wav" ID="4">"Slayer's Pot"</Entry>
+	<Entry File="clsin2_2\5.wav" ID="5">"Chisa's Mask"</Entry>
+	<Entry File="clsin2_2\6.wav" ID="6">"Dio's Portrait"</Entry>
+	<Entry File="clsin2_2\7.wav" ID="7">"D Type Equipment"</Entry>
+	<Entry File="clsin2_2\8.wav" ID="8">"Kleine's Pot"</Entry>
+	<Entry File="clsin2_2\9.wav" ID="9">"Calling Gourd"</Entry>
+	<Entry File="clsin2_2\10.wav" ID="10">"Zauger's Cup"</Entry>
+	<Entry File="clsin2_2\19b.wav" ID="19" Part="b">What do I gotta do? Not in the mood.</Entry>
+	<Entry File="clsin2_2\22b.wav" ID="22" Part="b">What do I gotta do? Not in the mood.</Entry>
+	<Entry File="clsin2_2\24.wav" ID="24">Dio's Museum</Entry>
+	<Entry File="clsin2_2\28.wav" ID="28">Received Key Item "Keystone"!</Entry>
+	<Entry File="clsin2_2\29.wav" ID="29">Received "Protect Vest"!</Entry>
+	<Entry File="clsin2_2\30.wav" ID="30">Received "Choco Feather"!</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\Marti\Downloads\Ultrasound_0_42\Ultrasound7H.dll-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A5A9C5B4-C53D-403A-AEEB-2C81C96C6C9F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Ultrasound7H</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>Voices</RootNamespace>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>bell.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="7thWrapperLib">
+      <HintPath>D:\Projects\GitHub\7haven\.dist\Build\Debug\7thWrapperLib.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio">
+      <HintPath>lib\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="OpenTK">
+      <HintPath>lib\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.Vorbis">
+      <HintPath>lib\NAudio.Vorbis.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="TagLibSharp, Version=2.2.0.0, Culture=neutral, PublicKeyToken=db62eba44689b5b0, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\TagLibSharp.2.2.0\lib\net45\TagLibSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AudioException.cs" />
+    <Compile Include="ALOutput.cs" />
+    <Compile Include="Plugin.cs" />
+    <Compile Include="SoundInstance.cs" />
+    <Compile Include="SoundInstanceStereo.cs" />
+    <Compile Include="SoundInstanceMono.cs" />
+    <Compile Include="AudioPlaybackEngine.cs" />
+    <Compile Include="Dumper.cs" />
+    <Compile Include="fVoices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sound.cs" />
+    <Compile Include="ReplaceKind.cs" />
+    <Compile Include="Replacement.cs" />
+    <Compile Include="Ambient.cs" />
+    <Compile Include="Ultrasound.cs" />
+    <Compile Include="DataSource.cs" />
+    <Compile Include="FileDataSource.cs" />
+    <Compile Include="Util.cs" />
+    <Compile Include="VoiceEntry.cs" />
+    <Compile Include="VoiceList.cs" />
+    <Compile Include="IndexEntry.cs" />
+    <Compile Include="VoiceIndex.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Ultrasound7H.dll.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Ultrasound\Ultrasound.csproj">
+      <Project>{8687ae4b-adfb-49c0-896f-b86bc6d39def}</Project>
+      <Name>Ultrasound</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bell.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

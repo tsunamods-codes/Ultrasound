@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="delpb\1.wav" ID="1">“You want drink?  Iz OK. You take time.”</Entry>
+  <Entry File="delpb\2a.wav" ID="2" Part="a">Mukki  “I really like this town.”</Entry>
+  <Entry File="delpb\2b.wav" ID="2" Part="b">“You could walk around here naked,  and no one'd look twice.”</Entry>
+  <Entry File="delpb\3.wav" ID="3">“…huff…puff…  I can't stand hot places…”</Entry>
+  <Entry File="delpb\4.wav" ID="4">“…HIC…  Mm? Wanna order?  We're outta that now.”</Entry>
+  <Entry File="delpb\5a.wav" ID="5" Part="a">“Hey! I thought you'd drop by.”</Entry>
+  <Entry File="delpb\5b.wav" ID="5" Part="b">“(That's 1,2…4 fishes  all together…not bad.)”</Entry>
+  <Entry File="delpb\6.wav" ID="6">“Come on…please. If you don't buy from me…  I won't be able to pay the rent.”</Entry>
+  <Entry File="delpb\7a.wav" ID="7" Part="a">“Yeah,  snowboarding's what's happening this year.”</Entry>
+  <Entry File="delpb\7b.wav" ID="7" Part="b">“I'm sick of surfing.”</Entry>
+  <Entry File="delpb\8a.wav" ID="8" Part="a">“We're all headin' over to Gold Saucer now.”</Entry>
+  <Entry File="delpb\8b.wav" ID="8" Part="b">“We're gonna make a ton of money  at the Chocobo races.”</Entry>
+  <Entry File="delpb\8c.wav" ID="8" Part="c">“Then we're gonna take a trip  to Icicle Inn and snowboard.”</Entry>
+  <Entry File="delpb\9.wav" ID="9">“Welcome to Bar del Sol!  Here's to tropical nights!”</Entry>
+  <Entry File="delpb\10a.wav" ID="10" Part="a">“We look like great surfers…”</Entry>
+  <Entry File="delpb\10b.wav" ID="10" Part="b">“But the only clothes we have  are these swim trunks.”</Entry>
+  <Entry File="delpb\11a.wav" ID="11" Part="a">“I traveled around a long time…”</Entry>
+  <Entry File="delpb\11b.wav" ID="11" Part="b">“And this town has the most beautiful  ocean I've ever seen.”</Entry>
+  <Entry File="delpb\11c.wav" ID="11" Part="c">“Sometimes you can't recognize things  when they're right in front of you.”</Entry>
+  <Entry File="delpb\11d.wav" ID="11" Part="d">“I guess I took it for granted  because it's so close,and   I was so used to seeing it all the time.”</Entry>
+  <Entry File="delpb\11e.wav" ID="11" Part="e">“That's why  I came back here.”</Entry>
+  <Entry File="delpb\12a.wav" ID="12" Part="a">“I don't care whether Meteor comes or not,  I'm not giving up yet!”</Entry>
+  <Entry File="delpb\12b.wav" ID="12" Part="b">“I still haven't surfed  the best waves of Costa del Sol!”</Entry>
+  <Entry File="delpb\12c.wav" ID="12" Part="c">“I hope the Meteor doesn't strike before I do.”</Entry>
+  <Entry File="delpb\13a.wav" ID="13" Part="a">“It's weird seeing Meteor's reflection  on the sea in the evening!”</Entry>
+  <Entry File="delpb\13b.wav" ID="13" Part="b">“It gives you the creeps.”</Entry>
+  <Entry File="delpb\14a.wav" ID="14" Part="a">“I wan' learn how speak beddah.”</Entry>
+  <Entry File="delpb\14b.wav" ID="14" Part="b">“But don' wan' have stars fall down.  You think…same?”</Entry>
+  <Entry File="delpb\15.wav" ID="15">Mukki “I just want to sit here with my drink.”</Entry>
+  <Entry File="delpb\16a.wav" ID="16" Part="a">“My boss is a total arrogant ass!”</Entry>
+  <Entry File="delpb\16b.wav" ID="16" Part="b">“I'm gonna tell him off!  I'm gonna scream my head off!”</Entry>
+  <Entry File="delpb\16c.wav" ID="16" Part="c">“Isn't that what life's all about?  What do you think?”</Entry>
+  <Entry File="delpb\17a.wav" ID="17" Part="a">“…huff…wheeze…”</Entry>
+  <Entry File="delpb\17b.wav" ID="17" Part="b">“Heat and cold are  just memories of the Planet…”</Entry>
+  <Entry File="delpb\18.wav" ID="18">“Come on…please. If you don't buy from me…  I can't pay the rent.  No one else will either.”</Entry>
+  <Entry File="delpb\19.wav" ID="19">“While you're here,forget all  those awful things  going on outside,and  just enjoy yourself.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="delpb\0.wav" ID="0">Bar</Entry>
+-->
+</VoiceList>

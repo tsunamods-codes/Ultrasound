@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="gldst\0.wav" ID="0">Staff “Excuse me,sir.”</Entry>
+  <Entry File="gldst\1.wav" ID="1">Staff “I'm sorry.  The Tram is out of order right now.”</Entry>
+  <Entry File="gldst\2.wav" ID="2">Cloud “…So?”</Entry>
+  <Entry File="gldst\3.wav" ID="3">Staff “I'm really sorry!”</Entry>
+  <Entry File="gldst\4.wav" ID="4">Staff “I'm afraid you won't be able to leave  until it's fully repaired.”</Entry>
+  <Entry File="gldst\5.wav" ID="5">Cait Sith “What's wrong?”</Entry>
+  <Entry File="gldst\6.wav" ID="6">Cait Sith “Too bad.  It happens,though.”</Entry>
+  <Entry File="gldst\7.wav" ID="7">Cait Sith “I know! Let's stay at the hotel!  They know me here.  I'll go talk to them.”</Entry>
+  <Entry File="gldst\8.wav" ID="8">Staff “I will let you know once  the repairs are completed.”</Entry>
+  <Entry File="gldst\9.wav" ID="9">Aeris “Are you thinking of just us going back?”</Entry>
+  <Entry File="gldst\10.wav" ID="10">Tifa “Hey,Cloud,  Are we going back without the others?”</Entry>
+  <Entry File="gldst\11.wav" ID="11">Red XIII “Are we leaving the others?”</Entry>
+  <Entry File="gldst\12.wav" ID="12">Yuffie “Cloud!  Are we just going to leave the others?”</Entry>
+  <Entry File="gldst\13.wav" ID="13">Aeris “There's no time for this,right!?  Let's hurry after Cait Sith!”</Entry>
+  <Entry File="gldst\14.wav" ID="14">Tifa “There's no time to relax.  Let's hurry after Cait Sith!”</Entry>
+  <Entry File="gldst\15.wav" ID="15">Yuffie “Should we be this laid back?  Aren't we going after Cait Sith?”</Entry>
+  <Entry File="gldst\16.wav" ID="16">Barret “What the hell are you doing?  Let's get Cait Sith!”</Entry>
+  <Entry File="gldst\18.wav" ID="18">“Welcome to the Gold Saucer.”</Entry>
+  <Entry File="gldst\19.wav" ID="19">“Are you together?  A single pass is 3000 gil,  or you can purchase  a lifetime pass for 30000 gil.”</Entry>
+  <Entry File="gldst\21.wav" ID="21">“Thank you very much.”</Entry>
+  <Entry File="gldst\22.wav" ID="22">“If you leave Gold Saucer,  your tickets become invalid.”</Entry>
+  <Entry File="gldst\23.wav" ID="23">“If you have a Gold Ticket,  you can come and go freely into  the park…as long as you don't lose it.”</Entry>
+  <Entry File="gldst\24.wav" ID="24">“I'm sorry,you don't  have enough money.”</Entry>
+  <Entry File="gldst\25.wav" ID="25">“Please  enjoy yourselves.”</Entry>
+  <Entry File="gldst\26.wav" ID="26">“Please  buy your ticket here.”</Entry>
+  <Entry File="gldst\27a.wav" ID="27" Part="a">“Here at the Gold Saucer,  there are many places where  you must pay with GP.”</Entry>
+  <Entry File="gldst\27b.wav" ID="27" Part="b">“Just think of 'GP' as money that  you can only use at  the Gold Saucer.”</Entry>
+  <Entry File="gldst\27c.wav" ID="27" Part="c">“GP can only be redeemed at  the games in Wonder Square  and at the Chocobo Races.”</Entry>
+  <Entry File="gldst\27d.wav" ID="27" Part="d">“Your GP limit is 10000,  so please be careful.”</Entry>
+  <Entry File="gldst\28.wav" ID="28">“Would you like  to change gil” into GP? 1 GP is 100 gils</Entry>
+  <Entry File="gldst\31.wav" ID="31">“Is this okay?” Yeah No</Entry>
+  <Entry File="gldst\32a.wav" ID="32" Part="a">“Hey,how 'bout it,  change your gil into GP?”</Entry>
+  <Entry File="gldst\33.wav" ID="33">“Hey,thanks  1 GP is 100 gil.”</Entry>
+  <Entry File="gldst\34.wav" ID="34">“Hey,you  don't have enough.”</Entry>
+  <Entry File="gldst\35.wav" ID="35">“No,no.  It's suspicious if you  have more than 10000 GP.”</Entry>
+  <Entry File="gldst\36.wav" ID="36">“If you want some more later,  I'll be around now and then.”</Entry>
+  <Entry File="gldst\41.wav" ID="41">Dio “This way.”</Entry>
+  <Entry File="gldst\42a.wav" ID="42" Part="a">Dio “I'm sorry,  I'm gonna close this for awhile.”</Entry>
+  <Entry File="gldst\42b.wav" ID="42" Part="b">“I'm just debating if I should  be in business at a time like this.”</Entry>
+  <Entry File="gldst\43a.wav" ID="43" Part="a">Dio “I thought about it,but there was only  one solution.”</Entry>
+  <Entry File="gldst\43b.wav" ID="43" Part="b">“I believed that because of  the way things are,there's  a need for a place like this.”</Entry>
+  <Entry File="gldst\44.wav" ID="44">Dio “Enjoy yourselves…  Ha ha ha ha…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="gldst\17.wav" ID="17">Ropeway Station</Entry>
+	<Entry File="gldst\20.wav" ID="20">Pay 3000 gil Pay 30000 gil Don't pay</Entry>
+	<Entry File="gldst\29.wav" ID="29">        GP</Entry>
+	<Entry File="gldst\30.wav" ID="30">  gil</Entry>
+	<Entry File="gldst\32b.wav" ID="32" Part="b">Yeah Not interested</Entry>
+	<Entry File="gldst\37.wav" ID="37">[Save Point] Access the Menu and select [SAVE] to save your game…but, each transaction will cost 5 GP here.</Entry>
+	<Entry File="gldst\38.wav" ID="38">No way! I guess I'm stuck. I'll pay</Entry>
+	<Entry File="gldst\39.wav" ID="39">Not enough GP…</Entry>
+	<Entry File="gldst\40.wav" ID="40">Current GP   GP</Entry>
+-->
+</VoiceList>

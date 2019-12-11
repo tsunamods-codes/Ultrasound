@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ghotin_1\0.wav" ID="0">“Welcome.  Thank you for coming to  the Ghost Hotel.”</Entry>
+  <Entry File="ghotin_1\1.wav" ID="1">“Welcome. No matter what happens in this world, The Ghost Hotel will always be in business.”</Entry>
+  <Entry File="ghotin_1\2.wav" ID="2">“Uuuuuuuuuugh……”</Entry>
+  <Entry File="ghotin_1\3.wav" ID="3">“For reservations,please  step up to the counter.”</Entry>
+  <Entry File="ghotin_1\4.wav" ID="4">“Welcome!”</Entry>
+  <Entry File="ghotin_1\5.wav" ID="5">“It's our most popular employee,  Mr. Hangman.”</Entry>
+  <Entry File="ghotin_1\6.wav" ID="6">Mr. Hangman “Welcome!”</Entry>
+  <Entry File="ghotin_1\7.wav" ID="7">“It's 5 GP a night.  Would you like to stay?” Yeah,all right No thanks</Entry>
+  <Entry File="ghotin_1\8.wav" ID="8">“Ugh,ugh,ugh,ugh!  Enjoy,ugh,your stay.”</Entry>
+  <Entry File="ghotin_1\9.wav" ID="9">“Ugh,ugh,ugh  You don't have enough GP.”</Entry>
+  <Entry File="ghotin_1\10.wav" ID="10">Aeris “There's no time for this!  We have to go after Cait Sith.”</Entry>
+  <Entry File="ghotin_1\11.wav" ID="11">Tifa “There's no time to waste.  Let's hurry and go after Cait Sith!”</Entry>
+  <Entry File="ghotin_1\12.wav" ID="12">Yuffie “Should we be wasting time like this?  Weren't we going after Cait Sith?”</Entry>
+  <Entry File="ghotin_1\13.wav" ID="13">Barret “The hell're you doin'!?  We're goin' after Cait Sith!”</Entry>
+  <Entry File="ghotin_1\16.wav" ID="16">Mr. Hangman “Sir…Please  register at the counter!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ghotin_1\14.wav" ID="14">Hotel Lobby</Entry>
+	<Entry File="ghotin_1\15.wav" ID="15">Current GP   GP</Entry>
+	<Entry File="ghotin_1\17a.wav" ID="17" Part="a">[Turtle's Paradise] No. 3</Entry>
+	<Entry File="ghotin_1\17b.wav" ID="17" Part="b">Forget the bad times with a nice drink…</Entry>
+	<Entry File="ghotin_1\17c.wav" ID="17" Part="c">Only thing missing in the Gold Saucer is…</Entry>
+	<Entry File="ghotin_1\17d.wav" ID="17" Part="d">A pub with good drinks and a great atmosphere!</Entry>
+	<Entry File="ghotin_1\17e.wav" ID="17" Part="e">Stop in the "Turtle's Paradise"!</Entry>
+-->
+</VoiceList>

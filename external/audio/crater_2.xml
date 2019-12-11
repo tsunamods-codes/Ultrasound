@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="crater_2\1.wav" ID="1">Cloud “OK,let's go…”</Entry>
+  <Entry File="crater_2\2.wav" ID="2">Barret “The rest is up to you!”</Entry>
+  <Entry File="crater_2\3.wav" ID="3">Tifa “Cloud,wait for me!!”</Entry>
+  <Entry File="crater_2\4.wav" ID="4">Tifa “Please take me with you.  You're going after  Sephiroth,aren't you?”</Entry>
+  <Entry File="crater_2\5.wav" ID="5">Tifa “I've lost a lot   because of Sephiroth too.  So please take me along.”</Entry>
+  <Entry File="crater_2\6.wav" ID="6">“Don't say no.  OK?”</Entry>
+  <Entry File="crater_2\8.wav" ID="8">Tifa “I've lost a lot   because of Sephiroth.”</Entry>
+  <Entry File="crater_2\9.wav" ID="9">Tifa “Let's go!”</Entry>
+  <Entry File="crater_2\10.wav" ID="10">Red XIII “I'm going to call everyone.”</Entry>
+  <Entry File="crater_2\11.wav" ID="11">Cid “Man,I sure am thankful.  Wanna rest a while?”</Entry>
+  <Entry File="crater_2\12.wav" ID="12">Yuffie “Are you saying  you don't like me?”</Entry>
+  <Entry File="crater_2\13.wav" ID="13">Cait Sith “I'll gather everybody,  so you go on ahead.”</Entry>
+  <Entry File="crater_2\14.wav" ID="14">Vincent “Keep on your guard…  Sephiroth may be near.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="crater_2\0.wav" ID="0">Crater</Entry>
+	<Entry File="crater_2\7.wav" ID="7">Tifa  You're going after  Sephiroth,aren't you?”</Entry>
+-->
+</VoiceList>

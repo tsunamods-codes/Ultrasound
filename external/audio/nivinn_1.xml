@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="nivinn_1\1.wav" ID="1">“The,uh…  The whole inn's booked up  by Shinra for the night.”</Entry>
+  <Entry File="nivinn_1\2a.wav" ID="2" Part="a">“…?”</Entry>
+  <Entry File="nivinn_1\2b.wav" ID="2" Part="b">“Cloud?”</Entry>
+  <Entry File="nivinn_1\2c.wav" ID="2" Part="c">“Is it you,Cloud?”</Entry>
+  <Entry File="nivinn_1\3a.wav" ID="3" Part="a">“It must've been two years.”</Entry>
+  <Entry File="nivinn_1\3b.wav" ID="3" Part="b">“Say,you've really moved up in the world,  being under Sephiroth's command.”</Entry>
+  <Entry File="nivinn_1\4a.wav" ID="4" Part="a">“Wow…”</Entry>
+  <Entry File="nivinn_1\4b.wav" ID="4" Part="b">“This is really,somethin'.”</Entry>
+  <Entry File="nivinn_1\4c.wav" ID="4" Part="c">“You used to be such a scrawny  kid,and now look at you!”</Entry>
+  <Entry File="nivinn_1\5.wav" ID="5">“So,what do you need,Cloud?” Where's Sephiroth? Give me a room How is the town?</Entry>
+  <Entry File="nivinn_1\6.wav" ID="6">“He's upstairs.”</Entry>
+  <Entry File="nivinn_1\7.wav" ID="7">“You STILL haven't found one yet?”</Entry>
+  <Entry File="nivinn_1\8.wav" ID="8">“It's all reserved for you  Shinra people,so I don't mind.  But,wouldn't you feel more comfortable  staying at home?”</Entry>
+  <Entry File="nivinn_1\9a.wav" ID="9" Part="a">“Now about the town…”</Entry>
+  <Entry File="nivinn_1\9b.wav" ID="9" Part="b">“A lot of monsters have been appearing  in the last 12 months.”</Entry>
+  <Entry File="nivinn_1\9c.wav" ID="9" Part="c">“Other than that,there's not much change.  Nothing much exciting happens  in a little town like this.”</Entry>
+  <Entry File="nivinn_1\9d.wav" ID="9" Part="d">“It was all right when   they were building the reactor,”</Entry>
+  <Entry File="nivinn_1\9e.wav" ID="9" Part="e">“…while they were still building it.”</Entry>
+  <Entry File="nivinn_1\9f.wav" ID="9" Part="f">“But once it was completed,it's been bad.”</Entry>
+  <Entry File="nivinn_1\9g.wav" ID="9" Part="g">“Within a few years,  all the trees on the mountain withered away.”</Entry>
+  <Entry File="nivinn_1\9h.wav" ID="9" Part="h">“I don't know if the reactor was good or bad…”</Entry>
+  <Entry File="nivinn_1\9i.wav" ID="9" Part="i">“I mean it's easy to say  that it was a bad idea now.  But what can you do about it?”</Entry>
+  <Entry File="nivinn_1\9j.wav" ID="9" Part="j">“Anyhow,we've got to get rid of the monsters.”</Entry>
+  <Entry File="nivinn_1\9k.wav" ID="9" Part="k">“Then,we'll be able to relax a little bit.”</Entry>
+  <Entry File="nivinn_1\10a.wav" ID="10" Part="a">“I'll let you in on a secret…”</Entry>
+  <Entry File="nivinn_1\10b.wav" ID="10" Part="b">“The Shinra aren't really popular here.”</Entry>
+  <Entry File="nivinn_1\10c.wav" ID="10" Part="c">“You know what I mean,right?”</Entry>
+  <Entry File="nivinn_1\10d.wav" ID="10" Part="d">“You're from here,so you know.”</Entry>
+  <Entry File="nivinn_1\11.wav" ID="11">“It's the same story I always tell.  You still want to hear it?” Yeah,tell me again No,that's all right</Entry>
+  <Entry File="nivinn_1\12.wav" ID="12">“Hey,you want to rest?” Yes,please Forget it</Entry>
+  <Entry File="nivinn_1\13.wav" ID="13">“It's already been paid for.  Go on,get some rest.”</Entry>
+  <Entry File="nivinn_1\14a.wav" ID="14" Part="a">“Hmmmm”</Entry>
+  <Entry File="nivinn_1\14b.wav" ID="14" Part="b">“Is Shinra here to get rid of the monsters?”</Entry>
+  <Entry File="nivinn_1\15.wav" ID="15">Cloud “And who are you?”</Entry>
+  <Entry File="nivinn_1\16.wav" ID="16">“I'm Zangan.  I travel around the world teaching children   martial arts.”</Entry>
+  <Entry File="nivinn_1\17a.wav" ID="17" Part="a">Zangan “I have 128 students all over the world!”</Entry>
+  <Entry File="nivinn_1\17b.wav" ID="17" Part="b">“In this town,a girl  named Tifa is my student.”</Entry>
+  <Entry File="nivinn_1\18.wav" ID="18">Cloud “Did you say Tifa?”</Entry>
+  <Entry File="nivinn_1\19.wav" ID="19">Zangan “Tifa has good sense.  She'll be a powerful fighter.”</Entry>
+  <Entry File="nivinn_1\20a.wav" ID="20" Part="a">Zangan “I want to see some Shinra techniques.”</Entry>
+  <Entry File="nivinn_1\20b.wav" ID="20" Part="b">“And if you see anything you can use,  you might want to incorporate  some of my techniques.”</Entry>
+  <Entry File="nivinn_1\20c.wav" ID="20" Part="c">“Well,good luck.”</Entry>
+  <Entry File="nivinn_1\22.wav" ID="22">Zangan “Oh?  Did you come crying home?”</Entry>
+  <Entry File="nivinn_1\23.wav" ID="23">“I think you probably know  better than I do,but…”</Entry>
+  <Entry File="nivinn_1\24.wav" ID="24">“Hi,welcome.” Give me a room What's your story?</Entry>
+  <Entry File="nivinn_1\25.wav" ID="25">“It'll be 100 gil a night.  Is that all right with you?” Yes. Never mind.</Entry>
+  <Entry File="nivinn_1\26.wav" ID="26">“Enjoy your stay.”</Entry>
+  <Entry File="nivinn_1\27.wav" ID="27">“You don't have enough money.”</Entry>
+  <Entry File="nivinn_1\28.wav" ID="28">“Well,maybe next time…”</Entry>
+  <Entry File="nivinn_1\29.wav" ID="29">“Oh,I'm so sorry.  I've got lots to do…”</Entry>
+  <Entry File="nivinn_1\30a.wav" ID="30" Part="a">Cloud “This town was supposed to have   burnt down five years ago.”</Entry>
+  <Entry File="nivinn_1\30b.wav" ID="30" Part="b">“What the hell is going on?”</Entry>
+  <Entry File="nivinn_1\31a.wav" ID="31" Part="a">“Sir,don't say such awful things.”</Entry>
+  <Entry File="nivinn_1\31b.wav" ID="31" Part="b">“I was born and raised in this town.  What you say never happened.”</Entry>
+  <Entry File="nivinn_1\32.wav" ID="32">Tifa “You're lying…”</Entry>
+  <Entry File="nivinn_1\33a.wav" ID="33" Part="a">“EXCUSE ME! That's so rude…”</Entry>
+  <Entry File="nivinn_1\33b.wav" ID="33" Part="b">“If you're going to talk like that,  I'm going to have to ask you to leave.”</Entry>
+  <Entry File="nivinn_1\34.wav" ID="34">“I'm checking the Mako boiler.  Please don't bother me now.”</Entry>
+  <Entry File="nivinn_1\35.wav" ID="35">“…Welcome.  It's 100 gil a night…” Spend the night. Don't stay.</Entry>
+  <Entry File="nivinn_1\36.wav" ID="36">Cloud “Man in a black cape?”</Entry>
+  <Entry File="nivinn_1\37.wav" ID="37">Cloud “He has a tattoo number '6'.  Hmm? He has something…”</Entry>
+  <Entry File="nivinn_1\39.wav" ID="39">“Urrr…rrrrr…rrrgh…  Must…go to…Re…union…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="nivinn_1\0.wav" ID="0">Nibelheim Inn</Entry>
+	<Entry File="nivinn_1\21.wav" ID="21">Will we be able to use this place,too?”</Entry>
+	<Entry File="nivinn_1\38.wav" ID="38">Received "Luck Source!"</Entry>
+-->
+</VoiceList>

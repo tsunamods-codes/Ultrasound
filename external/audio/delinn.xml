@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="delinn\1a.wav" ID="1" Part="a">“Uggh!  I feel God awful!  Oh!! You!”</Entry>
+  <Entry File="delinn\1b.wav" ID="1" Part="b">“Weren't you with  that big sailor?” Dunno what you're talking about Wasn't me</Entry>
+  <Entry File="delinn\2.wav" ID="2">Cloud “What's the matter?”</Entry>
+  <Entry File="delinn\3.wav" ID="3">Cloud “I don't know.”</Entry>
+  <Entry File="delinn\4a.wav" ID="4" Part="a">“Wrong guy?  This is bad for us.  That guy's taken over the john.”</Entry>
+  <Entry File="delinn\4b.wav" ID="4" Part="b">“And he hasn't even paid his hotel bill yet.”</Entry>
+  <Entry File="delinn\5a.wav" ID="5" Part="a">“Listen to this…”</Entry>
+  <Entry File="delinn\5b.wav" ID="5" Part="b">“A big sailor just  busted in here all of a sudden,  and took over the restroom.”</Entry>
+  <Entry File="delinn\5c.wav" ID="5" Part="c">“He's been in there moaning ever since.”</Entry>
+  <Entry File="delinn\5d.wav" ID="5" Part="d">“I don't know what I'm gonna do.”</Entry>
+  <Entry File="delinn\6.wav" ID="6">“Ah…if you're checking in,  would you please pay his bill,too?”</Entry>
+  <Entry File="delinn\7a.wav" ID="7" Part="a">“Come now,we know  he's a friend of yours…(fibber)”</Entry>
+  <Entry File="delinn\7b.wav" ID="7" Part="b">“What now? Call it a night?”</Entry>
+  <Entry File="delinn\7c.wav" ID="7" Part="c">“200 gil a night.” Stay I changed my mind</Entry>
+  <Entry File="delinn\8a.wav" ID="8" Part="a">“What now?  Call it a night?”</Entry>
+  <Entry File="delinn\8b.wav" ID="8" Part="b">“200 gil a night.” Stay I've changed my mind</Entry>
+  <Entry File="delinn\9.wav" ID="9">“Cradled by the sound of the ocean…  sweet dreams…”</Entry>
+  <Entry File="delinn\10.wav" ID="10">“Are you sure?  Please come again.”</Entry>
+  <Entry File="delinn\11a.wav" ID="11" Part="a">“Shucks!!  Too bad!”</Entry>
+  <Entry File="delinn\11b.wav" ID="11" Part="b">“Hey! Hey you!  Does your friend have a cute lady?”</Entry>
+  <Entry File="delinn\11c.wav" ID="11" Part="c">“She came in here looking for him a while ago.  You better find her.”</Entry>
+  <Entry File="delinn\12a.wav" ID="12" Part="a">“What are you going to do?  Just forget about her and go to bed?”</Entry>
+  <Entry File="delinn\12b.wav" ID="12" Part="b">“200 gil a night.” Stay Changed my mind</Entry>
+  <Entry File="delinn\13.wav" ID="13">“You look like you can handle it.  Well then…”</Entry>
+  <Entry File="delinn\14.wav" ID="14">“That's right.  Don't worry.  Please come by again.”</Entry>
+  <Entry File="delinn\15a.wav" ID="15" Part="a">“Welcome!!  What's it going to be?”</Entry>
+  <Entry File="delinn\15b.wav" ID="15" Part="b">“200 gil a night.” Stay Changed my mind</Entry>
+  <Entry File="delinn\16.wav" ID="16">“You sure?  I'll just be playing around here so  drop by whenever you feel like it.”</Entry>
+  <Entry File="delinn\17a.wav" ID="17" Part="a">“You must be tired.”</Entry>
+  <Entry File="delinn\17b.wav" ID="17" Part="b">“The weather for Costa del Sol  tomorrow is going to be…sunny,again.”</Entry>
+  <Entry File="delinn\18.wav" ID="18">“Good morning.  Be careful traveling.”</Entry>
+  <Entry File="delinn\19a.wav" ID="19" Part="a">“Your party has departed.”</Entry>
+  <Entry File="delinn\19b.wav" ID="19" Part="b">“Oops…”</Entry>
+  <Entry File="delinn\19c.wav" ID="19" Part="c">“That's bad luck…”</Entry>
+  <Entry File="delinn\19d.wav" ID="19" Part="d">“I mean,they have already left.”</Entry>
+  <Entry File="delinn\20.wav" ID="20">“Wait a minute!  There's not enough money here.”</Entry>
+  <Entry File="delinn\21.wav" ID="21">“Good morning!!”</Entry>
+  <Entry File="delinn\22.wav" ID="22">Barret “Uh uh!”</Entry>
+  <Entry File="delinn\23.wav" ID="23">Barret “Hmmm!?”</Entry>
+  <Entry File="delinn\24.wav" ID="24">Barret “Marlene!  You OK?”</Entry>
+  <Entry File="delinn\25.wav" ID="25">Barret “I'll wear this when I go to see you.”</Entry>
+  <Entry File="delinn\26.wav" ID="26">Barret “Yo,Cloud!  Still too early,ain't it?”</Entry>
+  <Entry File="delinn\27.wav" ID="27">Barret “Hey,yo!!!  Someone's in here,alright!?”</Entry>
+  <Entry File="delinn\28a.wav" ID="28" Part="a">Aeris “Whew…  I don't know why I'm so tired.”</Entry>
+  <Entry File="delinn\28b.wav" ID="28" Part="b">“There's so many things I don't understand…”</Entry>
+  <Entry File="delinn\29.wav" ID="29">“I feel a little uneasy.”</Entry>
+  <Entry File="delinn\30a.wav" ID="30" Part="a">Aeris “Cloud…?”</Entry>
+  <Entry File="delinn\30b.wav" ID="30" Part="b">“What do you think of me?” I dunno Nothing much</Entry>
+  <Entry File="delinn\31.wav" ID="31">Cloud “I don't understand anything.”</Entry>
+  <Entry File="delinn\32.wav" ID="32">Cloud “Sorry,  but I never think about those things.”</Entry>
+  <Entry File="delinn\33a.wav" ID="33" Part="a">Aeris “How could you say such a thing!  Sometimes you make me so mad!”</Entry>
+  <Entry File="delinn\33b.wav" ID="33" Part="b">“Oh,I never should have brought it up!!”</Entry>
+  <Entry File="delinn\34a.wav" ID="34" Part="a">Aeris “…You're right.”</Entry>
+  <Entry File="delinn\34b.wav" ID="34" Part="b">“Even I don't understand myself.”</Entry>
+  <Entry File="delinn\35a.wav" ID="35" Part="a">“I wonder what part of me is like an Ancient?”</Entry>
+  <Entry File="delinn\35b.wav" ID="35" Part="b">“What is an Ancient supposed to be like?  It's strange,isn't it?”</Entry>
+  <Entry File="delinn\35c.wav" ID="35" Part="c">“I don't understand it…”</Entry>
+  <Entry File="delinn\36.wav" ID="36">“Ahh…I'm going around in circles.  I wonder if there's any answer to this?  Everything's so complicated.”</Entry>
+  <Entry File="delinn\37.wav" ID="37">Aeris “I'm going to sleep.”</Entry>
+  <Entry File="delinn\38.wav" ID="38">Aeris “I don't want to talk about it!”</Entry>
+  <Entry File="delinn\39.wav" ID="39">“Save Point” Access the menu and select [SAVE] save your game.</Entry>
+  <Entry File="delinn\40.wav" ID="40">“Be careful!”</Entry>
+  <Entry File="delinn\41.wav" ID="41">“I don't feel like doing anything.  I just want to spend the  rest of my life sleeping.”</Entry>
+  <Entry File="delinn\42.wav" ID="42">“Good night.”</Entry>
+  <Entry File="delinn\43.wav" ID="43">“Will you be staying together?” Yes No,thanks</Entry>
+  <Entry File="delinn\44a.wav" ID="44" Part="a">“Stop looking like a hunted animal!  Whatever happens…happens.”</Entry>
+  <Entry File="delinn\44b.wav" ID="44" Part="b">“Just go with it.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="delinn\0.wav" ID="0">Costa del Sol Inn</Entry>
+-->
+</VoiceList>

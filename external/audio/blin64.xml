@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blin64\1.wav" ID="1">“…huff…wheeze…  I'm trying to get rid   of my love-handles…”</Entry>
+  <Entry File="blin64\2.wav" ID="2">“…huff…puff…  If you get tired,you can  rest up in the next room.”</Entry>
+  <Entry File="blin64\3.wav" ID="3">“Hmph,hmph…  I'm head of building security  so stamina's very important to me.”</Entry>
+  <Entry File="blin64\4.wav" ID="4">“You must be a visitor.  Feel free to use any  open machine.”</Entry>
+  <Entry File="blin64\5.wav" ID="5">Cloud “A nap room…” Let's get some rest Let's move on</Entry>
+  <Entry File="blin64\6.wav" ID="6">“…zzz…  Please…let me…  get some…rest…”</Entry>
+  <Entry File="blin64\10a.wav" ID="10" Part="a">Cloud “What is this…a Megaphone?”</Entry>
+  <Entry File="blin64\10b.wav" ID="10" Part="b">“Hanging on to  this won't do any good…”</Entry>
+  <Entry File="blin64\14a.wav" ID="14" Part="a">“Take one to restore your energy!! 'Shinra Gym Health Drink'”</Entry>
+  <Entry File="blin64\14b.wav" ID="14" Part="b">“Only 250 gil!!” Try it out Don't try it</Entry>
+  <Entry File="blin64\15.wav" ID="15">Cloud “…Nothing…”</Entry>
+  <Entry File="blin64\16a.wav" ID="16" Part="a">“…”</Entry>
+  <Entry File="blin64\16b.wav" ID="16" Part="b">Cloud “…Is it broken?'” BANG on it Give up</Entry>
+  <Entry File="blin64\17.wav" ID="17">“Sir,what are you doing!?  No violence here,please!”</Entry>
+  <Entry File="blin64\20.wav" ID="20">Cloud “….” Should I try it? This is so stupid</Entry>
+  <Entry File="blin64\21.wav" ID="21">Cloud “Whew…” Better quit Just a bit longer</Entry>
+  <Entry File="blin64\22.wav" ID="22">Cloud “I think I feel  a little lighter…  Maybe just a bit…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blin64\0.wav" ID="0">Shinra Bldg. 64f.</Entry>
+	<Entry File="blin64\7.wav" ID="7">Received "Phoenix Down"!</Entry>
+	<Entry File="blin64\8.wav" ID="8">Received "Ether"!</Entry>
+	<Entry File="blin64\9.wav" ID="9">Received "HP Shout"!</Entry>
+	<Entry File="blin64\11.wav" ID="11">Locked…</Entry>
+	<Entry File="blin64\12.wav" ID="12">There's nothing inside…</Entry>
+	<Entry File="blin64\13.wav" ID="13">Out of Order Please use a different floor  Shinra Company Repair Management Department</Entry>
+	<Entry File="blin64\18.wav" ID="18">Received "Mind Source"!</Entry>
+	<Entry File="blin64\19.wav" ID="19">Received "Speed Source"!</Entry>
+	<Entry File="blin64\23.wav" ID="23">[SAVE POINT] Access the Menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

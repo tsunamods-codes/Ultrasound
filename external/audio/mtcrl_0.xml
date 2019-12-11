@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mtcrl_0\1.wav" ID="1">“Whew!!”</Entry>
+  <Entry File="mtcrl_0\2a.wav" ID="2" Part="a">“Hey!”</Entry>
+  <Entry File="mtcrl_0\2b.wav" ID="2" Part="b">“You're actually talking to me.”</Entry>
+  <Entry File="mtcrl_0\3a.wav" ID="3" Part="a">“I just passed a guy  in a black cape back there.”</Entry>
+  <Entry File="mtcrl_0\3b.wav" ID="3" Part="b">“I just tried to tell him that it's dangerous  up ahead,and he ignored me!”</Entry>
+  <Entry File="mtcrl_0\4.wav" ID="4">Cloud “What is it?”</Entry>
+  <Entry File="mtcrl_0\5.wav" ID="5">Cloud “Sephiroth…”</Entry>
+  <Entry File="mtcrl_0\6.wav" ID="6">Barret “…ahh.”</Entry>
+  <Entry File="mtcrl_0\7.wav" ID="7">Tifa “Let's hurry on.”</Entry>
+  <Entry File="mtcrl_0\8.wav" ID="8">Aeris “There was a black-caped guy here,too?”</Entry>
+  <Entry File="mtcrl_0\9.wav" ID="9"> Yuffie “Oh gawd,what a drag!!”</Entry>
+  <Entry File="mtcrl_0\10.wav" ID="10">Red XIII “Hmm…  I'm moving on ahead…”</Entry>
+  <Entry File="mtcrl_0\11a.wav" ID="11" Part="a">“It's dangerous up ahead.  Be careful on your way.”</Entry>
+  <Entry File="mtcrl_0\11b.wav" ID="11" Part="b">“If any strangers should greet you warmly  while traveling,  make sure to greet them back.”</Entry>
+  <Entry File="mtcrl_0\11c.wav" ID="11" Part="c">“Whew!  I guess that's the fun of  being on the road.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mtcrl_0\0.wav" ID="0">Mt. Corel</Entry>
+-->
+</VoiceList>

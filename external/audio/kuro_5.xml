@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="kuro_5\1.wav" ID="1">Aeris “This atmosphere…”</Entry>
+  <Entry File="kuro_5\2.wav" ID="2">Barret “Feels like a battle!”</Entry>
+  <Entry File="kuro_5\3.wav" ID="3">Tifa “Here it comes!”</Entry>
+  <Entry File="kuro_5\4.wav" ID="4">Cait Sith “It's a battle!”</Entry>
+  <Entry File="kuro_5\5.wav" ID="5">Vincent “A battle…”</Entry>
+  <Entry File="kuro_5\6.wav" ID="6">Yuffie “Oh man!  I should've stayed at home.”</Entry>
+  <Entry File="kuro_5\7.wav" ID="7">Red XIII “I'm tingling with excitement.”</Entry>
+  <Entry File="kuro_5\8.wav" ID="8">Cid “Let's do it!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="kuro_5\0.wav" ID="0">Temple of the Ancients</Entry>
+	<Entry File="kuro_5\9.wav" ID="9">Received "Nail Bat"!</Entry>
+-->
+</VoiceList>

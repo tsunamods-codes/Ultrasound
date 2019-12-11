@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="cosin2\1a.wav" ID="1" Part="a">“Bugenhagen sealed this door shut.”</Entry>
+  <Entry File="cosin2\1b.wav" ID="1" Part="b">“How'd he do that?  With super glue?”</Entry>
+  <Entry File="cosin2\2.wav" ID="2">“Nope…  It doesn't open…  How'd he seal it?  With a huge magnet?”</Entry>
+  <Entry File="cosin2\4a.wav" ID="4" Part="a">Bugenhagen “Ho Ho Hoooo”</Entry>
+  <Entry File="cosin2\4b.wav" ID="4" Part="b">“Are we all set?” Yeah Just a minute</Entry>
+  <Entry File="cosin2\5.wav" ID="5">Bugenhagen “Not ready yet?  Tell me when you are ready.”</Entry>
+  <Entry File="cosin2\6.wav" ID="6">Bugenhagen “Ho Ho Hoooo.  Shall we go?”</Entry>
+  <Entry File="cosin2\7.wav" ID="7">Bugenhagen “All right.  Come in,come in.”</Entry>
+  <Entry File="cosin2\8.wav" ID="8">Red XIII “Okay.  You lead the way,  Grandpa…”</Entry>
+  <Entry File="cosin2\9a.wav" ID="9" Part="a">Bugenhagen “What,are you crazy?  It's dangerous in there.  I told you that!”</Entry>
+  <Entry File="cosin2\9b.wav" ID="9" Part="b">“You want an old man  like me to go first?  I'll be right behind you.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="cosin2\0.wav" ID="0">Gate of Naught</Entry>
+	<Entry File="cosin2\3.wav" ID="3">It seems like the only one that can open it is Bugenhagen…</Entry>
+-->
+</VoiceList>

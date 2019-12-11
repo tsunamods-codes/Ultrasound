@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="kuro_8\1.wav" ID="1">Cloud “What's going on?”</Entry>
+  <Entry File="kuro_8\2.wav" ID="2">Aeris “Wait!  Look! It's showing us!”</Entry>
+  <Entry File="kuro_8\3.wav" ID="3">“Test Play is up to here.”</Entry>
+  <Entry File="kuro_8\4.wav" ID="4">Elena “Tseng,what's this?  Can we find the Promised Land with this?”</Entry>
+  <Entry File="kuro_8\5.wav" ID="5">Tseng “…I wonder.  Anyway,we have to report to the President.”</Entry>
+  <Entry File="kuro_8\6.wav" ID="6">Elena “Be careful,  Tseng.”</Entry>
+  <Entry File="kuro_8\7a.wav" ID="7" Part="a">Tseng “Yeah…”</Entry>
+  <Entry File="kuro_8\7b.wav" ID="7" Part="b">“Hey Elena,how 'bout dinner after  this job's over?”</Entry>
+  <Entry File="kuro_8\8a.wav" ID="8" Part="a">Elena “Th…Thank you very much.”</Entry>
+  <Entry File="kuro_8\8b.wav" ID="8" Part="b">“If I may be excused…”</Entry>
+  <Entry File="kuro_8\9.wav" ID="9">Tseng “Is this the Promised Land?  No,it can't be…”</Entry>
+  <Entry File="kuro_8\10.wav" ID="10">Tseng “Sephiroth!!”</Entry>
+  <Entry File="kuro_8\11.wav" ID="11">Sephiroth “So you opened the door.  Well done.”</Entry>
+  <Entry File="kuro_8\12.wav" ID="12">Tseng “This place…what is it?”</Entry>
+  <Entry File="kuro_8\13.wav" ID="13">Sephiroth “A lost treasure house of knowledge.  The wisdom of the Ancients….”</Entry>
+  <Entry File="kuro_8\14.wav" ID="14">Sephiroth “I am becoming one with the Planet.”</Entry>
+  <Entry File="kuro_8\15.wav" ID="15">Tseng “One with the Planet?”</Entry>
+  <Entry File="kuro_8\16.wav" ID="16">Sephiroth “You stupid fools.  You have never even thought about it.”</Entry>
+  <Entry File="kuro_8\17.wav" ID="17">Sephiroth “All the spirit energy of this Planet.  All its wisdom…knowledge…”</Entry>
+  <Entry File="kuro_8\18.wav" ID="18">“I will meld with it all.  I will become one with it…  it will become one with me.”</Entry>
+  <Entry File="kuro_8\19.wav" ID="19">Tseng “…You can do that?”</Entry>
+  <Entry File="kuro_8\20.wav" ID="20">Sephiroth “The way…lies here.”</Entry>
+  <Entry File="kuro_8\21a.wav" ID="21" Part="a">Sephiroth “Only death awaits you all.  But do not fear.”</Entry>
+  <Entry File="kuro_8\21b.wav" ID="21" Part="b">“For it is through death that  a new spirit energy is born.  Soon,you will live again as a part of me.”</Entry>
+  <Entry File="kuro_8\22.wav" ID="22">Aeris “This is the room with the murals…”</Entry>
+  <Entry File="kuro_8\23.wav" ID="23">Cloud “Where are you!?  Sephiroth!!”</Entry>
+  <Entry File="kuro_8\24a.wav" ID="24" Part="a">Sephiroth “So cold.”</Entry>
+  <Entry File="kuro_8\24b.wav" ID="24" Part="b">“I am always by your side.”</Entry>
+  <Entry File="kuro_8\25.wav" ID="25">Sephiroth “Come.”</Entry>
+  <Entry File="kuro_8\26.wav" ID="26">Sephiroth “Splendid.”</Entry>
+  <Entry File="kuro_8\27.wav" ID="27">Sephiroth “A treasure house of knowledge…”</Entry>
+  <Entry File="kuro_8\28.wav" ID="28">Cloud “I don't understand what you're saying!”</Entry>
+  <Entry File="kuro_8\29.wav" ID="29">Sephiroth “Look well.”</Entry>
+  <Entry File="kuro_8\30.wav" ID="30">Cloud “At what!?”</Entry>
+  <Entry File="kuro_8\31.wav" ID="31">Sephiroth “At that which adds to the knowledge  of…”</Entry>
+  <Entry File="kuro_8\32.wav" ID="32">Sephiroth “…Mother…  …it's almost time.”</Entry>
+  <Entry File="kuro_8\33.wav" ID="33">Aeris “Cloud!!”</Entry>
+  <Entry File="kuro_8\34.wav" ID="34">Barret “Hey!!  Cloud!!”</Entry>
+  <Entry File="kuro_8\35.wav" ID="35">Tifa “Hey,Cloud!”</Entry>
+  <Entry File="kuro_8\36.wav" ID="36">Red XIII “Cloud!”</Entry>
+  <Entry File="kuro_8\37.wav" ID="37">Yuffie “Cloud!  What are you doing?”</Entry>
+  <Entry File="kuro_8\38.wav" ID="38">“Cloud!  What's going on with you?”</Entry>
+  <Entry File="kuro_8\39.wav" ID="39">Cid “What the hell is going on?”</Entry>
+  <Entry File="kuro_8\40.wav" ID="40">Vincent “What are you doing?”</Entry>
+  <Entry File="kuro_8\41.wav" ID="41">Cloud “Ha ha ha…  Black Materia”</Entry>
+  <Entry File="kuro_8\42.wav" ID="42">Aeris “Cloud!! “Cloud!!  Get a hold of yourself!”</Entry>
+  <Entry File="kuro_8\43a.wav" ID="43" Part="a">Cloud “Cloud…”</Entry>
+  <Entry File="kuro_8\43b.wav" ID="43" Part="b">“I…  Cloud…”</Entry>
+  <Entry File="kuro_8\44.wav" ID="44">Cloud “Is this Meteor?”</Entry>
+  <Entry File="kuro_8\45.wav" ID="45">Cloud “Looks like we're locked in.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="kuro_8\0.wav" ID="0">Temple of the Ancients</Entry>
+-->
+</VoiceList>

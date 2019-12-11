@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="las4_4\1.wav" ID="1">Cloud “Where are we?”</Entry>
+  <Entry File="las4_4\2.wav" ID="2">Barret “What's that!?”</Entry>
+  <Entry File="las4_4\3.wav" ID="3">Tifa “What?”</Entry>
+  <Entry File="las4_4\4.wav" ID="4">Cid “What the hell?”</Entry>
+  <Entry File="las4_4\5.wav" ID="5">Red XIII “Wha…what?”</Entry>
+  <Entry File="las4_4\6.wav" ID="6">Cait Sith “What?”</Entry>
+  <Entry File="las4_4\7.wav" ID="7">Yuffie “What? What?”</Entry>
+  <Entry File="las4_4\8.wav" ID="8">Vincent “What's this?”</Entry>
+  <Entry File="las4_4\9.wav" ID="9">Cloud “Jenova?”</Entry>
+  <Entry File="las4_4\10.wav" ID="10">Cloud “It's coming!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="las4_4\0.wav" ID="0">Inside the planet</Entry>
+-->
+</VoiceList>

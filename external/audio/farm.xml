@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="farm\0.wav" ID="0">“Wark!”</Entry>
+  <Entry File="farm\1.wav" ID="1">“Wark?  Warkwark wark?” Wark Warrrk</Entry>
+  <Entry File="farm\2.wav" ID="2">“Wark--”</Entry>
+  <Entry File="farm\3.wav" ID="3">“Wark!! Wark!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="farm\4.wav" ID="4">Received "Choco/Mog" Materia!</Entry>
+	<Entry File="farm\5.wav" ID="5">"They tried to give you something  but you couldn't get it."</Entry>
+	<Entry File="farm\6.wav" ID="6">Chocobo farm</Entry>
+	<Entry File="farm\7.wav" ID="7">Received "Chocobo Lure" Materia!</Entry>
+	<Entry File="farm\8.wav" ID="8">You cannot take on any more Materia. Please discard some Materia.</Entry>
+-->
+</VoiceList>

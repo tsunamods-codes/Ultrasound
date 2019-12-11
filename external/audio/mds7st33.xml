@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds7st33\0.wav" ID="0">Tifa “Cloud…”</Entry>
+  <Entry File="mds7st33\1.wav" ID="1">“Cloud…”</Entry>
+  <Entry File="mds7st33\2.wav" ID="2">Tifa “I didn't know what to do.  I was always like that…”</Entry>
+  <Entry File="mds7st33\3.wav" ID="3">“What's the matter?”</Entry>
+  <Entry File="mds7st33\4.wav" ID="4">Cloud “ohhh…”</Entry>
+  <Entry File="mds7st33\5.wav" ID="5">“…poor kid.”</Entry>
+  <Entry File="mds7st33\6.wav" ID="6">Cloud “Ooouugh…”</Entry>
+  <Entry File="mds7st33\7.wav" ID="7">Cloud “oo…uh…agh”</Entry>
+  <Entry File="mds7st33\8.wav" ID="8">Tifa “Are you all right?”</Entry>
+  <Entry File="mds7st33\9.wav" ID="9">Cloud “Uh…uh…Tifa?”</Entry>
+  <Entry File="mds7st33\10.wav" ID="10">Cloud “Tifa?”</Entry>
+  <Entry File="mds7st33\11.wav" ID="11">Cloud “Tifa!”</Entry>
+  <Entry File="mds7st33\12.wav" ID="12">Tifa “…?”</Entry>
+  <Entry File="mds7st33\13.wav" ID="13">Tifa “Oh,Cloud!”</Entry>
+  <Entry File="mds7st33\14.wav" ID="14">Cloud “That's right.  I'm Cloud.”</Entry>
+  <Entry File="mds7st33\15.wav" ID="15">Tifa “Is it really you,Cloud?   I never thought I'd find you here!”</Entry>
+  <Entry File="mds7st33\16.wav" ID="16">Cloud “Yeah,it's been a while.”</Entry>
+  <Entry File="mds7st33\17.wav" ID="17">Tifa “What happened to you?  You don't look well.”</Entry>
+  <Entry File="mds7st33\18.wav" ID="18">Cloud “Yeah?  It's nothing. I'm okay.”</Entry>
+  <Entry File="mds7st33\19.wav" ID="19">Tifa “How long has it been?”</Entry>
+  <Entry File="mds7st33\20.wav" ID="20">Cloud “Five years.”</Entry>
+  <Entry File="mds7st33\21.wav" ID="21">Tifa “…”</Entry>
+  <Entry File="mds7st33\22.wav" ID="22">Cloud “What is it?”</Entry>
+  <Entry File="mds7st33\23.wav" ID="23">Tifa “…it's really been a long time.”</Entry>
+  <Entry File="mds7st33\24.wav" ID="24">Tifa “Actually,it's been seven years.”</Entry>
+  <Entry File="mds7st33\25.wav" ID="25">“You joined SOLDIER but quit after  the Sephiroth incident,and now  you're a mercenary…”</Entry>
+  <Entry File="mds7st33\26.wav" ID="26">Tifa “You told me a lot about what happened  after you left Nibelheim… ”</Entry>
+  <Entry File="mds7st33\27.wav" ID="27">Tifa “But…”</Entry>
+  <Entry File="mds7st33\28a.wav" ID="28" Part="a">Tifa “…Something was wrong.  I felt there was something strange  about the things you talked about.”</Entry>
+  <Entry File="mds7st33\28b.wav" ID="28" Part="b"> “All the things you didn't know that you should,  And other things  you shouldn't know that you did.”</Entry>
+  <Entry File="mds7st33\29a.wav" ID="29" Part="a">Tifa “I wanted to make sure…”</Entry>
+  <Entry File="mds7st33\29b.wav" ID="29" Part="b"> “But then I heard…you were going far away…”</Entry>
+  <Entry File="mds7st33\30.wav" ID="30">Tifa “And I didn't want that…”</Entry>
+  <Entry File="mds7st33\31a.wav" ID="31" Part="a">Tifa “…I didn't know what to do.  So,I thought I needed more time.”</Entry>
+  <Entry File="mds7st33\31b.wav" ID="31" Part="b">“And that's why I told you about  the AVALANCHE job. I wanted  to be with you and watch you.”</Entry>
+</VoiceList>

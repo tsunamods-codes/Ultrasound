@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="condor2\1.wav" ID="1">Cloud “What happened?”</Entry>
+  <Entry File="condor2\2.wav" ID="2">Tifa “Where are all the villagers?”</Entry>
+  <Entry File="condor2\3.wav" ID="3">Cid “God! What the hell happened here!?”</Entry>
+  <Entry File="condor2\4.wav" ID="4">Barret “He's still alive.”</Entry>
+  <Entry File="condor2\5.wav" ID="5">Aeris “Where is everybody?”</Entry>
+  <Entry File="condor2\6.wav" ID="6">Red XIII “Where are we?”</Entry>
+  <Entry File="condor2\7.wav" ID="7">Yuffie “Oh good,they're still alive.”</Entry>
+  <Entry File="condor2\8.wav" ID="8">Cait Sith “Oy!  What on earth happened?”</Entry>
+  <Entry File="condor2\9.wav" ID="9">Vincent “It seems we survived.”</Entry>
+  <Entry File="condor2\10.wav" ID="10">Cloud “You mean to tell me   we're the only ones who made it?”</Entry>
+  <Entry File="condor2\11.wav" ID="11">Tifa “I couldn't do anything.  It was just too much.”</Entry>
+  <Entry File="condor2\12.wav" ID="12">Cid “Damn!!  I can't stand this!”</Entry>
+  <Entry File="condor2\13.wav" ID="13">Barret “Oh man…  You look like hell.”</Entry>
+  <Entry File="condor2\14.wav" ID="14">Aeris “I…  I couldn't save anyone…”</Entry>
+  <Entry File="condor2\15.wav" ID="15">Red XIII “…not enough strength.”</Entry>
+  <Entry File="condor2\16.wav" ID="16">Yuffie “Well,I'm just glad   we're all alive.”</Entry>
+  <Entry File="condor2\17.wav" ID="17">Cait Sith “Things sure didn't go smoothly.”</Entry>
+  <Entry File="condor2\18.wav" ID="18">Vincent “We might have underestimated  the situation.”</Entry>
+  <Entry File="condor2\19a.wav" ID="19" Part="a">Cloud “You mean to tell me  that's the extent of my powers?”</Entry>
+  <Entry File="condor2\19b.wav" ID="19" Part="b">“So that's as good as it gets?  At this rate I'll never beat  the Shinra…let alone Sephiroth…”</Entry>
+  <Entry File="condor2\20a.wav" ID="20" Part="a">Barret “Yeah,ain't no way you gonna win.”</Entry>
+  <Entry File="condor2\20b.wav" ID="20" Part="b">“But if we give up now,  what's gonna happen to Fort Condor?”</Entry>
+  <Entry File="condor2\21.wav" ID="21">Tifa “No,Cloud.  You mustn't give up.  Survivors never give up.”</Entry>
+  <Entry File="condor2\22a.wav" ID="22" Part="a">Aeris “Cloud…  You won't find the answer  by blaming yourself.”</Entry>
+  <Entry File="condor2\22b.wav" ID="22" Part="b">“Things are the way they are…  But you can't blame yourself  for that,right?”</Entry>
+  <Entry File="condor2\23.wav" ID="23">Red XIII “Don't be too hard on yourself,  Cloud.  Let's think about  what we should do next.”</Entry>
+  <Entry File="condor2\24.wav" ID="24">Yuffie “No use crying over spilt milk.  Right?”</Entry>
+  <Entry File="condor2\25.wav" ID="25">Cait Sith “Geez,you don't pull any punches do you?  We'll just try not to fail next time.”</Entry>
+  <Entry File="condor2\26.wav" ID="26">Vincent “We have to fight to   avoid any more casualties.”</Entry>
+  <Entry File="condor2\27.wav" ID="27">Cid “We'll do it next time,OK?”</Entry>
+  <Entry File="condor2\28a.wav" ID="28" Part="a">Cloud “Yeah.”</Entry>
+  <Entry File="condor2\28b.wav" ID="28" Part="b">“They've had their fun,  but it's over as of now!  There isn't gonna be  any more suffering.”</Entry>
+  <Entry File="condor2\29.wav" ID="29">Tifa “Cloud…  What should I do?”</Entry>
+  <Entry File="condor2\30.wav" ID="30">Barret “Tifa…”</Entry>
+  <Entry File="condor2\31.wav" ID="31">Red XIII “…”</Entry>
+  <Entry File="condor2\32.wav" ID="32">Yuffie “Cloud  I wonder what's going to happen?”</Entry>
+  <Entry File="condor2\33.wav" ID="33">Cait Sith “Y'know,worryin' only tires you out.  Why don't you take it easy?”</Entry>
+  <Entry File="condor2\34.wav" ID="34">Vincent “You've got no choice  but to take it for now.”</Entry>
+  <Entry File="condor2\35.wav" ID="35">Cid “Oy,such a bitter pill to swallow.”</Entry>
+  <Entry File="condor2\36.wav" ID="36">Cid “This ain't no joke,Jack.”</Entry>
+  <Entry File="condor2\37.wav" ID="37">Barret “Oh man,this is real bad.”</Entry>
+  <Entry File="condor2\38.wav" ID="38">Red XIII “Things don't seem too favorable.”</Entry>
+  <Entry File="condor2\39.wav" ID="39">Yuffie “I told you I'm not kidding!”</Entry>
+  <Entry File="condor2\40.wav" ID="40">Cait Sith “If this were a joke it'd be one thing,  but this's the truth.”</Entry>
+  <Entry File="condor2\41.wav" ID="41">Vincent “This is a rather harsh reality.”</Entry>
+  <Entry File="condor2\42.wav" ID="42">“It's Huge Materia that the Shinra's after…  The only one left is  in the underwater reactor in Junon.”</Entry>
+  <Entry File="condor2\43.wav" ID="43">Barret “We gotta get there first  and protect it!!”</Entry>
+  <Entry File="condor2\44.wav" ID="44">Red XIII “We must get there first  and stop them.”</Entry>
+  <Entry File="condor2\45.wav" ID="45">Yuffie “We got to get there first  and stop them…”</Entry>
+  <Entry File="condor2\46.wav" ID="46">Vincent “We've got to get there first  and stop them.”</Entry>
+  <Entry File="condor2\47a.wav" ID="47" Part="a">“Yeah,but since we got in their way  the last time,they should've gotten  a little more cautious.”</Entry>
+  <Entry File="condor2\47b.wav" ID="47" Part="b">“I doubt they'll fly right into action.  I'm more concerned about him  than anything else.”</Entry>
+  <Entry File="condor2\48.wav" ID="48">Barret “Cloud,it's you.”</Entry>
+  <Entry File="condor2\49.wav" ID="49">Red XIII “Yes,it's you Cloud.”</Entry>
+  <Entry File="condor2\50.wav" ID="50">Yuffie “It is you Cloud.”</Entry>
+  <Entry File="condor2\51.wav" ID="51">Cait Sith “Cloud…”</Entry>
+  <Entry File="condor2\52.wav" ID="52">Vincent “Cloud,it's you.”</Entry>
+  <Entry File="condor2\53a.wav" ID="53" Part="a">Cid “Yeah,and I'm worried that  even Tifa's gonna fall over  on her butt.”</Entry>
+  <Entry File="condor2\53b.wav" ID="53" Part="b">“Let's go back and  see what's happening…  to Mideel…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="condor2\0.wav" ID="0">Entrance to Fort Condor</Entry>
+-->
+</VoiceList>

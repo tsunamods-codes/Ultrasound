@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="nivl\1a.wav" ID="1" Part="a">Cloud “…The town was quiet.”</Entry>
+  <Entry File="nivl\1b.wav" ID="1" Part="b">“Everyone must be in their houses,    afraid to come out because of the monsters.”</Entry>
+  <Entry File="nivl\1c.wav" ID="1" Part="c">“No,maybe they're afraid of us…”</Entry>
+  <Entry File="nivl\2.wav" ID="2">Sephiroth “We leave for the reactor at dawn.   Make sure you get to sleep early.”</Entry>
+  <Entry File="nivl\3.wav" ID="3">Sephiroth “All we need is one lookout,  so you others,get some rest.”</Entry>
+  <Entry File="nivl\4.wav" ID="4">Sephiroth “Oh,and…”</Entry>
+  <Entry File="nivl\5.wav" ID="5">Sephiroth “You may visit your family and friends.”</Entry>
+  <Entry File="nivl\6.wav" ID="6">“Man…    I'm so nervous.” How come? I'm excited.</Entry>
+  <Entry File="nivl\7.wav" ID="7">“Look,you never know when a monster's  gonna show up,right?”</Entry>
+  <Entry File="nivl\8.wav" ID="8">“…That's right.   Don't blow your chance to become a hero…”</Entry>
+  <Entry File="nivl\9.wav" ID="9">“Hey,if you don't calm down,   you won't get a good evaluation…”</Entry>
+  <Entry File="nivl\10.wav" ID="10">“Hmm? You from Shinra?” That's right! Who are you?</Entry>
+  <Entry File="nivl\11.wav" ID="11">“Geez…  Big-headed young kid.”</Entry>
+  <Entry File="nivl\12.wav" ID="12">“I'm the town's…  ….  …!?”</Entry>
+  <Entry File="nivl\13.wav" ID="13">“Aren't you Cloud?”</Entry>
+  <Entry File="nivl\14.wav" ID="14">“Don't you know me?”</Entry>
+  <Entry File="nivl\15.wav" ID="15">Cloud “You're Tifa's…”</Entry>
+  <Entry File="nivl\16.wav" ID="16">“Right.  I'm Tifa's father.”</Entry>
+  <Entry File="nivl\17.wav" ID="17">Cloud “…Long time no see,sir.”</Entry>
+  <Entry File="nivl\18.wav" ID="18">Tifa's father “…Stay away from my daughter.”</Entry>
+  <Entry File="nivl\19.wav" ID="19">Tifa's father “We don't need the Shinra's help to  protect our town!”</Entry>
+  <Entry File="nivl\20.wav" ID="20">Tifa's father “If I knew this was going to happen,  I would've made mountain climbing off limits…”</Entry>
+  <Entry File="nivl\21a.wav" ID="21" Part="a">Tifa's father “I hate myself for asking you this,but…”</Entry>
+  <Entry File="nivl\21b.wav" ID="21" Part="b">“Don't take your eyes off of Tifa!  Hurry up and go back to her side!”</Entry>
+  <Entry File="nivl\22.wav" ID="22">Tifa's father “Until we know that there's no danger,  we're not moving.”</Entry>
+  <Entry File="nivl\23a.wav" ID="23" Part="a">“I heard Sephiroth was coming   so I brought my camera.”</Entry>
+  <Entry File="nivl\23b.wav" ID="23" Part="b"> “I want a shot of   Sephiroth and a monster.” Take my picture. Get back in the house,it's dangerous.</Entry>
+  <Entry File="nivl\24.wav" ID="24">“I don't take pictures   of nobodys.”</Entry>
+  <Entry File="nivl\25a.wav" ID="25" Part="a">“All right…  ÙFat-head…”</Entry>
+  <Entry File="nivl\25b.wav" ID="25" Part="b">“Hey?  ÙThis guy's a real…”</Entry>
+  <Entry File="nivl\25c.wav" ID="25" Part="c">“You…   Are you Cloud?”</Entry>
+  <Entry File="nivl\25d.wav" ID="25" Part="d">“Really?  So that's how it is,huh?”</Entry>
+  <Entry File="nivl\26.wav" ID="26">“Gosh,Cloud,   you've grown up to be a nice-looking lad.” Then take my picture It's dangerous,go home</Entry>
+  <Entry File="nivl\27.wav" ID="27">“Let's do this,Cloud.   Let me take a picture of you with Sephiroth.”</Entry>
+  <Entry File="nivl\28.wav" ID="28">“OK,OK…  ÙFat-head…  ÙYou're just his assistant.”</Entry>
+  <Entry File="nivl\29.wav" ID="29">“Think they'd let me take a picture?”</Entry>
+  <Entry File="nivl\30.wav" ID="30">“What's Sephiroth doing?”</Entry>
+  <Entry File="nivl\31.wav" ID="31">Sephiroth “Once the guide gets here,we're heading out.”</Entry>
+  <Entry File="nivl\32.wav" ID="32">Tifa's father “Listen to me,Sephiroth.  In case something happens…”</Entry>
+  <Entry File="nivl\33.wav" ID="33">Sephiroth “…Trust me.”</Entry>
+  <Entry File="nivl\34a.wav" ID="34" Part="a">Tifa “I'll be all right,Dad!”</Entry>
+  <Entry File="nivl\34b.wav" ID="34" Part="b">“I have two men from SOLDIER with me.”</Entry>
+  <Entry File="nivl\35.wav" ID="35">Tifa “I'm Tifa.  Nice to meet you!”</Entry>
+  <Entry File="nivl\36.wav" ID="36">Cloud “Tifa!  You're the guide?”</Entry>
+  <Entry File="nivl\37a.wav" ID="37" Part="a">Tifa “That's right.”</Entry>
+  <Entry File="nivl\37b.wav" ID="37" Part="b">“It so happens I'm the   number one guide in this town.”</Entry>
+  <Entry File="nivl\38.wav" ID="38">Cloud “It's too dangerous!   I can't get you involved in this!”</Entry>
+  <Entry File="nivl\39.wav" ID="39">Sephiroth “There's no problem if you protect her.”</Entry>
+  <Entry File="nivl\40.wav" ID="40">Sephiroth “…Let's go.”</Entry>
+  <Entry File="nivl\41.wav" ID="41">“Umm…”</Entry>
+  <Entry File="nivl\42.wav" ID="42">“Mr. Sephiroth!  Please let me take one picture for a memento!”</Entry>
+  <Entry File="nivl\43.wav" ID="43">“Tifa,can you ask  him for me too?”</Entry>
+  <Entry File="nivl\44.wav" ID="44">“Great,thank you!”</Entry>
+  <Entry File="nivl\45.wav" ID="45">“I'll give each of you a copy   once I get it developed!”</Entry>
+  <Entry File="nivl\46.wav" ID="46">“Cheeeeese!”</Entry>
+  <Entry File="nivl\47a.wav" ID="47" Part="a">Cloud “This Mansion…”</Entry>
+  <Entry File="nivl\47b.wav" ID="47" Part="b">“…No,I'll come here later.”</Entry>
+  <Entry File="nivl\48.wav" ID="48">Sephiroth “Hey,stay over here!”</Entry>
+  <Entry File="nivl\49a.wav" ID="49" Part="a">Cloud “Up ahead is…Mt. Nibel.”</Entry>
+  <Entry File="nivl\49b.wav" ID="49" Part="b">“I'll tell you about the time  I went into the mountains.”</Entry>
+  <Entry File="nivl\50.wav" ID="50">“Hey,calm down!  Wait over here.”</Entry>
+  <Entry File="nivl\51.wav" ID="51">“…Late again.”</Entry>
+  <Entry File="nivl\52.wav" ID="52">“I was so nervous.  I couldn't get any sleep…”</Entry>
+  <Entry File="nivl\53a.wav" ID="53" Part="a">Zangan “There's nothing that'll  harm the town,right?”</Entry>
+  <Entry File="nivl\54.wav" ID="54">Cloud “…Why do you ask?”</Entry>
+  <Entry File="nivl\55.wav" ID="55">Cloud “It's Sephiroth.  He would never do that.”</Entry>
+  <Entry File="nivl\56a.wav" ID="56" Part="a">Zangan “The Shinra showed up to eliminate   any information that could be  embarrassing to the company.”</Entry>
+  <Entry File="nivl\56b.wav" ID="56" Part="b">“You pick these things up when  you travel as much as I do.”</Entry>
+  <Entry File="nivl\57.wav" ID="57">Zangan “…Oh my.  You sure do have faith.”</Entry>
+  <Entry File="nivl\58.wav" ID="58">“Is that you,Cloud?”  …Yeah  …No</Entry>
+  <Entry File="nivl\59.wav" ID="59">“Mom?”</Entry>
+  <Entry File="nivl\60.wav" ID="60">“Here,I've brought you something!”</Entry>
+  <Entry File="nivl\61.wav" ID="61">“Don't tell anyone in town!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="nivl\0.wav" ID="0">Nibelheim</Entry>
+	<Entry File="nivl\53b.wav" ID="53" Part="b">Why? No way!</Entry>
+	<Entry File="nivl\62.wav" ID="62">Received "Homemade Potion!”</Entry>
+-->
+</VoiceList>

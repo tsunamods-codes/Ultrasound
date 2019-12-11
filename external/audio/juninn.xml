@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="juninn\1a.wav" ID="1" Part="a">“Are you sure it's all right?”</Entry>
+  <Entry File="juninn\1b.wav" ID="1" Part="b">“Nap while on duty?” 30 gil Forget it</Entry>
+  <Entry File="juninn\2a.wav" ID="2" Part="a">“Welcome to 'Inn'd of the line' in Junon.  Wait,I shouldn't be sayin'  stuff like that.”</Entry>
+  <Entry File="juninn\2b.wav" ID="2" Part="b">“Wanna spend the night?” 30 gil Forget it</Entry>
+  <Entry File="juninn\3.wav" ID="3">“Come again.”</Entry>
+  <Entry File="juninn\4.wav" ID="4">“Aw,knock it off already!   You don't have enough moolah!  No,you 'forget it'!”</Entry>
+  <Entry File="juninn\5.wav" ID="5">“Enjoy your stay.”</Entry>
+  <Entry File="juninn\6a.wav" ID="6" Part="a">“Good morning!  You still seem a little sleepy.”</Entry>
+  <Entry File="juninn\6b.wav" ID="6" Part="b">“Looking forward to seeing you again.”</Entry>
+  <Entry File="juninn\7a.wav" ID="7" Part="a">“Our rates are the same as  the 1st class hotels.”</Entry>
+  <Entry File="juninn\7b.wav" ID="7" Part="b">“Would you like to stay?” 400 gil Forget it</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="juninn\0.wav" ID="0">Junon Inn</Entry>
+	<Entry File="juninn\8.wav" ID="8">[Save Point] Access the menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

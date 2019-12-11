@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="sininb33\3.wav" ID="3">Vincent “This body is…  the punishment that's been given to me…”</Entry>
+  <Entry File="sininb33\4.wav" ID="4">Vincent “I was unable…  to stop Professor Gast and Hojo…”</Entry>
+  <Entry File="sininb33\5.wav" ID="5">Vincent “And Lucrecia…I was  unable to stop them…”</Entry>
+  <Entry File="sininb33\6.wav" ID="6">Vincent “All that I was able to do  was watch…  That is my punishment…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="sininb33\0.wav" ID="0">I'm against it!! Why experiment on humans!?</Entry>
+	<Entry File="sininb33\1.wav" ID="1">She and I are both scientists!!</Entry>
+	<Entry File="sininb33\2.wav" ID="2">Urrrrrrrrgh!!</Entry>
+-->
+</VoiceList>

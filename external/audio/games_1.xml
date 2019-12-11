@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="games_1\7.wav" ID="7">Cloud “Not enough gil…”</Entry>
+  <Entry File="games_1\29.wav" ID="29">“I'm sorry.  You only played about half the games here…"</Entry>
+  <Entry File="games_1\30.wav" ID="30">“We got new prizes.  But what's in them is a secret.”</Entry>
+  <Entry File="games_1\31.wav" ID="31">“You have   GP.”</Entry>
+  <Entry File="games_1\32.wav" ID="32">“Exchange your GP for prizes here.  Want to exchange?” Yes No</Entry>
+  <Entry File="games_1\38.wav" ID="38">“I'm gonna let you in on something…  Y'see,this is Materia. But you  can't seem to carry any more of it.”</Entry>
+  <Entry File="games_1\46.wav" ID="46">“You already have  a 'Gold Ticket'…”</Entry>
+  <Entry File="games_1\47.wav" ID="47">“I can't get that…”</Entry>
+  <Entry File="games_1\48.wav" ID="48">“I can't stop because they have  good stuff in 'em.”</Entry>
+  <Entry File="games_1\49a.wav" ID="49" Part="a">“Almost…” </Entry>
+  <Entry File="games_1\49b.wav" ID="49" Part="b">“Crap!”</Entry>
+  <Entry File="games_1\49c.wav" ID="49" Part="c">“No cigar…”</Entry>
+  <Entry File="games_1\50a.wav" ID="50" Part="a">“Almost…”</Entry>
+  <Entry File="games_1\50b.wav" ID="50" Part="b">“Arrrgh!”</Entry>
+  <Entry File="games_1\50c.wav" ID="50" Part="c">“Got it!!!”</Entry>
+  <Entry File="games_1\51.wav" ID="51">“I can't stop,  no matter what's going on outside…”</Entry>
+  <Entry File="games_1\52.wav" ID="52">“I'm just gonna spend all my money   and play until I drop!!”</Entry>
+  <Entry File="games_1\53.wav" ID="53">“Please…don't…  talk to me…right now.”</Entry>
+  <Entry File="games_1\54.wav" ID="54">“You sure do need  a lot of money here.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="games_1\0.wav" ID="0">Building 1f.</Entry>
+	<Entry File="games_1\1.wav" ID="1">READY……</Entry>
+	<Entry File="games_1\2.wav" ID="2">GO!!</Entry>
+	<Entry File="games_1\3.wav" ID="3">YOU LOSE!</Entry>
+	<Entry File="games_1\4.wav" ID="4">YOU WIN!!</Entry>
+	<Entry File="games_1\5.wav" ID="5">"Arm Wrestling  Mega Sumo" 1 game 100 gil</Entry>
+	<Entry File="games_1\6.wav" ID="6">Try it Not interested</Entry>
+	<Entry File="games_1\8.wav" ID="8">"Push [OK] consecutively."</Entry>
+	<Entry File="games_1\9.wav" ID="9">"Please select opponent." Sumo Wrestler Wrestler</Entry>
+	<Entry File="games_1\10.wav" ID="10">"Wonder Catcher" 1 game 100 gil</Entry>
+	<Entry File="games_1\11.wav" ID="11">Didn't get a thing…</Entry>
+	<Entry File="games_1\12.wav" ID="12">Received "Potion"!!</Entry>
+	<Entry File="games_1\13.wav" ID="13">Received 1 GP!!</Entry>
+	<Entry File="games_1\14.wav" ID="14">Received "Elixir"!!</Entry>
+	<Entry File="games_1\15.wav" ID="15">Received 3 GP!!</Entry>
+	<Entry File="games_1\16.wav" ID="16">Received 100 GP!!</Entry>
+	<Entry File="games_1\17.wav" ID="17">Received 80 GP!!</Entry>
+	<Entry File="games_1\18.wav" ID="18">Received "Phoenix Down"!!</Entry>
+	<Entry File="games_1\19.wav" ID="19">Received "Ether"!!</Entry>
+	<Entry File="games_1\20.wav" ID="20">Received "Megalixir"!!</Entry>
+	<Entry File="games_1\21a.wav" ID="21" Part="a">"Basketball Game"  1 game 200 gil</Entry>
+	<Entry File="games_1\21b.wav" ID="21" Part="b">Hold down [OK] to gain strength. Release [OK] to shoot.</Entry>
+	<Entry File="games_1\22.wav" ID="22">Received  GP!!</Entry>
+	<Entry File="games_1\23.wav" ID="23">"DOUBLE CHANCE!"</Entry>
+	<Entry File="games_1\24a.wav" ID="24" Part="a">"Double your GP for the game,  but if you lose,your GP will be 1."</Entry>
+	<Entry File="games_1\24b.wav" ID="24" Part="b">"You may continue after you  successfully double your GP.  Want to try 'DOUBLE CHANCE'?"</Entry>
+	<Entry File="games_1\24c.wav" ID="24" Part="c">Yes No</Entry>
+	<Entry File="games_1\25.wav" ID="25">"NOW PLAYING DOUBLE CHANCE"</Entry>
+	<Entry File="games_1\26.wav" ID="26">"Double Up!!"</Entry>
+	<Entry File="games_1\27.wav" ID="27">"Missed!!"</Entry>
+	<Entry File="games_1\28.wav" ID="28">"Give Up!"</Entry>
+	<Entry File="games_1\33.wav" ID="33">   Potion   1GP   Ether   20GP   X-Potion   80GP   Turbo Ether  100GP   Gold Ticket  300GP   ???????????  500GP   ??????????? 1000GP   ??????????? 2000GP    Don't want to exchange</Entry>
+	<Entry File="games_1\34.wav" ID="34">   Potion   1GP   Ether   20GP   X-Potion   80GP   Turbo Ether  100GP   Gold Ticket  300GP   ???????????  500GP   ??????????? 2000GP    Don't want to exchange</Entry>
+	<Entry File="games_1\35.wav" ID="35">   Potion   1GP   Ether   20GP   X-Potion   80GP   Turbo Ether  100GP   Gold Ticket  300GP   ???????????  500GP   ??????????? 1000GP    Don't want to exchange</Entry>
+	<Entry File="games_1\36.wav" ID="36">   Potion   1GP   Ether   20GP   X-Potion   80GP   Turbo Ether  100GP   Gold Ticket  300GP   ???????????  500GP    Don't want to exchange</Entry>
+	<Entry File="games_1\37.wav" ID="37">"Not enough GP"</Entry>
+	<Entry File="games_1\39.wav" ID="39">Received "Ether"!!</Entry>
+	<Entry File="games_1\40.wav" ID="40">Received "X-Potion"!!</Entry>
+	<Entry File="games_1\41.wav" ID="41">Received "Gold Ticket"!!</Entry>
+	<Entry File="games_1\42.wav" ID="42">Received "Gil Plus" Materia!!</Entry>
+	<Entry File="games_1\43.wav" ID="43">Received "Carob Nut"!!</Entry>
+	<Entry File="games_1\44.wav" ID="44">Received "EXP Plus" Materia!!</Entry>
+	<Entry File="games_1\45.wav" ID="45">Received "Turbo Ether"!!</Entry>
+-->
+</VoiceList>

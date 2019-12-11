@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds6_22\0.wav" ID="0">Barret “Marlene!  MARLENE!!”</Entry>
+  <Entry File="mds6_22\1.wav" ID="1">Barret “MAR---LE---NE!!”</Entry>
+  <Entry File="mds6_22\2.wav" ID="2">Barret “Biggs!”</Entry>
+  <Entry File="mds6_22\3.wav" ID="3">Barret “Wedge!!”</Entry>
+  <Entry File="mds6_22\4.wav" ID="4">Barret “Jessie!!”</Entry>
+  <Entry File="mds6_22\5.wav" ID="5">Barret “Goddamn it!!!”</Entry>
+  <Entry File="mds6_22\6.wav" ID="6">Barret “Dammit!”</Entry>
+  <Entry File="mds6_22\7.wav" ID="7">Barret “DAMMIT ALL!!!!”</Entry>
+  <Entry File="mds6_22\8.wav" ID="8">Barret “What the hell's it all for!?”</Entry>
+  <Entry File="mds6_22\9.wav" ID="9">Barret “ARGGHHHH!!!”</Entry>
+  <Entry File="mds6_22\10.wav" ID="10">Cloud “Hey,Barret!”</Entry>
+  <Entry File="mds6_22\11.wav" ID="11">Tifa “Barret!”</Entry>
+  <Entry File="mds6_22\12.wav" ID="12">Cloud “Hey!”</Entry>
+  <Entry File="mds6_22\13.wav" ID="13">Tifa “Barret,stop…  Please stop,Barret.”</Entry>
+  <Entry File="mds6_22\14.wav" ID="14">Barret “URGHHHH!!!”</Entry>
+  <Entry File="mds6_22\15.wav" ID="15">Barret “God  damn…”</Entry>
+  <Entry File="mds6_22\16.wav" ID="16">Barret “Marlene…”</Entry>
+  <Entry File="mds6_22\17.wav" ID="17">Tifa “…  Barret?”</Entry>
+  <Entry File="mds6_22\18.wav" ID="18">Tifa “Marlene is…  I think Marlene is safe.”</Entry>
+  <Entry File="mds6_22\19.wav" ID="19">Barret “…huh?”</Entry>
+  <Entry File="mds6_22\20.wav" ID="20">Tifa “Right before they took Aeris,  she said,'Don't worry,she's all right.'  She was probably talking about Marlene.”</Entry>
+  <Entry File="mds6_22\21.wav" ID="21">Barret “Rrr,really!?”</Entry>
+  <Entry File="mds6_22\22.wav" ID="22">Tifa “But…”</Entry>
+  <Entry File="mds6_22\23.wav" ID="23">Barret “Biggs…  Wedge…  Jessie…”</Entry>
+  <Entry File="mds6_22\24.wav" ID="24">Cloud “All three of them were in the pillar.”</Entry>
+  <Entry File="mds6_22\25.wav" ID="25">Barret “Think I don't know that?”</Entry>
+  <Entry File="mds6_22\26.wav" ID="26">Barret “But…we,all of us  fought together.”</Entry>
+  <Entry File="mds6_22\27.wav" ID="27">Barret “I don't wanna think of them  as dead!”</Entry>
+  <Entry File="mds6_22\28.wav" ID="28">Tifa “…And the other people in Sector 7.”</Entry>
+  <Entry File="mds6_22\29a.wav" ID="29" Part="a">Barret “This is all screwed up!”</Entry>
+  <Entry File="mds6_22\29b.wav" ID="29" Part="b">“They destroyed an entire village  just to get to us!  They killed so many people…”</Entry>
+  <Entry File="mds6_22\30.wav" ID="30">Tifa “…Are you saying it's our fault?  Because AVALANCHE was here?  Innocent people lost their lives because of us?”</Entry>
+  <Entry File="mds6_22\31a.wav" ID="31" Part="a">Barret “No,Tifa!”</Entry>
+  <Entry File="mds6_22\31b.wav" ID="31" Part="b">“That ain't it!  Hell no!!”</Entry>
+  <Entry File="mds6_22\31c.wav" ID="31" Part="c">“It ain't us! It's the damn Shinra!  It's never been nobody but the Shinra!”</Entry>
+  <Entry File="mds6_22\32a.wav" ID="32" Part="a">Barret “They're evil and destroyin'  our planet just to…”</Entry>
+  <Entry File="mds6_22\32b.wav" ID="32" Part="b">“build their power and line their own  damn pockets with gold!”</Entry>
+  <Entry File="mds6_22\32c.wav" ID="32" Part="c">“If we don't get rid of them,  they're gonna kill this planet!”</Entry>
+  <Entry File="mds6_22\33.wav" ID="33">Barret “Our fight ain't never gonna be over  until we get rid of them!!”</Entry>
+  <Entry File="mds6_22\34.wav" ID="34">Tifa “…I don't know.”</Entry>
+  <Entry File="mds6_22\35.wav" ID="35">Barret “What don't you know!?  You don't believe me?”</Entry>
+  <Entry File="mds6_22\36.wav" ID="36">Tifa “It's not that.  I'm not sure about…me.  My feelings.”</Entry>
+  <Entry File="mds6_22\37.wav" ID="37">Barret “An' what about you?”</Entry>
+  <Entry File="mds6_22\38.wav" ID="38">Cloud “…”</Entry>
+  <Entry File="mds6_22\39.wav" ID="39">Barret “Yo!”</Entry>
+  <Entry File="mds6_22\40.wav" ID="40">Barret “Where's he think he's goin'?”</Entry>
+  <Entry File="mds6_22\41.wav" ID="41">Tifa “Oh! Aeris!”</Entry>
+  <Entry File="mds6_22\42.wav" ID="42">Barret “Oh yeah,that girl.  What's up with her?”</Entry>
+  <Entry File="mds6_22\43.wav" ID="43">Tifa “…I don't really know…  but she's the one I left  Marlene with.”</Entry>
+  <Entry File="mds6_22\44.wav" ID="44">Barret “Damn! Marlene!!”</Entry>
+  <Entry File="mds6_22\45.wav" ID="45">Tifa “Aeris said that Marlene was  safe.”</Entry>
+  <Entry File="mds6_22\46.wav" ID="46">Barret “Tifa.  There ain't no turnin' back now.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds6_22\47.wav" ID="47">Sector 6 park</Entry>
+	<Entry File="mds6_22\48.wav" ID="48">You may not take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="mds6_22\49.wav" ID="49">Received "Sense" Materia!</Entry>
+-->
+</VoiceList>

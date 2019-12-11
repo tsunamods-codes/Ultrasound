@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="snow\1.wav" ID="1">Cloud “What's down there?”</Entry>
+  <Entry File="snow\2.wav" ID="2">Cloud “You mean Boss…Tseng?  That wasn't us.  Sephiroth did it.”</Entry>
+  <Entry File="snow\3.wav" ID="3">Cloud “I'm not lying…  it was Sephiroth.”</Entry>
+  <Entry File="snow\4.wav" ID="4">Cloud “Oh,man…”</Entry>
+  <Entry File="snow\5.wav" ID="5">Cloud “Wa…wait! Get out of the way Stay put</Entry>
+  <Entry File="snow\6.wav" ID="6">Elena “There they are,hurry!!”</Entry>
+  <Entry File="snow\7a.wav" ID="7" Part="a">Elena “Cloud…huff…wheeze.”</Entry>
+  <Entry File="snow\7b.wav" ID="7" Part="b">“I won't let you go any further!”</Entry>
+  <Entry File="snow\8a.wav" ID="8" Part="a">Elena “It's a SE-CR-ET.”</Entry>
+  <Entry File="snow\8b.wav" ID="8" Part="b">“It really doesn't matter!  You really got guts messin'  my boss up like that!”</Entry>
+  <Entry File="snow\9.wav" ID="9">Elena “No!  Liar! Don't think you can fool me!”</Entry>
+  <Entry File="snow\10.wav" ID="10">Elena “Don't try to act innocent.  I'll never forget it!!”</Entry>
+  <Entry File="snow\11.wav" ID="11">Elena “Looks like just talking won't do.  You're going to have to feel some pain!”</Entry>
+  <Entry File="snow\12.wav" ID="12">Elena “No,I can handle him!  There's no way he can avoid my punch.”</Entry>
+  <Entry File="snow\13.wav" ID="13">Elena “Eyaaaah!”</Entry>
+  <Entry File="snow\14.wav" ID="14">Elena “Why?  Why didn't you try to duck?”</Entry>
+  <Entry File="snow\15a.wav" ID="15" Part="a">Elena “There's no way they can climb  the Great Glacier anyway.”</Entry>
+  <Entry File="snow\15b.wav" ID="15" Part="b">“Put them in some house  in the village.”</Entry>
+  <Entry File="snow\16.wav" ID="16">“Yes ma'am!!”</Entry>
+  <Entry File="snow\17.wav" ID="17">“Just you…and me!!”</Entry>
+  <Entry File="snow\18.wav" ID="18">“What?  Yeah…”</Entry>
+  <Entry File="snow\19.wav" ID="19">“This village is now under martial law!” (Do as you're told) (Kick his butt)</Entry>
+  <Entry File="snow\20.wav" ID="20">“Don't be angry.  I'm just doing my job.”</Entry>
+  <Entry File="snow\21.wav" ID="21">“Stop it,there're kids around!”</Entry>
+  <Entry File="snow\22a.wav" ID="22" Part="a">“Listen,I probably shouldn't tell you,  but I hear something big's  going down up North.”</Entry>
+  <Entry File="snow\22b.wav" ID="22" Part="b">“The President's gonna be there.  So,would you please just lay  low for a while?”</Entry>
+  <Entry File="snow\23.wav" ID="23">“Ele…Elena!?”</Entry>
+  <Entry File="snow\24.wav" ID="24">“Who--a!!”</Entry>
+  <Entry File="snow\25.wav" ID="25">“No,don't!!  There's a steep grade,past here.”</Entry>
+  <Entry File="snow\26.wav" ID="26">“It's dangerous,please don't go!” I'm still going Thanks for your kindness</Entry>
+  <Entry File="snow\27a.wav" ID="27" Part="a">“Damn,I was just being nice…”</Entry>
+  <Entry File="snow\27b.wav" ID="27" Part="b">“What the? Who are those people over there?  Looks like trouble!”</Entry>
+  <Entry File="snow\28.wav" ID="28">“No,no.  I just did what came natural.”</Entry>
+  <Entry File="snow\29.wav" ID="29">“I guess I'm not too busy now.  Do you want to learn  how to ride a snowboard?” Maybe I should Not interested</Entry>
+  <Entry File="snow\30.wav" ID="30">“Do you want me to explain again?” Yes,please No thanks</Entry>
+  <Entry File="snow\31.wav" ID="31">“You're so boring!”</Entry>
+  <Entry File="snow\32.wav" ID="32">“Sorry I ran off a while ago…  I thought there was  going to be trouble.”</Entry>
+  <Entry File="snow\33.wav" ID="33">“Anyhow,you'll need a snowboard  to get down that hill.  Want to learn how to ride one?” Yeah,maybe I should No,not interested</Entry>
+  <Entry File="snow\34.wav" ID="34">“All right,fat-head…  But don't blame me if you get hurt.”</Entry>
+  <Entry File="snow\35.wav" ID="35">“What the?  They sure were weak for Shinra.”</Entry>
+  <Entry File="snow\36.wav" ID="36">“I told you,you can't!”</Entry>
+  <Entry File="snow\37.wav" ID="37">“You won't make it without  a snowboard and a map!!”</Entry>
+  <Entry File="snow\38.wav" ID="38">“Be careful!”</Entry>
+  <Entry File="snow\39.wav" ID="39">“There's a steep hill past here.  You shouldn't go any further.”</Entry>
+  <Entry File="snow\40.wav" ID="40">“There's a barrier  at the North end of the crater!  You shouldn't go any further.”</Entry>
+  <Entry File="snow\41.wav" ID="41">“A bright light shattered  the barrier at the crater!  What in the world's goin' on!?”</Entry>
+  <Entry File="snow\42a.wav" ID="42" Part="a">“When I first moved here,  I saw a man with a black cape  heading North.”</Entry>
+  <Entry File="snow\42b.wav" ID="42" Part="b">“It seemed strange  seeing the black cape  in the snowy white.”</Entry>
+  <Entry File="snow\43.wav" ID="43">“Sledding's fun!”</Entry>
+  <Entry File="snow\44.wav" ID="44">“Who is that man?”</Entry>
+  <Entry File="snow\45.wav" ID="45">“I'm gonna try  snowboarding after this!”</Entry>
+  <Entry File="snow\46.wav" ID="46">“Next time,  I'm gonna make an even bigger one.”</Entry>
+  <Entry File="snow\47.wav" ID="47">“What's a barrier?  You mean that light  on the top of the mountain?”</Entry>
+  <Entry File="snow\48a.wav" ID="48" Part="a">“A sad voice is  getting louder every second!”</Entry>
+  <Entry File="snow\48b.wav" ID="48" Part="b">“The mountain must be crying.  Is it hurt?”</Entry>
+  <Entry File="snow\49.wav" ID="49">“It's almost finished!”</Entry>
+  <Entry File="snow\50.wav" ID="50">“I heard that there's a barrier  on top of the mountain.”</Entry>
+  <Entry File="snow\51.wav" ID="51">“Once the barrier's gone,  I can hear cries  from beyond the mountain…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="snow\0.wav" ID="0">Icicle Inn</Entry>
+	<Entry File="snow\52.wav" ID="52">   Dodge that punch!   directional button   [up] [left]  [right]</Entry>
+	<Entry File="snow\53.wav" ID="53">Directional button [up]   Move forward Directional button [left]  Move left Directional button [right] Move right</Entry>
+	<Entry File="snow\54.wav" ID="54">Directional button [down] Brake [SWITCH] Brake [CANCEL] Jump</Entry>
+	<Entry File="snow\55.wav" ID="55">Directional button [left] + [PAGEDOWN]Edge Left Directional button [right] + [PAGEDOWN]Edge Right</Entry>
+-->
+</VoiceList>

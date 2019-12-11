@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mtcrl_9\0.wav" ID="0">Mt. Corel</Entry>
+	<Entry File="mtcrl_9\1.wav" ID="1" />
+	<Entry File="mtcrl_9\2.wav" ID="2" />
+	<Entry File="mtcrl_9\3.wav" ID="3" />
+	<Entry File="mtcrl_9\4.wav" ID="4" />
+	<Entry File="mtcrl_9\5.wav" ID="5" />
+	<Entry File="mtcrl_9\6.wav" ID="6" />
+	<Entry File="mtcrl_9\7.wav" ID="7" />
+	<Entry File="mtcrl_9\8.wav" ID="8" />
+	<Entry File="mtcrl_9\9.wav" ID="9" />
+	<Entry File="mtcrl_9\10.wav" ID="10" />
+	<Entry File="mtcrl_9\11.wav" ID="11" />
+	<Entry File="mtcrl_9\12.wav" ID="12" />
+	<Entry File="mtcrl_9\13.wav" ID="13" />
+	<Entry File="mtcrl_9\14.wav" ID="14" />
+	<Entry File="mtcrl_9\15.wav" ID="15" />
+-->
+</VoiceList>

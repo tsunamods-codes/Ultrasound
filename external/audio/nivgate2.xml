@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="nivgate2\1.wav" ID="1">Sephiroth “How does it feel?”</Entry>
+  <Entry File="nivgate2\2.wav" ID="2">Sephiroth “It's your first time back to your hometown  in a long time,right?”</Entry>
+  <Entry File="nivgate2\3a.wav" ID="3" Part="a">Sephiroth “So how does it feel?”</Entry>
+  <Entry File="nivgate2\3b.wav" ID="3" Part="b">“I wouldn't know because  I don't have a hometown…”</Entry>
+  <Entry File="nivgate2\4.wav" ID="4">Cloud “Ummm…how 'bout your parents?”</Entry>
+  <Entry File="nivgate2\5.wav" ID="5">Sephiroth “My mother is Jenova.  She died right after she gave birth to me.  My father…”</Entry>
+  <Entry File="nivgate2\6.wav" ID="6">Sephiroth “What does it matter?”</Entry>
+  <Entry File="nivgate2\7.wav" ID="7">Sephiroth “All right,let's go.”</Entry>
+  <Entry File="nivgate2\8.wav" ID="8">Barret “Yo wait a minute!!”</Entry>
+  <Entry File="nivgate2\9.wav" ID="9">Barret “Isn't that,um?”</Entry>
+  <Entry File="nivgate2\10.wav" ID="10">Barret “The name of Sephiroth's mother…”</Entry>
+  <Entry File="nivgate2\11.wav" ID="11">Sephiroth “The Mako smells pretty bad here.”</Entry>
+  <Entry File="nivgate2\12.wav" ID="12">“Psst…  (You keep wandering around here and you'll get   in trouble.)”</Entry>
+  <Entry File="nivgate2\13.wav" ID="13">“It's so boring,being on watch.” You want to do what we always do? Just sit tight,it's your job,right?</Entry>
+  <Entry File="nivgate2\14.wav" ID="14">Cloud “Shall we practice?”</Entry>
+  <Entry File="nivgate2\15.wav" ID="15">Cloud “I'll come and talk to you once in a while.   Just stick with it.”</Entry>
+  <Entry File="nivgate2\16a.wav" ID="16" Part="a">“Practice…  oh,you mean practice my pose.”</Entry>
+  <Entry File="nivgate2\16b.wav" ID="16" Part="b">“Do members of SOLDIER always have  to worry about what others think?”</Entry>
+  <Entry File="nivgate2\16c.wav" ID="16" Part="c">“…How did it go?”</Entry>
+  <Entry File="nivgate2\17.wav" ID="17">“…Was it like this?”</Entry>
+  <Entry File="nivgate2\18.wav" ID="18">Cloud “Good job!”</Entry>
+  <Entry File="nivgate2\19.wav" ID="19">“I really don't want to be in SOLDIER.”</Entry>
+  <Entry File="nivgate2\20.wav" ID="20">Tifa “Cloud…look.”</Entry>
+  <Entry File="nivgate2\21.wav" ID="21">Tifa “Here's the well…”</Entry>
+  <Entry File="nivgate2\22.wav" ID="22">Tifa “And that's Gramps' Inn,too.”</Entry>
+  <Entry File="nivgate2\23.wav" ID="23">Tifa “The only truck in town.  It's been here since we were little kids,right?”</Entry>
+  <Entry File="nivgate2\24.wav" ID="24">Tifa “This is the Nibelheim you remember,right?”</Entry>
+  <Entry File="nivgate2\25.wav" ID="25">Tifa “It's the same as my Nibelheim.  That's why this is…our Nibelheim.”</Entry>
+  <Entry File="nivgate2\26.wav" ID="26">Tifa “Five years ago…two men  from SOLDIER came…”</Entry>
+  <Entry File="nivgate2\27.wav" ID="27">Tifa “Sephiroth and…  a young and vibrant soldier.”</Entry>
+  <Entry File="nivgate2\28.wav" ID="28">Tifa “Can you tell me again what happened?”</Entry>
+  <Entry File="nivgate2\29.wav" ID="29">Tifa “No,Cloud.”</Entry>
+  <Entry File="nivgate2\30.wav" ID="30">Tifa “I've been hiding it for some time,  afraid that if I told you  …something terrible might happen.”</Entry>
+  <Entry File="nivgate2\31.wav" ID="31">Tifa “But,I'm not going to  hide anything anymore.”</Entry>
+  <Entry File="nivgate2\32.wav" ID="32">Tifa “You weren't here.  Cloud did not come to Nibelheim  five years ago.”</Entry>
+  <Entry File="nivgate2\33.wav" ID="33">Tifa “I…waited.  But,Cloud…never came.”</Entry>
+  <Entry File="nivgate2\34.wav" ID="34">Tifa “The two that were ordered here were  Sephiroth and another person…”</Entry>
+  <Entry File="nivgate2\35.wav" ID="35">Tifa “Five Years ago…I saw the real  Sephiroth for the very first time.”</Entry>
+  <Entry File="nivgate2\36.wav" ID="36">Tifa “So this is…the Great Sephiroth?”</Entry>
+  <Entry File="nivgate2\37.wav" ID="37">Tifa “But to tell the truth,  I thought he was very cold.”</Entry>
+  <Entry File="nivgate2\38.wav" ID="38">Tifa “I remember a foreboding about him.”</Entry>
+  <Entry File="nivgate2\39.wav" ID="39">“This is your hometown,right?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="nivgate2\0.wav" ID="0">Nibelheim</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blin65_1\0.wav" ID="0">Shinra Bldg. 65f.</Entry>
+	<Entry File="blin65_1\1.wav" ID="1">Received Key Item "Midgar Parts"!</Entry>
+	<Entry File="blin65_1\2.wav" ID="2">Locked…</Entry>
+	<Entry File="blin65_1\3.wav" ID="3">Received Key Item "Keycard 66"!</Entry>
+-->
+</VoiceList>

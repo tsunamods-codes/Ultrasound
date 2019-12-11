@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="yufy1\1.wav" ID="1">Yuffie “I know,the Materia,right?  I have it stored in a safe place.  …Follow me.”</Entry>
+  <Entry File="yufy1\2.wav" ID="2">Yuffie “Phew,perfect.  Now the Materia is back in its  rightful place.”</Entry>
+  <Entry File="yufy1\3.wav" ID="3">Cloud “Hey…the order is   all messed up.”</Entry>
+  <Entry File="yufy1\4.wav" ID="4">Tifa “Hey,what is this?  The order of  it's all messed up!”</Entry>
+  <Entry File="yufy1\5.wav" ID="5">Cid “What the hell's goin' on!?  The order of  the Materia's all messed up!”</Entry>
+  <Entry File="yufy1\6a.wav" ID="6" Part="a">Yuffie “Huh?  Oh,it'll be all right…”</Entry>
+  <Entry File="yufy1\6b.wav" ID="6" Part="b">“Don't be so picky!”</Entry>
+  <Entry File="yufy1\7.wav" ID="7">Yuffie “Anyways,  that sure was close.”</Entry>
+  <Entry File="yufy1\8.wav" ID="8">“No,normally  I would kick their butts,  Boom,Bang!!”</Entry>
+  <Entry File="yufy1\9.wav" ID="9">“That Corneo guy's  a real pain.”</Entry>
+  <Entry File="yufy1\10.wav" ID="10">“I'd rather deal with my dad than   with that guy.”</Entry>
+  <Entry File="yufy1\11.wav" ID="11">“You know,some of those Turk guys  are pretty good,huh?”</Entry>
+  <Entry File="yufy1\12a.wav" ID="12" Part="a">“At least,after all that,  we got the Materia back.”</Entry>
+  <Entry File="yufy1\12b.wav" ID="12" Part="b">“Now come on everybody,  let's continue our journey…”</Entry>
+  <Entry File="yufy1\13.wav" ID="13">“Hey!!  W…Wait!”</Entry>
+  <Entry File="yufy1\14.wav" ID="14">Yuffie “Oh,all right.    Here,I'll give this to you guys.”</Entry>
+  <Entry File="yufy1\15.wav" ID="15">“…No,forget it.  Besides,they have lots of Materia anyway.”</Entry>
+  <Entry File="yufy1\16.wav" ID="16">Yuffie “Here,look,look!”</Entry>
+  <Entry File="yufy1\18.wav" ID="18">Yuffie “…”</Entry>
+  <Entry File="yufy1\19a.wav" ID="19" Part="a">Yuffie “Come on,wait!”</Entry>
+  <Entry File="yufy1\19b.wav" ID="19" Part="b">“No matter what you think,  I'm going with you!”</Entry>
+  <Entry File="yufy1\20.wav" ID="20">Yuffie “…Next time…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="yufy1\0.wav" ID="0">Yuffie's House</Entry>
+	<Entry File="yufy1\17.wav" ID="17">Received "MP Absorb" Materia!</Entry>
+	<Entry File="yufy1\21.wav" ID="21">You cannot take on anymore Materia. Please discard some Materia.</Entry>
+	<Entry File="yufy1\22.wav" ID="22">Received "MP Absorption" Materia!</Entry>
+-->
+</VoiceList>

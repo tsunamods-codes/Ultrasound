@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="trnad_4\1.wav" ID="1">Cloud “Sephiroth!!!”</Entry>
+  <Entry File="trnad_4\2.wav" ID="2">“This is the end!”</Entry>
+  <Entry File="trnad_4\3.wav" ID="3">Cloud “Jenova's cells…”</Entry>
+  <Entry File="trnad_4\4.wav" ID="4">Cloud “Our…”</Entry>
+  <Entry File="trnad_4\5.wav" ID="5">Cloud “Master…”</Entry>
+  <Entry File="trnad_4\6.wav" ID="6">Cloud “He disappeared!?”</Entry>
+  <Entry File="trnad_4\7.wav" ID="7">Barret “I'll take care of the Black Materia.  No matter what happens,  I'll be right here.”</Entry>
+  <Entry File="trnad_4\8.wav" ID="8">Barret “He got away?”</Entry>
+  <Entry File="trnad_4\9.wav" ID="9">Tifa “He might still be nearby…”</Entry>
+  <Entry File="trnad_4\10.wav" ID="10">Red XIII “I'll protect the Black Materia  no matter what!”</Entry>
+  <Entry File="trnad_4\11.wav" ID="11">Red XIII “I feel something…danger?”</Entry>
+  <Entry File="trnad_4\12.wav" ID="12">Cid “Hey,hey,!  What's goin' on?”</Entry>
+  <Entry File="trnad_4\13.wav" ID="13">Yuffie “I was just getting into it!”</Entry>
+  <Entry File="trnad_4\14.wav" ID="14">Cait Sith “Vanished? That can't be!”</Entry>
+  <Entry File="trnad_4\15.wav" ID="15">Vincent “Stay on alert.  You never know when  Sephiroth might appear.”</Entry>
+  <Entry File="trnad_4\16.wav" ID="16">“What I wanted was a body.  A seeing,hearing,moving body.  Soon it will be…over.”</Entry>
+  <Entry File="trnad_4\17.wav" ID="17">“Hmph…  Heh,heh…”</Entry>
+  <Entry File="trnad_4\18.wav" ID="18">“You're right.   This is the end of this body's usefulness.”</Entry>
+  <Entry File="trnad_4\23.wav" ID="23">“Take this!!”</Entry>
+  <Entry File="trnad_4\24.wav" ID="24">“This is the end…for all of you.”</Entry>
+  <Entry File="trnad_4\28.wav" ID="28">“You cannot take on anymore Materia.  Please discard some Materia.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="trnad_4\0.wav" ID="0">Whirlwind Maze</Entry>
+	<Entry File="trnad_4\19.wav" ID="19">Our purpose is to deliver the Black  Materia to our master.</Entry>
+	<Entry File="trnad_4\20.wav" ID="20">Those who carry Jenova's cells…</Entry>
+	<Entry File="trnad_4\21.wav" ID="21">Of course…Sephiroth.</Entry>
+	<Entry File="trnad_4\22.wav" ID="22">Heh,heh,heh…</Entry>
+	<Entry File="trnad_4\25.wav" ID="25">Received "Black Materia"!</Entry>
+	<Entry File="trnad_4\26.wav" ID="26">Received "Poison Ring"!</Entry>
+	<Entry File="trnad_4\27.wav" ID="27">Received "MP Turbo" Materia!</Entry>
+	<Entry File="trnad_4\29.wav" ID="29">[Save Point]  Access the Menu and select  [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

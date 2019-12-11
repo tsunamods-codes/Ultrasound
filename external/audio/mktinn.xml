@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mktinn\1.wav" ID="1">“Welcome.  It'll be  Gil per night.” Stay Don't stay</Entry>
+  <Entry File="mktinn\2.wav" ID="2">“All right then…  Please come again.”</Entry>
+  <Entry File="mktinn\3.wav" ID="3">“You don't have enough money.”</Entry>
+  <Entry File="mktinn\4.wav" ID="4">Cloud “Does he mean this?” Don't buy it Buy the one for 200 Gil Buy the one for 100 Gil Buy the one for 50 Gil</Entry>
+  <Entry File="mktinn\5.wav" ID="5">Cloud “I don't have enough money.  I'll get him the other one.”</Entry>
+  <Entry File="mktinn\6.wav" ID="6">“Thank you very much.  Please come again.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mktinn\0.wav" ID="0">Inn</Entry>
+-->
+</VoiceList>

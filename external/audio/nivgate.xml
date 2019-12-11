@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="nivgate\1.wav" ID="1">Sephiroth “How does it feel?”</Entry>
+  <Entry File="nivgate\2.wav" ID="2">Sephiroth “It's your first time back to your hometown    in a long time,right?”</Entry>
+  <Entry File="nivgate\3a.wav" ID="3" Part="a">Sephiroth “So how does it feel?”</Entry>
+  <Entry File="nivgate\3b.wav" ID="3" Part="b">“I wouldn't know because    I don't have a hometown…”</Entry>
+  <Entry File="nivgate\4.wav" ID="4">Cloud “Ummm…how 'bout your parents?”</Entry>
+  <Entry File="nivgate\5.wav" ID="5">Sephiroth “My mother is Jenova.  She died right after she gave birth to me.  My father…”</Entry>
+  <Entry File="nivgate\6.wav" ID="6">Sephiroth “What does it matter?”</Entry>
+  <Entry File="nivgate\7.wav" ID="7">Sephiroth “All right,let's go.”</Entry>
+  <Entry File="nivgate\8.wav" ID="8">Barret “Yo wait a minute!!”</Entry>
+  <Entry File="nivgate\9.wav" ID="9">Barret “Isn't that,uh…?”</Entry>
+  <Entry File="nivgate\10.wav" ID="10">Barret “The name of Sephiroth's mother…”</Entry>
+  <Entry File="nivgate\11.wav" ID="11">Sephiroth “The Mako smells pretty bad here.”</Entry>
+  <Entry File="nivgate\12.wav" ID="12">“Psst…    (You keep wandering around here and you'll get  in trouble.)”</Entry>
+  <Entry File="nivgate\13.wav" ID="13">“Being on watch is so boring.” You want to do what we always do? Just sit tight,it's your job,right?</Entry>
+  <Entry File="nivgate\14.wav" ID="14">Cloud “Shall we practice?”</Entry>
+  <Entry File="nivgate\15.wav" ID="15">Cloud “I'll come and talk to you once in a while.    Just stick with it.”</Entry>
+  <Entry File="nivgate\16a.wav" ID="16" Part="a">“Practice?    Oh,you mean practice my pose.”</Entry>
+  <Entry File="nivgate\16b.wav" ID="16" Part="b">“Do members of SOLDIER always have    to worry about what others think?”</Entry>
+  <Entry File="nivgate\16c.wav" ID="16" Part="c">“How did it go?”</Entry>
+  <Entry File="nivgate\17.wav" ID="17">“…Was it like this?”</Entry>
+  <Entry File="nivgate\18.wav" ID="18">Cloud “Good job!”</Entry>
+  <Entry File="nivgate\19.wav" ID="19">“I really don't want to be in SOLDIER.”</Entry>
+  <Entry File="nivgate\20.wav" ID="20">Tifa “Nibelheim…”</Entry>
+  <Entry File="nivgate\21.wav" ID="21">Barret “Why Nibelheim!?    Are you high on Mako or something?”</Entry>
+  <Entry File="nivgate\22.wav" ID="22">Red XIII “But,how!?    A dream?  An illusion?”</Entry>
+  <Entry File="nivgate\23.wav" ID="23">Cait Sith “But Tifa!    Isn't this an illusion?”</Entry>
+  <Entry File="nivgate\24.wav" ID="24">Yuffie “But why Nibelheim?   This is freaky,REALLY freaky!”</Entry>
+  <Entry File="nivgate\25.wav" ID="25">Vincent “Why,is it an illusion?”</Entry>
+  <Entry File="nivgate\26.wav" ID="26">Cid “What the hell?    Why Nibelheim!?”</Entry>
+  <Entry File="nivgate\27a.wav" ID="27" Part="a">Cloud “This is an illusion Sephiroth made up.”</Entry>
+  <Entry File="nivgate\27b.wav" ID="27" Part="b">“He's trying to confuse us.”</Entry>
+  <Entry File="nivgate\27c.wav" ID="27" Part="c">“It'll be all right.    As long as we know it's an illusion,    there's nothing to be afraid of.”</Entry>
+  <Entry File="nivgate\27d.wav" ID="27" Part="d">“Come on,let's keep going.”</Entry>
+  <Entry File="nivgate\28.wav" ID="28">Tifa “Yeah,you're right…”</Entry>
+  <Entry File="nivgate\29.wav" ID="29">Tifa “Look!!”</Entry>
+  <Entry File="nivgate\30.wav" ID="30">Barret “That ain't Cloud…    The hell is he?”</Entry>
+  <Entry File="nivgate\31.wav" ID="31">Red XIII “Cloud's not here…    I wonder who…this is?”</Entry>
+  <Entry File="nivgate\32.wav" ID="32">Cait Sith “Cloud,something's strange here.    Who is this guy?”</Entry>
+  <Entry File="nivgate\33.wav" ID="33">Yuffie “Huh---?    Cloud's not here.”</Entry>
+  <Entry File="nivgate\34.wav" ID="34">Vincent “That's not Cloud.    Who is this man?”</Entry>
+  <Entry File="nivgate\35.wav" ID="35">Cid “Cloud's not here…”</Entry>
+  <Entry File="nivgate\36.wav" ID="36">Tifa “Stop…Sephiroth.”</Entry>
+  <Entry File="nivgate\37.wav" ID="37">Cloud “This is so stupid…”</Entry>
+  <Entry File="nivgate\38.wav" ID="38">Barret “How the hell're we gonna get outta here?”</Entry>
+  <Entry File="nivgate\39.wav" ID="39">Red XIII “Is this illusion going to continue forever?  How do we get out of it?”</Entry>
+  <Entry File="nivgate\40.wav" ID="40">Cait Sith “Come on,we have to hurry back  to the real world!”</Entry>
+  <Entry File="nivgate\41.wav" ID="41">Yuffie “I don't want to be in an illusion.  Let's get back to the real world!”</Entry>
+  <Entry File="nivgate\42.wav" ID="42">Vincent “Now,how can we get out of here?”</Entry>
+  <Entry File="nivgate\43.wav" ID="43">Cid “Hey,Cloud.    Let's get back to the real world,OK?”</Entry>
+  <Entry File="nivgate\44a.wav" ID="44" Part="a">Tifa “Cloud…  It's just an illusion.”</Entry>
+  <Entry File="nivgate\44b.wav" ID="44" Part="b">“Don't worry about it…”</Entry>
+  <Entry File="nivgate\45.wav" ID="45">Sephiroth “Ha,ha,ha,ha!”</Entry>
+  <Entry File="nivgate\46.wav" ID="46">Tifa “What is this? What happened?”</Entry>
+  <Entry File="nivgate\47.wav" ID="47">Cloud “Calm down,Tifa.”</Entry>
+  <Entry File="nivgate\48.wav" ID="48">Cloud “Sephiroth is near.    Anything could happen.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="nivgate\0.wav" ID="0">Nibelheim</Entry>
+-->
+</VoiceList>

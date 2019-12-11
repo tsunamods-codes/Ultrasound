@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blackbg8\0.wav" ID="0">Tifa “Going to north Corel.  It doesn't matter whether or not  Ballet is in this event.     Barett of north Corel     ropeway     North Corel     quit</Entry>
+  <Entry File="blackbg8\1.wav" ID="1">Ballet “Who do you want in the party?   Tifa   Ballet   Earith   Red   Cid   Yufi   Ketcy   Vince   Put Cid on point   Forget it.</Entry>
+  <Entry File="blackbg8\2.wav" ID="2">Earith “Snow board game.”</Entry>
+  <Entry File="blackbg8\3.wav" ID="3">Red “Where are you going underneath Junon?     Under Junon 1     There'll be monsters     Dolphin jump     Artificial respiration     quit”</Entry>
+  <Entry File="blackbg8\4.wav" ID="4">Man “Gaea's cliff test     Gaea's cliff no.1     Gaea's cliff no. 2     Gaea's cliff 1 of 3     Gaea's cliff 2 of 3     Base of Gaea's cliff     quit”</Entry>
+  <Entry File="blackbg8\8.wav" ID="8">Yufi “Hydroplane event     Deck no. 1     parachute deck     bridge no. 1     bridge no. 2     bridge no. 3     conference room 1     conference room 2     conference room 3     send-off people     quit</Entry>
+  <Entry File="blackbg8\9.wav" ID="9">Cid “I'm sickle…xxxx  I mean…Icicle Inn.   …ok,bad joke.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blackbg8\5.wav" ID="5">Old man     Crater no. 1     Whirlwind Maze no. 1     Whirlwind Maze no. 2     Atmospheric barrier no. 1     Atmospheric barrier no. 2     Atmospheric barrier no. 3     quit</Entry>
+	<Entry File="blackbg8\6.wav" ID="6">    Palmer     Highwind     Materia mission     Cloud's revival     Rocket launch     Sister Ray     Train success     Train failure     Train last     quit</Entry>
+	<Entry File="blackbg8\7.wav" ID="7">    all members     quit     without Yufi     without Vince     without Ballet     without Tifa     without Earith     without Red     without Cid     without Ketcy</Entry>
+-->
+</VoiceList>

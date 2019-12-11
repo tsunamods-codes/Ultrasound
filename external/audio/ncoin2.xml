@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ncoin2\1a.wav" ID="1" Part="a">“Everyone knows that accident  couldn't have been avoided.”</Entry>
+  <Entry File="ncoin2\1b.wav" ID="1" Part="b">“But no one will be satisfied  until someone takes the blame.”</Entry>
+  <Entry File="ncoin2\2.wav" ID="2">“I hear something's gonna fall  from the sky?”</Entry>
+  <Entry File="ncoin2\3.wav" ID="3">“You saved my life.  Not that I have much longer  to live anyway…”</Entry>
+  <Entry File="ncoin2\4.wav" ID="4">“I want to leave  this garbage dump of a town behind me,  and start a new life.”</Entry>
+  <Entry File="ncoin2\5.wav" ID="5">“If I had a buggy,  I'd cross the southern desert,  and go to that town across the river…”</Entry>
+  <Entry File="ncoin2\6a.wav" ID="6" Part="a">“There was something glowing  in that well over there.”</Entry>
+  <Entry File="ncoin2\6b.wav" ID="6" Part="b">“If I can get my hands on it,  I'm gonna sell it  and go to the Gold Saucer!”</Entry>
+  <Entry File="ncoin2\7.wav" ID="7">“When I grow up,  I'm gonna travel the world  collecting glowing stones!”</Entry>
+  <Entry File="ncoin2\8.wav" ID="8">“I got it out of the well.  It must be a special rock!!”</Entry>
+  <Entry File="ncoin2\9a.wav" ID="9" Part="a">“Hey?  You can't hold anymore.”</Entry>
+  <Entry File="ncoin2\9b.wav" ID="9" Part="b">“I'll keep it in my pocket for you.  You can come by and pick it up later!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ncoin2\0.wav" ID="0">North Corel</Entry>
+	<Entry File="ncoin2\10.wav" ID="10">Received "Ultima" Materia!</Entry>
+-->
+</VoiceList>

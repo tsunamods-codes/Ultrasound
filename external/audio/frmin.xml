@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="frmin\0a.wav" ID="0" Part="a">Choco Bill “Thinking of crossing the marshes?”</Entry>
+  <Entry File="frmin\1.wav" ID="1">Choco Bill “Hmm,then it'll probably be   safer for you to get a Chocobo.”</Entry>
+  <Entry File="frmin\2a.wav" ID="2" Part="a">Choco Bill “That way you can zip through   the marshes with the Chocobo.”</Entry>
+  <Entry File="frmin\2b.wav" ID="2" Part="b">“It's the only way to avoid being attacked  by the Midgar Zolom.”</Entry>
+  <Entry File="frmin\3.wav" ID="3">Choco Bill “Midgar Zolom…?”</Entry>
+  <Entry File="frmin\4.wav" ID="4">Choco Bill “It's a serpent-like creature   over 30 feet tall!!”</Entry>
+  <Entry File="frmin\5.wav" ID="5">Choco Bill “It detects the footsteps of  anyone in the marshes.”</Entry>
+  <Entry File="frmin\6.wav" ID="6">Choco Bill “And then,BAM!! It attacks!!!”</Entry>
+  <Entry File="frmin\7a.wav" ID="7" Part="a">Choco Bill “To avoid that,buy a Chocobo at  me and Choco Billy's Chocobo Farm.”</Entry>
+  <Entry File="frmin\7b.wav" ID="7" Part="b">“To purchase a Chocobo,  please talk to my grandson.  He's in the Chocobo stables at  the far right end of the farm.”</Entry>
+  <Entry File="frmin\8a.wav" ID="8" Part="a">Choco Bill “By the way,there was another person  heading towards the Marshes.”</Entry>
+  <Entry File="frmin\8b.wav" ID="8" Part="b">“Without a Chocobo,the Midgar Zolom  probably got him.  It was a man in a black cape.”</Entry>
+  <Entry File="frmin\9.wav" ID="9">Choco Bill “Welcome.”</Entry>
+  <Entry File="frmin\10a.wav" ID="10" Part="a">Choco Bill “How 'bout a Chocobo Lure Materia?”</Entry>
+  <Entry File="frmin\10b.wav" ID="10" Part="b">“Each level it increases,  makes it easier for you to  find a Chocobo.”</Entry>
+  <Entry File="frmin\11.wav" ID="11">Choco Bill “Hmm,then,I guess that's that.”</Entry>
+  <Entry File="frmin\12a.wav" ID="12" Part="a">Choco Bill “Still want to cross the Marshes?”</Entry>
+  <Entry File="frmin\13.wav" ID="13">Choco Bill “Looking for an Inn?” Yeah Not interested</Entry>
+  <Entry File="frmin\14.wav" ID="14">Choco Bill “Looking for an Inn? Yup Nope</Entry>
+  <Entry File="frmin\15.wav" ID="15">Choco Bill “Looking for a place to stay?” Right Nope</Entry>
+  <Entry File="frmin\16.wav" ID="16">Choco Bill “How about 100 gil a night…?” All right I'm in a hurry</Entry>
+  <Entry File="frmin\17.wav" ID="17">Choco Bill “Thank you for your patronage.”</Entry>
+  <Entry File="frmin\18.wav" ID="18">Choco Bill “…  Ummm,you don't have enough…”</Entry>
+  <Entry File="frmin\21.wav" ID="21">Choco Bill “Oh,what is that?”   What has this world come to?   Stars falling,what's next?”</Entry>
+  <Entry File="frmin\22a.wav" ID="22" Part="a">Choco Bill “With things the way they are now,  how 'bout raising a Chocobo?”</Entry>
+  <Entry File="frmin\22b.wav" ID="22" Part="b">“No,I'm not trying to persuade  you for money. It's just because  of the way things are in the world.”</Entry>
+  <Entry File="frmin\22c.wav" ID="22" Part="c">“I thought that it would be a  healthy thing for you  to raise some Chocobos…”</Entry>
+  <Entry File="frmin\23a.wav" ID="23" Part="a">Choco Bill “Hmm…You just happen to be in luck!”</Entry>
+  <Entry File="frmin\23b.wav" ID="23" Part="b">“It just so happens that we aren't  taking care of any Chocobos  for anyone else,so…”</Entry>
+  <Entry File="frmin\24.wav" ID="24">Choco Bill “I could take care of 6 Chocobos right now,  for 10000 gil per Chocobo.    How 'bout it?”</Entry>
+  <Entry File="frmin\28a.wav" ID="28" Part="a">Choco Bill “To raise a Chocobo,you'll need a  'Chocobo Stable'.”</Entry>
+  <Entry File="frmin\28b.wav" ID="28" Part="b">“And they rent for 10000 gil.  Currently,I can rent out up to 6   'Chocobo Stables'.”</Entry>
+  <Entry File="frmin\28c.wav" ID="28" Part="c">“If you rent a 'Chocobo Stable',   we will keep up to 4 of the Chocobos you   catch in the fenced area outside.”</Entry>
+  <Entry File="frmin\28d.wav" ID="28" Part="d">“At a later date,you can select the Chocobo  that you would like to put in your  'Chocobo Stable'.”</Entry>
+  <Entry File="frmin\29a.wav" ID="29" Part="a">Choco Bill “'Chocobo Stables' cost 10000 gil…”</Entry>
+  <Entry File="frmin\30.wav" ID="30">Choco Bill “We don't have enough room to   rent out more than 6 here…”</Entry>
+  <Entry File="frmin\31a.wav" ID="31" Part="a">Choco Bill “Thank you.”</Entry>
+  <Entry File="frmin\31b.wav" ID="31" Part="b">“My grandson takes care of the Chocobos.  He's in the Chocobo Stable at the far  right of the farm.   Please tell him what you want.”</Entry>
+  <Entry File="frmin\32a.wav" ID="32" Part="a">Choco Bill “Someone once told me there is a   'Chocobo Sage'…somewhere.”</Entry>
+  <Entry File="frmin\32b.wav" ID="32" Part="b">“He seems to know how to  raise some great Chocobos.”</Entry>
+  <Entry File="frmin\32c.wav" ID="32" Part="c">“If he really does exist,  I'd like to meet him someday.”</Entry>
+  <Entry File="frmin\33a.wav" ID="33" Part="a">Choco Bill “Chocobos aren't hard to take care of.”</Entry>
+  <Entry File="frmin\33b.wav" ID="33" Part="b">“The day-to-day care will all be done  here.”</Entry>
+  <Entry File="frmin\33c.wav" ID="33" Part="c">“But,please buy the food for the  Chocobo,and feed them yourselves.”</Entry>
+  <Entry File="frmin\33d.wav" ID="33" Part="d">“Chocobo's abilities will differ    with what you feed it,so feel    free to choose your own food.”</Entry>
+  <Entry File="frmin\33e.wav" ID="33" Part="e">“Also,if you're able to find a male and  a female Chocobo that like each other,  they'll produce an egg.   But only if you feed them a 'Nut'.”</Entry>
+  <Entry File="frmin\33f.wav" ID="33" Part="f">“New Chocobos inherit the  abilities of their parents.”</Entry>
+  <Entry File="frmin\33g.wav" ID="33" Part="g">“I've heard that sometimes new breeds  of Chocobo are born with special  abilities. I've never actually  seen it before,though.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="frmin\0b.wav" ID="0" Part="b">Yeah Not interested</Entry>
+	<Entry File="frmin\12b.wav" ID="12" Part="b">Yeah No</Entry>
+	<Entry File="frmin\19.wav" ID="19">Please    for a second.</Entry>
+	<Entry File="frmin\20.wav" ID="20">Chocobo farm</Entry>
+	<Entry File="frmin\25.wav" ID="25">Take care of my Chocobos Tell me something else How do you raise them? Nothing</Entry>
+	<Entry File="frmin\26.wav" ID="26">Could you take care of the Chocobos? I'd like to hear about something else Tell me how you raise them That's all</Entry>
+	<Entry File="frmin\27.wav" ID="27">Take care of my Chocobos I wanna hear about something else How do ya raise 'em? That's enough</Entry>
+	<Entry File="frmin\29b.wav" ID="29" Part="b">Rent it Don't need it</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="nivl_e1\0a.wav" ID="0" Part="a">Tifa “Look,the well.”</Entry>
+  <Entry File="nivl_e1\0b.wav" ID="0" Part="b">“Do you remember?”</Entry>
+  <Entry File="nivl_e1\1.wav" ID="1">Cloud “Yeah…back then.”</Entry>
+  <Entry File="nivl_e1\2.wav" ID="2">Cloud “I thought you would never come,and  I was getting a little cold.”</Entry>
+  <Entry File="nivl_e1\3.wav" ID="3">Tifa “Sorry I'm late.”</Entry>
+  <Entry File="nivl_e1\4.wav" ID="4">Tifa “You said you wanted to   talk to me about something?”</Entry>
+  <Entry File="nivl_e1\5.wav" ID="5">Cloud “Come this Spring…I'm leaving  town for Midgar.”</Entry>
+  <Entry File="nivl_e1\6.wav" ID="6">Tifa “All the boys are leaving town.”</Entry>
+  <Entry File="nivl_e1\7.wav" ID="7">Cloud “But I'm different from them.  I'm not just going to find a job.”</Entry>
+  <Entry File="nivl_e1\8.wav" ID="8">Cloud “I want to join SOLDIER.”</Entry>
+  <Entry File="nivl_e1\9.wav" ID="9">Cloud “I'm going to be the best there is,  just like Sephiroth!”</Entry>
+  <Entry File="nivl_e1\10.wav" ID="10">Tifa “Sephiroth…  The Great Sephiroth?”</Entry>
+  <Entry File="nivl_e1\11.wav" ID="11">Cloud “I thought about Sephiroth all the time.  Even in my sleep.  My mom had given up on me.”</Entry>
+  <Entry File="nivl_e1\12.wav" ID="12">Tifa “I had no idea you were planning on that.”</Entry>
+  <Entry File="nivl_e1\13.wav" ID="13">Tifa “But,what about our promise?”</Entry>
+  <Entry File="nivl_e1\14.wav" ID="14">Tifa “Isn't it hard to join SOLDIER?”</Entry>
+  <Entry File="nivl_e1\15.wav" ID="15">Cloud “…I probably won't be able to come  back to this town for a while.”</Entry>
+  <Entry File="nivl_e1\16.wav" ID="16">Cloud “…Huh?”</Entry>
+  <Entry File="nivl_e1\17.wav" ID="17">Tifa “If you make it,will you be in the newspapers?”</Entry>
+  <Entry File="nivl_e1\18.wav" ID="18">Cloud “I'll try.”</Entry>
+  <Entry File="nivl_e1\19.wav" ID="19">Tifa “Hey,let's make a promise.”</Entry>
+  <Entry File="nivl_e1\20a.wav" ID="20" Part="a">Tifa “Umm…if you get really famous and  I'm ever in a bind…”</Entry>
+  <Entry File="nivl_e1\20b.wav" ID="20" Part="b">“you'll come save me,all right?”</Entry>
+  <Entry File="nivl_e1\21.wav" ID="21">Cloud “What?”</Entry>
+  <Entry File="nivl_e1\22a.wav" ID="22" Part="a">Tifa “If I'm ever in trouble,my hero will  come and rescue me.”</Entry>
+  <Entry File="nivl_e1\22b.wav" ID="22" Part="b">“I want to experience that at least once.”</Entry>
+  <Entry File="nivl_e1\23.wav" ID="23">Cloud “Ha,ha,ha!  What's that?”</Entry>
+  <Entry File="nivl_e1\24.wav" ID="24">Tifa “You're laughing at me!”</Entry>
+  <Entry File="nivl_e1\25.wav" ID="25">Tifa “Come on!  Promise me!”</Entry>
+  <Entry File="nivl_e1\26.wav" ID="26">Cloud “All right…I promise.”</Entry>
+</VoiceList>

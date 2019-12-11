@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="bugin1b\1a.wav" ID="1" Part="a">Bugenhagen “Ho Ho Hoooo.  Is this what you call  Huge Materia?”</Entry>
+  <Entry File="bugin1b\1b.wav" ID="1" Part="b">“This is really rare  Materia,indeed.”</Entry>
+  <Entry File="bugin1b\1c.wav" ID="1" Part="c">“Materia this rare is certain  to have a special consciousness  enclosed in it.”</Entry>
+  <Entry File="bugin1b\2a.wav" ID="2" Part="a">Bugenhagen “Ho Ho Hoooo.  Good.  Now let's leave.”</Entry>
+  <Entry File="bugin1b\2b.wav" ID="2" Part="b">“Do you remember how to use  the machine down below?  If you ever want to see Materia,  come here anytime.”</Entry>
+  <Entry File="bugin1b\3.wav" ID="3">“The Huge Materia  emitted a quiet glow.”</Entry>
+  <Entry File="bugin1b\4.wav" ID="4">“The Huge Materia  emitted a gentle glow.”</Entry>
+  <Entry File="bugin1b\5.wav" ID="5">“The Huge Materia  emitted a fiery glow.”</Entry>
+  <Entry File="bugin1b\6.wav" ID="6">“The Huge Materia  emitted a cold glow.”</Entry>
+  <Entry File="bugin1b\7.wav" ID="7">Cloud “The color…is the same  as command Materia.”</Entry>
+  <Entry File="bugin1b\8.wav" ID="8">Cloud “The color…is the same  as magic Materia.”</Entry>
+  <Entry File="bugin1b\9.wav" ID="9">Cloud “The color…is the same  as summoned Materia.”</Entry>
+  <Entry File="bugin1b\10.wav" ID="10">Cloud “Is that…  Bahamut…?”</Entry>
+  <Entry File="bugin1b\23b.wav" ID="23" Part="b">“It is glowing strangely…” Get closer… Leave it alone Go back down</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="bugin1b\0.wav" ID="0">Observatory</Entry>
+	<Entry File="bugin1b\11.wav" ID="11"> Command Materia Blend </Entry>
+	<Entry File="bugin1b\12.wav" ID="12"> Magic Materia Blend </Entry>
+	<Entry File="bugin1b\13.wav" ID="13"> Summoned Materia Blend </Entry>
+	<Entry File="bugin1b\14a.wav" ID="14" Part="a">Maximum level command Materia blends with Steal  Sense   Throw Morph    Deathblow   Manipulate Mime</Entry>
+	<Entry File="bugin1b\14b.wav" ID="14" Part="b">Maximum level Materia has been lost. Received one "Master Command" Materia!</Entry>
+	<Entry File="bugin1b\15.wav" ID="15">Perform "Materia Blend"? Yes No</Entry>
+	<Entry File="bugin1b\16.wav" ID="16">All maximum level magic Materia will be blended. Maximum level Magic Materia has been lost. Received one "Master Magic" Materia!</Entry>
+	<Entry File="bugin1b\17.wav" ID="17">All maximum level summoned Materia will be blended. Maximum level summoned magic has been lost. Received one "Master Summon" Materia!</Entry>
+	<Entry File="bugin1b\18.wav" ID="18">"Bahamut", "Neo Bahamut" Materia glows brightly.</Entry>
+	<Entry File="bugin1b\19.wav" ID="19">Received "Master Command" Materia!</Entry>
+	<Entry File="bugin1b\20.wav" ID="20">Received "Master Magic" Materia!</Entry>
+	<Entry File="bugin1b\21.wav" ID="21">Received "Master Summon" Materia!</Entry>
+	<Entry File="bugin1b\22.wav" ID="22">Received "Bahamut ZERO" Materia!</Entry>
+	<Entry File="bugin1b\23a.wav" ID="23" Part="a">Cloud Huge Materia…</Entry>
+-->
+</VoiceList>

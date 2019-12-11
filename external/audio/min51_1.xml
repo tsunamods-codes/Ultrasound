@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="min51_1\2a.wav" ID="2" Part="a">“Hmph……!  Everything President Shinra  says is a lie.”</Entry>
+  <Entry File="min51_1\2b.wav" ID="2" Part="b">“But you can't trust   that AVALANCHE,or whatever you call them.”</Entry>
+  <Entry File="min51_1\2c.wav" ID="2" Part="c">“You can bat it around all you like,  but it all comes down to wanting to  live like the people up there.”</Entry>
+  <Entry File="min51_1\2d.wav" ID="2" Part="d">“So who do I believe in?  Myself! Me!  I never lie to myself,that's for sure!”</Entry>
+  <Entry File="min51_1\3.wav" ID="3">“I believe only what I say.  Because I never lie to myself.”</Entry>
+  <Entry File="min51_1\4a.wav" ID="4" Part="a">“And what's with the new president  of Shinra,Inc.?”</Entry>
+  <Entry File="min51_1\4b.wav" ID="4" Part="b">“Hell,even the old president was better   than him.”</Entry>
+  <Entry File="min51_1\5.wav" ID="5">“The hell's up with that!? I don't care if  they're AVALANCHE or Avant-garde or  whatever. Anyone who'd bring  the plates down on us is nuts!!”</Entry>
+  <Entry File="min51_1\6a.wav" ID="6" Part="a">“SOLDIER?  What about them!?”</Entry>
+  <Entry File="min51_1\6b.wav" ID="6" Part="b">“Damn! If they're really from SOLDIER,  they should be doing something  about all this!!”</Entry>
+  <Entry File="min51_1\7a.wav" ID="7" Part="a">“Me and my woman were going  for a drive. Or at least we were  supposed to until I had engine  trouble and our plans fizzled.</Entry>
+  <Entry File="min51_1\7b.wav" ID="7" Part="b">“Have you ever had that happen?  I hate it when that happens!”</Entry>
+  <Entry File="min51_1\7c.wav" ID="7" Part="c">“A new standard in engines…  the 'Shinra V-3000'.  For the best drive  of your car's life!”</Entry>
+  <Entry File="min51_1\8a.wav" ID="8" Part="a">“And now for the news.”</Entry>
+  <Entry File="min51_1\8b.wav" ID="8" Part="b">“A terrorist attack by the group called  AVALANCHE has parts of Midgar  temporarily out of power,but they  will be restored momentarily.”</Entry>
+  <Entry File="min51_1\8c.wav" ID="8" Part="c">“Following President Shinra's address,  Mayor Domino also spoke out today  against AVALANCHE.”</Entry>
+  <Entry File="min51_1\9a.wav" ID="9" Part="a">“Now for the weather.”</Entry>
+  <Entry File="min51_1\9b.wav" ID="9" Part="b">“Tomorrow's weather will be overcast  most of the day,”</Entry>
+  <Entry File="min51_1\9c.wav" ID="9" Part="c">“with a slight chance of  showers in parts of the city.”</Entry>
+  <Entry File="min51_1\10a.wav" ID="10" Part="a">“What your car is missing is…”</Entry>
+  <Entry File="min51_1\10b.wav" ID="10" Part="b">“…a set of PTZ2000 tires!!”</Entry>
+  <Entry File="min51_1\10c.wav" ID="10" Part="c">“That's right,PTZ2000,  good for your car and   they look good,too.”</Entry>
+  <Entry File="min51_1\11.wav" ID="11">“Shinra,Inc…Providing piece of mind in  your busy life in everything from  can openers to Mako energy.”</Entry>
+  <Entry File="min51_1\12a.wav" ID="12" Part="a">“This just in. An accident today…”</Entry>
+  <Entry File="min51_1\12b.wav" ID="12" Part="b">“…the worst in the history of the metropolis.  But thanks to the quick response  by those in charge,  there were no civilian casualties.”</Entry>
+  <Entry File="min51_1\12c.wav" ID="12" Part="c">“The cause of the accident is still unclear at  this time,however,according to some  sources it is believed to have something to   do with the terrorist  group,AVALANCHE.”</Entry>
+  <Entry File="min51_1\13a.wav" ID="13" Part="a">“Citizens,unite!  Come to the light,Mako energy.”</Entry>
+  <Entry File="min51_1\13b.wav" ID="13" Part="b">“Power is Truth  Shinra is the future.  Real happiness can be found  in obedience to the company!”</Entry>
+  <Entry File="min51_1\14.wav" ID="14">“……ga……  g,ga ga………………”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="min51_1\0.wav" ID="0">House 1f.</Entry>
+	<Entry File="min51_1\1.wav" ID="1">Uh,test,test… This is a dummy message. A test. Is it coming through?</Entry>
+-->
+</VoiceList>

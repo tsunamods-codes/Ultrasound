@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ModInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>09E81530-3F09-46B9-831B-DF431B8F319C</ID>
+  <Author>Ficedula</Author>
+  <Link />
+  <Version>1.0</Version>
+  <LatestVersion>
+    <Link>iros://INVALID/</Link>
+    <ExtractSubFolder />
+    <ExtractInto />
+    <Version>1</Version>
+    <ReleaseDate>2014-12-13T12:30:00.00+00:00</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage />
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Test Ultrasound mod</Name>
+  <Description />
+  <LoadLibrary>VoiceHook.dll</LoadLibrary>
+  <LoadPlugin>Ultrasound7H.dll</LoadPlugin>
+</ModInfo>

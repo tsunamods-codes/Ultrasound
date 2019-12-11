@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junonl2\1.wav" ID="1">“Oh! How's it going!?  If you're looking for Junon dock,  it's over there!”</Entry>
+  <Entry File="junonl2\2a.wav" ID="2" Part="a">“This lift goes to the Shinra section.”</Entry>
+  <Entry File="junonl2\2b.wav" ID="2" Part="b">“Ever since that Black-caped murderer…  But we can't use it  because we're all on red alert.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junonl2\0.wav" ID="0">Lower Junon</Entry>
+-->
+</VoiceList>

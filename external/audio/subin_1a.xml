@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="subin_1a\1.wav" ID="1">Cloud “An unconditional surrender,huh?” We're your prisoners Don't bet on it…</Entry>
+  <Entry File="subin_1a\3.wav" ID="3">Cloud “We'll hide it somewhere secluded.”</Entry>
+  <Entry File="subin_1a\4.wav" ID="4">Cloud “It looks like a key to something.”</Entry>
+  <Entry File="subin_1a\5.wav" ID="5">Cloud “You think it could be…?”</Entry>
+  <Entry File="subin_1a\6.wav" ID="6">Cloud “It seems really old.”</Entry>
+  <Entry File="subin_1a\7.wav" ID="7">“…Analysis completed…”</Entry>
+  <Entry File="subin_1a\8.wav" ID="8">“…Exact date of origin undetermined…”</Entry>
+  <Entry File="subin_1a\9.wav" ID="9">“…Estimated to be several thousand years…”</Entry>
+  <Entry File="subin_1a\10.wav" ID="10">Cloud “The Key of the Ancients…”</Entry>
+  <Entry File="subin_1a\11.wav" ID="11">Cloud “Several thousand years…  …Ancients?”</Entry>
+  <Entry File="subin_1a\13.wav" ID="13">“For now…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="subin_1a\0.wav" ID="0">Submarine Bridge</Entry>
+	<Entry File="subin_1a\2.wav" ID="2">Received "Shinra Sub"!</Entry>
+	<Entry File="subin_1a\12.wav" ID="12">Received Key Item "Key to Ancients"!</Entry>
+	<Entry File="subin_1a\14.wav" ID="14">Received Key Item "Huge Materia"!</Entry>
+-->
+</VoiceList>

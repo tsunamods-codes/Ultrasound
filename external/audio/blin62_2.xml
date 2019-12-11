@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blin62_2\0.wav" ID="0">Shinra Bldg. 62f.</Entry>
+	<Entry File="blin62_2\1a.wav" ID="1" Part="a">This is the Scientific Research Library. Materials for the…</Entry>
+	<Entry File="blin62_2\1b.wav" ID="1" Part="b">Urban Dev. Library Peace/Weapon Dev. Library Space Dev. Library are held in their respective libraries…</Entry>
+	<Entry File="blin62_2\2a.wav" ID="2" Part="a">Materials are non-circulating!</Entry>
+	<Entry File="blin62_2\2b.wav" ID="2" Part="b">Please do not remove any Materials from this floor.</Entry>
+	<Entry File="blin62_2\3.wav" ID="3">2 Problems with Plate    construction in Midgar</Entry>
+	<Entry File="blin62_2\4.wav" ID="4">5 Reactor Construction Chart</Entry>
+	<Entry File="blin62_2\5.wav" ID="5">6 Reactor Construction Chart</Entry>
+	<Entry File="blin62_2\6.wav" ID="6">4 Ranks and extended use   of Mako weaponry</Entry>
+	<Entry File="blin62_2\7.wav" ID="7">24 Ranks and extended use   of Mako weaponry</Entry>
+	<Entry File="blin62_2\8.wav" ID="8">4 Midgar City map: Sectors 0-4</Entry>
+	<Entry File="blin62_2\9.wav" ID="9">9 Midgar City map: Sectors 5-8</Entry>
+	<Entry File="blin62_2\10.wav" ID="10">3 An illustrated guide to   City Planning</Entry>
+	<Entry File="blin62_2\11.wav" ID="11">4 The Jenova Project</Entry>
+	<Entry File="blin62_2\12.wav" ID="12">6 Data on experimental   animals living near Midgar</Entry>
+	<Entry File="blin62_2\13.wav" ID="13">3 File on Dr. Gast,Biologist</Entry>
+	<Entry File="blin62_2\14.wav" ID="14">14 The Ancients in History</Entry>
+	<Entry File="blin62_2\15.wav" ID="15">8 New plans for Urban Planning</Entry>
+	<Entry File="blin62_2\16.wav" ID="16">10 New plans for Urban Planning</Entry>
+	<Entry File="blin62_2\17.wav" ID="17">4 Report on high Mako levels   in living beings</Entry>
+	<Entry File="blin62_2\18.wav" ID="18">2 Mako energy and the rise  in life forms</Entry>
+	<Entry File="blin62_2\19.wav" ID="19">8 Final evolutionary stages   in land dwelling life</Entry>
+	<Entry File="blin62_2\20.wav" ID="20">1 Biological characteristics   of the Ancients</Entry>
+	<Entry File="blin62_2\21.wav" ID="21">10 Biological characteristics   of the Ancients</Entry>
+	<Entry File="blin62_2\22.wav" ID="22">16 Modern history of   Midgar space program vol. 1</Entry>
+	<Entry File="blin62_2\23.wav" ID="23">19 Modern history of the   Midgar Space Dev Program Vol. 2</Entry>
+	<Entry File="blin62_2\24.wav" ID="24">7 Diminishing Mako energy   and Planet movements</Entry>
+	<Entry File="blin62_2\25.wav" ID="25">1 Results of failed space mission   "YA-79"</Entry>
+	<Entry File="blin62_2\26.wav" ID="26">6 Shinra rocket space travel</Entry>
+	<Entry File="blin62_2\27.wav" ID="27">7 Economic report: Space Dev Program</Entry>
+	<Entry File="blin62_2\28.wav" ID="28">10 Materia production and its military uses</Entry>
+	<Entry File="blin62_2\29.wav" ID="29">3 Special peace keeping law</Entry>
+	<Entry File="blin62_2\30.wav" ID="30">1 Heidegger's Shinra peace keeping law</Entry>
+	<Entry File="blin62_2\31.wav" ID="31">1 Breakdown of SOLDIER members by class</Entry>
+	<Entry File="blin62_2\32.wav" ID="32">3 Plan for new land weapons</Entry>
+	<Entry File="blin62_2\33.wav" ID="33">4 Midgar crime white paper</Entry>
+	<Entry File="blin62_2\34.wav" ID="34">2 Problems with Plate   construction in Midgar</Entry>
+-->
+</VoiceList>

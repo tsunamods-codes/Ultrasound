@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="niv_ti1\2a.wav" ID="2" Part="a">Tifa “Cloud?”</Entry>
+  <Entry File="niv_ti1\2b.wav" ID="2" Part="b">“Did you go in my house?” Yeah… No…</Entry>
+  <Entry File="niv_ti1\3.wav" ID="3">Cloud “I thought you might be home.”</Entry>
+  <Entry File="niv_ti1\4.wav" ID="4">Cloud “I remember you weren't there.”</Entry>
+  <Entry File="niv_ti1\5.wav" ID="5">Cloud “A man with a black cape!?”</Entry>
+  <Entry File="niv_ti1\6.wav" ID="6">Cloud “He has a tattoo of the number '11'…”</Entry>
+  <Entry File="niv_ti1\8.wav" ID="8">“…Must…go…    …Reun…ion…”</Entry>
+  <Entry File="niv_ti1\9a.wav" ID="9" Part="a">“…Must…get…it…    and bring…to…Se…phi…roth…”</Entry>
+  <Entry File="niv_ti1\9b.wav" ID="9" Part="b">“Then…become…one…    with…Se…phi…roth…”</Entry>
+  <Entry File="niv_ti1\10.wav" ID="10">Cloud “This guy's number '5'…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="niv_ti1\0.wav" ID="0">Tifa's House</Entry>
+	<Entry File="niv_ti1\1.wav" ID="1">Tifa's House</Entry>
+	<Entry File="niv_ti1\7.wav" ID="7">Received "Turbo Ether!"</Entry>
+-->
+</VoiceList>

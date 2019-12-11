@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="coloss\0.wav" ID="0">“I'm sorry,we're currently renovating.  Please come again.”</Entry>
+  <Entry File="coloss\1.wav" ID="1">“…”</Entry>
+  <Entry File="coloss\2.wav" ID="2">Cloud “!!”</Entry>
+  <Entry File="coloss\3.wav" ID="3">Cloud “Hmm!?”</Entry>
+  <Entry File="coloss\4.wav" ID="4">Cloud “Dead…”</Entry>
+  <Entry File="coloss\5.wav" ID="5">Tifa “What!?”</Entry>
+  <Entry File="coloss\6.wav" ID="6">Aeris “What!? Why?”</Entry>
+  <Entry File="coloss\7.wav" ID="7">Red XIII “What the…”</Entry>
+  <Entry File="coloss\8.wav" ID="8">Yuffie “Wh…why?”</Entry>
+  <Entry File="coloss\9.wav" ID="9">Tifa “Wa…wait  Cloud!”</Entry>
+  <Entry File="coloss\10.wav" ID="10">Aeris “Cloud!?  Where are you going?”</Entry>
+  <Entry File="coloss\11.wav" ID="11">Red XIII “Hey,Cloud!”</Entry>
+  <Entry File="coloss\12.wav" ID="12">Yuffie “Don't,don't just leave me!”</Entry>
+  <Entry File="coloss\14.wav" ID="14">“I heard that this is the curator's  favorite attraction.  He even has his collection  displayed in the arena.”</Entry>
+  <Entry File="coloss\15.wav" ID="15">“Yeee-----ah!!”</Entry>
+  <Entry File="coloss\16.wav" ID="16">“Ea…ggha…!”</Entry>
+  <Entry File="coloss\17.wav" ID="17">“No running,you kids!”</Entry>
+  <Entry File="coloss\18.wav" ID="18">“Be careful of the Meteor.”</Entry>
+  <Entry File="coloss\19.wav" ID="19">“Are you here for the battle,too?” That's the idea Not interested</Entry>
+  <Entry File="coloss\20.wav" ID="20">“Is that so.”</Entry>
+  <Entry File="coloss\21.wav" ID="21">“I like fighters,  but hate ones who're all talk.”</Entry>
+  <Entry File="coloss\22.wav" ID="22">“I watched you win eight battles.  I want you to have this!”</Entry>
+  <Entry File="coloss\24.wav" ID="24">“Good luck in the future too!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="coloss\13.wav" ID="13">Battle Square</Entry>
+	<Entry File="coloss\23.wav" ID="23">  Received "Sprint Shoes"!</Entry>
+-->
+</VoiceList>

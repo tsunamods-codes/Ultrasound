@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="games_2\2.wav" ID="2">Cloud “Don't have enough gil…”</Entry>
+  <Entry File="games_2\4.wav" ID="4">“Back there…”</Entry>
+  <Entry File="games_2\5.wav" ID="5">“I get so caught up in these…”</Entry>
+  <Entry File="games_2\6.wav" ID="6">“You sure are an unusual one.  Staying here with all that's  going on outside…guess that  makes,uh,two of us,huh?”</Entry>
+  <Entry File="games_2\9.wav" ID="9">“This place sure gets expensive…  'To play,or not to play'…”</Entry>
+  <Entry File="games_2\10.wav" ID="10">“…Don't worry 'bout me.  Go ahead and play.”</Entry>
+  <Entry File="games_2\11a.wav" ID="11" Part="a">“Hmm,I'm impressed…  Thanks for the show.”</Entry>
+  <Entry File="games_2\11b.wav" ID="11" Part="b">“Here,take this.”</Entry>
+  <Entry File="games_2\12.wav" ID="12">“Hmm,I'm impressed…  Thanks for the show.”</Entry>
+  <Entry File="games_2\30a.wav" ID="30" Part="a">“Hyuuuuu,   BAM,BAM,BAM…”</Entry>
+  <Entry File="games_2\30b.wav" ID="30" Part="b">“Oh man,I gotta scream.”</Entry>
+  <Entry File="games_2\31.wav" ID="31">“Whew,I'm tired.  Oh this?  It seems to be out of order.”</Entry>
+  <Entry File="games_2\32.wav" ID="32">“I'm gonna be the wind again today!”</Entry>
+  <Entry File="games_2\33.wav" ID="33">“Nope,I'm not quitting until I   clear this!”</Entry>
+  <Entry File="games_2\44.wav" ID="44">Tifa “Hey,Cloud.  Let me ride sometime.”</Entry>
+  <Entry File="games_2\45.wav" ID="45">Cid “Hey,Cloud.  Let me get on sometime.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="games_2\0.wav" ID="0">Building 2f.</Entry>
+	<Entry File="games_2\1.wav" ID="1"> Try it  Not interested</Entry>
+	<Entry File="games_2\3a.wav" ID="3" Part="a">"3D Battler" 1 game 200 gil</Entry>
+	<Entry File="games_2\3b.wav" ID="3" Part="b">[MENU]       Hi attack [SWITCH]   Mid attack [CANCEL]   Low attack The first one with 10 points wins.</Entry>
+	<Entry File="games_2\7.wav" ID="7">Received  GP!!</Entry>
+	<Entry File="games_2\8.wav" ID="8">"Out of Order"</Entry>
+	<Entry File="games_2\13.wav" ID="13">Use caution in relationships</Entry>
+	<Entry File="games_2\14.wav" ID="14">Your lucky color is red.</Entry>
+	<Entry File="games_2\15.wav" ID="15">You may meet someone new.</Entry>
+	<Entry File="games_2\16.wav" ID="16">You have ties with those that fly.</Entry>
+	<Entry File="games_2\17.wav" ID="17">What you are looking for is near.</Entry>
+	<Entry File="games_2\18.wav" ID="18">Use caution in relationships.</Entry>
+	<Entry File="games_2\19.wav" ID="19">What you're looking for is in the Southeast</Entry>
+	<Entry File="games_2\20.wav" ID="20">Beware of the North</Entry>
+	<Entry File="games_2\21.wav" ID="21">A great turning point is near.</Entry>
+	<Entry File="games_2\22.wav" ID="22">Never give up.</Entry>
+	<Entry File="games_2\23.wav" ID="23">Your lucky number is .</Entry>
+	<Entry File="games_2\24a.wav" ID="24" Part="a">G Bike 1 game 200 gil</Entry>
+	<Entry File="games_2\24b.wav" ID="24" Part="b">Use [Directional button] to move [SWITCH] to attack left [OK] to attack right</Entry>
+	<Entry File="games_2\24c.wav" ID="24" Part="c">If the truck is attacked, you lose points.</Entry>
+	<Entry File="games_2\25a.wav" ID="25" Part="a">Snow Game 1 Play 200 gil</Entry>
+	<Entry File="games_2\25b.wav" ID="25" Part="b">[Directional button Up] to speed up [Directional button Down] or [SWITCH] to slow down</Entry>
+	<Entry File="games_2\25c.wav" ID="25" Part="c">[CANCEL] to Jump [Directional button Right/Left] to move Right and Left</Entry>
+	<Entry File="games_2\25d.wav" ID="25" Part="d">[PAGEDOWN] + Directional button Right/Left] to edge</Entry>
+	<Entry File="games_2\25e.wav" ID="25" Part="e">You receive points for hitting the balloons that appear on the course.</Entry>
+	<Entry File="games_2\26a.wav" ID="26" Part="a">Submarine Game 1 Play 200 gil</Entry>
+	<Entry File="games_2\26b.wav" ID="26" Part="b">"Directional button Left" for Left Turn "Directional button Right" for Right Turn "Directional button Up" to Dive "Directional button Down" to Rise</Entry>
+	<Entry File="games_2\26c.wav" ID="26" Part="c">[MENU]   to Speed Up [CANCEL] to Slow Down [SWITCH] to Fire Torpedo</Entry>
+	<Entry File="games_2\26d.wav" ID="26" Part="d">Find and avoid mines by using the Sonar,and destroy the Enemy Submarines.</Entry>
+	<Entry File="games_2\27.wav" ID="27">"Fortune Telling" 1 fortune 50 gil</Entry>
+	<Entry File="games_2\28.wav" ID="28">"Mog House" 1 game 100 gil</Entry>
+	<Entry File="games_2\29.wav" ID="29">"Out of Order"</Entry>
+	<Entry File="games_2\34.wav" ID="34">Received "Safety Bit"!</Entry>
+	<Entry File="games_2\35.wav" ID="35">Received "Crystal Bangle"!</Entry>
+	<Entry File="games_2\36.wav" ID="36">Received "All" Materia!</Entry>
+	<Entry File="games_2\37.wav" ID="37">Received "Ink"!</Entry>
+	<Entry File="games_2\38.wav" ID="38">Received "T/S Bomb"!</Entry>
+	<Entry File="games_2\39.wav" ID="39">Received "Dragon Fang"!</Entry>
+	<Entry File="games_2\40.wav" ID="40">Received "Dragon Scales"!</Entry>
+	<Entry File="games_2\41.wav" ID="41">Received "Caldron"!</Entry>
+	<Entry File="games_2\42.wav" ID="42">Received "Speed Source"!</Entry>
+	<Entry File="games_2\43.wav" ID="43">Please select your mission. Undersea Mako Reactor Battle Level 1 Level 2 Level 3 Level 4 Not interested.</Entry>
+	<Entry File="games_2\46.wav" ID="46">Sure Nope</Entry>
+-->
+</VoiceList>

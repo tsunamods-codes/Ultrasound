@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="zz2\1.wav" ID="1">“Huh? Oh another customer.  You sure picked an out of the  way place but…”</Entry>
+  <Entry File="zz2\2.wav" ID="2">“But if it's the 'Keystone' you're looking for,  you're too late.  Don't have it.”</Entry>
+  <Entry File="zz2\3.wav" ID="3">Cloud “Keystone?”</Entry>
+  <Entry File="zz2\4.wav" ID="4">“What? You didn't come here for   that?”</Entry>
+  <Entry File="zz2\5a.wav" ID="5" Part="a">“The 'Keystone' is the key that unlocks  the gate to a very old temple somewhere.“</Entry>
+  <Entry File="zz2\5b.wav" ID="5" Part="b">“You're not going to  believe your ears,”</Entry>
+  <Entry File="zz2\5c.wav" ID="5" Part="c">“but I heard it was  the Temple of the Ancients!!”</Entry>
+  <Entry File="zz2\6.wav" ID="6">Cloud “The Temple of the Ancients?”</Entry>
+  <Entry File="zz2\7.wav" ID="7">“Ha,hah,hah,hah…”</Entry>
+  <Entry File="zz2\8.wav" ID="8">“Don't take it seriously.  It's just a legend!”</Entry>
+  <Entry File="zz2\9.wav" ID="9">“Huh? What?” Where is this "Keystone"? Where is the Temple? Let's change the subject Never mind</Entry>
+  <Entry File="zz2\10a.wav" ID="10" Part="a">“I sold it already.  Yeah well,to tell the truth,  I didn't really want to sell it but…”</Entry>
+  <Entry File="zz2\10b.wav" ID="10" Part="b">“That guy had a way about him that made you feel  like it may not be a good idea  NOT to sell it to him…”</Entry>
+  <Entry File="zz2\11.wav" ID="11">Cloud “Who did you sell it to?”</Entry>
+  <Entry File="zz2\12.wav" ID="12">“The manager of the Gold Saucer.  think his name was 'Dio'.  Said he was going to put it in his museum,  then he took off out of here.”</Entry>
+  <Entry File="zz2\13a.wav" ID="13" Part="a">“Come on…it's only a legend.  But if it were true,that sure would  be something,huh?”</Entry>
+  <Entry File="zz2\13b.wav" ID="13" Part="b">“Now that you mention it,  I've heard of something called  Ultimate Destruction Magic”</Entry>
+  <Entry File="zz2\13c.wav" ID="13" Part="c">“It's supposed to be hidden somewhere  in the Temple of the Ancients.”</Entry>
+  <Entry File="zz2\14.wav" ID="14">Cloud “Ultimate Destruction Magic…?”</Entry>
+  <Entry File="zz2\15.wav" ID="15">“Come on!  I said don't take it seriously!”</Entry>
+  <Entry File="zz2\16.wav" ID="16">“Hey,don't just  come bargin' in here!”</Entry>
+  <Entry File="zz2\17.wav" ID="17">“You again?  All right,what is it?”</Entry>
+  <Entry File="zz2\18.wav" ID="18">“Huh? What?  If it's the Keystone you want  I already sold it!”</Entry>
+  <Entry File="zz2\19a.wav" ID="19" Part="a">“All the weapons you see here  I made myself.  But lately I haven't been able  to get materials…”</Entry>
+  <Entry File="zz2\19b.wav" ID="19" Part="b">“Hey you wouldn't happen to have any  Mythril on you,would you?  I'll trade you something good   if you could spare some.”</Entry>
+  <Entry File="zz2\20.wav" ID="20">“All the weapons you see here  I made myself.  But lately I haven't been able  to get materials…”</Entry>
+  <Entry File="zz2\22.wav" ID="22">“Hey thanks!  All right you can help yourself  to either a big or small box.”</Entry>
+  <Entry File="zz2\23.wav" ID="23">“Yeah?  Well,guess that's that.”</Entry>
+  <Entry File="zz2\26.wav" ID="26">Cloud “…No one's here.  We'll come back later.”</Entry>
+  <Entry File="zz2\27.wav" ID="27">“What?  You want to rest?” Yep Nope</Entry>
+  <Entry File="zz2\28.wav" ID="28">“Oh all right.  You can use that bed.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="zz2\0.wav" ID="0">Weapon seller</Entry>
+	<Entry File="zz2\21.wav" ID="21">Give him some Forget it</Entry>
+	<Entry File="zz2\24.wav" ID="24">Received "Gold Armlet"!</Entry>
+	<Entry File="zz2\25.wav" ID="25">Received "Great Gospel"!</Entry>
+-->
+</VoiceList>

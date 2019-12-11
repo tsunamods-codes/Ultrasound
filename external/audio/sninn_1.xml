@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="sninn_1\1.wav" ID="1">“It's colder than usual today…”</Entry>
+  <Entry File="sninn_1\2.wav" ID="2">“It's 200 gil ,you wanna spend the night?” Yes No</Entry>
+  <Entry File="sninn_1\3.wav" ID="3">“You don't have enough money.”</Entry>
+  <Entry File="sninn_1\4.wav" ID="4">“Enjoy your stay!”</Entry>
+  <Entry File="sninn_1\5.wav" ID="5">“Please come again.”</Entry>
+  <Entry File="sninn_1\6.wav" ID="6">“You heard about  the gnarly hill in this town?  They tell me it's off limits!”</Entry>
+  <Entry File="sninn_1\7.wav" ID="7">“What luck!  We came all this way…crap!”</Entry>
+  <Entry File="sninn_1\8.wav" ID="8">“We came from Costa del Sol to snowboard,  but we're just about to leave!”</Entry>
+  <Entry File="sninn_1\9.wav" ID="9">“Whew,what is it?  Don't get too close,or it'll burn ya.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="sninn_1\0.wav" ID="0">Icicle Inn</Entry>
+-->
+</VoiceList>

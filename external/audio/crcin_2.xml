@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="crcin_2\1.wav" ID="1">Man “You new?”</Entry>
+  <Entry File="crcin_2\2.wav" ID="2">Ester “Hi,Joe.”</Entry>
+  <Entry File="crcin_2\3.wav" ID="3">Joe “Hey,Ester  you're looking pretty as usual.”</Entry>
+  <Entry File="crcin_2\4.wav" ID="4">Ester “Thanks.”</Entry>
+  <Entry File="crcin_2\5a.wav" ID="5" Part="a">Ester “Let me introduce you,  Cloud.”</Entry>
+  <Entry File="crcin_2\5b.wav" ID="5" Part="b">“This is Joe,one of  the top Chocobo Jockeys.”</Entry>
+  <Entry File="crcin_2\6.wav" ID="6">Joe “Nice to meet you,  Cloud.”</Entry>
+  <Entry File="crcin_2\7.wav" ID="7">Joe “If you're with Ester,then…”</Entry>
+  <Entry File="crcin_2\8a.wav" ID="8" Part="a">Ester “Right! He's an up and coming jockey.”</Entry>
+  <Entry File="crcin_2\8b.wav" ID="8" Part="b">“He'd only been down there a day and  already he made it up here!!”</Entry>
+  <Entry File="crcin_2\9.wav" ID="9">“What!?”</Entry>
+  <Entry File="crcin_2\10.wav" ID="10">Joe “Oh,I see…”</Entry>
+  <Entry File="crcin_2\11a.wav" ID="11" Part="a">Joe “So why did you get put down?”</Entry>
+  <Entry File="crcin_2\11b.wav" ID="11" Part="b">“Sorry…we're not supposed  to ask about the past here.”</Entry>
+  <Entry File="crcin_2\12.wav" ID="12">Joe “Hmm.”</Entry>
+  <Entry File="crcin_2\13.wav" ID="13">Joe “Pretty interesting…  I have a feeling that we'll meet again.”</Entry>
+  <Entry File="crcin_2\14.wav" ID="14">Joe “Then,until we meet again,  Cloud.”</Entry>
+  <Entry File="crcin_2\15.wav" ID="15">Ester “I'm going to check on the Chocobo.  You just wait here for a while.”</Entry>
+  <Entry File="crcin_2\16.wav" ID="16">Ester “I'll be right back.”</Entry>
+  <Entry File="crcin_2\17.wav" ID="17">“……”</Entry>
+  <Entry File="crcin_2\18.wav" ID="18">“I got nothing to say.”</Entry>
+  <Entry File="crcin_2\19.wav" ID="19">“Don't get cocky.  Skills don't matter once  you get in the race…”</Entry>
+  <Entry File="crcin_2\20a.wav" ID="20" Part="a">“The race will start  in a few moments.  Will the jockeys for the next race  please proceed to the paddock.”</Entry>
+  <Entry File="crcin_2\20b.wav" ID="20" Part="b">“I repeat…”</Entry>
+  <Entry File="crcin_2\21.wav" ID="21">Ester “Cloud.”</Entry>
+  <Entry File="crcin_2\22.wav" ID="22">Ester “Thanks for waiting.  I registered you  in the next race.”</Entry>
+  <Entry File="crcin_2\23.wav" ID="23">Ester “This is a Chocobo I prepared myself.  He should do well.”</Entry>
+  <Entry File="crcin_2\24a.wav" ID="24" Part="a">Ester “So…  Remember how to ride?”</Entry>
+  <Entry File="crcin_2\25.wav" ID="25">Ester “Then,good luck.”</Entry>
+  <Entry File="crcin_2\26a.wav" ID="26" Part="a">Ester “Let's see  First use [ASSIST]  to choose either AUTO or MANUAL.”</Entry>
+  <Entry File="crcin_2\26b.wav" ID="26" Part="b">“This lets you control the Chocobo  yourself or let it run on its own.”</Entry>
+  <Entry File="crcin_2\26c.wav" ID="26" Part="c">“But it's pretty hard to make the   Chocobo run the way you want it to.  If the Chocobo doesn't like you,  it won't listen.”</Entry>
+  <Entry File="crcin_2\26d.wav" ID="26" Part="d">“Then,you're stuck…”</Entry>
+  <Entry File="crcin_2\26e.wav" ID="26" Part="e">“But,most of the Chocobos  I have are mellow  and you should be able to  handle them.”</Entry>
+  <Entry File="crcin_2\27.wav" ID="27">Ester “When you're riding,  use [SWITCH] to Speed Up  and [CANCEL] to Slow Down.”</Entry>
+  <Entry File="crcin_2\28.wav" ID="28">Ester “If you go faster than the  Chocobo can handle,it'll  quickly lose its stamina.”</Entry>
+  <Entry File="crcin_2\29a.wav" ID="29" Part="a">Ester “Use the Directional buttons to  move the Chocobo left and right.”</Entry>
+  <Entry File="crcin_2\29b.wav" ID="29" Part="b">“Use [OK]  to get a boost of speed.”</Entry>
+  <Entry File="crcin_2\29c.wav" ID="29" Part="c">“But this makes your stamina  run out faster.”</Entry>
+  <Entry File="crcin_2\30a.wav" ID="30" Part="a">Ester “Some Chocobos are bad-tempered  and can't pace themselves.  They'll lose their  stamina quickly.”</Entry>
+  <Entry File="crcin_2\30b.wav" ID="30" Part="b">“Those Chocobos should be  set on Manual  to slow them down.”</Entry>
+  <Entry File="crcin_2\30c.wav" ID="30" Part="c">“Finally,some advice  for the restless,once  the first and second Chocobo  cross the goal line,”</Entry>
+  <Entry File="crcin_2\30d.wav" ID="30" Part="d">“Push [START]  to end the race.”</Entry>
+  <Entry File="crcin_2\31.wav" ID="31">Ester “Too bad.”</Entry>
+  <Entry File="crcin_2\32.wav" ID="32">Ester “You were so close.”</Entry>
+  <Entry File="crcin_2\33.wav" ID="33">Ester “I expected more from you.”</Entry>
+  <Entry File="crcin_2\34.wav" ID="34">Ester “That was a tough break.”</Entry>
+  <Entry File="crcin_2\35.wav" ID="35">Ester “Let me find a better Chocobo for you.  Wait here for a while,OK?”</Entry>
+  <Entry File="crcin_2\36.wav" ID="36">Ester “If you couldn't win  with that last Chocobo…”</Entry>
+  <Entry File="crcin_2\37.wav" ID="37">Ester “All right,I'll go get  the best Chocobo there is!”</Entry>
+  <Entry File="crcin_2\38.wav" ID="38">Ester “You gotta be kidding me!?  There aren't any other  Chocobos better than the last one!”</Entry>
+  <Entry File="crcin_2\39.wav" ID="39">Ester “Well,if you really want to win,  just push [ASSIST]  and try the 'AUTO' mode.”</Entry>
+  <Entry File="crcin_2\40.wav" ID="40">Ester “Congratulations!!  Now you're home free!”</Entry>
+  <Entry File="crcin_2\41.wav" ID="41">Ester “Oh yeah,  the owner told me to give this  letter to you if you won.”</Entry>
+  <Entry File="crcin_2\42a.wav" ID="42" Part="a">Dio “Boy,if you're reading this letter,  then you must've won.  I know you earned it.”</Entry>
+  <Entry File="crcin_2\42b.wav" ID="42" Part="b">“I heard about Dyne from Ester.  Now that you won,I'm granting  you and your friends a full  pardon,and setting you all free.”</Entry>
+  <Entry File="crcin_2\42c.wav" ID="42" Part="c">“And by way of apology,  I have a little gift for you  to use on your journey.”</Entry>
+  <Entry File="crcin_2\42d.wav" ID="42" Part="d">“Sorry I couldn't be there to tell you this   in person,but I'm a very busy man.   Sincerely,   Dio”</Entry>
+  <Entry File="crcin_2\43.wav" ID="43">Cloud “A gift?”</Entry>
+  <Entry File="crcin_2\45a.wav" ID="45" Part="a">Aeris “Cloud,this is great!!  The assistant manager just stopped  by and dropped off a 'buggy'!”</Entry>
+  <Entry File="crcin_2\45b.wav" ID="45" Part="b">“Now we can go over  'deserts' and 'rivers',no problem.”</Entry>
+  <Entry File="crcin_2\45c.wav" ID="45" Part="c">“OK,Cloud.  I'll be waiting outside.”</Entry>
+  <Entry File="crcin_2\46b.wav" ID="46" Part="b">“P.S.  I recently met Sephiroth.  I'll bet he's pretty popular  with boys your age.”</Entry>
+  <Entry File="crcin_2\46c.wav" ID="46" Part="c">“Why don't you get his autograph?  He was heading toward   Gongaga,south of the river.”</Entry>
+  <Entry File="crcin_2\47.wav" ID="47">Cloud “Sephiroth…”</Entry>
+  <Entry File="crcin_2\48a.wav" ID="48" Part="a">Ester “I guess this is goodbye.”</Entry>
+  <Entry File="crcin_2\48b.wav" ID="48" Part="b">“Yeah.   Well,if you ever get your  own Chocobo,come back again.”</Entry>
+  <Entry File="crcin_2\48c.wav" ID="48" Part="c">“I'll take care of your registration  and everything.  I'll see you again.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="crcin_2\0.wav" ID="0">Waiting Room</Entry>
+	<Entry File="crcin_2\24b.wav" ID="24" Part="b">Uh,how was it again? Yeah,I got it</Entry>
+	<Entry File="crcin_2\44.wav" ID="44" />
+	<Entry File="crcin_2\46a.wav" ID="46" Part="a">Cloud (Hmm? The letter continues…)</Entry>
+	<Entry File="crcin_2\49.wav" ID="49">1 2 3 4</Entry>
+	<Entry File="crcin_2\50.wav" ID="50">Received "Ramuh" Materia!</Entry>
+	<Entry File="crcin_2\51.wav" ID="51">You cannot take on any more Materia. Please discard some Materia.</Entry>
+-->
+</VoiceList>

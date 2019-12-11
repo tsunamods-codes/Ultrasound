@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="las3_2\0.wav" ID="0">Inside Northern Cave</Entry>
+	<Entry File="las3_2\1.wav" ID="1">Received "Turbo Ether"!</Entry>
+	<Entry File="las3_2\2.wav" ID="2">Received "Vaccine"!</Entry>
+	<Entry File="las3_2\3.wav" ID="3">Received "Magic Counter" Materia!</Entry>
+	<Entry File="las3_2\4.wav" ID="4">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="las3_2\5.wav" ID="5">Would you like to create a [SAVE POINT] here? Yes No</Entry>
+-->
+</VoiceList>

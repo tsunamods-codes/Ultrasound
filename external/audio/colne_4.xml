@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="colne_4\1.wav" ID="1">Aeris “…Tifa?”</Entry>
+  <Entry File="colne_4\2a.wav" ID="2" Part="a">Aeris “Nice to meet you.  I'm Aeris.”</Entry>
+  <Entry File="colne_4\2b.wav" ID="2" Part="b">“Cloud's told me  a lot about you.”</Entry>
+  <Entry File="colne_4\3a.wav" ID="3" Part="a">Tifa “…And you are?”</Entry>
+  <Entry File="colne_4\3b.wav" ID="3" Part="b">“Hey you're the one with  Cloud in the park…”</Entry>
+  <Entry File="colne_4\4.wav" ID="4">Aeris “Right,with Cloud.”</Entry>
+  <Entry File="colne_4\5.wav" ID="5">Tifa “Oh…”</Entry>
+  <Entry File="colne_4\6.wav" ID="6">Aeris “Don't worry.  We just met. It's nothing.”</Entry>
+  <Entry File="colne_4\7.wav" ID="7">Tifa “What do you mean,  'Don't worry'…about what?”</Entry>
+  <Entry File="colne_4\8a.wav" ID="8" Part="a">Tifa “No,don't misunderstand.”</Entry>
+  <Entry File="colne_4\8b.wav" ID="8" Part="b">“Cloud and  I grew up together.  Nothing more.”</Entry>
+  <Entry File="colne_4\9.wav" ID="9">Aeris “Poor Cloud,  having to stand here and listen to  both of us call him nothing.”</Entry>
+  <Entry File="colne_4\10.wav" ID="10">Aeris “Right,Cloud?”</Entry>
+  <Entry File="colne_4\11.wav" ID="11">Tifa “Cloud?”</Entry>
+  <Entry File="colne_4\12.wav" ID="12">Tifa “????”</Entry>
+  <Entry File="colne_4\13.wav" ID="13">Tifa “Cloud!?”</Entry>
+  <Entry File="colne_4\14a.wav" ID="14" Part="a">Tifa “Why are you dressed like that!?  And what are you doing here!?”</Entry>
+  <Entry File="colne_4\14b.wav" ID="14" Part="b">“Never mind,  what happened to you after  the fall!? Are you hurt!?”</Entry>
+  <Entry File="colne_4\15.wav" ID="15">Cloud “Slow down,let me answer.”</Entry>
+  <Entry File="colne_4\16.wav" ID="16">Cloud “I'm dressed like this  because there was no other way   to get in here.”</Entry>
+  <Entry File="colne_4\17.wav" ID="17">Cloud “I'm all right.  Aeris helped me out.”</Entry>
+  <Entry File="colne_4\18.wav" ID="18">Tifa “Oh,Aeris did…”</Entry>
+  <Entry File="colne_4\19.wav" ID="19">Cloud “Tifa,explain what you're  doing in a place like this?”</Entry>
+  <Entry File="colne_4\20.wav" ID="20">Tifa “Yeah,um…”</Entry>
+  <Entry File="colne_4\21.wav" ID="21">Aeris “Ahem!!  I'll just plug my ears.”</Entry>
+  <Entry File="colne_4\22.wav" ID="22">Aeris “Please,go on with  your private conversation.”</Entry>
+  <Entry File="colne_4\23.wav" ID="23">Tifa “…I'm glad you're OK.”</Entry>
+  <Entry File="colne_4\24.wav" ID="24">Cloud “Thanks.  What happened?”</Entry>
+  <Entry File="colne_4\25a.wav" ID="25" Part="a">Tifa “When we got back from  the Sector 5 reactor,  we saw a weird man.”</Entry>
+  <Entry File="colne_4\25b.wav" ID="25" Part="b">“Barret  caught him and  squeezed some information  out of him.”</Entry>
+  <Entry File="colne_4\26.wav" ID="26">Cloud “That's when  the Don's name popped up.”</Entry>
+  <Entry File="colne_4\27a.wav" ID="27" Part="a">Tifa “Right,Don Corneo.”</Entry>
+  <Entry File="colne_4\27b.wav" ID="27" Part="b">“Barret told me  to leave  the lech alone…”</Entry>
+  <Entry File="colne_4\28.wav" ID="28">Tifa “But something's  been bothering me.”</Entry>
+  <Entry File="colne_4\29.wav" ID="29">Cloud “I see.  So you wanted the story  straight from Corneo's mouth.”</Entry>
+  <Entry File="colne_4\30.wav" ID="30">Tifa “Well,I made it here,  but now I'm stuck.”</Entry>
+  <Entry File="colne_4\31a.wav" ID="31" Part="a">Tifa “Corneo is looking for a bride.”</Entry>
+  <Entry File="colne_4\31b.wav" ID="31" Part="b">“Everyday,he gets three girls,  chooses one of them,and then…  …well…”</Entry>
+  <Entry File="colne_4\32.wav" ID="32">Tifa “Anyway,I have to be the    …girl for tonight.”</Entry>
+  <Entry File="colne_4\33.wav" ID="33">Aeris “Sorry,but I overheard…”</Entry>
+  <Entry File="colne_4\34.wav" ID="34">Aeris “If you know the three girls,  there's no problem,right?”</Entry>
+  <Entry File="colne_4\35.wav" ID="35">Tifa “I guess so,but…”</Entry>
+  <Entry File="colne_4\36.wav" ID="36">Aeris “We have two here,  right?”</Entry>
+  <Entry File="colne_4\37.wav" ID="37">Cloud “No,Aeris!  I can't involve you.”</Entry>
+  <Entry File="colne_4\38.wav" ID="38">Aeris “Oh? So it's all right for   Tifa to be in danger?”</Entry>
+  <Entry File="colne_4\39.wav" ID="39">Cloud “No,I don't want  Tifa in…”</Entry>
+  <Entry File="colne_4\40.wav" ID="40">Tifa “Is it all right?”</Entry>
+  <Entry File="colne_4\41.wav" ID="41">Aeris “I grew up in the slums…  I'm used to danger.”</Entry>
+  <Entry File="colne_4\42.wav" ID="42">Aeris “Do you trust me?”</Entry>
+  <Entry File="colne_4\43.wav" ID="43">Tifa “Yes. Thanks,Ms. Aeris.”</Entry>
+  <Entry File="colne_4\44.wav" ID="44">Aeris “Call me Aeris.”</Entry>
+  <Entry File="colne_4\45.wav" ID="45">“He---y!!”</Entry>
+  <Entry File="colne_4\46.wav" ID="46">“It's time,ladies.  The Don is waiting!”</Entry>
+  <Entry File="colne_4\47a.wav" ID="47" Part="a">“I told you not to wander around…  I tell ya,women nowadays…”</Entry>
+  <Entry File="colne_4\47b.wav" ID="47" Part="b">“Hurry up,will ya!”</Entry>
+  <Entry File="colne_4\48a.wav" ID="48" Part="a">Cloud “I guess I don't need to ask but,  the other girl is…”</Entry>
+  <Entry File="colne_4\48b.wav" ID="48" Part="b">“me…right?”</Entry>
+  <Entry File="colne_4\49.wav" ID="49">Tifa “You're right,you didn't need…”</Entry>
+  <Entry File="colne_4\50.wav" ID="50">Aeris “…to ask.”</Entry>
+  <Entry File="colne_4\51.wav" ID="51">Aeris “They're going to get suspicious  if we don't hurry.”</Entry>
+  <Entry File="colne_4\52a.wav" ID="52" Part="a">Tifa “Ha ha. You know,you don't look bad,  if ya don't look closely.”</Entry>
+  <Entry File="colne_4\53.wav" ID="53">Aeris “Embarrassed?  Come on,speak up!”</Entry>
+  <Entry File="colne_4\54.wav" ID="54">Aeris “Hey,what's the secret?”</Entry>
+  <Entry File="colne_4\55.wav" ID="55">Aeris “No---!!”</Entry>
+  <Entry File="colne_4\56.wav" ID="56">Aeris “I'm so sorry!!”</Entry>
+  <Entry File="colne_4\57.wav" ID="57">Kotch “oh,oh,oh…”</Entry>
+  <Entry File="colne_4\58.wav" ID="58">Kotch “heh,heh,heh!!”</Entry>
+  <Entry File="colne_4\59a.wav" ID="59" Part="a">Kotch “C'mon…just once…  I won't tell…I promise!”</Entry>
+  <Entry File="colne_4\59b.wav" ID="59" Part="b">“I just wanted to act like I got a  a cute girl…”</Entry>
+  <Entry File="colne_4\59c.wav" ID="59" Part="c">“Just once!”</Entry>
+  <Entry File="colne_4\60.wav" ID="60">Cloud “Aeris!!” You all right? We gotta help Tifa!</Entry>
+  <Entry File="colne_4\61a.wav" ID="61" Part="a">Aeris “I told you.  I'm used to danger.”</Entry>
+  <Entry File="colne_4\61b.wav" ID="61" Part="b">Aeris “To tell you the truth,  my heart was pounding!”</Entry>
+  <Entry File="colne_4\62.wav" ID="62">Aeris “Ye…yes,you're right…  …let's hurry!”</Entry>
+  <Entry File="colne_4\63.wav" ID="63">Kotch “Ha ha ha…  Wait,you…”</Entry>
+  <Entry File="colne_4\64.wav" ID="64">Kotch “Hey! You're…not them…  you're…”</Entry>
+  <Entry File="colne_4\65.wav" ID="65">“Please,help me!” Help him Leave him</Entry>
+  <Entry File="colne_4\66.wav" ID="66">Kotch “I…I was just following  the Don's orders! Help me!”</Entry>
+  <Entry File="colne_4\67a.wav" ID="67" Part="a">Kotch “Thanks!”</Entry>
+  <Entry File="colne_4\67b.wav" ID="67" Part="b">“You know what? After you left,some  Shinra guys forced themselves in  here saying someone 'leaked information'  and we're 'good for nothings'."</Entry>
+  <Entry File="colne_4\67c.wav" ID="67" Part="c">“They took Don somewhere and that's it…  I'm still here.”</Entry>
+  <Entry File="colne_4\68.wav" ID="68">Kotch “Oops!  They're here again…  I'm outta here! SEE ya”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="colne_4\0.wav" ID="0">Torture Room</Entry>
+	<Entry File="colne_4\52b.wav" ID="52" Part="b">"I wonder what Barret would say  if he could see you?”</Entry>
+	<Entry File="colne_4\69.wav" ID="69">Received "Ether"!</Entry>
+	<Entry File="colne_4\70a.wav" ID="70" Part="a">Turtle's Paradise No. 2</Entry>
+	<Entry File="colne_4\70b.wav" ID="70" Part="b">One thing even the Gold Saucer doesn't have is…</Entry>
+	<Entry File="colne_4\70c.wav" ID="70" Part="c">A good place for drinks with a great atmosphere!</Entry>
+	<Entry File="colne_4\70d.wav" ID="70" Part="d">Come on by and see us at "Turtle's Paradise"</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="bwhlin2\1.wav" ID="1">Tifa “Look,there.”</Entry>
+  <Entry File="bwhlin2\2.wav" ID="2">Tifa “Look,look.”</Entry>
+  <Entry File="bwhlin2\3.wav" ID="3">Aeris “Wow.”</Entry>
+  <Entry File="bwhlin2\4.wav" ID="4">Aeris “Cloud!”</Entry>
+  <Entry File="bwhlin2\5.wav" ID="5">Yuffie “Geez!”</Entry>
+  <Entry File="bwhlin2\6.wav" ID="6">Yuffie “Oh my gawd!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="bwhlin2\0.wav" ID="0">Inside the Ferris Wheel</Entry>
+	<Entry File="bwhlin2\7.wav" ID="7" />
+-->
+</VoiceList>

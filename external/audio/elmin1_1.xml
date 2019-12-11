@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="elmin1_1\21.wav" ID="21">Barret “This is Kalm.”</Entry>
+  <Entry File="elmin1_1\22.wav" ID="22">Aeris “We've reached Kalm.”</Entry>
+  <Entry File="elmin1_1\23.wav" ID="23">Tifa “So this is Kalm?”</Entry>
+  <Entry File="elmin1_1\24.wav" ID="24">Red XIII “…This must be Kalm.”</Entry>
+  <Entry File="elmin1_1\25.wav" ID="25">Barret “Yo,I'll be waitin' at the inn…  Hurry and get your butt over there!”</Entry>
+  <Entry File="elmin1_1\26.wav" ID="26">Aeris “I wonder if everyone's there already?  Let's hurry over to the inn!”</Entry>
+  <Entry File="elmin1_1\27.wav" ID="27">Tifa “Everyone's waiting at the inn.  Let's go Cloud.”</Entry>
+  <Entry File="elmin1_1\28.wav" ID="28">Red XIII “We're supposed to meet at the inn.  …Shall we go?”</Entry>
+  <Entry File="elmin1_1\29.wav" ID="29">Barret “Get over here!”</Entry>
+  <Entry File="elmin1_1\30.wav" ID="30">Aeris “Well then,I'll go on ahead.”</Entry>
+  <Entry File="elmin1_1\31.wav" ID="31">Tifa “Let's go Cloud.”</Entry>
+  <Entry File="elmin1_1\32.wav" ID="32">Red XIII “Let's go Cloud.”</Entry>
+  <Entry File="elmin1_1\33.wav" ID="33">“Thanks to the Mako energy  Shinra,Inc. develops for us,  everything's more convenient now.”</Entry>
+  <Entry File="elmin1_1\34.wav" ID="34">“Maybe a little too convenient.”</Entry>
+  <Entry File="elmin1_1\35a.wav" ID="35" Part="a">“I hear that the natural resources  near the reactors are being sucked dry.”</Entry>
+  <Entry File="elmin1_1\35b.wav" ID="35" Part="b">“We're better off with   the Mako energy.”</Entry>
+  <Entry File="elmin1_1\36.wav" ID="36">“The famous floating city,Midgar…  Just once I'd love to see it in person.”</Entry>
+  <Entry File="elmin1_1\37.wav" ID="37">“What does it do?  It checks the pressure of the   Mako energy sent from Midgar.”</Entry>
+  <Entry File="elmin1_1\38.wav" ID="38">“This is the Item Store.”</Entry>
+  <Entry File="elmin1_1\39.wav" ID="39">“This is the Weapons Store.”</Entry>
+  <Entry File="elmin1_1\40.wav" ID="40">“This is the Materia Store.”</Entry>
+  <Entry File="elmin1_1\41a.wav" ID="41" Part="a">“I heard terrorists bombed a Midgar reactor…”</Entry>
+  <Entry File="elmin1_1\41b.wav" ID="41" Part="b">“There have been a lot of dangerous accidents  recently. I hate it,just hate it.”</Entry>
+  <Entry File="elmin1_1\42.wav" ID="42">“It seems there was this group  called AVALANCHE runnin' around,  but I guess SOLDIER  finally wiped them out.”</Entry>
+  <Entry File="elmin1_1\43a.wav" ID="43" Part="a">“Shinra is trying to eliminate anyone,  who stands up to them.”</Entry>
+  <Entry File="elmin1_1\43b.wav" ID="43" Part="b">“It don't matter if we like it or not.  Shinra's taken over,  and we gotta live with it!”</Entry>
+  <Entry File="elmin1_1\44.wav" ID="44">“Stay out of the kitchen.”</Entry>
+  <Entry File="elmin1_1\45a.wav" ID="45" Part="a">“I heard President Shinra was killed.  And his son Rufus,the new president,  was badly hurt.”</Entry>
+  <Entry File="elmin1_1\45b.wav" ID="45" Part="b">“Hey,I bet that's news to you.” You're pretty smart! Don't care…</Entry>
+  <Entry File="elmin1_1\46.wav" ID="46">“Heh,heh…Just between us…  I heard it was them  Ava-whaddya call-ums that got  President Shinra and his son.”</Entry>
+  <Entry File="elmin1_1\47.wav" ID="47">“Don't care?  If you're going to travel,  you'd best keep an eye on  what Shinra's doing.”</Entry>
+  <Entry File="elmin1_1\48.wav" ID="48">“When I grow up I'm gonna be in SOLDIER.  That's why I'm training hard now!!”</Entry>
+  <Entry File="elmin1_1\49.wav" ID="49">“My older brother's so stupid.  He's so embarrassing I could just puke!”</Entry>
+  <Entry File="elmin1_1\50.wav" ID="50">“Hyah,hayah,eagghh!”</Entry>
+  <Entry File="elmin1_1\51.wav" ID="51">“Hyah,hayah,eagghh!”</Entry>
+  <Entry File="elmin1_1\52.wav" ID="52">“Hyah,hayah,eagghh!”</Entry>
+  <Entry File="elmin1_1\53a.wav" ID="53" Part="a">“Thanks to Mako energy,  life's pretty darn convenient.  Thanks to Shinra.”</Entry>
+  <Entry File="elmin1_1\53b.wav" ID="53" Part="b">“Don't you think?” Yeah,maybe You're full of it</Entry>
+  <Entry File="elmin1_1\54.wav" ID="54">“See!?  How would we get by  without Mako energy?”</Entry>
+  <Entry File="elmin1_1\55.wav" ID="55">“Hmm.  But I'd hate to think of what life'd  be like without Mako energy.”</Entry>
+  <Entry File="elmin1_1\56a.wav" ID="56" Part="a">“Mako energy's made things   a lot more convenient…”</Entry>
+  <Entry File="elmin1_1\56b.wav" ID="56" Part="b">“But a lot of plants and animals  have been disappearing at a rapid pace.”</Entry>
+  <Entry File="elmin1_1\56c.wav" ID="56" Part="c">“I think the old life was better.”</Entry>
+  <Entry File="elmin1_1\56d.wav" ID="56" Part="d">“Don't you think so?” Yeah,maybe No way</Entry>
+  <Entry File="elmin1_1\57.wav" ID="57">“Yeah,sure I'm right!  You think so,don't you?”</Entry>
+  <Entry File="elmin1_1\58.wav" ID="58">“That's just what my mom said.”</Entry>
+  <Entry File="elmin1_1\59.wav" ID="59">“Yeah,Mako energy's made life  much easier.  And it's all thanks to Shinra,Inc.”</Entry>
+  <Entry File="elmin1_1\60.wav" ID="60">“Things were better when  you could play with animals…”</Entry>
+  <Entry File="elmin1_1\61a.wav" ID="61" Part="a">“Listen to me!  Something really big's happening  in Midgar.”</Entry>
+  <Entry File="elmin1_1\61b.wav" ID="61" Part="b">“They were just saying on TV it was  Rufus' second strategy and…”</Entry>
+  <Entry File="elmin1_1\61c.wav" ID="61" Part="c">“That big cannon's pointed due north…  Do you think the target is Sephiroth?”</Entry>
+  <Entry File="elmin1_1\62a.wav" ID="62" Part="a">“Everyone at Shinra's in an uproar  because they heard Weapon's coming.”</Entry>
+  <Entry File="elmin1_1\62b.wav" ID="62" Part="b">“I heard a big hydroplane carrying  secret weapons,was attacked by Weapon  and was sunk at sea…”</Entry>
+  <Entry File="elmin1_1\63.wav" ID="63">“If something ever happened to  President Rufus,  That'd be the end of Shinra,Inc.  and the rest of the world,too.”</Entry>
+  <Entry File="elmin1_1\64a.wav" ID="64" Part="a">“Did you say you came  from Midgar?”</Entry>
+  <Entry File="elmin1_1\64b.wav" ID="64" Part="b">“I used to live there,too.  But I heard they got  lots of troubles lately.”</Entry>
+  <Entry File="elmin1_1\65.wav" ID="65">“Is it true  that Shinra makes monsters?” It's true Just a rumor</Entry>
+  <Entry File="elmin1_1\66.wav" ID="66">“Yeah,well either way,  as long as we use reactors,  we can't stand up to Shinra.”</Entry>
+  <Entry File="elmin1_1\67.wav" ID="67">“There was a suspicious-looking man  in a black cloak!  He was carrying a mean-looking sword.”</Entry>
+  <Entry File="elmin1_1\68.wav" ID="68">“They say Midgar's in the middle of a war  between the Shinra and  some terrorists called AVALANCHE.”</Entry>
+  <Entry File="elmin1_1\69.wav" ID="69">“20 gil a night.  What's it gonna be?” Stay? Move on</Entry>
+  <Entry File="elmin1_1\70.wav" ID="70">“Mr…Cloud?  Your party is waiting for you  on the 2nd floor.”</Entry>
+  <Entry File="elmin1_1\71.wav" ID="71">“Shinra's leading the world around  by the nose,  and you guys are just gonna  sit back and take it?”</Entry>
+  <Entry File="elmin1_1\72a.wav" ID="72" Part="a">“Me? I used to work in a mine  down south called Mythril Mine”</Entry>
+  <Entry File="elmin1_1\72b.wav" ID="72" Part="b">“But,awhile back,  monsters started appearing.”</Entry>
+  <Entry File="elmin1_1\72c.wav" ID="72" Part="c">“After that,business went to pot  and now I spend the days here drinking.”</Entry>
+  <Entry File="elmin1_1\73.wav" ID="73">“Urrrp!…hic…  I'm stinking drunk!!”</Entry>
+  <Entry File="elmin1_1\74.wav" ID="74">“Seems like you're a little short.  Why don't you drop by again…  when you have money.”</Entry>
+  <Entry File="elmin1_1\75.wav" ID="75">“Why doesn't anyone believe me?  I'm so lonely…”</Entry>
+  <Entry File="elmin1_1\76a.wav" ID="76" Part="a">“Listen to me!  Just now,some guy in a black cloak  walked east towards that grassy field.”</Entry>
+  <Entry File="elmin1_1\76b.wav" ID="76" Part="b">“He's got this killer sword,  and looks REAL scary…”</Entry>
+  <Entry File="elmin1_1\77.wav" ID="77">“Aw,c'mon! Listen to me!  Got anything interesting to say?”</Entry>
+  <Entry File="elmin1_1\79.wav" ID="79">“I gotta hurry up and get strong so  I can crush Meteor to bits!  But I gotta train real hard to do it.”</Entry>
+  <Entry File="elmin1_1\80a.wav" ID="80" Part="a">“Oh man,oh man!”</Entry>
+  <Entry File="elmin1_1\80b.wav" ID="80" Part="b">“Meteor's gonna fall on us,and  now some huge monster  like I've never seen  is wandering around out there!”</Entry>
+  <Entry File="elmin1_1\81.wav" ID="81">“What's going to happen  to all of us?”</Entry>
+  <Entry File="elmin1_1\82.wav" ID="82">“I want you to stop that talk  about Meteor falling on us!”</Entry>
+  <Entry File="elmin1_1\83a.wav" ID="83" Part="a">“Listen,I work hard…and now you're  tellin' me Meteor's gonna smash  everything to bits?”</Entry>
+  <Entry File="elmin1_1\83b.wav" ID="83" Part="b">“Well,I ain't standin' around  listenin' to fool talk like this.  Makes a person lose the will to work,  that's what it does!”</Entry>
+  <Entry File="elmin1_1\84.wav" ID="84">“What're ya,dense?  Something like that'll never happen!  It's ridiculous!”</Entry>
+  <Entry File="elmin1_1\85a.wav" ID="85" Part="a">“And all of Midgar's gonna be  destroyed by a falling meteor?  Oh,don't make me laugh!”</Entry>
+  <Entry File="elmin1_1\85b.wav" ID="85" Part="b">“There's been a number of scary  incidents lately.  I hate it. Just hate it!”</Entry>
+  <Entry File="elmin1_1\86a.wav" ID="86" Part="a">“I heard the remaining members of AVALANCHE  smashed the Shinra troops at Midgar.”</Entry>
+  <Entry File="elmin1_1\86b.wav" ID="86" Part="b">“Lately,there's been a number of  scary incidents.  I hate it. Just hate it!”</Entry>
+  <Entry File="elmin1_1\87.wav" ID="87">“They say the remaining members of AVALANCHE  broke Shinra's resistance and destroyed  the Mako cannon at Midgar.”</Entry>
+  <Entry File="elmin1_1\88.wav" ID="88">“What's going to happen to the world?”</Entry>
+  <Entry File="elmin1_1\89.wav" ID="89">“I heard Shinra's taking it's  biggest artillery from Junon and  other facilities and gathering it  in Midgar to fight Meteor and Weapon.”</Entry>
+  <Entry File="elmin1_1\90a.wav" ID="90" Part="a">“Even if Meteor falls,  you ought to be safe  as long as you're in Midgar.”</Entry>
+  <Entry File="elmin1_1\90b.wav" ID="90" Part="b">“They say it's a "Mako Metropolis"  so it will survive.”</Entry>
+  <Entry File="elmin1_1\91.wav" ID="91">“Ah,youth…  You really believe that big meteor  filling up the sky is going to fall?”</Entry>
+  <Entry File="elmin1_1\92.wav" ID="92">“If that's the case then all we can do is  put our hope in Shinra,Inc.”</Entry>
+  <Entry File="elmin1_1\93.wav" ID="93">“If Shinra,Inc. was our last hope,  and they've been beaten by terrorists…  are we all going to die?”</Entry>
+  <Entry File="elmin1_1\94.wav" ID="94">“Meteor's going to fall,isn't it?  Then we're all history unless  Shinra does something about it!”</Entry>
+  <Entry File="elmin1_1\95a.wav" ID="95" Part="a">“Why're you checking the Mako energy  pressure at a time like this?  It's probably already too late.”</Entry>
+  <Entry File="elmin1_1\95b.wav" ID="95" Part="b">“You can't go into a tail spin  at a time like this.  You've got to keep living  just like before.”</Entry>
+  <Entry File="elmin1_1\95c.wav" ID="95" Part="c">“At least that's what I think…”</Entry>
+  <Entry File="elmin1_1\96.wav" ID="96">“They say Meteor's going to fall,  but that's okay!  I'm sure Shinra'll come  through for us in the end!”</Entry>
+  <Entry File="elmin1_1\97a.wav" ID="97" Part="a">“Dear,can you believe it?  They say that Shinra's gone under!!”</Entry>
+  <Entry File="elmin1_1\97b.wav" ID="97" Part="b">“This world is coming to an end all  because some terrorists called AVALANCHE  stuck their noses in the wrong place!”</Entry>
+  <Entry File="elmin1_1\98.wav" ID="98">“I can't believe Meteor's really  falling this way…  What's going to happen to us?”</Entry>
+  <Entry File="elmin1_1\99.wav" ID="99">“I can't believe Meteor's really  falling this way…  What's going to happen to us?”</Entry>
+  <Entry File="elmin1_1\100.wav" ID="100">“Meteor's coming,right?  Where will I stash my money?  Wait,maybe I'd better take it  with me and get out of here!”</Entry>
+  <Entry File="elmin1_1\101.wav" ID="101">“One night,300 gil.  Wanna check in?” Yes No</Entry>
+  <Entry File="elmin1_1\102a.wav" ID="102" Part="a">“Tourists,huh?  Here are a few things you should  know that will come in handy  when you travel around the world…”</Entry>
+  <Entry File="elmin1_1\102b.wav" ID="102" Part="b">“Want to hear what they are?” Tell me I already know</Entry>
+  <Entry File="elmin1_1\103a.wav" ID="103" Part="a">“Then let me explain  how to use the world map.”</Entry>
+  <Entry File="elmin1_1\103b.wav" ID="103" Part="b">“Well then,what do you want to know?” Changing camera angles Map indicators Operating the buttons</Entry>
+  <Entry File="elmin1_1\104.wav" ID="104">“Anything else you'd like to know?” Map indicators Operating the buttons Nope,I got it</Entry>
+  <Entry File="elmin1_1\105.wav" ID="105">“Anything else you want to ask?” Changing camera angles Operating the buttons No,that's all</Entry>
+  <Entry File="elmin1_1\106.wav" ID="106">“Anything else you want to ask?” Changing camera angles Map indicators No,that's all</Entry>
+  <Entry File="elmin1_1\107a.wav" ID="107" Part="a">“First press [CAMERA]  to change the camera angle.”</Entry>
+  <Entry File="elmin1_1\107b.wav" ID="107" Part="b">“There are 2 angles to choose from,  select the one you like.”</Entry>
+  <Entry File="elmin1_1\107c.wav" ID="107" Part="c">“Then rotate the camera either way  by pressing [PAGEUP]  or [PAGEDOWN].”</Entry>
+  <Entry File="elmin1_1\107d.wav" ID="107" Part="d">“Try different angles until  you find the one you like best.  It makes the journey a lot more fun!”</Entry>
+  <Entry File="elmin1_1\108a.wav" ID="108" Part="a">“Press [START]  once to view the World Map.”</Entry>
+  <Entry File="elmin1_1\108b.wav" ID="108" Part="b">“There is a large and small map.  Learn when to use which  and you won't get lost.”</Entry>
+  <Entry File="elmin1_1\108c.wav" ID="108" Part="c">“Push [START] twice  to change the size of the map,  and once more to turn it off.”</Entry>
+  <Entry File="elmin1_1\108d.wav" ID="108" Part="d">“Pretty easy,huh?”</Entry>
+  <Entry File="elmin1_1\109a.wav" ID="109" Part="a">“Ride things by pressing  [ASSIST] and  get off by pressing [CANCEL].  This isn't so hard,either!”</Entry>
+  <Entry File="elmin1_1\109b.wav" ID="109" Part="b">“Oh,right. You can't dash  on the World Map,so make sure  not to press [CANCEL]  unless you want to get off.”</Entry>
+  <Entry File="elmin1_1\109c.wav" ID="109" Part="c">“Remember this because  Chocobos will run away  as soon as you get off them,  so be careful.”</Entry>
+  <Entry File="elmin1_1\110a.wav" ID="110" Part="a">“Once on the World Map  you can access the menu  to save your game anywhere.  It's a good idea to save frequently!”</Entry>
+  <Entry File="elmin1_1\110b.wav" ID="110" Part="b">“Well then,bon voyage!”</Entry>
+  <Entry File="elmin1_1\111.wav" ID="111">“Is that so? Well,that's that.  Have a nice trip.”</Entry>
+  <Entry File="elmin1_1\112.wav" ID="112">Cloud “Damn!!”</Entry>
+  <Entry File="elmin1_1\113.wav" ID="113">Tifa “Oh! You!!”</Entry>
+  <Entry File="elmin1_1\114.wav" ID="114">Cid “…Don't mess with me!!”</Entry>
+  <Entry File="elmin1_1\115a.wav" ID="115" Part="a">“Huh? You're looking for your friend?  You want to know where the Lifestream is?”</Entry>
+  <Entry File="elmin1_1\115b.wav" ID="115" Part="b">“Hmm,I can't help you find your friend,  but I've heard about the Lifestream.”</Entry>
+  <Entry File="elmin1_1\115c.wav" ID="115" Part="c">“When I traveled to the Southern Islands,  a doctor was very kind to me.  I seem to recall him telling me something  about the Lifestream…”</Entry>
+  <Entry File="elmin1_1\116a.wav" ID="116" Part="a">“Hey,listen to me!  The Shinra troops are on the move.”</Entry>
+  <Entry File="elmin1_1\116b.wav" ID="116" Part="b">“The TV news said Rufus came up with two plans.  One,is to launch a rocket into space  containing Huge Materia…”</Entry>
+  <Entry File="elmin1_1\116c.wav" ID="116" Part="c">“Is Huge Materia really that destructive?”</Entry>
+  <Entry File="elmin1_1\117a.wav" ID="117" Part="a">“Sephiroth put up a huge barrier  around the North Crater.”</Entry>
+  <Entry File="elmin1_1\117b.wav" ID="117" Part="b">“Rufus wants to use a mammoth cannon  to smash the barrier.”</Entry>
+  <Entry File="elmin1_1\117c.wav" ID="117" Part="c">“He plans to have Shinra troops  rush in and attack Sephiroth  after the barrier falls.”</Entry>
+  <Entry File="elmin1_1\118a.wav" ID="118" Part="a">“The North Crater barrier's  been demolished?”</Entry>
+  <Entry File="elmin1_1\118b.wav" ID="118" Part="b">“So now's the time to  defeat Sephiroth.”</Entry>
+  <Entry File="elmin1_1\119a.wav" ID="119" Part="a">“Hey,listen to me!  I heard the barrier  protecting Sephiroth is gone!”</Entry>
+  <Entry File="elmin1_1\119b.wav" ID="119" Part="b">“But with Rufus dead,  the Shinra troops don't know what to do.  Heidegger and Scarlet don't have  what it takes to lead the troops.”</Entry>
+  <Entry File="elmin1_1\119c.wav" ID="119" Part="c">“I really thought something was  finally going to happen,  but everything's the same…  Not a damn thing changes around here!”</Entry>
+  <Entry File="elmin1_1\120a.wav" ID="120" Part="a">“My old man was a miner,but  he couldn't go to work after monsters   started appearing in the Mythril Mines.”</Entry>
+  <Entry File="elmin1_1\120b.wav" ID="120" Part="b">“Now all he does is sit around  getting drunk in the bar…”</Entry>
+  <Entry File="elmin1_1\121a.wav" ID="121" Part="a">“My dad still just sits at the  bar drinking,even though  he knows Meteor's coming!”</Entry>
+  <Entry File="elmin1_1\121b.wav" ID="121" Part="b">“It's sad. Even though he's an adult,  he just doesn't want to see  the world as it really is.  I dunno what to do.”</Entry>
+  <Entry File="elmin1_1\122.wav" ID="122">Aeris “Cloud,you're late!”</Entry>
+  <Entry File="elmin1_1\123.wav" ID="123">Barret “Yo man,you're late!”</Entry>
+  <Entry File="elmin1_1\124.wav" ID="124">Cloud “Sorry to keep you waiting.”</Entry>
+  <Entry File="elmin1_1\125.wav" ID="125">Aeris “Guess everyone's here now.”</Entry>
+  <Entry File="elmin1_1\126a.wav" ID="126" Part="a">Barret “So let's hear your story…”</Entry>
+  <Entry File="elmin1_1\126b.wav" ID="126" Part="b">“You know,the one about Sephiroth  and the crisis of the Planet.”</Entry>
+  <Entry File="elmin1_1\126c.wav" ID="126" Part="c">“Let's hear it all.”</Entry>
+  <Entry File="elmin1_1\127a.wav" ID="127" Part="a">Cloud “…I used to want to be like Sephiroth,  so I joined SOLDIER.”</Entry>
+  <Entry File="elmin1_1\127b.wav" ID="127" Part="b">“After working with Sephiroth  on several missions,  we became friends.”</Entry>
+  <Entry File="elmin1_1\128.wav" ID="128">Barret “You call that a friend?”</Entry>
+  <Entry File="elmin1_1\129a.wav" ID="129" Part="a">Cloud “Yeah,well…”</Entry>
+  <Entry File="elmin1_1\129b.wav" ID="129" Part="b">“He was older than me,  and hardly ever  talked about himself.”</Entry>
+  <Entry File="elmin1_1\130.wav" ID="130">Cloud “So I guess you'd call us war buddies…  We trusted each other.  Until one day…”</Entry>
+  <Entry File="elmin1_1\131.wav" ID="131">Tifa “…”</Entry>
+  <Entry File="elmin1_1\132.wav" ID="132">Aeris “…One day?”</Entry>
+  <Entry File="elmin1_1\133.wav" ID="133">Cloud “After the war it was SOLDIER's  duty to put down any resistance  against the Shinra.”</Entry>
+  <Entry File="elmin1_1\134a.wav" ID="134" Part="a">Cloud “…That was five years ago.”</Entry>
+  <Entry File="elmin1_1\134b.wav" ID="134" Part="b">“I was 16…”</Entry>
+  <Entry File="elmin1_1\135.wav" ID="135">Cloud “Sephiroth's strength is incredible.  He is far stronger in reality  than any stories you   may have heard about him.”</Entry>
+  <Entry File="elmin1_1\136.wav" ID="136">Aeris “So…  Where do you come in?”</Entry>
+  <Entry File="elmin1_1\137.wav" ID="137">Cloud “Me?  I was mesmerized by the  way Sephiroth fought.”</Entry>
+  <Entry File="elmin1_1\138.wav" ID="138">Cloud “…And then  we reached Nibelheim.”</Entry>
+  <Entry File="elmin1_1\139.wav" ID="139">Barret “I remember Jenova.  That's that damn headless spook  livin' in the Shinra building.”</Entry>
+  <Entry File="elmin1_1\140.wav" ID="140">Cloud “That's right.”</Entry>
+  <Entry File="elmin1_1\141.wav" ID="141">Tifa “Barret,  would you please let us hear what  Cloud has to say?  You can ask questions later.”</Entry>
+  <Entry File="elmin1_1\142.wav" ID="142">Barret “Tifa,I was only…”</Entry>
+  <Entry File="elmin1_1\143.wav" ID="143">Tifa “OK Cloud,continue.”</Entry>
+  <Entry File="elmin1_1\144.wav" ID="144">Aeris “The childhood friends are reunited!”</Entry>
+  <Entry File="elmin1_1\145.wav" ID="145">Cloud “…I was really surprised  with Tifa.”</Entry>
+  <Entry File="elmin1_1\146.wav" ID="146">Barret “Damn,Shinra!  The more I hear,the more I hate 'em!”</Entry>
+  <Entry File="elmin1_1\147.wav" ID="147">Tifa “…Who would have ever  thought the Mako Reactor  held such a secret.”</Entry>
+  <Entry File="elmin1_1\148.wav" ID="148">Aeris “Tifa…  Were you waiting outside then?”</Entry>
+  <Entry File="elmin1_1\149.wav" ID="149">Tifa “…Yes.”</Entry>
+  <Entry File="elmin1_1\150.wav" ID="150">Cloud “We returned to Nibelheim.  Sephiroth confined himself to the inn.  He didn't even try to talk to me.”</Entry>
+  <Entry File="elmin1_1\151.wav" ID="151">Tifa “Then all of a sudden he  just disappeared,right?”</Entry>
+  <Entry File="elmin1_1\152.wav" ID="152">Cloud “We found him inside  the biggest building in Nibelheim.”</Entry>
+  <Entry File="elmin1_1\153.wav" ID="153">Tifa “The villagers used to call  it the Shinra mansion.”</Entry>
+  <Entry File="elmin1_1\154.wav" ID="154">Cloud “Long ago,people from Shinra  used to live in that mansion…”</Entry>
+  <Entry File="elmin1_1\155.wav" ID="155">Cloud “…and that's the end of my story.”</Entry>
+  <Entry File="elmin1_1\156.wav" ID="156">Barret “Wait a damn minute!  That's it? No more?”</Entry>
+  <Entry File="elmin1_1\157.wav" ID="157">Cloud “…I don't remember.”</Entry>
+  <Entry File="elmin1_1\158.wav" ID="158">Aeris “What happened to Sephiroth?”</Entry>
+  <Entry File="elmin1_1\159.wav" ID="159">Cloud “In terms of skill,  I couldn't have killed him.”</Entry>
+  <Entry File="elmin1_1\160.wav" ID="160">Tifa “Official records state Sephiroth is dead.  I read it in the newspaper.”</Entry>
+  <Entry File="elmin1_1\161.wav" ID="161">Aeris “Shinra,Inc. owns the newspapers,  so you can't rely on that.”</Entry>
+  <Entry File="elmin1_1\162a.wav" ID="162" Part="a">Cloud “…I want to know the truth.  I want to know what happened.”</Entry>
+  <Entry File="elmin1_1\162b.wav" ID="162" Part="b">“I challenged Sephiroth and lived.  Why didn't he kill me?”</Entry>
+  <Entry File="elmin1_1\163.wav" ID="163">Tifa “…I'm alive,too.”</Entry>
+  <Entry File="elmin1_1\164.wav" ID="164">Aeris “A lot of this doesn't make sense.  What about Jenova?  It was in the Shinra building,right?”</Entry>
+  <Entry File="elmin1_1\165.wav" ID="165">Cloud “Shinra shipped it  from Nibelheim to Midgar.”</Entry>
+  <Entry File="elmin1_1\166.wav" ID="166">Aeris “Did someone carry it out later?  It was missing from the Shinra building.”</Entry>
+  <Entry File="elmin1_1\167.wav" ID="167">Tifa “Sephiroth?”</Entry>
+  <Entry File="elmin1_1\168a.wav" ID="168" Part="a">Barret “Damn!  None of this makes sense!”</Entry>
+  <Entry File="elmin1_1\168b.wav" ID="168" Part="b">“I'm going,  going,  going,  gone!”</Entry>
+  <Entry File="elmin1_1\168c.wav" ID="168" Part="c">“And I'm leavin' the thinkin' to you!”</Entry>
+  <Entry File="elmin1_1\169.wav" ID="169">Barret “Yo,Cloud!  Let's get a move on!” Wait a sec Right</Entry>
+  <Entry File="elmin1_1\170a.wav" ID="170" Part="a">Barret “Cloud,what's wrong?  You just gonna stand there while  Sephiroth heads for the Promised Land?”</Entry>
+  <Entry File="elmin1_1\170b.wav" ID="170" Part="b">“I ain't lettin' Sephiroth or  Shinra get to no Promised Land.  If they do,  then we're all screwed.”</Entry>
+  <Entry File="elmin1_1\170c.wav" ID="170" Part="c">“Y'know what I'm sayin'?” Beautiful,just beautiful! Is that all?</Entry>
+  <Entry File="elmin1_1\171.wav" ID="171">Barret “Jus' leave it to me!”</Entry>
+  <Entry File="elmin1_1\172.wav" ID="172">Barret “Fine!  That's good enough.”</Entry>
+  <Entry File="elmin1_1\173.wav" ID="173">Barret “Yo,c'mon let's go!”</Entry>
+  <Entry File="elmin1_1\174.wav" ID="174">Cloud “Oh brother…”</Entry>
+  <Entry File="elmin1_1\175.wav" ID="175">Tifa “Cloud?”</Entry>
+  <Entry File="elmin1_1\176.wav" ID="176">Tifa “How bad was I after  Sephiroth stabbed me?”</Entry>
+  <Entry File="elmin1_1\177.wav" ID="177">Cloud “I thought you were a goner.  …I was so sad.”</Entry>
+  <Entry File="elmin1_1\178.wav" ID="178">Aeris “I…”</Entry>
+  <Entry File="elmin1_1\179.wav" ID="179">Aeris “The Ancients…Cetra…Jenova…  Sephiroth and myself…”</Entry>
+  <Entry File="elmin1_1\180.wav" ID="180">Tifa “Let's go.  Barret's waiting.”</Entry>
+  <Entry File="elmin1_1\181.wav" ID="181">Red XIII “What a fascinating story…”</Entry>
+  <Entry File="elmin1_1\182.wav" ID="182">Cloud “Barret and the others are  waiting for us at the inn.”</Entry>
+  <Entry File="elmin1_1\183.wav" ID="183">Barret “Yo,Cloud.  Here.”</Entry>
+  <Entry File="elmin1_1\184.wav" ID="184">Aeris “Cloud.  Take this.”</Entry>
+  <Entry File="elmin1_1\185.wav" ID="185">Tifa “Oh,Cloud.  Let me give you this.”</Entry>
+  <Entry File="elmin1_1\187.wav" ID="187">Barret “As long as we got [PHS],  we can always reach each other.  Use it if something happens.”</Entry>
+  <Entry File="elmin1_1\188.wav" ID="188">Aeris “With [PHS],  I can see you any time!”</Entry>
+  <Entry File="elmin1_1\189.wav" ID="189">Tifa “Just use [PHS],  and you can contact  any of us easily.”</Entry>
+  <Entry File="elmin1_1\190.wav" ID="190">Barret “Alright then,we're outta here.”</Entry>
+  <Entry File="elmin1_1\191.wav" ID="191">Aeris “Well,I'll be going.”</Entry>
+  <Entry File="elmin1_1\192.wav" ID="192">Tifa “I'm going on ahead.”</Entry>
+  <Entry File="elmin1_1\193.wav" ID="193">Red XIII “[PHS] will put us in constant  contact with each other.”</Entry>
+  <Entry File="elmin1_1\195.wav" ID="195">Barret “Yeah,maybe so.  Wanna take a breather here?”</Entry>
+  <Entry File="elmin1_1\196.wav" ID="196">Barret “Hmph!  Pokin' his damn nose in  where it don't belong.  Cloud!  Why don't you finish that story?”</Entry>
+  <Entry File="elmin1_1\197.wav" ID="197">Red XIII “(Phew……)”</Entry>
+  <Entry File="elmin1_1\198.wav" ID="198">Barret “(Why you talkin' to me!?)” Save game and take a rest Keep talking</Entry>
+  <Entry File="elmin1_1\199.wav" ID="199">Barret “…I get it.”</Entry>
+  <Entry File="elmin1_1\200a.wav" ID="200" Part="a">Red XIII “That would seem to explain the increase   in the number of monsters recently.”</Entry>
+  <Entry File="elmin1_1\200b.wav" ID="200" Part="b">“I think we should listen carefully  to Cloud.  Don't you think so Barret?”</Entry>
+  <Entry File="elmin1_1\201a.wav" ID="201" Part="a">“South of this town past the Mythril Mine  and far to the west  is a Shinra harbor called Junon.”</Entry>
+  <Entry File="elmin1_1\201b.wav" ID="201" Part="b">“They say there's a reactor and  many tall buildings there.  I hope to see it someday.”</Entry>
+  <Entry File="elmin1_1\202.wav" ID="202">“The world's at peace…  all's well.”</Entry>
+  <Entry File="elmin1_1\203.wav" ID="203">“Tomorrow's another day…  all's well.”</Entry>
+  <Entry File="elmin1_1\204.wav" ID="204">“I got my health,  and enough to eat…  all's well.”</Entry>
+  <Entry File="elmin1_1\205a.wav" ID="205" Part="a">“The world's changed a lot  in the past few days…”</Entry>
+  <Entry File="elmin1_1\205b.wav" ID="205" Part="b">“That huge Meteor is covering  up the sky and acting  like it owned it.”</Entry>
+  <Entry File="elmin1_1\205c.wav" ID="205" Part="c">“A lot of my friends  have died…”</Entry>
+  <Entry File="elmin1_1\206.wav" ID="206">“I'm goin' on a journey to  pray for their souls.”</Entry>
+  <Entry File="elmin1_1\207.wav" ID="207">“A map that was sunk along with the ship.  …"Guidebook"  A rose that blooms once every 1000 years  in the desert.  …"Desert Rose"  A harp that soothes those who hear it.  …"Earth Harp"”</Entry>
+  <Entry File="elmin1_1\208.wav" ID="208">“I wonder if there's anyone  who'll bring it to me?”</Entry>
+  <Entry File="elmin1_1\209.wav" ID="209">“Now if I can just get the "Guidebook",  I can start my journey…”</Entry>
+  <Entry File="elmin1_1\210.wav" ID="210">“Now if I can just get "Desert Rose",  I can start my journey…”</Entry>
+  <Entry File="elmin1_1\211.wav" ID="211">“Now if I can just get "Earth Harp",  I can start my journey…”</Entry>
+  <Entry File="elmin1_1\212.wav" ID="212">“"Guidebook" and "Desert Rose"…  Will you guys look for them for me?”</Entry>
+  <Entry File="elmin1_1\213.wav" ID="213">“"Guidebook" and "Earth Harp"…  Will you guys look for them for me?”</Entry>
+  <Entry File="elmin1_1\214.wav" ID="214">“"Desert Rose" and "Earth Harp"…  Will you guys look for them for me?”</Entry>
+  <Entry File="elmin1_1\215a.wav" ID="215" Part="a">“OH! It's "Guidebook"!  Wanna trade it for this  Underwater Materia?”</Entry>
+  <Entry File="elmin1_1\215b.wav" ID="215" Part="b">“How about it?” Trade Don't trade</Entry>
+  <Entry File="elmin1_1\216a.wav" ID="216" Part="a">“OH! It's "Desert Rose"!  Wanna trade it for that  Chocobo over there?”</Entry>
+  <Entry File="elmin1_1\216b.wav" ID="216" Part="b">“How about it?” Trade Don't trade</Entry>
+  <Entry File="elmin1_1\217a.wav" ID="217" Part="a">“OH! It's the Earth Harp!  Wanna trade it for  some Master Materia?”</Entry>
+  <Entry File="elmin1_1\217b.wav" ID="217" Part="b">“I'm not bein' stingy either!  I'll give you all three of 'em!”</Entry>
+  <Entry File="elmin1_1\217c.wav" ID="217" Part="c">“How about it?” Trade Don't trade</Entry>
+  <Entry File="elmin1_1\218.wav" ID="218">“OK then,  it's a done deal!”</Entry>
+  <Entry File="elmin1_1\219.wav" ID="219">“I dunno…”</Entry>
+  <Entry File="elmin1_1\220.wav" ID="220">“it's Underwater Materia.  Go on,it's yours!”</Entry>
+  <Entry File="elmin1_1\221.wav" ID="221">“It's a Chocobo.  Take it,it's yours!”</Entry>
+  <Entry File="elmin1_1\222.wav" ID="222">“It's a 3-piece Master Materia set,  …and it's all yours!”</Entry>
+  <Entry File="elmin1_1\223.wav" ID="223">“I guess it's time to go  on a journey for the souls  of my departed friends…”</Entry>
+  <Entry File="elmin1_1\224.wav" ID="224">Cloud “Looks like my Stable's full.  I'll come back when I have room.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="elmin1_1\0.wav" ID="0">Kalm</Entry>
+	<Entry File="elmin1_1\1.wav" ID="1">Weapon Store</Entry>
+	<Entry File="elmin1_1\2.wav" ID="2">Item Store</Entry>
+	<Entry File="elmin1_1\3.wav" ID="3">Bar</Entry>
+	<Entry File="elmin1_1\4.wav" ID="4">House: 1f</Entry>
+	<Entry File="elmin1_1\5.wav" ID="5">House: 2f</Entry>
+	<Entry File="elmin1_1\6.wav" ID="6">Rear Tower (Pagoda)</Entry>
+	<Entry File="elmin1_1\7.wav" ID="7">Inn: 1f</Entry>
+	<Entry File="elmin1_1\8.wav" ID="8">Inn: 2f</Entry>
+	<Entry File="elmin1_1\9.wav" ID="9">Cloud's Past</Entry>
+	<Entry File="elmin1_1\10.wav" ID="10">Received "Ether"!</Entry>
+	<Entry File="elmin1_1\11.wav" ID="11">Received "Peacemaker"!</Entry>
+	<Entry File="elmin1_1\12.wav" ID="12">Received "Guard Source"!</Entry>
+	<Entry File="elmin1_1\13.wav" ID="13">…&gt; Dropped "Megalixir"!</Entry>
+	<Entry File="elmin1_1\14.wav" ID="14">Received "Underwater" Materia!</Entry>
+	<Entry File="elmin1_1\15.wav" ID="15">Received "Master Magic" Materia!</Entry>
+	<Entry File="elmin1_1\16.wav" ID="16">Received "Master Command" Materia!</Entry>
+	<Entry File="elmin1_1\17.wav" ID="17">Received "Master Summon" Materia!</Entry>
+	<Entry File="elmin1_1\18.wav" ID="18">Cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="elmin1_1\19.wav" ID="19">Empty…</Entry>
+	<Entry File="elmin1_1\20.wav" ID="20">Can't reach it…</Entry>
+	<Entry File="elmin1_1\78.wav" ID="78">  Locked. Can't open it…</Entry>
+	<Entry File="elmin1_1\186.wav" ID="186">Received "PHS"!</Entry>
+	<Entry File="elmin1_1\194.wav" ID="194">(Changing party members) Access the menu and select [PHS]. It can only be used on the World Map or at a Save Point.</Entry>
+-->
+</VoiceList>

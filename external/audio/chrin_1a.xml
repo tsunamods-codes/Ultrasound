@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="chrin_1a\0.wav" ID="0">Cloud “I don't know who you are,but…”</Entry>
+  <Entry File="chrin_1a\1.wav" ID="1">Cloud “You don't know me…”</Entry>
+  <Entry File="chrin_1a\3.wav" ID="3">Cloud “Oh yeah…I know you.”</Entry>
+  <Entry File="chrin_1a\4.wav" ID="4">Cloud “That uniform…”</Entry>
+  <Entry File="chrin_1a\5.wav" ID="5">“…Hey sis,    this one's a little weird.”</Entry>
+  <Entry File="chrin_1a\6.wav" ID="6">Cloud “Shut up! Shinra spy!”</Entry>
+  <Entry File="chrin_1a\7.wav" ID="7">“Reno!    Want him taken out?”</Entry>
+  <Entry File="chrin_1a\8.wav" ID="8">Reno “I haven't decided yet.”</Entry>
+  <Entry File="chrin_1a\9.wav" ID="9">Aeris “Cloud,don't! Stop!”</Entry>
+  <Entry File="chrin_1a\10.wav" ID="10">Aeris “Don't fight here!    You'll ruin the flowers!”</Entry>
+  <Entry File="chrin_1a\11.wav" ID="11">Aeris “Cloud! Over here!”</Entry>
+  <Entry File="chrin_1a\12.wav" ID="12">Aeris “The exit is back there.”</Entry>
+  <Entry File="chrin_1a\13.wav" ID="13">Reno “Did you see    that guy's eyes?”</Entry>
+  <Entry File="chrin_1a\14.wav" ID="14">Reno “They were…Mako eyes.”</Entry>
+  <Entry File="chrin_1a\15.wav" ID="15">Reno “Hmm.    All right,c'mon,get to work.”</Entry>
+  <Entry File="chrin_1a\17.wav" ID="17">“Um,we're,um     taking care of the um,    flowers for the um,lady here.”</Entry>
+  <Entry File="chrin_1a\18.wav" ID="18">“…is that OK?” I don't mind No it's not!</Entry>
+  <Entry File="chrin_1a\19.wav" ID="19">Cloud “Take good care of them.”</Entry>
+  <Entry File="chrin_1a\20.wav" ID="20">Cloud “That's too much to ask of kids.”</Entry>
+  <Entry File="chrin_1a\21.wav" ID="21">“Too much to ask?  What?    I don't get it.”</Entry>
+  <Entry File="chrin_1a\22.wav" ID="22">Aeris “Cloud,what are you saying!?”</Entry>
+  <Entry File="chrin_1a\23.wav" ID="23">Aeris “Will you take good care of my flowers,for me?”</Entry>
+  <Entry File="chrin_1a\24.wav" ID="24">“Yeah!”</Entry>
+  <Entry File="chrin_1a\25.wav" ID="25">“Sure!”</Entry>
+  <Entry File="chrin_1a\26.wav" ID="26">“They're purrty!”</Entry>
+  <Entry File="chrin_1a\27.wav" ID="27">“I'm gonna water them later…”</Entry>
+  <Entry File="chrin_1a\28.wav" ID="28">“Hey!    Where's the flower lady?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="chrin_1a\2.wav" ID="2">…I know you.</Entry>
+	<Entry File="chrin_1a\16.wav" ID="16">Temporary stopper October 7”</Entry>
+	<Entry File="chrin_1a\29.wav" ID="29">church in the slums</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="snmin2\1a.wav" ID="1" Part="a">“The master is an experienced  climber,you know.”</Entry>
+  <Entry File="snmin2\1b.wav" ID="1" Part="b">“I've heard that he knows every  corner of that Great Glacier!”</Entry>
+  <Entry File="snmin2\2.wav" ID="2">“Grandma,  don't sleep so close to the fire!”</Entry>
+  <Entry File="snmin2\3.wav" ID="3">“Grandma's been sick for a while  and doesn't have much energy…”</Entry>
+  <Entry File="snmin2\4.wav" ID="4">“I just get SO comfortable.”</Entry>
+  <Entry File="snmin2\5a.wav" ID="5" Part="a">“My husband left 20 years ago  and still hasn't come back.”</Entry>
+  <Entry File="snmin2\5b.wav" ID="5" Part="b">“He should at least be at the foot  of Gaea's Cliff.  It's marked with a check on the map…”</Entry>
+  <Entry File="snmin2\6a.wav" ID="6" Part="a">“…cough…cough…  I've been living in this town for 60 years.  And I STILL caught a cold…”</Entry>
+  <Entry File="snmin2\6b.wav" ID="6" Part="b">“I heard there's a doctor  on a Southern island somewhere.  I sure wish he'd come here…cough…cough…”</Entry>
+  <Entry File="snmin2\7a.wav" ID="7" Part="a">“It's nearly impossible to reach  the Northern limits without a map.”</Entry>
+  <Entry File="snmin2\7b.wav" ID="7" Part="b">“If you're thinkin' 'bout going  to the Northern limits,  you'd better take that map on the wall.”</Entry>
+  <Entry File="snmin2\8.wav" ID="8">“What nerve!  You already tore down the map.”</Entry>
+  <Entry File="snmin2\9.wav" ID="9">“I'm thinkin' 'bout  taking that hill on my skis.”</Entry>
+  <Entry File="snmin2\10a.wav" ID="10" Part="a">“It's the first time that the temperature  has dipped this low,this fast…”</Entry>
+  <Entry File="snmin2\10b.wav" ID="10" Part="b">“There's also that mysterious light  at the Northern limits,too.  Does this mean  it's the end of the world?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="snmin2\0.wav" ID="0">Icicle Inn</Entry>
+	<Entry File="snmin2\11.wav" ID="11">Received Key Item "Glacier Map"!</Entry>
+	<Entry File="snmin2\12.wav" ID="12">Look at the Map Take the Map</Entry>
+	<Entry File="snmin2\13.wav" ID="13">Received "Hero Drink"!</Entry>
+	<Entry File="snmin2\14.wav" ID="14">Received "Vaccine"!</Entry>
+-->
+</VoiceList>

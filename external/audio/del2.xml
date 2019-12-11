@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="del2\1.wav" ID="1">“Say,aren't you bored?” Not that much Yeah,we fight a lot</Entry>
+  <Entry File="del2\2.wav" ID="2">“Isn't that good?  You're just expecting too much.”</Entry>
+  <Entry File="del2\3a.wav" ID="3" Part="a">“Oh,really?  I'm a little bored.”</Entry>
+  <Entry File="del2\3b.wav" ID="3" Part="b">“Come on,back to work now!”</Entry>
+  <Entry File="del2\4a.wav" ID="4" Part="a">“Here you are!  The Costa del Sol tourist information guide.”</Entry>
+  <Entry File="del2\4b.wav" ID="4" Part="b">“What do you want to know?” Where's the inn? Where're the stores? Show me around town</Entry>
+  <Entry File="del2\5.wav" ID="5">“Let's see.  I recommend a resort located  on the outskirts of the city.”</Entry>
+  <Entry File="del2\6.wav" ID="6">“If you're looking for souvenirs,  we recommend Butch's.”</Entry>
+  <Entry File="del2\7a.wav" ID="7" Part="a">“Wait a minute.  I'm going to look at my guidebook.”</Entry>
+  <Entry File="del2\7b.wav" ID="7" Part="b">“It says,  Costa del Sol is the gateway to the West,  and is a prominent world renown resort,  which has been around for ages.”</Entry>
+  <Entry File="del2\7c.wav" ID="7" Part="c">“Come on! I don't care about that!”</Entry>
+  <Entry File="del2\8a.wav" ID="8" Part="a">“If you want a good time,  go to the beach!  There are lots of beautiful women.”</Entry>
+  <Entry File="del2\8b.wav" ID="8" Part="b">“You wouldn't happen to be…rich?” Oh yeah… Well,not so</Entry>
+  <Entry File="del2\9a.wav" ID="9" Part="a">“You're kidding!  You can't tell just by looking.”</Entry>
+  <Entry File="del2\9b.wav" ID="9" Part="b">“But I'll tell you just in case.”</Entry>
+  <Entry File="del2\9c.wav" ID="9" Part="c">“After relaxing at Costa del Sol,  stop by the Gold Saucer.  It's a rich and exciting place to play!”</Entry>
+  <Entry File="del2\10a.wav" ID="10" Part="a">“I thought so.”</Entry>
+  <Entry File="del2\10b.wav" ID="10" Part="b">“Are you interested?  This is the road to Gold Saucer.”</Entry>
+  <Entry File="del2\11a.wav" ID="11" Part="a">“Head south to the Gold Saucer,and you'll  find casinos and an amusement park.”</Entry>
+  <Entry File="del2\11b.wav" ID="11" Part="b">“But if you're planning to walk,  you'll have to cross mountains and valleys.  I wouldn't recommend it.”</Entry>
+  <Entry File="del2\12.wav" ID="12">“But if you're on a vacation,  you should go there at least once.”</Entry>
+  <Entry File="del2\13a.wav" ID="13" Part="a">“Yo! Wassup!  We jus' hangin' out!!”</Entry>
+  <Entry File="del2\13b.wav" ID="13" Part="b">“Oh,the sun's so bright!  Looks like another wonderful day!”</Entry>
+  <Entry File="del2\14.wav" ID="14">“1,2,3,  here we go!”</Entry>
+  <Entry File="del2\15a.wav" ID="15" Part="a">“I heard.  That big dog talks like a human.”</Entry>
+  <Entry File="del2\15b.wav" ID="15" Part="b">“That's cool  …but weird.”</Entry>
+  <Entry File="del2\16a.wav" ID="16" Part="a">“It's the ocean.  A creepy man was signaling for us to come.”</Entry>
+  <Entry File="del2\16b.wav" ID="16" Part="b">“I was scared to come here!”</Entry>
+  <Entry File="del2\17a.wav" ID="17" Part="a">Red XIII “Hm,that's interesting.”</Entry>
+  <Entry File="del2\17b.wav" ID="17" Part="b">“It's not as if I'm doing this because I  want to.”</Entry>
+  <Entry File="del2\17c.wav" ID="17" Part="c">“You see,this tail of mine,moves quite   independently of my will.”</Entry>
+  <Entry File="del2\18.wav" ID="18">Red XIII “Grrr…”</Entry>
+  <Entry File="del2\19.wav" ID="19">“Shall we play our hand around here?”</Entry>
+  <Entry File="del2\20.wav" ID="20">“Not yet. Remember,no compromises.”</Entry>
+  <Entry File="del2\21.wav" ID="21">“You're right.  After all,this trip was expensive.”</Entry>
+  <Entry File="del2\22.wav" ID="22">“But only your average Joes  are trying to pick us up.”</Entry>
+  <Entry File="del2\23.wav" ID="23">“Well,that's because  we're just too beautiful  and hard to approach.”</Entry>
+  <Entry File="del2\24.wav" ID="24">“I guess so.   Well,I envy the plain Janes.”</Entry>
+  <Entry File="del2\25.wav" ID="25">“Why don't we compromise?  We'll make do with what we have.”</Entry>
+  <Entry File="del2\26.wav" ID="26">“How about some 'Soft'  as a memento of this wonderful trip?  Made especially in Costa del Sol!”</Entry>
+  <Entry File="del2\27.wav" ID="27">Butch “Yeah,I'd like to find a gorgeous chick  and have a great time.”</Entry>
+  <Entry File="del2\28.wav" ID="28">Butch “Well,we're lucky to have that cutie  working for us part-time.”</Entry>
+  <Entry File="del2\29a.wav" ID="29" Part="a">Butch “You got me there…  We just hired her part-time.”</Entry>
+  <Entry File="del2\29b.wav" ID="29" Part="b">“She ran off with our money and Materia.”</Entry>
+  <Entry File="del2\29c.wav" ID="29" Part="c">“I guess any situation that seems too good  to be true,usually is.”</Entry>
+  <Entry File="del2\29d.wav" ID="29" Part="d">“Well,please feel free to browse around.   Just don't mind looking at leftovers.”</Entry>
+  <Entry File="del2\30a.wav" ID="30" Part="a">Yuffie “Ah,Cloud!  Let me make a buck why don't you?”</Entry>
+  <Entry File="del2\30b.wav" ID="30" Part="b">“I'm sellin' Materia.  Why don't you buy some?”</Entry>
+  <Entry File="del2\31.wav" ID="31">Yuffie “Orders are taken at the counter.”</Entry>
+  <Entry File="del2\32.wav" ID="32">“It hurts when you kick me  with your bare feet!”</Entry>
+  <Entry File="del2\33.wav" ID="33">“Why's that!?”</Entry>
+  <Entry File="del2\34.wav" ID="34">“Not yet!!”</Entry>
+  <Entry File="del2\35.wav" ID="35">“Eaghhh!”</Entry>
+  <Entry File="del2\36.wav" ID="36">“It's your fault!”</Entry>
+  <Entry File="del2\37.wav" ID="37">“What's wrong with you!?”</Entry>
+  <Entry File="del2\38.wav" ID="38">“You wanna go!?”</Entry>
+  <Entry File="del2\39.wav" ID="39">“Whew!!!”</Entry>
+  <Entry File="del2\40.wav" ID="40">“Grrrrr…”</Entry>
+  <Entry File="del2\41.wav" ID="41">“A man…”</Entry>
+  <Entry File="del2\42.wav" ID="42">“A good-looking man…”</Entry>
+  <Entry File="del2\43.wav" ID="43">“Where?”</Entry>
+  <Entry File="del2\44.wav" ID="44">“Ho! Ho! Ho…”</Entry>
+  <Entry File="del2\45.wav" ID="45">“Yipes!!”</Entry>
+  <Entry File="del2\46.wav" ID="46">“Grrrr…”</Entry>
+  <Entry File="del2\47.wav" ID="47">“…pant…wheeze…”</Entry>
+  <Entry File="del2\48.wav" ID="48">“I don't feel like sightseeing around town.  What I really want to do is have fun…  …too bad Gold Saucer is temporarily closed.”</Entry>
+  <Entry File="del2\49.wav" ID="49">Butch “Good or bad everything's gotta go!  It's the end of the world sale!!”</Entry>
+  <Entry File="del2\50.wav" ID="50">“Wanna buy a souvenir to remember  participating in the Meteor tour?”</Entry>
+  <Entry File="del2\51.wav" ID="51">“Oh wow!!  Man,that's huge!!”</Entry>
+  <Entry File="del2\52.wav" ID="52">“The stars!!  They're in flames!!”</Entry>
+  <Entry File="del2\53a.wav" ID="53" Part="a">“They're burning.  Someday they'll burn out.”</Entry>
+  <Entry File="del2\53b.wav" ID="53" Part="b">“The stars are just like our youth.”</Entry>
+  <Entry File="del2\54.wav" ID="54">“Ho! Ho! Ho!  It's the end of the world.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="del2\0.wav" ID="0">Costa del Sol</Entry>
+-->
+</VoiceList>

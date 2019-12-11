@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="uttmpin4\1a.wav" ID="1" Part="a">Yuffie “Let go! I SAID let GO!”</Entry>
+  <Entry File="uttmpin4\1b.wav" ID="1" Part="b">“Hey! Who do you think I…  OW! What're you doin'? Jerk!”</Entry>
+  <Entry File="uttmpin4\2.wav" ID="2">Cloud “You!”</Entry>
+  <Entry File="uttmpin4\3.wav" ID="3">Tifa “Oh! You're…”</Entry>
+  <Entry File="uttmpin4\4.wav" ID="4">Cid “Ww,who are you!?”</Entry>
+  <Entry File="uttmpin4\5.wav" ID="5">“…ho…  …ho…”</Entry>
+  <Entry File="uttmpin4\6.wav" ID="6">“Hohi,hohi!  Hohihi!”</Entry>
+  <Entry File="uttmpin4\7.wav" ID="7">Cloud “Corneo!?”</Entry>
+  <Entry File="uttmpin4\8.wav" ID="8">Tifa “Don Corneo!?”</Entry>
+  <Entry File="uttmpin4\9.wav" ID="9">Cid “The hell are you doing!”</Entry>
+  <Entry File="uttmpin4\10a.wav" ID="10" Part="a">Corneo “Hohi!”</Entry>
+  <Entry File="uttmpin4\10b.wav" ID="10" Part="b">“I've finally got a new  chicky!”</Entry>
+  <Entry File="uttmpin4\10c.wav" ID="10" Part="c">“Two for one,in fact!  Heh,heh!”</Entry>
+  <Entry File="uttmpin4\11.wav" ID="11">Cloud “Two!?”</Entry>
+  <Entry File="uttmpin4\12.wav" ID="12">Tifa “Two!?”</Entry>
+  <Entry File="uttmpin4\13.wav" ID="13">Cid “Two!?”</Entry>
+  <Entry File="uttmpin4\14.wav" ID="14">Elena “H…hey! Let go of me!  You're gonna regret this!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="uttmpin4\0.wav" ID="0">Hidden Room</Entry>
+	<Entry File="uttmpin4\15.wav" ID="15">Received "Swift Bolt"!</Entry>
+	<Entry File="uttmpin4\16.wav" ID="16">Received "Elixir"!</Entry>
+-->
+</VoiceList>

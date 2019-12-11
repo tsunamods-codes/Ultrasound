@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="chrin_2\4.wav" ID="4">Reno “There they are,over there!”</Entry>
+  <Entry File="chrin_2\5.wav" ID="5">Aeris “Cloud…that one!”</Entry>
+  <Entry File="chrin_2\6.wav" ID="6">Cloud “I know.  Looks like they aren't going to let us go.”</Entry>
+  <Entry File="chrin_2\7.wav" ID="7">Aeris “What should we do?”</Entry>
+  <Entry File="chrin_2\8.wav" ID="8">Cloud “Well we can't let them catch us,can we?  There's only one thing left to do.”</Entry>
+  <Entry File="chrin_2\9.wav" ID="9">Cloud “Aeris!  This way!”</Entry>
+  <Entry File="chrin_2\10.wav" ID="10">Cloud “All right.  I'll hold them off.”</Entry>
+  <Entry File="chrin_2\11.wav" ID="11">Aeris “Right.  Make sure they don't get through!”</Entry>
+  <Entry File="chrin_2\12.wav" ID="12">Reno “The Ancient is getting away!  Attack! Attack! &gt; Attack!”</Entry>
+  <Entry File="chrin_2\13.wav" ID="13">Reno “Think we killed 'em?  They never should've fought us!”</Entry>
+  <Entry File="chrin_2\14.wav" ID="14">Aeris “Eaygh!!”</Entry>
+  <Entry File="chrin_2\15.wav" ID="15">Cloud “Aeris!”</Entry>
+  <Entry File="chrin_2\16.wav" ID="16">Aeris “Cloud,help!”</Entry>
+  <Entry File="chrin_2\17.wav" ID="17">Cloud “Aeris!” Hold on a minute! Fight 'em! RUN!</Entry>
+  <Entry File="chrin_2\18.wav" ID="18">Aeris “Oh…all right.”</Entry>
+  <Entry File="chrin_2\19.wav" ID="19">“Guuagh!”</Entry>
+  <Entry File="chrin_2\20.wav" ID="20">“Urkkk!”</Entry>
+  <Entry File="chrin_2\21.wav" ID="21">“Nwahh!”</Entry>
+  <Entry File="chrin_2\22.wav" ID="22">Aeris “Thanks,Cloud.”</Entry>
+  <Entry File="chrin_2\23.wav" ID="23">Aeris “Oh,Cloud  what are you doing!?”</Entry>
+  <Entry File="chrin_2\24.wav" ID="24">“The Ancient!  We got her!”</Entry>
+  <Entry File="chrin_2\25.wav" ID="25">Aeris “Whew,that surprised me.”</Entry>
+  <Entry File="chrin_2\26.wav" ID="26">Cloud “Aeris,this way.”</Entry>
+  <Entry File="chrin_2\27.wav" ID="27">Aeris “Cloud,hurry.”</Entry>
+  <Entry File="chrin_2\28.wav" ID="28">Cloud “Damn!”</Entry>
+  <Entry File="chrin_2\29.wav" ID="29">Cloud “What's that?”</Entry>
+  <Entry File="chrin_2\30.wav" ID="30">Aeris “We'll get out through  the hole in the roof.”</Entry>
+  <Entry File="chrin_2\31.wav" ID="31">Aeris “Jump off that beam,  and we should be able to make it  through to the roof.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="chrin_2\0.wav" ID="0">Inside the Church</Entry>
+	<Entry File="chrin_2\1.wav" ID="1">Church Roof</Entry>
+	<Entry File="chrin_2\2.wav" ID="2">Here's a barrel. If I can just push it over…</Entry>
+	<Entry File="chrin_2\3a.wav" ID="3" Part="a">Here's a barrel. If I can just push it over…</Entry>
+	<Entry File="chrin_2\3b.wav" ID="3" Part="b">Push the barrel? Yes No</Entry>
+-->
+</VoiceList>

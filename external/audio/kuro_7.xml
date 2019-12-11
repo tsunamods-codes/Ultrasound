@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="kuro_7\1a.wav" ID="1" Part="a">Aeris “Hey!  It's locked.”</Entry>
+  <Entry File="kuro_7\1b.wav" ID="1" Part="b">“No good.  We have to catch it!”</Entry>
+  <Entry File="kuro_7\2.wav" ID="2">Aeris “You must be tired.” Yeah I want to go home</Entry>
+  <Entry File="kuro_7\3.wav" ID="3">Aeris “Just hang in there.  Someday we'll look back on these  hard times and laugh.”</Entry>
+  <Entry File="kuro_7\4.wav" ID="4">Aeris “Yeah.  But it'll all be over soon!”</Entry>
+  <Entry File="kuro_7\5.wav" ID="5">“Nyum,nyum…”</Entry>
+  <Entry File="kuro_7\6.wav" ID="6">“Nyum,nyum…” Rest Save Forget it</Entry>
+  <Entry File="kuro_7\10a.wav" ID="10" Part="a">“The Guard that escaped  with the key to the door  moves on a set course.”</Entry>
+  <Entry File="kuro_7\10b.wav" ID="10" Part="b">“Memorize the doors he enters and exits   to figure out the pattern  and catch him at an exit.”</Entry>
+  <Entry File="kuro_7\10c.wav" ID="10" Part="c">“Oh yeah,oh yeah…  you can jump down to the ramp  below and to the left of the screen.”</Entry>
+  <Entry File="kuro_7\11.wav" ID="11">Cloud “It probably won't hurt  if I jump from here…" Jump Don't do it</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="kuro_7\0.wav" ID="0">Temple of the Ancients</Entry>
+	<Entry File="kuro_7\7.wav" ID="7">HP/MP Restored!</Entry>
+	<Entry File="kuro_7\8.wav" ID="8">Received "Work Glove"!</Entry>
+	<Entry File="kuro_7\9.wav" ID="9">Door Unlocked!!</Entry>
+	<Entry File="kuro_7\12.wav" ID="12">Jump to the lower level  with [OK]! </Entry>
+-->
+</VoiceList>

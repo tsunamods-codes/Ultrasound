@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="kuro_9\0.wav" ID="0">Sephiroth “Soon…  we will become one.”</Entry>
+  <Entry File="kuro_9\1.wav" ID="1">Aeris “How do you intend  to become one with the Planet?”</Entry>
+  <Entry File="kuro_9\2a.wav" ID="2" Part="a">Sephiroth “It's simple.”</Entry>
+  <Entry File="kuro_9\2b.wav" ID="2" Part="b">“Once the Planet is hurt,  it gathers Spirit Energy to heal the injury.”</Entry>
+  <Entry File="kuro_9\3.wav" ID="3">Sephiroth “The amount of energy gathered   depends on the size of the injury.”</Entry>
+  <Entry File="kuro_9\4a.wav" ID="4" Part="a">Sephiroth “…What would happen  if there was an injury that threatened  the very life of the Planet?”</Entry>
+  <Entry File="kuro_9\4b.wav" ID="4" Part="b">“Think how much energy would be gathered!”</Entry>
+  <Entry File="kuro_9\5a.wav" ID="5" Part="a">Sephiroth “Ha ha ha.  And at the center of that injury,  will be me.”</Entry>
+  <Entry File="kuro_9\5b.wav" ID="5" Part="b">“All that boundless energy will be mine.”</Entry>
+  <Entry File="kuro_9\6a.wav" ID="6" Part="a">Sephiroth “By merging with all the energy of the Planet,  I will become a new life form,  a new existence.”</Entry>
+  <Entry File="kuro_9\6b.wav" ID="6" Part="b">“Melding with the Planet…  I will cease to exist as I am now…”</Entry>
+  <Entry File="kuro_9\6c.wav" ID="6" Part="c">“Only to be reborn as a 'God'  to rule over every soul.”</Entry>
+  <Entry File="kuro_9\7a.wav" ID="7" Part="a">Aeris “An injury powerful enough  to destroy the Planet?”</Entry>
+  <Entry File="kuro_9\7b.wav" ID="7" Part="b">“Injure…the Planet?”</Entry>
+  <Entry File="kuro_9\8.wav" ID="8">Sephiroth “Behold that mural.  The Ultimate Destructive Magic…Meteor.”</Entry>
+  <Entry File="kuro_9\9.wav" ID="9">Cloud “That'll never happen!”</Entry>
+  <Entry File="kuro_9\10.wav" ID="10">“Wake up!!”</Entry>
+  <Entry File="kuro_9\11.wav" ID="11">Cloud “Where are you!? Sephiroth!!”</Entry>
+  <Entry File="kuro_9\12.wav" ID="12">Aeris “Wait,Cloud!”</Entry>
+  <Entry File="kuro_9\13.wav" ID="13">Cloud “What is this?”</Entry>
+  <Entry File="kuro_9\14.wav" ID="14">Aeris “…There's something written on it.”</Entry>
+  <Entry File="kuro_9\15.wav" ID="15">Aeris “B.l.a.c.k…M.a.t.e.r.i.a.”</Entry>
+  <Entry File="kuro_9\16.wav" ID="16">Cloud “Black Materia!!”</Entry>
+  <Entry File="kuro_9\17.wav" ID="17">Aeris “Hey!”</Entry>
+  <Entry File="kuro_9\18.wav" ID="18">Aeris “…Black Materia.”</Entry>
+  <Entry File="kuro_9\19.wav" ID="19">Aeris “What should we do,Cloud?” Shake it Take it Leave it</Entry>
+  <Entry File="kuro_9\20.wav" ID="20">Aeris “Wait a minute.  I'll ask!”</Entry>
+  <Entry File="kuro_9\21.wav" ID="21">Aeris “I don't understand…”</Entry>
+  <Entry File="kuro_9\22.wav" ID="22">Aeris “What?”</Entry>
+  <Entry File="kuro_9\23.wav" ID="23">Aeris “Really!?”</Entry>
+  <Entry File="kuro_9\24.wav" ID="24">Aeris “They said that the Temple  itself is the Black Materia.”</Entry>
+  <Entry File="kuro_9\25a.wav" ID="25" Part="a">Aeris “If we could only move this,  we could take the Black Materia.”</Entry>
+  <Entry File="kuro_9\25b.wav" ID="25" Part="b">“But,the Temple would collapse.”</Entry>
+  <Entry File="kuro_9\26a.wav" ID="26" Part="a">Barret “Then just leave it.”</Entry>
+  <Entry File="kuro_9\26b.wav" ID="26" Part="b">“If we can't take it,  then neither can Sephiroth,right?”</Entry>
+  <Entry File="kuro_9\27.wav" ID="27">Tifa “Let's just leave it,OK?”</Entry>
+  <Entry File="kuro_9\28a.wav" ID="28" Part="a">Red XIII “That'll be safer.  If no one else can take it…”</Entry>
+  <Entry File="kuro_9\28b.wav" ID="28" Part="b">“Then Sephiroth can't either,right?”</Entry>
+  <Entry File="kuro_9\29.wav" ID="29">Cait Sith “The Ancients were a mean bunch.  This way,no one'll be able to get it.”</Entry>
+  <Entry File="kuro_9\30.wav" ID="30">Vincent “I guess that means it's safe here.”</Entry>
+  <Entry File="kuro_9\31.wav" ID="31">Yuffie “Let's just leave it and  get the hell out of here!”</Entry>
+  <Entry File="kuro_9\32.wav" ID="32">Cid “Guess stuff this dangerous is best left alone?”</Entry>
+  <Entry File="kuro_9\33.wav" ID="33">Cloud “No.  We've got to think of a way to get it out.”</Entry>
+  <Entry File="kuro_9\34a.wav" ID="34" Part="a">Cloud “Because Sephiroth has  lots of different flunkies.”</Entry>
+  <Entry File="kuro_9\34b.wav" ID="34" Part="b">“It's nothing to him to throw their lives away   to get the Black Materia.”</Entry>
+  <Entry File="kuro_9\35.wav" ID="35">Cloud “This place isn't safe.”</Entry>
+  <Entry File="kuro_9\36.wav" ID="36">Aeris “So what are we going to do?”</Entry>
+  <Entry File="kuro_9\37.wav" ID="37">Cait Sith “I heard your situation!”</Entry>
+  <Entry File="kuro_9\38a.wav" ID="38" Part="a">“Hi,Cloud.  This is Cait Sith.”</Entry>
+  <Entry File="kuro_9\38b.wav" ID="38" Part="b">“I overheard the whole story!”</Entry>
+  <Entry File="kuro_9\39.wav" ID="39">Cait Sith “Don't forget about me.”</Entry>
+  <Entry File="kuro_9\40a.wav" ID="40" Part="a">Cait Sith “Everything you said makes perfect sense!”</Entry>
+  <Entry File="kuro_9\40b.wav" ID="40" Part="b">“You can use my stuffed body   for the future of the Planet.”</Entry>
+  <Entry File="kuro_9\41a.wav" ID="41" Part="a">Cloud “We can't let Sephiroth  get his hands on the Black Materia.”</Entry>
+  <Entry File="kuro_9\41b.wav" ID="41" Part="b">“And we can't let the Shinra  get theirs on it either.”</Entry>
+  <Entry File="kuro_9\42.wav" ID="42">Cait Sith “So that means you don't trust me?”</Entry>
+  <Entry File="kuro_9\43a.wav" ID="43" Part="a">Cait Sith “But Cloud.  There's really nothing else you can do.”</Entry>
+  <Entry File="kuro_9\43b.wav" ID="43" Part="b">“Everyone,please trust me.” I guess we have no choice No way</Entry>
+  <Entry File="kuro_9\44.wav" ID="44">Cait Sith “All righty then!   Leave it all to me!”</Entry>
+  <Entry File="kuro_9\45.wav" ID="45">Cait Sith “You sure are stubborn,Cloud.”</Entry>
+  <Entry File="kuro_9\46a.wav" ID="46" Part="a">Cait Sith “Everyone,hurry up and get outside!”</Entry>
+  <Entry File="kuro_9\46b.wav" ID="46" Part="b">“I'll go with you to a safe place.”</Entry>
+  <Entry File="kuro_9\47a.wav" ID="47" Part="a">Cait Sith “Please hurry,you've got to get out of here!”</Entry>
+  <Entry File="kuro_9\47b.wav" ID="47" Part="b">“I'll be waiting at the exit!”</Entry>
+  <Entry File="kuro_9\48.wav" ID="48">Cait Sith “Please believe me,Cloud.” Hmmm,I guess I have to How can I?</Entry>
+  <Entry File="kuro_9\49.wav" ID="49">Cait Sith “This must be it!”</Entry>
+  <Entry File="kuro_9\50.wav" ID="50">Cait Sith “The Ancients sure did a  great job making this.”</Entry>
+  <Entry File="kuro_9\51.wav" ID="51">Cait Sith “I can protect the Planet too!  I'm kinda embarrassed…”</Entry>
+  <Entry File="kuro_9\52.wav" ID="52">Cait Sith “There's plenty of stuffed toys  like my body around,  but there's only one me!”</Entry>
+  <Entry File="kuro_9\53.wav" ID="53">Cait Sith “Don't forget me even if another  Cait Sith comes along.”</Entry>
+  <Entry File="kuro_9\54.wav" ID="54">Cait Sith “Good bye,then!  I guess I'm off to save the Planet…”</Entry>
+  <Entry File="kuro_9\55.wav" ID="55">Cloud “What do they mean?”</Entry>
+  <Entry File="kuro_9\56.wav" ID="56">Aeris “So,this whole building   is the Black Materia?”</Entry>
+  <Entry File="kuro_9\57a.wav" ID="57" Part="a">Cloud “This huge Temple?  This is the Black Materia!?”</Entry>
+  <Entry File="kuro_9\57b.wav" ID="57" Part="b">“Then no one could take it.”</Entry>
+  <Entry File="kuro_9\58a.wav" ID="58" Part="a">Aeris “Hmm,it's pretty hard.  You see this is a model of the Temple.”</Entry>
+  <Entry File="kuro_9\58b.wav" ID="58" Part="b">“And inside it is a device,  which gets smaller  each time you solve a puzzle.”</Entry>
+  <Entry File="kuro_9\58c.wav" ID="58" Part="c">“As the model becomes smaller,  you become smaller too.”</Entry>
+  <Entry File="kuro_9\58d.wav" ID="58" Part="d">“Until it's small enough to fit  in the palm of your hand.”</Entry>
+  <Entry File="kuro_9\59.wav" ID="59">Cloud “So,if we solve the puzzles,  the Black Materia will get smaller and smaller   and we can take it out?”</Entry>
+  <Entry File="kuro_9\60a.wav" ID="60" Part="a">Aeris “Yes,but there's one thing…”</Entry>
+  <Entry File="kuro_9\60b.wav" ID="60" Part="b">“You can only answer the puzzles  inside the Temple.”</Entry>
+  <Entry File="kuro_9\60c.wav" ID="60" Part="c">“So,anyone who solves the puzzle  will be crushed by the Temple.”</Entry>
+  <Entry File="kuro_9\61.wav" ID="61">Cloud “I see…  the Ancients didn't want   dangerous magic  to be taken out of the Temple so easily…”</Entry>
+</VoiceList>

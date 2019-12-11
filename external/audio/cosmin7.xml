@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="cosmin7\1.wav" ID="1">“Hello.  Looking for anything in particular?”</Entry>
+  <Entry File="cosmin7\2.wav" ID="2">“Hi.  Of course,our store's open.”</Entry>
+  <Entry File="cosmin7\3a.wav" ID="3" Part="a">“No need to fear. I have the  'Study of Planet Life' right here.”</Entry>
+  <Entry File="cosmin7\3b.wav" ID="3" Part="b">“No,maybe I AM a bit afraid. But,whenever  I'm reading 'Study of Planet Life,'   I can forget all my fears.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="cosmin7\0.wav" ID="0">Item Store</Entry>
+	<Entry File="cosmin7\4.wav" ID="4">Received "Elixir"!</Entry>
+	<Entry File="cosmin7\5.wav" ID="5">Received "Telpostone"!</Entry>
+	<Entry File="cosmin7\6.wav" ID="6">Received "Magic Source"!</Entry>
+	<Entry File="cosmin7\7.wav" ID="7">Received "Full Cure" Materia!</Entry>
+	<Entry File="cosmin7\8.wav" ID="8">You can not take on any more Materia. Please discard some Materia.</Entry>
+-->
+</VoiceList>

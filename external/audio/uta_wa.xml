@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="uta_wa\1a.wav" ID="1" Part="a">“Hey yo! Welcome!”</Entry>
+  <Entry File="uta_wa\1b.wav" ID="1" Part="b">“We got some of the best blades  right out of the furnace!  So strike while the iron's hot!”</Entry>
+  <Entry File="uta_wa\2a.wav" ID="2" Part="a">“Hey yo! Welcome!”</Entry>
+  <Entry File="uta_wa\2b.wav" ID="2" Part="b">“You aren't tired of my rambling?”</Entry>
+  <Entry File="uta_wa\2c.wav" ID="2" Part="c">“Great!  Then come on in and start buying!”</Entry>
+  <Entry File="uta_wa\3a.wav" ID="3" Part="a">“Sorry,but we're entirely sold out now.”</Entry>
+  <Entry File="uta_wa\3b.wav" ID="3" Part="b">“What's this here?  Ah,no…that's uh…”</Entry>
+  <Entry File="uta_wa\3c.wav" ID="3" Part="c">“…A sample! Yeah,that's it…a sample.  Sorry,but why don't you all come back later?”</Entry>
+  <Entry File="uta_wa\4.wav" ID="4">“Listen,I'm sorry about last time.  Yuffie told me  not to sell anything to you.”</Entry>
+  <Entry File="uta_wa\5.wav" ID="5">“This is a weapon store of hard cores,  by hard cores,and for the hard cores!  Come on and take a look,why doncha!?”</Entry>
+  <Entry File="uta_wa\6.wav" ID="6">“Sorry,listen I…  No,nothing…never mind.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="uta_wa\0.wav" ID="0">Item/Accessory Store</Entry>
+-->
+</VoiceList>

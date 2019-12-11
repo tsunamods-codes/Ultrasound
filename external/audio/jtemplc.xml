@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jtemplc\1.wav" ID="1">Cloud “That's the Black Materia…”</Entry>
+  <Entry File="jtemplc\2.wav" ID="2">Barret “Hey!  I'll keep watch here!”</Entry>
+  <Entry File="jtemplc\3.wav" ID="3">Tifa “I'll wait here.”</Entry>
+  <Entry File="jtemplc\4.wav" ID="4">Red XIII “I'll be sittin' out here.”</Entry>
+  <Entry File="jtemplc\5.wav" ID="5">Yuffie “Heh heh …this looks majorly boring,  so I'll stay here.”</Entry>
+  <Entry File="jtemplc\6a.wav" ID="6" Part="a">Cid “I'm gonna have a smoke out here!”</Entry>
+  <Entry File="jtemplc\6b.wav" ID="6" Part="b">“Ahhh!!  It's great,having a smoke  at a place like this.”</Entry>
+  <Entry File="jtemplc\7.wav" ID="7">Vincent “I'll be looking around here.”</Entry>
+  <Entry File="jtemplc\9.wav" ID="9">Cloud “As long as we have this,  Sephiroth won't be able to use Meteor.”</Entry>
+  <Entry File="jtemplc\10.wav" ID="10">Cloud “Mmm?”</Entry>
+  <Entry File="jtemplc\11.wav" ID="11">Cloud “Can you guys use it?”</Entry>
+  <Entry File="jtemplc\12.wav" ID="12">Aeris “We can't use it right now.  You need great spiritual power to use it.”</Entry>
+  <Entry File="jtemplc\13.wav" ID="13">Cloud “You mean lots of spiritual energy?”</Entry>
+  <Entry File="jtemplc\14a.wav" ID="14" Part="a">Aeris “That's right.”</Entry>
+  <Entry File="jtemplc\14b.wav" ID="14" Part="b">“One person's power alone won't do it.”</Entry>
+  <Entry File="jtemplc\14c.wav" ID="14" Part="c">“Somewhere special.  Where there's plenty of the Planet's energy…”</Entry>
+  <Entry File="jtemplc\15.wav" ID="15">Aeris “Oh yeah!”</Entry>
+  <Entry File="jtemplc\16.wav" ID="16">Aeris “The Promised Land!!”</Entry>
+  <Entry File="jtemplc\17.wav" ID="17">Cloud “The Promised Land!!”</Entry>
+  <Entry File="jtemplc\18.wav" ID="18">Cloud “No,but…”</Entry>
+  <Entry File="jtemplc\19.wav" ID="19">Aeris “Sephiroth is different.  He's not an Ancient.”</Entry>
+  <Entry File="jtemplc\20.wav" ID="20">Cloud “He shouldn't be able  to find the Promised Land.”</Entry>
+  <Entry File="jtemplc\21.wav" ID="21">Sephiroth “…Ah,but I have.”</Entry>
+  <Entry File="jtemplc\22a.wav" ID="22" Part="a">Sephiroth “I'm far superior to the Ancients.”</Entry>
+  <Entry File="jtemplc\22b.wav" ID="22" Part="b">“I became a traveler of the Lifestream and  gained the knowledge  and wisdom of the Ancients.”</Entry>
+  <Entry File="jtemplc\22c.wav" ID="22" Part="c">“I also gained the knowledge and wisdom of those  after the extinction of the Ancients.”</Entry>
+  <Entry File="jtemplc\22d.wav" ID="22" Part="d">“And soon,I will create the future.”</Entry>
+  <Entry File="jtemplc\23.wav" ID="23">Aeris “I won't let you do it!  The future is not just yours!”</Entry>
+  <Entry File="jtemplc\24.wav" ID="24">Sephiroth “Ha,ha,ha…I wonder?”</Entry>
+  <Entry File="jtemplc\25.wav" ID="25">Sephiroth “Wake up!”</Entry>
+  <Entry File="jtemplc\26.wav" ID="26">Cloud “Sh…shut up!”</Entry>
+  <Entry File="jtemplc\27.wav" ID="27">Cloud “The…noise…”</Entry>
+  <Entry File="jtemplc\32.wav" ID="32">Sephiroth “There,Cloud…good boy.”</Entry>
+  <Entry File="jtemplc\33.wav" ID="33">Cloud “Wa…aaaa…aaa…”</Entry>
+  <Entry File="jtemplc\35.wav" ID="35">Sephiroth “…Well done.”</Entry>
+  <Entry File="jtemplc\36.wav" ID="36">Aeris “Cloud,are you all right?”</Entry>
+  <Entry File="jtemplc\37.wav" ID="37">Cloud “…I gave the Black Materia  to Sephiroth…?”</Entry>
+  <Entry File="jtemplc\38.wav" ID="38">Cloud “Wha…what did I do?  tell me,Aeris.”</Entry>
+  <Entry File="jtemplc\39.wav" ID="39">Aeris “Cloud… “Cloud…be strong,OK?”</Entry>
+  <Entry File="jtemplc\40.wav" ID="40">Cloud “Urrrrrrgh…  What have I done!”</Entry>
+  <Entry File="jtemplc\41a.wav" ID="41" Part="a">Aeris “Cloud… “Cloud…  you haven't done anything.”</Entry>
+  <Entry File="jtemplc\41b.wav" ID="41" Part="b">“It's not your fault.”</Entry>
+  <Entry File="jtemplc\42.wav" ID="42">Cloud “I…I'm---!”</Entry>
+  <Entry File="jtemplc\43.wav" ID="43">Tifa “Cloud--!!”</Entry>
+  <Entry File="jtemplc\44.wav" ID="44">Tifa “Cloud,what are you doing!?”</Entry>
+  <Entry File="jtemplc\45.wav" ID="45">Barret “Urrggggggh!!!!  Cloud!!”</Entry>
+  <Entry File="jtemplc\46.wav" ID="46">Barret “HEY! Cloud,you #$#&amp;@!”</Entry>
+  <Entry File="jtemplc\47.wav" ID="47">Red XIII “Cloud!!”</Entry>
+  <Entry File="jtemplc\48.wav" ID="48">Red XIII “Aeris,are you all right!?”</Entry>
+  <Entry File="jtemplc\49.wav" ID="49">Yuffie “What!?  Cloud!”</Entry>
+  <Entry File="jtemplc\50.wav" ID="50">Yuffie “Aeris!  Cloud,what're you doing!?”</Entry>
+  <Entry File="jtemplc\51.wav" ID="51">Vincent “…!!”</Entry>
+  <Entry File="jtemplc\52.wav" ID="52">Vincent “Cloud!”</Entry>
+  <Entry File="jtemplc\53.wav" ID="53">Cid “Hey,EY!!”</Entry>
+  <Entry File="jtemplc\54.wav" ID="54">Cid “Cloud!  What the hell are you doing!?”</Entry>
+  <Entry File="jtemplc\55a.wav" ID="55" Part="a">Cait Sith “Oops!  This looks like a bad time!”</Entry>
+  <Entry File="jtemplc\55b.wav" ID="55" Part="b">“I'm Cait Sith No. 2.  Pleased to meet you all!”</Entry>
+  <Entry File="jtemplc\56a.wav" ID="56" Part="a">Cait Sith “Oops!  This looks like a bad time!”</Entry>
+  <Entry File="jtemplc\56b.wav" ID="56" Part="b">“I'm Cait Sith No. 2.  Pleased to meet you all!”</Entry>
+  <Entry File="jtemplc\57.wav" ID="57">Cait Sith “Cloud!!  What are you doin'!!”</Entry>
+  <Entry File="jtemplc\58a.wav" ID="58" Part="a">ÙCloud “Everything is white…”</Entry>
+  <Entry File="jtemplc\58b.wav" ID="58" Part="b">Ù“What did I do?  I don't remember anything…”</Entry>
+  <Entry File="jtemplc\59.wav" ID="59">Ù“My memory…since when.?  If everything's a dream,don't wake me.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jtemplc\0.wav" ID="0">Temple of the Ancients</Entry>
+	<Entry File="jtemplc\8.wav" ID="8">Got Key Item "Black Materia!"</Entry>
+	<Entry File="jtemplc\28.wav" ID="28">"No!"</Entry>
+	<Entry File="jtemplc\29.wav" ID="29">"Don't be afraid~~!"</Entry>
+	<Entry File="jtemplc\30.wav" ID="30">"Waaaa~!!"</Entry>
+	<Entry File="jtemplc\31.wav" ID="31">"What are you doing!?"</Entry>
+	<Entry File="jtemplc\34.wav" ID="34">Gave "Black Materia" to Sephiroth!</Entry>
+-->
+</VoiceList>

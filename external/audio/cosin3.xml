@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="cosin3\1a.wav" ID="1" Part="a">“Welcome to 'Shildra Inn'.”</Entry>
+  <Entry File="cosin3\1b.wav" ID="1" Part="b">“It'll be 100 gil a night.  Would you like to stay?” Yes No thanks</Entry>
+  <Entry File="cosin3\2a.wav" ID="2" Part="a">“Welcome to 'Shindra Inn'.  It's times like this when a  nice soft bed will do you good.”</Entry>
+  <Entry File="cosin3\2b.wav" ID="2" Part="b">“It's 100 Gil a night.  Would you like to stay? Please No thank you</Entry>
+  <Entry File="cosin3\3a.wav" ID="3" Part="a">“Welcome to 'Shildra Inn'”  As long as there are guests,  our lights will always be on.”</Entry>
+  <Entry File="cosin3\3b.wav" ID="3" Part="b">“It will be 100 Gil a night,  Like a room?” Yeah No,thanks</Entry>
+  <Entry File="cosin3\4a.wav" ID="4" Part="a">“Welcome to 'Shildra Inn'”  It's times like this when a  nice soft bed will do you good.”</Entry>
+  <Entry File="cosin3\4b.wav" ID="4" Part="b">“It will be 100 Gil a night.  Would you like a room?” Yes No,thanks</Entry>
+  <Entry File="cosin3\5a.wav" ID="5" Part="a">“Welcome to 'Shildra Inn'”  As long as there are guests,  our lights will always be on.”</Entry>
+  <Entry File="cosin3\5b.wav" ID="5" Part="b">“It is 100 Gil a night.  Would you like to stay?” Yes No thanks</Entry>
+  <Entry File="cosin3\6.wav" ID="6">“I'm sorry,but you don't seem   to have enough for a room…”</Entry>
+  <Entry File="cosin3\7.wav" ID="7">“Have a great dream of the stars…”</Entry>
+  <Entry File="cosin3\8.wav" ID="8">“Well then,please come again.”</Entry>
+  <Entry File="cosin3\9.wav" ID="9">“Were you able to hear  the stars whispers?”</Entry>
+  <Entry File="cosin3\10a.wav" ID="10" Part="a">“Welcome.  How 'bout our  original cocktail,'Cosmo Candle?'”</Entry>
+  <Entry File="cosin3\10b.wav" ID="10" Part="b">“A drink now and then is good for you.  It'll relax you a bit.  …If you know when to stop.”</Entry>
+  <Entry File="cosin3\11a.wav" ID="11" Part="a">“How about our  original cocktail,'Lifestream'?”</Entry>
+  <Entry File="cosin3\11b.wav" ID="11" Part="b">“You should forget your troubles with a drink.  We humans sure are weak creatures…”</Entry>
+  <Entry File="cosin3\12.wav" ID="12">“That reminds me. I heard that  someone here in Cosmo Canyon  is selling some Healing Materia.”</Entry>
+  <Entry File="cosin3\13a.wav" ID="13" Part="a">Elder Bughe “Mmm…”</Entry>
+  <Entry File="cosin3\13b.wav" ID="13" Part="b">Elder Bughe “What is it?”  The story of the Ancients  Nothing</Entry>
+  <Entry File="cosin3\14.wav" ID="14">Elder Bughe “…Hmm.  That's no fun…  I wanna tell a story.”</Entry>
+  <Entry File="cosin3\15a.wav" ID="15" Part="a">Elder Bughe “You can't talk of the Ancients,  without mentioning Professor Gast.”</Entry>
+  <Entry File="cosin3\15b.wav" ID="15" Part="b">“He used to come here sometimes.”</Entry>
+  <Entry File="cosin3\15c.wav" ID="15" Part="c">“He was a Shinra scholar who spent  his life studying the Ancients.”</Entry>
+  <Entry File="cosin3\15d.wav" ID="15" Part="d">“He was a serious person,you never would  have thought he'd be in Shinra.”</Entry>
+  <Entry File="cosin3\15e.wav" ID="15" Part="e">“Must've been about 30 years ago,  when he found the corpse of an Ancient.  He was elated!”</Entry>
+  <Entry File="cosin3\15f.wav" ID="15" Part="f">“If I recall…he named it 'Jenova' and   was doing a lot of research…”</Entry>
+  <Entry File="cosin3\15g.wav" ID="15" Part="g">“One day,he showed up here,  looking very distressed.”</Entry>
+  <Entry File="cosin3\15h.wav" ID="15" Part="h">“He was mumbling something about Jenova   not being an Ancient and that he'd  done a terrible thing…”</Entry>
+  <Entry File="cosin3\15i.wav" ID="15" Part="i">“He's been missing since then.  I heard that he never  went back to Shinra”</Entry>
+  <Entry File="cosin3\15j.wav" ID="15" Part="j">“So,if you ever see Professor Gast,  I want you to tell him…”</Entry>
+  <Entry File="cosin3\15k.wav" ID="15" Part="k">“That the old man that likes to drink  in Cosmo Canyon,wants to hear  about the Ancients.”</Entry>
+  <Entry File="cosin3\15l.wav" ID="15" Part="l">“Well,there's lots to talk about,”</Entry>
+  <Entry File="cosin3\15m.wav" ID="15" Part="m">“but most things about the Ancients  are all legend and folk tales,  and no one knows the truth.”</Entry>
+  <Entry File="cosin3\16.wav" ID="16">Elder Bughe “Mmm. I'm starting to feel good now.  That bartender's cocktails  always hit the spot.”</Entry>
+  <Entry File="cosin3\17a.wav" ID="17" Part="a">Elder Bughe “Is that so?  You brought Nanaki back here?”</Entry>
+  <Entry File="cosin3\17b.wav" ID="17" Part="b">“Yeah,thanks.”</Entry>
+  <Entry File="cosin3\18a.wav" ID="18" Part="a">Elder Bughe “By the way,your friends are  all in front of the 'Cosmo Candle'”</Entry>
+  <Entry File="cosin3\18b.wav" ID="18" Part="b">“Are you all leaving now?”</Entry>
+  <Entry File="cosin3\19.wav" ID="19">Aeris “Maybe there are some people here that know  about the Promised Land and the Ancients.”</Entry>
+  <Entry File="cosin3\20.wav" ID="20">Tifa “Red XIII… “I wonder what's happened to  Red XIII…?  He's as excited as a little boy.”</Entry>
+  <Entry File="cosin3\21.wav" ID="21">Tifa “Are you going somewhere?”</Entry>
+  <Entry File="cosin3\22.wav" ID="22">Aeris “Hmm?”</Entry>
+  <Entry File="cosin3\23a.wav" ID="23" Part="a">Elder Bughe “Live with the Planet,  die with the Planet.”</Entry>
+  <Entry File="cosin3\23b.wav" ID="23" Part="b">“Maybe this is the way it should be.  Who knows? I'm full of booze…”</Entry>
+  <Entry File="cosin3\23c.wav" ID="23" Part="c">“It's when I think about the children.  I wonder if we can just  save our own children.”</Entry>
+  <Entry File="cosin3\24a.wav" ID="24" Part="a">Elder Bughe “Where is the Promised Land…?  Maybe Bugenhagen knows.”</Entry>
+  <Entry File="cosin3\24b.wav" ID="24" Part="b">“Isn't Nanaki starting to notice?  The reason why Bugenhagen sent him  away from the canyon…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="cosin3\0.wav" ID="0">Pub "Starlet"</Entry>
+	<Entry File="cosin3\25a.wav" ID="25" Part="a">[Turtle's Paradise] No. 5</Entry>
+	<Entry File="cosin3\25b.wav" ID="25" Part="b">Our cocktails are good  but our wine is the best!</Entry>
+	<Entry File="cosin3\25c.wav" ID="25" Part="c">Please stop in the "Turtle's Paradise"!!</Entry>
+-->
+</VoiceList>

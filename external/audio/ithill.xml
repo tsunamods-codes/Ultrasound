@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ithill\1.wav" ID="1">Barret “Yo! You alright!?  Tifa!?”</Entry>
+  <Entry File="ithill\2.wav" ID="2">Tifa “u…unn…?”</Entry>
+  <Entry File="ithill\3a.wav" ID="3" Part="a">Tifa “Barret…  You came back. I…”</Entry>
+  <Entry File="ithill\3b.wav" ID="3" Part="b">“Cloud…  Where is he?”</Entry>
+  <Entry File="ithill\4.wav" ID="4">Barret “Don't worry about him.  He's a tough one.”</Entry>
+  <Entry File="ithill\5.wav" ID="5">Tifa “Barret…I…  When I was in the Lifestream,  I saw the real Cloud.”</Entry>
+  <Entry File="ithill\6.wav" ID="6">Tifa “I mean,I didn't really find him.  Cloud…he found himself…”</Entry>
+  <Entry File="ithill\7.wav" ID="7">Barret “Alright,I know…  I shouldn't have doubted.”</Entry>
+  <Entry File="ithill\8.wav" ID="8">Barret “But I can't win against you.  You're some kinda lady.”</Entry>
+  <Entry File="ithill\9.wav" ID="9">Tifa “People have so many things   pent up inside of themselves…”</Entry>
+  <Entry File="ithill\10a.wav" ID="10" Part="a">Tifa “So many things they  can never forget.”</Entry>
+  <Entry File="ithill\10b.wav" ID="10" Part="b">“Strange…isn't it?”</Entry>
+  <Entry File="ithill\11.wav" ID="11">Barret “Yo,Tifa!  Snap outta it!!”</Entry>
+  <Entry File="ithill\12.wav" ID="12">Barret “Tifa!?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ithill\0.wav" ID="0" />
+-->
+</VoiceList>

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="niv_ti2\2a.wav" ID="2" Part="a">Tifa “Cloud?”</Entry>
+  <Entry File="niv_ti2\2b.wav" ID="2" Part="b">“Did you go into my room?” Yeah No</Entry>
+  <Entry File="niv_ti2\4.wav" ID="4">Tifa “Cloud!!!”   It's true   Just kidding. Don't get mad.</Entry>
+  <Entry File="niv_ti2\5a.wav" ID="5" Part="a">Tifa “…Cloud”</Entry>
+  <Entry File="niv_ti2\5b.wav" ID="5" Part="b">“We're talking about something  really important here.”</Entry>
+  <Entry File="niv_ti2\6.wav" ID="6">Cloud “The letter…”</Entry>
+  <Entry File="niv_ti2\7.wav" ID="7">Tifa “Did you read it?  My letter?”   I'd never do that!   Yeah…</Entry>
+  <Entry File="niv_ti2\8.wav" ID="8">Tifa “Of course!”</Entry>
+  <Entry File="niv_ti2\9.wav" ID="9">Tifa “You remember what it said?” I don't remember I remember clearly</Entry>
+  <Entry File="niv_ti2\10.wav" ID="10">Tifa “Then,let's go on with the story  about Sephiroth.”</Entry>
+  <Entry File="niv_ti2\11.wav" ID="11">Cloud “Dear Tifa…” (Remember) (Stop)</Entry>
+  <Entry File="niv_ti2\12a.wav" ID="12" Part="a">Cloud “I read it…”</Entry>
+  <Entry File="niv_ti2\12b.wav" ID="12" Part="b">“It was a letter addressed to    Tifa from the son of    the guy that runs the General Store…”</Entry>
+  <Entry File="niv_ti2\13a.wav" ID="13" Part="a">“Tifa,how are you?    I just arrived in Midgar eight days ago.”</Entry>
+  <Entry File="niv_ti2\13b.wav" ID="13" Part="b">“Yesterday,all of Nibelheim got  together to welcome me.  The only person that we couldn't  get a hold of was Cloud.”</Entry>
+  <Entry File="niv_ti2\13c.wav" ID="13" Part="c">“But everyone said he wasn't    really that close to us.     So even if we asked,he probably    wouldn't have come anyway.”</Entry>
+  <Entry File="niv_ti2\13d.wav" ID="13" Part="d">“Well,enough about him.”</Entry>
+  <Entry File="niv_ti2\14.wav" ID="14">Tifa “Cloud…  Do you remember all of it?”    No,that's it    Yeah,I remember</Entry>
+  <Entry File="niv_ti2\15.wav" ID="15">Cloud “Because there was some stuff about me…”</Entry>
+  <Entry File="niv_ti2\16a.wav" ID="16" Part="a">“Midgar is really something.    But to tell the truth,I feel    so behind on everything…    so out of it.”</Entry>
+  <Entry File="niv_ti2\16b.wav" ID="16" Part="b">“Even the rooms of people     in the slums are clean.”</Entry>
+  <Entry File="niv_ti2\16c.wav" ID="16" Part="c">“Right now I'm living in the slums,    but I plan to move to a really nice room,    like the ones I've seen in magazines,once    I make some money.”</Entry>
+  <Entry File="niv_ti2\16d.wav" ID="16" Part="d">“…But,to do that,I guess I have to find    a job first.    That's right.    I still haven't found a job yet.”</Entry>
+  <Entry File="niv_ti2\16e.wav" ID="16" Part="e">“I lied to my parents and told them I     found a great job with Shinra,Inc.”</Entry>
+  <Entry File="niv_ti2\16f.wav" ID="16" Part="f">“I wonder if it's too late to go back.    Sometimes I think I should've    taken over my parents' store.”</Entry>
+  <Entry File="niv_ti2\17a.wav" ID="17" Part="a">“I just made it here to Midgar    but all I think about is Nibelheim.”</Entry>
+  <Entry File="niv_ti2\17b.wav" ID="17" Part="b">“Hey,Tifa…    Is that stupid old water tower still working?”</Entry>
+  <Entry File="niv_ti2\17c.wav" ID="17" Part="c">“Is the old man at the Inn doing well?    Are my parents still at the shop everyday?    Have any monsters attacked?”</Entry>
+  <Entry File="niv_ti2\17d.wav" ID="17" Part="d">“And most of all,    how are you,Tifa?    It feels like I haven't seen you for years.”</Entry>
+  <Entry File="niv_ti2\17e.wav" ID="17" Part="e">“We were all talking about you last night.”</Entry>
+  <Entry File="niv_ti2\18a.wav" ID="18" Part="a">“Everyone likes you.    But because everyone idolizes you,    I couldn't very well stab them in the back.”</Entry>
+  <Entry File="niv_ti2\18b.wav" ID="18" Part="b">“I always acted cool,but actually,    I was just afraid of being jilted.”</Entry>
+  <Entry File="niv_ti2\18c.wav" ID="18" Part="c">“Wow,if I keep writing like this,    this'll become a love letter!”</Entry>
+  <Entry File="niv_ti2\18d.wav" ID="18" Part="d">“So,I think I'll stop here.    Take care.    I'll write again.”</Entry>
+  <Entry File="niv_ti2\18e.wav" ID="18" Part="e">“P.S.  Write me back,okay?”</Entry>
+  <Entry File="niv_ti2\19.wav" ID="19">Tifa “Cloud…    Cloud was playing.”</Entry>
+  <Entry File="niv_ti2\20.wav" ID="20">“I wonder what…this is?”</Entry>
+  <Entry File="niv_ti2\22.wav" ID="22">“It looks like Materia,but I can't hold any more.”</Entry>
+  <Entry File="niv_ti2\23.wav" ID="23">“Tifa's secret savings,    1 gil came out of the keyboard.”</Entry>
+  <Entry File="niv_ti2\24.wav" ID="24">“I've heard this melody somewhere before.    I played it well.”</Entry>
+  <Entry File="niv_ti2\25a.wav" ID="25" Part="a">Tifa “I have the sheet music for that song.”</Entry>
+  <Entry File="niv_ti2\25b.wav" ID="25" Part="b">“Huh? Wait a minute!    There's something inside the music sheet.”</Entry>
+  <Entry File="niv_ti2\26a.wav" ID="26" Part="a">“Tifa,    what's happened to our town?    Was it all an illusion,or just a dream?    No,it was neither.    I remember trying to get people     out of the flames,but not having the strength…    Burning with anger,I went to the    reactor to kill Sephiroth.”</Entry>
+  <Entry File="niv_ti2\26b.wav" ID="26" Part="b">“But he was nowhere to be found.    Instead,I found you,collapsed inside.    I felt saving you was far more important    than going after Sephiroth.    There were several others that were still    alive inside,    but I was only able to save you.”</Entry>
+  <Entry File="niv_ti2\27a.wav" ID="27" Part="a">“As I was coming out of the reactor,    Shinra troops were just arriving.    I recall a scientist named Hojo was in charge.    He ordered the troops to gather up    everyone still alive for the experiment.    I didn't know what type of experiment    he was talking about,    but I wasn't about to let them have    my dearest student.”</Entry>
+  <Entry File="niv_ti2\27b.wav" ID="27" Part="b">“Putting you on my back,I headed down    the mountain to the village.    I used the Cure spell on you many times.”</Entry>
+  <Entry File="niv_ti2\27c.wav" ID="27" Part="c">“And started to head for Midgar    to look for a doctor for you.    I didn't like that city,    and my Cure spells weren't helping.”</Entry>
+  <Entry File="niv_ti2\27d.wav" ID="27" Part="d">“I decided to go to Midgar to find    a doctor I could trust.    I'm worried about you,but I can't    settle down in one place for very long.    Have you recovered fully? Are you well?”</Entry>
+  <Entry File="niv_ti2\28a.wav" ID="28" Part="a">“I wonder how many years have    passed since then?    I just got into town again,    but I can't believe it…     The whole town is back to normal,    except for the strange people    with black clothes all around.”</Entry>
+  <Entry File="niv_ti2\28b.wav" ID="28" Part="b">“The town reeks of Shinra,    but I won't go after them.    You may think I'm running from them,    but it's just that    I don't want anything to do    with Shinra anymore.    Feels like time is running out.”</Entry>
+  <Entry File="niv_ti2\28c.wav" ID="28" Part="c">“I'm sure you'll find this letter.    And this gift for you. It should come in handy.    I can't even jump anymore.    But I hope you continue to sharpen    your skills and remember what I taught you.”</Entry>
+  <Entry File="niv_ti2\28d.wav" ID="28" Part="d">“To my most precious student, From Zangan”</Entry>
+  <Entry File="niv_ti2\30.wav" ID="30">Tifa “Did you play my piano?”    No,I didn't    Yeah,I jammed on it    Just a little…</Entry>
+  <Entry File="niv_ti2\31.wav" ID="31">Cloud “I can read sheet music too,you know.    Ummm,let's see…”</Entry>
+  <Entry File="niv_ti2\32.wav" ID="32">“Do…\ Re…&gt; Mi…&gt; Ti…\ La…\   &gt; Do…&gt; Re…&gt; Mi…&gt; So…&gt; Fa…&gt; Do…&gt; Re…&gt; Do…\  Forget it…”</Entry>
+  <Entry File="niv_ti2\33.wav" ID="33">Cloud “Play the piano?” No,forget it Aw,go for it</Entry>
+  <Entry File="niv_ti2\34.wav" ID="34">“…Now,how did this go?” I forgot I remember</Entry>
+  <Entry File="niv_ti2\37.wav" ID="37">Cloud “But…I definitely remember    playing the piano then.    So why wasn't it burnt down?”</Entry>
+  <Entry File="niv_ti2\38.wav" ID="38">Cloud “A man in a black cape?”</Entry>
+  <Entry File="niv_ti2\39.wav" ID="39">Cloud “Tattoo number '4'”</Entry>
+  <Entry File="niv_ti2\41.wav" ID="41">“…Where…are…you?    Great…Se…phi…roth…”</Entry>
+  <Entry File="niv_ti2\42a.wav" ID="42" Part="a">“Periodic Report to Professor Hojo”     1  Clone Activity Report     Unfortunately,no 'CLONES' have left    this town this quarter.    As previously reported,the 'CLONES 'seem    to be sensing something.    But all they say is,'Reunion' or 'Sephiroth'    and show no other signs of activity.</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="niv_ti2\0.wav" ID="0">Tifa's House</Entry>
+	<Entry File="niv_ti2\1.wav" ID="1">Tifa's House</Entry>
+	<Entry File="niv_ti2\3.wav" ID="3">Received "Orthopedic Underwear!"</Entry>
+	<Entry File="niv_ti2\21.wav" ID="21">Received "Elemental" Materia!</Entry>
+	<Entry File="niv_ti2\29.wav" ID="29">Received "Final Heaven"</Entry>
+	<Entry File="niv_ti2\35.wav" ID="35">Do [CANCEL] Re [SWITCH] Mi [MENU] Fa [OK] So [PAGEUP]/[PAGEDOWN] + [CANCEL] La [PAGEUP]/[PAGEDOWN] + [SWITCH] Ti [PAGEUP]/[PAGEDOWN] + [MENU] Do [PAGEUP]/[PAGEDOWN] + [OK] Do Mi So (C) Directional key Down Do Fa La (F) Directional key Left Re So Ti (G) Directional key Up Mi So Do (C) Directional key Right End  [START]</Entry>
+	<Entry File="niv_ti2\36.wav" ID="36">  Use [START] to end.</Entry>
+	<Entry File="niv_ti2\40.wav" ID="40">Received "Platinum Fist!"</Entry>
+	<Entry File="niv_ti2\42b.wav" ID="42" Part="b">   2  Confidentiality Report     A total of eight people have visited    this town this quarter.      Fortunately,none knew about    the incident five years ago.    Therefore,no one knows the town was restored    exactly as it was five years ago.    Our staff,disguised as townspeople,    have improved their acting skills,    and we do not report any problems    at this time.   That is all.</Entry>
+-->
+</VoiceList>

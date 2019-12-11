@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jumin\1.wav" ID="1">Cloud “Yeah…” We'll try later Let's rest</Entry>
+  <Entry File="jumin\2a.wav" ID="2" Part="a">Cloud “Tifa…”</Entry>
+  <Entry File="jumin\2b.wav" ID="2" Part="b">“When Sephiroth and I went to Nibelheim,  where were you?”</Entry>
+  <Entry File="jumin\3.wav" ID="3">Cloud “The other time.”</Entry>
+  <Entry File="jumin\4.wav" ID="4">“Hmmm…” Let's get some rest No time to rest</Entry>
+  <Entry File="jumin\5.wav" ID="5">Tifa “Get some rest?”</Entry>
+  <Entry File="jumin\6.wav" ID="6">Tifa “Cloud,come here.  Everyone's here.”</Entry>
+  <Entry File="jumin\7.wav" ID="7">Tifa “…We saw each other,right?”</Entry>
+  <Entry File="jumin\8a.wav" ID="8" Part="a">Tifa “No…it was 5 years ago.  I don't remember.”</Entry>
+  <Entry File="jumin\8b.wav" ID="8" Part="b">“But,something seems strange outside.  Cloud,come quick.”</Entry>
+  <Entry File="jumin\9.wav" ID="9">Aeris “Want to rest?”</Entry>
+  <Entry File="jumin\10.wav" ID="10">Aeris “What are you thinking?”</Entry>
+  <Entry File="jumin\11.wav" ID="11">Barret “I'm gonna relax for a while.”</Entry>
+  <Entry File="jumin\12.wav" ID="12">Red XIII “Shall we rest?”</Entry>
+  <Entry File="jumin\13.wav" ID="13">Yuffie “Wanna rest?”</Entry>
+  <Entry File="jumin\14.wav" ID="14">“I heard what happened.  You've done so much for Priscilla.”</Entry>
+  <Entry File="jumin\15.wav" ID="15">“You all must be tired.  If you want to get some rest,  stay here.”</Entry>
+  <Entry File="jumin\16.wav" ID="16">“Make yourselves at home.”</Entry>
+  <Entry File="jumin\17.wav" ID="17">Ù“…That reminds me”Ù</Entry>
+  <Entry File="jumin\18.wav" ID="18">“You again?”</Entry>
+  <Entry File="jumin\19.wav" ID="19">“…Who are you?”</Entry>
+  <Entry File="jumin\20.wav" ID="20">Ù“…You'll find out soon.  …But more importantly,5 years ago…”Ù</Entry>
+  <Entry File="jumin\21.wav" ID="21">“5 Years ago…Nibelheim?”</Entry>
+  <Entry File="jumin\22.wav" ID="22">Ù“When you went to Mt. Nibel,  Tifa was your guide,right?”Ù</Entry>
+  <Entry File="jumin\23.wav" ID="23">“Yeah,…surprised me.”</Entry>
+  <Entry File="jumin\24.wav" ID="24">Ù“But where was Tifa  other than that?”Ù</Entry>
+  <Entry File="jumin\25.wav" ID="25">“…I dunno.”</Entry>
+  <Entry File="jumin\26.wav" ID="26">Ù“It was a great chance for you two to  see each other again.”Ù</Entry>
+  <Entry File="jumin\27.wav" ID="27">“…You're right.”</Entry>
+  <Entry File="jumin\28.wav" ID="28">Ù“Why couldn't you see each other alone?”Ù</Entry>
+  <Entry File="jumin\29.wav" ID="29">“…I don't know.    I can't remember clearly…”</Entry>
+  <Entry File="jumin\30.wav" ID="30">Ù“Why don't you try asking Tifa?”Ù</Entry>
+  <Entry File="jumin\31.wav" ID="31">“…Yeah.”</Entry>
+  <Entry File="jumin\32.wav" ID="32">Ù“Then,get up!”Ù</Entry>
+  <Entry File="jumin\33.wav" ID="33">“Hey,wake up.  Wake up,Cloud!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jumin\0.wav" ID="0">Under Junon</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="convil_1\2a.wav" ID="2" Part="a">“Hello.  I'm sorry but we're not  selling anything now.”</Entry>
+  <Entry File="convil_1\2b.wav" ID="2" Part="b">“We're using everything  we have for ourselves.”</Entry>
+  <Entry File="convil_1\3.wav" ID="3">“Hello.  Do your best. We will,too.”</Entry>
+  <Entry File="convil_1\4.wav" ID="4">“Sorry,but I can't sell you  anything now.”</Entry>
+  <Entry File="convil_1\5.wav" ID="5">“You hang in there!”</Entry>
+  <Entry File="convil_1\6a.wav" ID="6" Part="a">“Hmmn,now this is something,  I never thought anyone  would ever climb up here.”</Entry>
+  <Entry File="convil_1\6b.wav" ID="6" Part="b">“…Your eyes are different.  Well,anyhow.  Any minute now,this will be  a battlefield against Shinra.”</Entry>
+  <Entry File="convil_1\6c.wav" ID="6" Part="c">“You'd better get down  before you get involved.”</Entry>
+  <Entry File="convil_1\7a.wav" ID="7" Part="a">“Hmmn,now this is something,  I never thought anyone  would ever climb up here.”</Entry>
+  <Entry File="convil_1\7b.wav" ID="7" Part="b">“Any minute now,this will be  a battlefield against Shinra.  You'd better get down  before you get involved.”</Entry>
+  <Entry File="convil_1\8.wav" ID="8">Barret “Shinra?  The hell those jackasses  doing here?”</Entry>
+  <Entry File="convil_1\9.wav" ID="9">Tifa “You mean Shinra?”</Entry>
+  <Entry File="convil_1\10.wav" ID="10">Aeris “What do you mean,  'a battlefield'?”</Entry>
+  <Entry File="convil_1\11.wav" ID="11">Red XIII “The Shinra…”</Entry>
+  <Entry File="convil_1\12.wav" ID="12">Red XIII “Shinra again.”</Entry>
+  <Entry File="convil_1\13.wav" ID="13">Yuffie “The Shinra? Here too?”</Entry>
+  <Entry File="convil_1\14.wav" ID="14">Cait Sith “…”</Entry>
+  <Entry File="convil_1\15.wav" ID="15">Vincent “What do you mean by that?”</Entry>
+  <Entry File="convil_1\16.wav" ID="16">Cid “A battlefield?  We can't overlook that.”</Entry>
+  <Entry File="convil_1\17a.wav" ID="17" Part="a">“It appears you have a problem  with Shinra,too.  After all,you climbed up here.”</Entry>
+  <Entry File="convil_1\17b.wav" ID="17" Part="b">“Why not listen to  what I have to say for a moment?”</Entry>
+  <Entry File="convil_1\18.wav" ID="18">Cloud “…” I guess so Not interested</Entry>
+  <Entry File="convil_1\19.wav" ID="19">Tifa “Oh,by all means.”</Entry>
+  <Entry File="convil_1\20.wav" ID="20">Cid “All right,talk on!”</Entry>
+  <Entry File="convil_1\21.wav" ID="21">Barret “The hell you talkin' about!?  They're all fightin'  the Shinra too!  You gonna ignore that!?”</Entry>
+  <Entry File="convil_1\22.wav" ID="22">Tifa “Cloud,let's listen to  what they have to say.”</Entry>
+  <Entry File="convil_1\23.wav" ID="23">Aeris “After all,we came all this way,  Cloud”</Entry>
+  <Entry File="convil_1\24.wav" ID="24">Cait Sith “I know,I know,Cloud.  But let's listen for a bit.”</Entry>
+  <Entry File="convil_1\25.wav" ID="25">Vincent “There's no harm in listening to them.”</Entry>
+  <Entry File="convil_1\26.wav" ID="26">Yuffie “Is this about the jewels?”</Entry>
+  <Entry File="convil_1\27.wav" ID="27">Cid “Man,she sure's cold.”</Entry>
+  <Entry File="convil_1\28.wav" ID="28">“Do you know what's at  the top of this mountain?”</Entry>
+  <Entry File="convil_1\29.wav" ID="29">Barret “Huh?  Something's up there?”</Entry>
+  <Entry File="convil_1\30.wav" ID="30">Aeris “A huge bird.”</Entry>
+  <Entry File="convil_1\31.wav" ID="31">Tifa “Come on,let's get it together.”</Entry>
+  <Entry File="convil_1\32.wav" ID="32">Yuffie “Look close,old man.”</Entry>
+  <Entry File="convil_1\33.wav" ID="33">Cait Sith “Yeah,come to think of it  there was something.”</Entry>
+  <Entry File="convil_1\34.wav" ID="34">Cloud “The reactor and the Condor.”</Entry>
+  <Entry File="convil_1\35.wav" ID="35">Tifa “That's the reactor  and the Condor.”</Entry>
+  <Entry File="convil_1\36.wav" ID="36">Red XIII “That's the reactor  and the Condor.”</Entry>
+  <Entry File="convil_1\37.wav" ID="37">Red XIII “That's the reactor.  And the Condor.”</Entry>
+  <Entry File="convil_1\38.wav" ID="38">Vincent “Come to think of it,  there was a reactor.  But I've never seen anything  shaped like it…”</Entry>
+  <Entry File="convil_1\39.wav" ID="39">Cid “No matter how you look at it,  that's a reactor.  And on top of it,  is that the Condor?”</Entry>
+  <Entry File="convil_1\40.wav" ID="40">“I can see you're very perceptive.  Yes,it's a reactor and a Condor.”</Entry>
+  <Entry File="convil_1\41.wav" ID="41">“That's right,on that mountain is  a Condor and a reactor.”</Entry>
+  <Entry File="convil_1\42.wav" ID="42">“It seems the Shinra doesn't like  the idea of having a Condor  on top of the reactor.”</Entry>
+  <Entry File="convil_1\43.wav" ID="43">Barret “Damn,that's one big bird!  But why are they trying to get  rid of it with weapons?”</Entry>
+  <Entry File="convil_1\44.wav" ID="44">Tifa “What's so wrong with having a Condor  on top of the reactor?”</Entry>
+  <Entry File="convil_1\45.wav" ID="45">Aeris “Why?”</Entry>
+  <Entry File="convil_1\46.wav" ID="46">Red XIII “It's not very logical.”</Entry>
+  <Entry File="convil_1\47.wav" ID="47">Red XIII “The logic eludes me.”</Entry>
+  <Entry File="convil_1\48.wav" ID="48">Yuffie “I'm certain there must be  state-of-the-art Materia   inside the reactor. Am I right?”</Entry>
+  <Entry File="convil_1\49.wav" ID="49">Vincent “…That's too much.”</Entry>
+  <Entry File="convil_1\50.wav" ID="50">Cid “Huh?  I don't get it.”</Entry>
+  <Entry File="convil_1\51.wav" ID="51">Cait Sith “Huh?…”</Entry>
+  <Entry File="convil_1\52a.wav" ID="52" Part="a">“It seems there's some type of  special Materia  in the reactor above us.”</Entry>
+  <Entry File="convil_1\52b.wav" ID="52" Part="b">“And because the Condor came,  the Shinra rushed troops here.”</Entry>
+  <Entry File="convil_1\52c.wav" ID="52" Part="c">“The military wants to get  the Condor and all the villagers  off this mountain.”</Entry>
+  <Entry File="convil_1\53a.wav" ID="53" Part="a">“The Condor is now warming  its egg,which hatches only  once every few years.”</Entry>
+  <Entry File="convil_1\53b.wav" ID="53" Part="b">“We would like to protect the Condor  from being harmed.”</Entry>
+  <Entry File="convil_1\54.wav" ID="54">Cloud “New lives…”</Entry>
+  <Entry File="convil_1\55.wav" ID="55">Barret “I'll do it!  I'll protect them from Shinra!”</Entry>
+  <Entry File="convil_1\56a.wav" ID="56" Part="a">Tifa “Condor's egg  A real work of nature.”</Entry>
+  <Entry File="convil_1\56b.wav" ID="56" Part="b">“We've got to protect  the life of the Planet.”</Entry>
+  <Entry File="convil_1\57.wav" ID="57">Aeris “We must protect  the condor egg,right?”</Entry>
+  <Entry File="convil_1\58.wav" ID="58">Red XIII “So,to protect the egg,  are you gonna protect  the reactor?”</Entry>
+  <Entry File="convil_1\59.wav" ID="59">Red XIII “We're going to protect the reactor  in order to save the egg.”</Entry>
+  <Entry File="convil_1\60.wav" ID="60">Yuffie “Special Materia,huh?  Well,well,  things are getting interesting.”</Entry>
+  <Entry File="convil_1\61.wav" ID="61">Cait Sith “I'm gonna leave it up  to you all.”</Entry>
+  <Entry File="convil_1\62.wav" ID="62">Vincent “…and come out in  one piece?”</Entry>
+  <Entry File="convil_1\63.wav" ID="63">Cid “You guys,  what are ya gonna do?”</Entry>
+  <Entry File="convil_1\64a.wav" ID="64" Part="a">“Unfortunately,we don't have  the ability to fight  Shinra ourselves.”</Entry>
+  <Entry File="convil_1\64b.wav" ID="64" Part="b">“That's why we have hired  soldiers to help us.”</Entry>
+  <Entry File="convil_1\64c.wav" ID="64" Part="c">“As our sponsor,you can help us  with a contribution or  by fighting alongside of us…”</Entry>
+  <Entry File="convil_1\64d.wav" ID="64" Part="d">“What do you think?  You want to join us in our fight?”</Entry>
+  <Entry File="convil_1\65.wav" ID="65">Cloud “…”</Entry>
+  <Entry File="convil_1\66.wav" ID="66">Barret “What's there to think about?  We gotta do it!”</Entry>
+  <Entry File="convil_1\67.wav" ID="67">Tifa “Cloud…”</Entry>
+  <Entry File="convil_1\68.wav" ID="68">Aeris “Cloud,why are you  still worrying about it?”</Entry>
+  <Entry File="convil_1\69.wav" ID="69">Red XIII “You decide what  we're going to do.”</Entry>
+  <Entry File="convil_1\70.wav" ID="70">Red XIII “What are we going to do?”</Entry>
+  <Entry File="convil_1\71.wav" ID="71">Yuffie “If things go right,  we might even be able to  pray to that special Materia.”</Entry>
+  <Entry File="convil_1\72.wav" ID="72">Cait Sith “I'll leave it up to you so  please do as you see fit.”</Entry>
+  <Entry File="convil_1\73.wav" ID="73">Vincent “It's difficult to get back  what you've lost…”</Entry>
+  <Entry File="convil_1\74.wav" ID="74">Cid “Don't be so wishy-washy.  Hurry and make up your mind.”</Entry>
+  <Entry File="convil_1\75.wav" ID="75">Cloud “…” All right Not interested</Entry>
+  <Entry File="convil_1\76.wav" ID="76">Barret “What's wrong with you?  And you call yourself a human!?”</Entry>
+  <Entry File="convil_1\77.wav" ID="77">Tifa “Well…”</Entry>
+  <Entry File="convil_1\78.wav" ID="78">Aeris “What a jerk.  I'm disappointed in you.”</Entry>
+  <Entry File="convil_1\79.wav" ID="79">Yuffie “Now we lost the Materia.”</Entry>
+  <Entry File="convil_1\80.wav" ID="80">Vincent “Have no regrets for  what's already past.”</Entry>
+  <Entry File="convil_1\81.wav" ID="81">Cid “If you've made up your mind,  let's just do it.”</Entry>
+  <Entry File="convil_1\82.wav" ID="82">Tifa “Cloud,thanks.”</Entry>
+  <Entry File="convil_1\83a.wav" ID="83" Part="a">Tifa “Everyone,listen to  what I have to say.”</Entry>
+  <Entry File="convil_1\83b.wav" ID="83" Part="b">“I can't possibly leave  these people like this.”</Entry>
+  <Entry File="convil_1\83c.wav" ID="83" Part="c">“Let's do whatever  we can to help them.  All right?”</Entry>
+  <Entry File="convil_1\84.wav" ID="84">Cid “If you go that far,what can I say?  Well,we'll be able to do something  if you leave it up to us.”</Entry>
+  <Entry File="convil_1\85.wav" ID="85">Barret “Hey!  We'll come to the rescue.”</Entry>
+  <Entry File="convil_1\86.wav" ID="86">Aeris “Yes,yes.  Let's do our best.”</Entry>
+  <Entry File="convil_1\87.wav" ID="87">Red XIII “Right.  Let me lend a hand,too.”</Entry>
+  <Entry File="convil_1\88.wav" ID="88">Red XIII “Got it.  I'm gonna lend a hand,too.”</Entry>
+  <Entry File="convil_1\89.wav" ID="89">Yuffie “Okay,it's settled.  We're gonna get the Materia,  right?”</Entry>
+  <Entry File="convil_1\90.wav" ID="90">Cait Sith “Well then,let's do our best.”</Entry>
+  <Entry File="convil_1\91.wav" ID="91">Vincent “That's the right decision.”</Entry>
+  <Entry File="convil_1\92.wav" ID="92">“I see…  Come back if you should  change your mind.”</Entry>
+  <Entry File="convil_1\93.wav" ID="93">“Have you by chance  changed your mind?”</Entry>
+  <Entry File="convil_1\94.wav" ID="94">Cloud “…” Well,let's do it My position hasn't changed</Entry>
+  <Entry File="convil_1\95a.wav" ID="95" Part="a">“Whew,we'll be saved.”</Entry>
+  <Entry File="convil_1\95b.wav" ID="95" Part="b">“Ask my son,who's standing  guard at the shed,  about the details of  our military tactics.  We're depending on you.”</Entry>
+  <Entry File="convil_1\96.wav" ID="96">“Ask my son,who's standing  guard at the shed,  about anything related to  our military tactics.”</Entry>
+  <Entry File="convil_1\97a.wav" ID="97" Part="a">“Yes,yes,I've also told  the store owners about you,  so they should sell you  various items.”</Entry>
+  <Entry File="convil_1\97b.wav" ID="97" Part="b">“And feel free to use our beds.”</Entry>
+  <Entry File="convil_1\98.wav" ID="98">“I'm begging you.  Please prevent the reactor  from being destroyed and  the Condor from being killed.”</Entry>
+  <Entry File="convil_1\99a.wav" ID="99" Part="a">“You've come at a good time.  Shinra's changing its strategy now.”</Entry>
+  <Entry File="convil_1\99b.wav" ID="99" Part="b">“It seems that Shinra will destroy  the reactor and then take out  the Materia that's inside.”</Entry>
+  <Entry File="convil_1\100a.wav" ID="100" Part="a">Cloud “I see. I guess that means  this area,too.”</Entry>
+  <Entry File="convil_1\100b.wav" ID="100" Part="b">“Well,we can't afford to  lose any more.”</Entry>
+  <Entry File="convil_1\101.wav" ID="101">Barret “Man,we're walking on  dangerous ground.  We can't lose now!”</Entry>
+  <Entry File="convil_1\102.wav" ID="102">Tifa “Now is the time to dig in.”</Entry>
+  <Entry File="convil_1\103.wav" ID="103">Aeris “We can't afford to be beaten!”</Entry>
+  <Entry File="convil_1\104.wav" ID="104">Red XIII “We can't afford to be beaten!”</Entry>
+  <Entry File="convil_1\105.wav" ID="105">Yuffie “If we lose here,all the Materia  we gathered will be for nothing.”</Entry>
+  <Entry File="convil_1\106.wav" ID="106">Cait Sith “You're right.  If we lose here,  we'll be in great danger.”</Entry>
+  <Entry File="convil_1\107.wav" ID="107">Vincent “We must protect this area.”</Entry>
+  <Entry File="convil_1\108.wav" ID="108">Cid “Damn!  I guess we have to protect  this area too.”</Entry>
+  <Entry File="convil_1\109a.wav" ID="109" Part="a">“Everyone,thanks.  I really mean it. Thanks.”</Entry>
+  <Entry File="convil_1\109b.wav" ID="109" Part="b">“Although there isn't anything  we can give you,  we'll make sure you can stop  in and stay any time.  So be sure to drop by.”</Entry>
+  <Entry File="convil_1\110.wav" ID="110">“Yes,yes,and there's one thing  I forgot to tell you…”</Entry>
+  <Entry File="convil_1\111.wav" ID="111">Cloud “This…is…”</Entry>
+  <Entry File="convil_1\112.wav" ID="112">Aeris “What is this?”</Entry>
+  <Entry File="convil_1\113.wav" ID="113">Barret “Damn man,it's Huge Materia.”</Entry>
+  <Entry File="convil_1\114.wav" ID="114">Tifa “This Materia is really  out-of-this-world!”</Entry>
+  <Entry File="convil_1\115.wav" ID="115">Red XIII “Wow,it's something!”</Entry>
+  <Entry File="convil_1\116.wav" ID="116">Cid “Huh?  What's this?”</Entry>
+  <Entry File="convil_1\117.wav" ID="117">Yuffie “Gotta have that Materia!”</Entry>
+  <Entry File="convil_1\118.wav" ID="118">Cait Sith “Hmm,you mean this?”</Entry>
+  <Entry File="convil_1\119.wav" ID="119">Vincent “This is…”</Entry>
+  <Entry File="convil_1\120.wav" ID="120">“The truth is,this is the Materia  inside the reactor.”</Entry>
+  <Entry File="convil_1\121.wav" ID="121">Cloud “Then you're telling me  we protected a reactor that  didn't have any Materia inside?”</Entry>
+  <Entry File="convil_1\122a.wav" ID="122" Part="a">Tifa “If that's the case,  then you should have told us.”</Entry>
+  <Entry File="convil_1\122b.wav" ID="122" Part="b">“There may have been  another way to fight Shinra.”</Entry>
+  <Entry File="convil_1\123.wav" ID="123">Cid “What the hell  did we fight for?”</Entry>
+  <Entry File="convil_1\124.wav" ID="124">“We weren't protectin' the reactor,  we were protectin' the Condor.”</Entry>
+  <Entry File="convil_1\125a.wav" ID="125" Part="a">“When that reactor was built,  they forced us to help.  That's how we knew what was  inside the reactor.”</Entry>
+  <Entry File="convil_1\125b.wav" ID="125" Part="b">“I knew this day would come,  so after the Shinra left,  I sneaked in and  took the Materia.”</Entry>
+  <Entry File="convil_1\126.wav" ID="126">“I didn't mean to fool you,but  I guess that's how it ended up.  I'm really sorry.”</Entry>
+  <Entry File="convil_1\127a.wav" ID="127" Part="a">Cloud “Well…  Maybe it was for the best.”</Entry>
+  <Entry File="convil_1\127b.wav" ID="127" Part="b">“Besides,there was no guarantee  we'd defeat Shinra.”</Entry>
+  <Entry File="convil_1\128.wav" ID="128">Tifa “No,I think what happened is good.  'Cause we didn't know  if we'd win.”</Entry>
+  <Entry File="convil_1\129.wav" ID="129">Cid “Just forget about it.  Anyway,we're still alive.”</Entry>
+  <Entry File="convil_1\130.wav" ID="130">“I see.  If you put it that way…  we're really grateful.”</Entry>
+  <Entry File="convil_1\131.wav" ID="131">Cid “So the last Huge Materia  that Shinra's after's in the   underwater reactor in Junon?”</Entry>
+  <Entry File="convil_1\132.wav" ID="132">Barret “We gotta get there first and  beat 'em no matter what!”</Entry>
+  <Entry File="convil_1\133.wav" ID="133">Red XIII “We must get there before them  and stop them!”</Entry>
+  <Entry File="convil_1\134.wav" ID="134">Yuffie “We gotta get there and stop 'em…”</Entry>
+  <Entry File="convil_1\135.wav" ID="135">Vincent “Getting to the reactor before them…”</Entry>
+  <Entry File="convil_1\136a.wav" ID="136" Part="a">Cid “But ya know,Shinra's probably  on high alert  since we always mess with 'em.”</Entry>
+  <Entry File="convil_1\136b.wav" ID="136" Part="b">“How 'bout we take a break and go  see that little fella for a bit?”</Entry>
+  <Entry File="convil_1\137.wav" ID="137">Barret “You mus' mean  Cloud.”</Entry>
+  <Entry File="convil_1\138.wav" ID="138">Red XIII “You mean,Cloud?”</Entry>
+  <Entry File="convil_1\139.wav" ID="139">Yuffie “Cloud,right?”</Entry>
+  <Entry File="convil_1\140.wav" ID="140">Cait Sith “You must mean  Cloud.”</Entry>
+  <Entry File="convil_1\141.wav" ID="141">Vincent “You mean Cloud?”</Entry>
+  <Entry File="convil_1\142a.wav" ID="142" Part="a">Cid “Yeah,I'm worried 'bout  Tifa.  She may've collapsed  takin' care of the guy.”</Entry>
+  <Entry File="convil_1\142b.wav" ID="142" Part="b">“How 'bout checkin' in on 'em?  Down to Mideel!”</Entry>
+  <Entry File="convil_1\144a.wav" ID="144" Part="a">“Looks like there's a special Materia  up in the Mako reactor.”</Entry>
+  <Entry File="convil_1\144b.wav" ID="144" Part="b">“Then came the Condor,  so Shinra dispatched the troops  to get rid of it.”</Entry>
+  <Entry File="convil_1\144c.wav" ID="144" Part="c">“Their plan is to get rid of  the Condor and the people on this  mountain and to get the Materia  from the Mako Reactor.”</Entry>
+  <Entry File="convil_1\145.wav" ID="145">“Oh,it's you guys?  How are things going?”</Entry>
+  <Entry File="convil_1\146.wav" ID="146">“Up to now,  you've lost  times.  If you lose too many times,  you won't be able to come back.”</Entry>
+  <Entry File="convil_1\147.wav" ID="147">Cloud “…” We'll get some rest Let's move on</Entry>
+  <Entry File="convil_1\148.wav" ID="148">Tifa “Yeah…” Let's get some rest Maybe next time</Entry>
+  <Entry File="convil_1\149.wav" ID="149">Cid “Yo!” Take a break Not right now</Entry>
+  <Entry File="convil_1\150.wav" ID="150">Barret “Ey,let's get some rest.”</Entry>
+  <Entry File="convil_1\151.wav" ID="151">Tifa “Say,let's rest.  Okay?”</Entry>
+  <Entry File="convil_1\152.wav" ID="152">Aeris “Let's rest. Okay?”</Entry>
+  <Entry File="convil_1\153.wav" ID="153">Red XIII “We should get some rest  while we can.”</Entry>
+  <Entry File="convil_1\154.wav" ID="154">Red XIII “Let's take a break  when we can afford to.”</Entry>
+  <Entry File="convil_1\155.wav" ID="155">Yuffie “Come on…  break time,break time!”</Entry>
+  <Entry File="convil_1\156.wav" ID="156">Cait Sith “Now,shall we get some rest?”</Entry>
+  <Entry File="convil_1\157.wav" ID="157">Vincent “It's probably best to  get some rest now.”</Entry>
+  <Entry File="convil_1\158.wav" ID="158">Cid “Come on,  let's get some shut-eye.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="convil_1\0.wav" ID="0">Fort Condor</Entry>
+	<Entry File="convil_1\1.wav" ID="1">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="convil_1\143.wav" ID="143">Received Key Item "Huge Materia"!</Entry>
+-->
+</VoiceList>

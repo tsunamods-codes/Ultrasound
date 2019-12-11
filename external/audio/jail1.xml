@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jail1\1.wav" ID="1">“Wo-ho!  Welcome to Corel Prison.”</Entry>
+  <Entry File="jail1\2.wav" ID="2">“Hold---it. If you wanna pass,  you're gonna need  the boss's permission.”</Entry>
+  <Entry File="jail1\3.wav" ID="3">Barret “…”</Entry>
+  <Entry File="jail1\4.wav" ID="4">Aeris “You all right?”</Entry>
+  <Entry File="jail1\5.wav" ID="5">Tifa “Cloud,you all right?”</Entry>
+  <Entry File="jail1\6.wav" ID="6">Red XIII “Are you all right?”</Entry>
+  <Entry File="jail1\7.wav" ID="7">Yuffie “Hey,you okay?”</Entry>
+  <Entry File="jail1\8.wav" ID="8">Cloud “Where are we?”</Entry>
+  <Entry File="jail1\9.wav" ID="9">Cait Sith “A desert prison…  Corel Prison…”</Entry>
+  <Entry File="jail1\10.wav" ID="10">Cloud “A desert prison?”</Entry>
+  <Entry File="jail1\11.wav" ID="11">Cait Sith “Yup,a natural prison  in the middle of the desert…  surrounded entirely by quicksand.”</Entry>
+  <Entry File="jail1\12.wav" ID="12">Cait Sith “I heard that once you get in,  you never get out…”</Entry>
+  <Entry File="jail1\13.wav" ID="13">Cait Sith “But,there was  one special exception…”</Entry>
+  <Entry File="jail1\14.wav" ID="14">Aeris “Hey!!  Barret!!”</Entry>
+  <Entry File="jail1\15.wav" ID="15">Tifa “Barret!?”</Entry>
+  <Entry File="jail1\16.wav" ID="16">Red XIII “Mmm!?  Isn't that Barret?”</Entry>
+  <Entry File="jail1\17.wav" ID="17">Yuffie “Hey?  Isn't that Barret?”</Entry>
+  <Entry File="jail1\18.wav" ID="18">Cloud “Barret…”</Entry>
+  <Entry File="jail1\19.wav" ID="19">Cloud “Did you…”</Entry>
+  <Entry File="jail1\20.wav" ID="20">Barret “Stay back!  This's something I gotta deal with.”</Entry>
+  <Entry File="jail1\21.wav" ID="21">Barret “Jus' leave me alone…”</Entry>
+  <Entry File="jail1\22.wav" ID="22">Cait Sith “Whew! That's one of  your friends?  He sure looks  dangerous…”</Entry>
+  <Entry File="jail1\23.wav" ID="23">Red XIII “Barret…”</Entry>
+  <Entry File="jail1\24.wav" ID="24">Aeris “Cloud,what should we do?  Barret's not his normal self.”</Entry>
+  <Entry File="jail1\25.wav" ID="25">Tifa “…Barret…”</Entry>
+  <Entry File="jail1\26a.wav" ID="26" Part="a">Yuffie “Hey,Cloud!  Just leave him alone.”</Entry>
+  <Entry File="jail1\26b.wav" ID="26" Part="b">“I mean,he told us to,didn't he?  Then that's that,right?”</Entry>
+  <Entry File="jail1\27.wav" ID="27">Cloud “This one's been shot,too…”</Entry>
+  <Entry File="jail1\28.wav" ID="28">Cloud “We should find Barret  before we go out into the desert.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jail1\0.wav" ID="0">Corel Prison</Entry>
+-->
+</VoiceList>

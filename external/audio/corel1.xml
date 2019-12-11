@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="corel1\0.wav" ID="0">Barret “What the hell happened?”</Entry>
+  <Entry File="corel1\1.wav" ID="1">Dyne “What's done is done.”</Entry>
+  <Entry File="corel1\2a.wav" ID="2" Part="a">Dyne “Hey,Barret!  It's not over yet!”</Entry>
+  <Entry File="corel1\2b.wav" ID="2" Part="b">“Everyone's waiting!  Let's go back to the village!”</Entry>
+</VoiceList>

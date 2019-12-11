@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jun_a\1a.wav" ID="1" Part="a">“I used to be in SOLDIER…  Afterwards,I opened this shop…”</Entry>
+  <Entry File="jun_a\1b.wav" ID="1" Part="b">“But to tell you the truth,  I'd rather be at the shop downstairs.”</Entry>
+  <Entry File="jun_a\2a.wav" ID="2" Part="a">“I used to be in SOLDIER.  Lately,I've felt like dressing up like this…”</Entry>
+  <Entry File="jun_a\2b.wav" ID="2" Part="b">“I know it's out of season,but…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jun_a\0.wav" ID="0">Item Store</Entry>
+-->
+</VoiceList>

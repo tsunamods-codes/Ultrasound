@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mkt_s1\1.wav" ID="1">Aeris “Excuse me!  I'd like to get a dress.”</Entry>
+  <Entry File="mkt_s1\2.wav" ID="2">“Umm,it might take a little  time. Will that be all right?”</Entry>
+  <Entry File="mkt_s1\3.wav" ID="3">Aeris “What's the problem?”</Entry>
+  <Entry File="mkt_s1\4.wav" ID="4">“Well,my father,the owner,  has been in a slump lately.  You see,he makes all the dresses.”</Entry>
+  <Entry File="mkt_s1\5.wav" ID="5">Aeris “And,where is your father?”</Entry>
+  <Entry File="mkt_s1\6.wav" ID="6">“He's probably plastered  at the bar.”</Entry>
+  <Entry File="mkt_s1\7.wav" ID="7">Aeris “So…  You're saying we can't get a dress  unless we do something  about your father?”</Entry>
+  <Entry File="mkt_s1\8.wav" ID="8">“Yes,I'm sorry.  He's caused so much trouble.”</Entry>
+  <Entry File="mkt_s1\9.wav" ID="9">“!”</Entry>
+  <Entry File="mkt_s1\10.wav" ID="10">“You'd help me bring him back?”</Entry>
+  <Entry File="mkt_s1\11.wav" ID="11">Aeris “Well,if we don't do something,  we don't get a dress,right?”</Entry>
+  <Entry File="mkt_s1\12.wav" ID="12">“Really!?  Please help my crazy old dad.  I just don't know  what to do anymore…”</Entry>
+  <Entry File="mkt_s1\13.wav" ID="13">Aeris “All right,we'll do something.  Let's go,Cloud!”</Entry>
+  <Entry File="mkt_s1\14.wav" ID="14">“So how did it go?”</Entry>
+  <Entry File="mkt_s1\15.wav" ID="15">Cloud “We couldn't find him yet.”</Entry>
+  <Entry File="mkt_s1\16.wav" ID="16">“Oh,you're here. It's ready.  Go try it on.”</Entry>
+  <Entry File="mkt_s1\20.wav" ID="20">Cloud “How…do you put this on?”</Entry>
+  <Entry File="mkt_s1\21.wav" ID="21">Cloud “Whoa! What are you doing!”</Entry>
+  <Entry File="mkt_s1\22.wav" ID="22">Aeris “It's still not right.  A wig! That's what you need!”</Entry>
+  <Entry File="mkt_s1\23a.wav" ID="23" Part="a">“Umm,I thought you might,  so I talked to my friend  about getting one.”</Entry>
+  <Entry File="mkt_s1\23b.wav" ID="23" Part="b">“You know the gym?  You'll find a lot of people  there like you.  Go and talk to them.”</Entry>
+  <Entry File="mkt_s1\24.wav" ID="24">Cloud “…'like you'?  Aeris,  what did you tell him?”</Entry>
+  <Entry File="mkt_s1\25.wav" ID="25">Aeris “Does it matter?  Anyhow,we got a pretty dress!”</Entry>
+  <Entry File="mkt_s1\26.wav" ID="26">“Hmm,not bad.  This may be a new business for me.”</Entry>
+  <Entry File="mkt_s1\27.wav" ID="27">“Yeah,you're right.  Should we try it?”</Entry>
+  <Entry File="mkt_s1\28.wav" ID="28">“Thanks for showing us something new.  My father's got  his motivation back now,  so the dress is on the house.”</Entry>
+  <Entry File="mkt_s1\29.wav" ID="29">Aeris “Walk more nicely like…this,  Miss Cloud.”</Entry>
+  <Entry File="mkt_s1\30.wav" ID="30">Cloud “…What do you mean 'nicely'?”</Entry>
+  <Entry File="mkt_s1\31.wav" ID="31">Aeris “Oh you're so cute,  Miss Cloud.”</Entry>
+  <Entry File="mkt_s1\32.wav" ID="32">“Looks like everything went well.  He's been making the dress  ever since he came back.”</Entry>
+  <Entry File="mkt_s1\33.wav" ID="33">“So?  Were you able to get the wig?”</Entry>
+  <Entry File="mkt_s1\34.wav" ID="34">“Looks like you got it.  So try it on for size.”</Entry>
+  <Entry File="mkt_s1\35.wav" ID="35">“Welcome.  Please take your time.”</Entry>
+  <Entry File="mkt_s1\36.wav" ID="36">“Don't push!  Hooligan!”</Entry>
+  <Entry File="mkt_s1\37.wav" ID="37">“You're dressed normal today.  If something else  interesting comes up,  let me in on it.”</Entry>
+  <Entry File="mkt_s1\38.wav" ID="38">“So,how was it?  Were you able to see him?”</Entry>
+  <Entry File="mkt_s1\39.wav" ID="39">“Hmm,good.  It looks good on you.”</Entry>
+  <Entry File="mkt_s1\40.wav" ID="40">“Looks like you're all set.  Now try it on,  and let's see how it fits.”</Entry>
+  <Entry File="mkt_s1\41.wav" ID="41">Aeris “Aren't you going to change?” Okay…I'm ready Not now</Entry>
+  <Entry File="mkt_s1\42.wav" ID="42">“…Hmm.  It's REALLY somethin'.”</Entry>
+  <Entry File="mkt_s1\43.wav" ID="43">Aeris “Aaah,I want one.  Do you have one that'll  look good on me,too?”</Entry>
+  <Entry File="mkt_s1\44.wav" ID="44">“How's this?”</Entry>
+  <Entry File="mkt_s1\45.wav" ID="45">“How about that one?”</Entry>
+  <Entry File="mkt_s1\46.wav" ID="46">“Father,what are you talking about?  This one's much better.”</Entry>
+  <Entry File="mkt_s1\47.wav" ID="47">“No,what are you saying?  This one.”</Entry>
+  <Entry File="mkt_s1\48.wav" ID="48">Aeris “…I want THIS one.”</Entry>
+  <Entry File="mkt_s1\49.wav" ID="49">“Huh?”</Entry>
+  <Entry File="mkt_s1\50.wav" ID="50">Aeris “I'm going to go change.”</Entry>
+  <Entry File="mkt_s1\51.wav" ID="51">Aeris “…No peeking!”</Entry>
+  <Entry File="mkt_s1\52.wav" ID="52">Aeris “So? How do I look?”</Entry>
+  <Entry File="mkt_s1\53.wav" ID="53">Aeris “Oh,you're no fun!”</Entry>
+  <Entry File="mkt_s1\54a.wav" ID="54" Part="a">“You're…”</Entry>
+  <Entry File="mkt_s1\54b.wav" ID="54" Part="b">“weird.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mkt_s1\0.wav" ID="0">Boutique</Entry>
+	<Entry File="mkt_s1\17.wav" ID="17">Received Key Item "Cotton Dress"!</Entry>
+	<Entry File="mkt_s1\18.wav" ID="18">Received Key Item "Satin Dress"!</Entry>
+	<Entry File="mkt_s1\19.wav" ID="19">Received Key Item "Silk Dress"!</Entry>
+-->
+</VoiceList>

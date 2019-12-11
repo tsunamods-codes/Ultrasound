@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mrkt4\1.wav" ID="1">“Everyone climbed up this wire.  Looks scary…Brrr.”</Entry>
+  <Entry File="mrkt4\2.wav" ID="2">“Oh man!  This is horrible…”</Entry>
+  <Entry File="mrkt4\3.wav" ID="3">“Hey,scary,huh?  Dad told me that  it's the Shinra's doing.”</Entry>
+  <Entry File="mrkt4\4.wav" ID="4">Tifa “Can we climb it?”</Entry>
+  <Entry File="mrkt4\5.wav" ID="5">“Yeah.  It leads to the upper world.”</Entry>
+  <Entry File="mrkt4\6.wav" ID="6">Barret “Alright!   We'll climb the wire!”</Entry>
+  <Entry File="mrkt4\7.wav" ID="7">Cloud “There's no way we can do this.  You know how far it goes up?”</Entry>
+  <Entry File="mrkt4\8.wav" ID="8">Barret “There IS a way!  Look! What's that look like?”</Entry>
+  <Entry File="mrkt4\9.wav" ID="9">Cloud “Just a normal wire.”</Entry>
+  <Entry File="mrkt4\10.wav" ID="10">Barret “Oh yeah? Well to me it looks  like a golden shiny wire of hope.”</Entry>
+  <Entry File="mrkt4\11.wav" ID="11">“You're right.  This is the only way  to save Aeris…”</Entry>
+  <Entry File="mrkt4\12.wav" ID="12">Cloud “OK,that was a bad analogy,  but,Barret,  I understand how you feel.”</Entry>
+  <Entry File="mrkt4\13.wav" ID="13">Cloud “Let's go!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mrkt4\0.wav" ID="0">Wall Market</Entry>
+-->
+</VoiceList>

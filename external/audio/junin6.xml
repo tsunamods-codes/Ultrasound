@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junin6\0.wav" ID="0">Junon Path</Entry>
+	<Entry File="junin6\1.wav" ID="1">[Save Point] Access the menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

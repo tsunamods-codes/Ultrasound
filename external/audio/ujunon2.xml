@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ujunon2\1.wav" ID="1">Cloud “…That's how it is.”</Entry>
+  <Entry File="ujunon2\2.wav" ID="2">Cloud “Great…”</Entry>
+  <Entry File="ujunon2\3.wav" ID="3">Cloud “Hey! Hold on,we're coming!”</Entry>
+  <Entry File="ujunon2\4.wav" ID="4">Cloud “A gift? What am I  supposed to do with it!?”</Entry>
+  <Entry File="ujunon2\5.wav" ID="5">Cloud “Jump to the top of the pole?”</Entry>
+  <Entry File="ujunon2\6.wav" ID="6">Barret “No! You got it all wrong!  We're fighting against the Shinra!”</Entry>
+  <Entry File="ujunon2\7.wav" ID="7">Barret “Hey! Look at that!”</Entry>
+  <Entry File="ujunon2\8.wav" ID="8">Barret “Now ain't that something!  I ain't never seen no dolphin jump like that!”</Entry>
+  <Entry File="ujunon2\9a.wav" ID="9" Part="a">Barret “Good luck Cloud!  If you make it,we'll follow you!”</Entry>
+  <Entry File="ujunon2\9b.wav" ID="9" Part="b">“Whoa,I'll hold the PHS for you.  It'll break if it gets wet.”</Entry>
+  <Entry File="ujunon2\10.wav" ID="10">Tifa “No…stay calm…”</Entry>
+  <Entry File="ujunon2\11.wav" ID="11">Tifa “Look at that!”</Entry>
+  <Entry File="ujunon2\12.wav" ID="12">Aeris “No you're wrong!  We have nothing to do with the Shinra.”</Entry>
+  <Entry File="ujunon2\13.wav" ID="13">Aeris “What's that!?”</Entry>
+  <Entry File="ujunon2\14.wav" ID="14">Red XIII “We don't get along with the Shinra.”</Entry>
+  <Entry File="ujunon2\15.wav" ID="15">Red XIII “Hey! It's a monster!”</Entry>
+  <Entry File="ujunon2\16.wav" ID="16">Yuffie “Hey watch your mouth!  We hate the Shinra!”</Entry>
+  <Entry File="ujunon2\17.wav" ID="17">Yuffie “Whoa,Gawd!”</Entry>
+  <Entry File="ujunon2\18.wav" ID="18">“He-y! Mr.Dolphin!”</Entry>
+  <Entry File="ujunon2\19.wav" ID="19">Priscilla “Who are you guys?  Are you members of Shinra,Inc.?”</Entry>
+  <Entry File="ujunon2\20.wav" ID="20">Priscilla “I don't believe you!  Get out of here!”</Entry>
+  <Entry File="ujunon2\21.wav" ID="21">Priscilla “Be careful,Mr.Dolphin!”</Entry>
+  <Entry File="ujunon2\22.wav" ID="22">Priscilla “Wait a minute.”</Entry>
+  <Entry File="ujunon2\23a.wav" ID="23" Part="a">Priscilla “Pretty cool,huh?  When I blow this whistle,  Mr. Dolphin jumps for me.”</Entry>
+  <Entry File="ujunon2\23b.wav" ID="23" Part="b">“Here!!  This is for you,Cloud!”</Entry>
+  <Entry File="ujunon2\24.wav" ID="24">“Just go into the water,blow this whistle,and  Mr. Dolphin'll jump you to the top of the pole!”</Entry>
+  <Entry File="ujunon2\25.wav" ID="25">“See that rod sticking out at the top?  If you jump just right,you can  climb to the top of the town.”</Entry>
+  <Entry File="ujunon2\26.wav" ID="26">“You wanna jump with Mr. Dolphin?” Explain it to me again Sure I'll pass</Entry>
+  <Entry File="ujunon2\27.wav" ID="27">Priscilla “Come back whenever you want to  see Mr. Dolphin!”</Entry>
+  <Entry File="ujunon2\28.wav" ID="28">Priscilla “There's high voltage running  through the bottom of the tower.  Don't go near it…”</Entry>
+  <Entry File="ujunon2\29.wav" ID="29">“My name is…  Pri-scil-la!  Now you say it.”</Entry>
+  <Entry File="ujunon2\30.wav" ID="30">Priscilla “Did you drown?  It gets deeper the farther you go out.”</Entry>
+  <Entry File="ujunon2\32.wav" ID="32">“Jump up to the cargo ship  on the dolphin?” Yes No</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ujunon2\0.wav" ID="0">Dolphin Offing</Entry>
+	<Entry File="ujunon2\31.wav" ID="31">[SWITCH]   Blow the whistle to call the dolphin.</Entry>
+-->
+</VoiceList>

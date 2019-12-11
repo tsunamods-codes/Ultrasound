@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junpb_1\1.wav" ID="1">“Hey G.I. Joe,  aren't you still on duty?”</Entry>
+  <Entry File="junpb_1\2.wav" ID="2">Tseng “Stay outta this.”</Entry>
+  <Entry File="junpb_1\3.wav" ID="3">Reno “The President is safe  because we're here.”</Entry>
+  <Entry File="junpb_1\4.wav" ID="4">Elena “Just when I think the job's boring,  you guys start messing around.”</Entry>
+  <Entry File="junpb_1\5.wav" ID="5">“I'm sorry. The bar is  only for Shinra employees.”</Entry>
+  <Entry File="junpb_1\6.wav" ID="6">“Mommy…  My mommy…”</Entry>
+  <Entry File="junpb_1\7.wav" ID="7">“I'm a good lookin' man once  I take my uniform off.”</Entry>
+  <Entry File="junpb_1\8.wav" ID="8">“Booze,booze!  Ain't nothing like booze  when you're on the clock.”</Entry>
+  <Entry File="junpb_1\9a.wav" ID="9" Part="a">“I'm sorry.  I'm closing this place down.”</Entry>
+  <Entry File="junpb_1\9b.wav" ID="9" Part="b">“All my regular customers were  killed by Weapon.”</Entry>
+  <Entry File="junpb_1\9c.wav" ID="9" Part="c">“Most of them were pretty weird,  but I had good memories of them.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junpb_1\0.wav" ID="0">Shinra Member's Bar</Entry>
+-->
+</VoiceList>

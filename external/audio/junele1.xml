@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junele1\1a.wav" ID="1" Part="a">“…gulp…  Going do---wn.”</Entry>
+  <Entry File="junele1\1b.wav" ID="1" Part="b">“This floor is the Submarine Dock…”</Entry>
+  <Entry File="junele1\1c.wav" ID="1" Part="c">“Those of you visiting the Underwater Reactor,  please proceed through  the connecting tunnel.”</Entry>
+  <Entry File="junele1\2a.wav" ID="2" Part="a">“…gulp…  Going u---p.”</Entry>
+  <Entry File="junele1\2b.wav" ID="2" Part="b">“Returning to Junon.”</Entry>
+  <Entry File="junele1\3.wav" ID="3">“…gulp…  We're here…”</Entry>
+  <Entry File="junele1\4.wav" ID="4">“…gulp…  (Great…there went two   perfectly good men!)”</Entry>
+  <Entry File="junele1\5.wav" ID="5">“How 'bout,whoever stays alive,  gets to take her out?”</Entry>
+  <Entry File="junele1\6a.wav" ID="6" Part="a">“All right,you're on!!”</Entry>
+  <Entry File="junele1\6b.wav" ID="6" Part="b">“But…  What if both of us…”</Entry>
+  <Entry File="junele1\7.wav" ID="7">“Whoa!!  Don't even talk about that!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junele1\0.wav" ID="0">Elevator</Entry>
+-->
+</VoiceList>

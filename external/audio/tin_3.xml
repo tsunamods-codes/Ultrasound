@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="tin_3\4.wav" ID="4">Barret “All right!!  We made it!”</Entry>
+  <Entry File="tin_3\5.wav" ID="5">Barret “Yo!!  This way!!”</Entry>
+  <Entry File="tin_3\6.wav" ID="6">Barret “Let's go!!  We're gonna dive outta here!!”</Entry>
+  <Entry File="tin_3\7.wav" ID="7">Tifa “…Scary…huh.”</Entry>
+  <Entry File="tin_3\8.wav" ID="8">Cloud “Too late for that now.  Why'd you come along anyway?”</Entry>
+  <Entry File="tin_3\9.wav" ID="9">Tifa “Because…”</Entry>
+  <Entry File="tin_3\10.wav" ID="10">Barret “Hey you two!  There ain't no time for that!”</Entry>
+  <Entry File="tin_3\11a.wav" ID="11" Part="a">Tifa “Yeah!!  I've made up my mind!”</Entry>
+  <Entry File="tin_3\11b.wav" ID="11" Part="b">“Watch closely.  I'm gonna jump!!”</Entry>
+  <Entry File="tin_3\12.wav" ID="12">Cloud “You don't care if I go first?”</Entry>
+  <Entry File="tin_3\13a.wav" ID="13" Part="a">Barret “A leader always stays till the end.”</Entry>
+  <Entry File="tin_3\13b.wav" ID="13" Part="b">“Don't worry 'bout me,just go!”</Entry>
+  <Entry File="tin_3\14a.wav" ID="14" Part="a">Barret “Yo!  Don't go gettin' your spikey-ass hurt!”</Entry>
+  <Entry File="tin_3\14b.wav" ID="14" Part="b">“It's only the beginnin' of the mission!”</Entry>
+  <Entry File="tin_3\15a.wav" ID="15" Part="a">Wedge “Guess who?  It's me,Wedge!”</Entry>
+  <Entry File="tin_3\15b.wav" ID="15" Part="b">“Looks like things were a success.”</Entry>
+  <Entry File="tin_3\16a.wav" ID="16" Part="a">Wedge “I look just like my little brother  in these clothes…”</Entry>
+  <Entry File="tin_3\16b.wav" ID="16" Part="b">“I wonder how everyone is now?”</Entry>
+  <Entry File="tin_3\17a.wav" ID="17" Part="a">Jessie “It's me,Jessie.  How do I look,Cloud?”</Entry>
+  <Entry File="tin_3\17b.wav" ID="17" Part="b">“Do I look good in a Shinra uniform?” Yeah… Not now</Entry>
+  <Entry File="tin_3\18.wav" ID="18">Cloud “…You look great,just like a man.”</Entry>
+  <Entry File="tin_3\19.wav" ID="19">Cloud “Just concentrate on our plan.”</Entry>
+  <Entry File="tin_3\20.wav" ID="20">Jessie “Yay!! I'm so happy  …I think?”</Entry>
+  <Entry File="tin_3\21.wav" ID="21">Jessie “You're right,sorry.”</Entry>
+  <Entry File="tin_3\22.wav" ID="22">Biggs “I always wanted to dress up like this.”</Entry>
+  <Entry File="tin_3\23a.wav" ID="23" Part="a">Barret “Yo!!  Ain't no time to waste!!”</Entry>
+  <Entry File="tin_3\23b.wav" ID="23" Part="b">“…Do something!”</Entry>
+  <Entry File="tin_3\43.wav" ID="43">“Whew--!!”</Entry>
+  <Entry File="tin_3\44.wav" ID="44">Barret “Later!  You take care of the rest!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="tin_3\0.wav" ID="0">Inside Train</Entry>
+	<Entry File="tin_3\1.wav" ID="1">Last train out of Sector 8 Station. Last stop is Sector 7,Train Graveyard. Expected time arrival is 12:23AM, Midgar Standard Time…</Entry>
+	<Entry File="tin_3\2.wav" ID="2">Level 4 Warning!! Car #4: Lock Down</Entry>
+	<Entry File="tin_3\3.wav" ID="3">Car #4: Locked Down Upgrading to maximum security alert!!</Entry>
+	<Entry File="tin_3\24.wav" ID="24" />
+	<Entry File="tin_3\25.wav" ID="25" />
+	<Entry File="tin_3\26.wav" ID="26" />
+	<Entry File="tin_3\27.wav" ID="27" />
+	<Entry File="tin_3\28.wav" ID="28" />
+	<Entry File="tin_3\29.wav" ID="29" />
+	<Entry File="tin_3\30.wav" ID="30" />
+	<Entry File="tin_3\31.wav" ID="31" />
+	<Entry File="tin_3\32.wav" ID="32" />
+	<Entry File="tin_3\33.wav" ID="33" />
+	<Entry File="tin_3\34.wav" ID="34" />
+	<Entry File="tin_3\35.wav" ID="35" />
+	<Entry File="tin_3\36.wav" ID="36" />
+	<Entry File="tin_3\37.wav" ID="37" />
+	<Entry File="tin_3\38.wav" ID="38" />
+	<Entry File="tin_3\39.wav" ID="39" />
+	<Entry File="tin_3\40.wav" ID="40" />
+	<Entry File="tin_3\41.wav" ID="41" />
+	<Entry File="tin_3\42.wav" ID="42" />
+-->
+</VoiceList>

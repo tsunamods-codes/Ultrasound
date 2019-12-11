@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="prisila\1.wav" ID="1">“No…that tickles…”</Entry>
+  <Entry File="prisila\2.wav" ID="2">“No…Stop…”</Entry>
+  <Entry File="prisila\3.wav" ID="3">“Mr. Dolphin…”</Entry>
+  <Entry File="prisila\4.wav" ID="4">Priscilla “Who are you?”</Entry>
+  <Entry File="prisila\5.wav" ID="5">“At least knock when   you enter a lady's room!”</Entry>
+  <Entry File="prisila\6a.wav" ID="6" Part="a">Priscilla “Lifestream?”</Entry>
+  <Entry File="prisila\6b.wav" ID="6" Part="b">“Yeah,I know!  It's Mr. Dolphin's playground.”</Entry>
+  <Entry File="prisila\7.wav" ID="7">“There's a  Three-taloned island south of the continent.  I heard the Lifestream runs below that island.”</Entry>
+  <Entry File="prisila\8.wav" ID="8">“But why are you asking about  the Lifestream?”</Entry>
+  <Entry File="prisila\9a.wav" ID="9" Part="a">Priscilla “Huh,Cloud!?”</Entry>
+  <Entry File="prisila\9b.wav" ID="9" Part="b">“Hurry up and help him!!  He's very important to me.”</Entry>
+  <Entry File="prisila\10.wav" ID="10">Priscilla “Cloud!!”</Entry>
+  <Entry File="prisila\11.wav" ID="11">“Stupid jerk!  Look how much you made me worry!!  Were you at the Lifestream?”</Entry>
+  <Entry File="prisila\12.wav" ID="12">Priscilla “You've gotta be more careful!  Because you're going to marry me one day.”</Entry>
+  <Entry File="prisila\13.wav" ID="13">Priscilla “I'm so happy!!  Someday I'm going to  be Cloud's wife.”</Entry>
+  <Entry File="prisila\14.wav" ID="14">Priscilla “I've decided  I'm gonna be Cloud's wife.”</Entry>
+  <Entry File="prisila\15.wav" ID="15">Cloud “Yeah,that's right.”</Entry>
+  <Entry File="prisila\16.wav" ID="16">Tifa “Cloud fell into the Lifestream  at the North Cave,and  has been missing ever since.”</Entry>
+  <Entry File="prisila\17.wav" ID="17">Cid “We found Cloud!”</Entry>
+  <Entry File="prisila\19.wav" ID="19">“You cannot take on any more Materia.  Please discard some Materia.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="prisila\0.wav" ID="0">Priscilla's House</Entry>
+	<Entry File="prisila\18.wav" ID="18">Received "Shiva" Materia!</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="cosin1\1a.wav" ID="1" Part="a">“Oh,welcome.”</Entry>
+  <Entry File="cosin1\1b.wav" ID="1" Part="b">“The people of this canyon hate to compete.  So almost everything here are replicas.”</Entry>
+  <Entry File="cosin1\1c.wav" ID="1" Part="c">“But that's all right.  Some of them you really can use.”</Entry>
+  <Entry File="cosin1\2a.wav" ID="2" Part="a">“Welcome.  You still want more weapons?  You sure are weird…”</Entry>
+  <Entry File="cosin1\2b.wav" ID="2" Part="b">“Uh,I mean,it's weird.  If there weren't people like you,  I'd be out of business.  Heh,heh,heh…sweat…!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="cosin1\0.wav" ID="0">Cosmo Canyon</Entry>
+	<Entry File="cosin1\3a.wav" ID="3" Part="a">[Turtle's Paradise Newsletter] Number 4</Entry>
+	<Entry File="cosin1\3b.wav" ID="3" Part="b">Now hiring!</Entry>
+	<Entry File="cosin1\3c.wav" ID="3" Part="c">Looking for someone who  can stand long hours of boredom!</Entry>
+	<Entry File="cosin1\3d.wav" ID="3" Part="d"> For details,contact the "Turtle's Paradise"!!</Entry>
+	<Entry File="cosin1\4a.wav" ID="4" Part="a"> Now hiring! </Entry>
+	<Entry File="cosin1\4b.wav" ID="4" Part="b">No experience necessary. Looking for emotionally stable people  who don't get excited at the sight of weapons!</Entry>
+	<Entry File="cosin1\4c.wav" ID="4" Part="c">We offer a small,but good working environment!</Entry>
+	<Entry File="cosin1\5.wav" ID="5">[Save Point] Access Menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

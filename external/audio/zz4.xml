@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="zz4\4.wav" ID="4">Vincent “That voice?  It can't be…”</Entry>
+  <Entry File="zz4\5.wav" ID="5">Vincent “Lucrecia?”</Entry>
+  <Entry File="zz4\6.wav" ID="6">“Vincent?”</Entry>
+  <Entry File="zz4\7.wav" ID="7">Vincent “Lucrecia!!”</Entry>
+  <Entry File="zz4\8.wav" ID="8">“Stay back!!”</Entry>
+  <Entry File="zz4\9.wav" ID="9">Vincent “Lucrecia…  You're alive…”</Entry>
+  <Entry File="zz4\10.wav" ID="10">Vincent “Lucrecia…  You're alive…”</Entry>
+  <Entry File="zz4\11a.wav" ID="11" Part="a">Lucrecia “I wanted to disappear…  I couldn't be with anyone…  I wanted to die…”</Entry>
+  <Entry File="zz4\11b.wav" ID="11" Part="b">“But the Jenova inside me  wouldn't let me die…”</Entry>
+  <Entry File="zz4\12a.wav" ID="12" Part="a">Lucrecia “Lately,I dream a lot of Sephiroth…  My dear,dear child.”</Entry>
+  <Entry File="zz4\12b.wav" ID="12" Part="b">“Ever since he was born  I never got to hold him…”</Entry>
+  <Entry File="zz4\12c.wav" ID="12" Part="c">“Not even once.   You can't call me his mother…  That…is my sin…”</Entry>
+  <Entry File="zz4\13.wav" ID="13">Vincent “Lucrecia…”</Entry>
+  <Entry File="zz4\14.wav" ID="14">Lucrecia “Back!!  Stay back!”</Entry>
+  <Entry File="zz4\15.wav" ID="15">Lucrecia “Vincent…  Won't you please tell me?”</Entry>
+  <Entry File="zz4\16.wav" ID="16">Vincent “What?”</Entry>
+  <Entry File="zz4\17a.wav" ID="17" Part="a">Lucrecia “If Sephiroth is still alive?”</Entry>
+  <Entry File="zz4\17b.wav" ID="17" Part="b">“I heard that he died five years ago.  But I see him in my dreams so often…”</Entry>
+  <Entry File="zz4\17c.wav" ID="17" Part="c">“And I know that physically,like myself,  he can't die so easily.”</Entry>
+  <Entry File="zz4\17d.wav" ID="17" Part="d">“Please,Vincent  tell me…”</Entry>
+  <Entry File="zz4\18.wav" ID="18">Vincent “Lucrecia…  Sephiroth is dead…”</Entry>
+  <Entry File="zz4\21.wav" ID="21">Vincent “Lucrecia…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="zz4\0.wav" ID="0">???</Entry>
+	<Entry File="zz4\1.wav" ID="1">Sephiroth…</Entry>
+	<Entry File="zz4\2.wav" ID="2">Vincent…</Entry>
+	<Entry File="zz4\3.wav" ID="3">Vincent !!!</Entry>
+	<Entry File="zz4\19.wav" ID="19">Received "Death Penalty"!</Entry>
+	<Entry File="zz4\20.wav" ID="20">Received "Chaos"!</Entry>
+-->
+</VoiceList>

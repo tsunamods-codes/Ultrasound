@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="subin_1b\1.wav" ID="1">“NO,NO!!  This is terrible!”</Entry>
+  <Entry File="subin_1b\2.wav" ID="2">“We don't have much time left!  I don't want to die!”</Entry>
+  <Entry File="subin_1b\3a.wav" ID="3" Part="a">“There's still so much more I've got to do!”</Entry>
+  <Entry File="subin_1b\3b.wav" ID="3" Part="b">“I never even got to do my special   victory dance in battle!”</Entry>
+  <Entry File="subin_1b\4a.wav" ID="4" Part="a">“All right!!  Then make this your first victory!!”</Entry>
+  <Entry File="subin_1b\4b.wav" ID="4" Part="b">“Go on,show 'em!!”</Entry>
+  <Entry File="subin_1b\5.wav" ID="5">“Yes,sir!!”</Entry>
+  <Entry File="subin_1b\6.wav" ID="6">“Remember your last training. Begin!!”</Entry>
+  <Entry File="subin_1b\7.wav" ID="7">“I'm back!  An' now I got no regrets!!”</Entry>
+  <Entry File="subin_1b\8.wav" ID="8">“ATT----ACK!!”</Entry>
+  <Entry File="subin_1b\9a.wav" ID="9" Part="a">Cloud “Someone…please.  I'm sorry I can't take it anymore.”</Entry>
+  <Entry File="subin_1b\9b.wav" ID="9" Part="b">“The lack of space,the shaking,  the roar of the engine…”</Entry>
+  <Entry File="subin_1b\10.wav" ID="10">Barret “Stop your blubberin'!!  How we gonna move this without you?”</Entry>
+  <Entry File="subin_1b\11.wav" ID="11">Cid “DAMN!  I've GOT to get back in the air!”</Entry>
+  <Entry File="subin_1b\12.wav" ID="12">Red XIII “I can't budge it.”</Entry>
+  <Entry File="subin_1b\13.wav" ID="13">Yuffie “I…I can't…  I'm history.”</Entry>
+  <Entry File="subin_1b\14.wav" ID="14">Tifa “What are we going to do?  We stole a submarine but can't pilot it.”</Entry>
+  <Entry File="subin_1b\15.wav" ID="15">Vincent “Better hurry.  Reno's getting away.”</Entry>
+  <Entry File="subin_1b\16.wav" ID="16">Cait Sith “I can't fit in this seat…"  No good!”</Entry>
+  <Entry File="subin_1b\17a.wav" ID="17" Part="a">Tifa “See!?”</Entry>
+  <Entry File="subin_1b\17b.wav" ID="17" Part="b">“Just fiddle with the controls,  and we'll get somewhere!”</Entry>
+  <Entry File="subin_1b\18a.wav" ID="18" Part="a">Tifa “Hey Cloud?   Why don't you try piloting it?”</Entry>
+  <Entry File="subin_1b\18b.wav" ID="18" Part="b">“They say you don't get motion sickness   if you're driving.”</Entry>
+  <Entry File="subin_1b\19.wav" ID="19">Tifa “You can do it,Cloud!”</Entry>
+  <Entry File="subin_1b\20.wav" ID="20">Barret “Arrrrrrrgh!!”</Entry>
+  <Entry File="subin_1b\21a.wav" ID="21" Part="a">Barret “EY!! Looks likes we're almost on our way!  Just keep on fiddlin' with it!!”</Entry>
+  <Entry File="subin_1b\21b.wav" ID="21" Part="b">“It's all up to you!”</Entry>
+  <Entry File="subin_1b\22a.wav" ID="22" Part="a">Barret “Don't worry!”</Entry>
+  <Entry File="subin_1b\22b.wav" ID="22" Part="b">“If it breaks down,  I'll smack it one. That'll fix it!”</Entry>
+  <Entry File="subin_1b\23.wav" ID="23">Red XIII “It moved!”</Entry>
+  <Entry File="subin_1b\24.wav" ID="24">Red XIII “Cloud!!  Try it!”</Entry>
+  <Entry File="subin_1b\25.wav" ID="25">Cid “Hunka junk…just gotta do this!”</Entry>
+  <Entry File="subin_1b\26.wav" ID="26">Cid “SEE!  Now you take over!”</Entry>
+  <Entry File="subin_1b\27.wav" ID="27">Cid “I'll be watchin' from here!”</Entry>
+  <Entry File="subin_1b\28.wav" ID="28">Yuffie “HEY---!  It's movin'!”</Entry>
+  <Entry File="subin_1b\29.wav" ID="29">Yuffie “Oh man,this sucks!!  Cloud,do something!”</Entry>
+  <Entry File="subin_1b\30.wav" ID="30">Yuffie “I'll hold my breath,  so HURRY!”</Entry>
+  <Entry File="subin_1b\31.wav" ID="31">Cait Sith “It's movin'---  Keep it up,Cloud!”</Entry>
+  <Entry File="subin_1b\32.wav" ID="32">Cait Sith “Oh please drive safely,Cloud!”</Entry>
+  <Entry File="subin_1b\33a.wav" ID="33" Part="a">Vincent “I'm not very mechanical,but  it seems like we're starting to move.”</Entry>
+  <Entry File="subin_1b\33b.wav" ID="33" Part="b">“Hang in there.”</Entry>
+  <Entry File="subin_1b\34.wav" ID="34">Vincent “Shinra's technology  is really something.”</Entry>
+  <Entry File="subin_1b\35a.wav" ID="35" Part="a">Cloud “Hey,you're right…  I DO feel a little better driving.”</Entry>
+  <Entry File="subin_1b\35b.wav" ID="35" Part="b">“No sweat. Just leave everything to me.”</Entry>
+  <Entry File="subin_1b\36.wav" ID="36">Cloud “Well,now what?” Read the manual Sit in the seat Leave it alone</Entry>
+  <Entry File="subin_1b\37.wav" ID="37">Cloud “Everything seems set…” Read the manual Start the mission!</Entry>
+  <Entry File="subin_1b\38.wav" ID="38">Cloud “This switch?”</Entry>
+  <Entry File="subin_1b\39a.wav" ID="39" Part="a">“Main screen: ON”</Entry>
+  <Entry File="subin_1b\40.wav" ID="40">“Submarine Operation Manual - Beginner's Edition”</Entry>
+  <Entry File="subin_1b\41.wav" ID="41">“Button Placements”</Entry>
+  <Entry File="subin_1b\42.wav" ID="42">“Controls”  [MENU]: Speed Up  [SWITCH]: Fire!   [CANCEL]: Speed Dn</Entry>
+  <Entry File="subin_1b\43.wav" ID="43">“Directional controls”  Up: Descend  Left: Left rotation  Right: Right rotation  Down: Ascend</Entry>
+  <Entry File="subin_1b\44a.wav" ID="44" Part="a">“Mission Orders”  Presently on the ocean floor near Junon,  a Red Leader Submarine carrying  Huge Materia is being escorted  by covert Shinra Submarine Units.</Entry>
+  <Entry File="subin_1b\45.wav" ID="45">“Objective”  Sink the Red Leader Submarine  carrying the Huge Materia!  Time Limit: 10 minutes!</Entry>
+  <Entry File="subin_1b\46.wav" ID="46">“Advice”  1. Get the enemy submarine in front of you!  2. Concentrate attack   on the Red Leader Submarine!  3. If you lose track of the enemy,   push [PAGEDOWN] and use your radar!</Entry>
+  <Entry File="subin_1b\47.wav" ID="47">“Submarine Operation Manual - Intermediate Edition”</Entry>
+  <Entry File="subin_1b\48a.wav" ID="48" Part="a">“Radar Screen”  The mines are found at the top of  the indicators on the screen.</Entry>
+  <Entry File="subin_1b\49.wav" ID="49">“Loading torpedoes”  Preparation time is needed before  the next torpedo can be fired.  Take your time,and don't waste your shots!</Entry>
+  <Entry File="subin_1b\50.wav" ID="50">“Submarine Operation Manual - Advanced Edition”</Entry>
+  <Entry File="subin_1b\51.wav" ID="51">“How to release the "Lock On" mode”  If the sub leaves the center of  the sonar screen,  the "Lock On" mode will reset.</Entry>
+  <Entry File="subin_1b\52.wav" ID="52">“Other Controls”  [PAGEUP]: Climb  [PAGEDOWN]: Sight  [CAMERA]: Dive  [TARGET]: View  [START]: Help &amp; Pause</Entry>
+  <Entry File="subin_1b\53a.wav" ID="53" Part="a">“When Locked On by an enemy torpedo”  Shift up to maximum speed by pressing  [MENU] repeatedly.</Entry>
+  <Entry File="subin_1b\54.wav" ID="54">“I guess…” Victorious in Mini-game Defeat in Mini-game</Entry>
+  <Entry File="subin_1b\55a.wav" ID="55" Part="a">Cloud “Phew! We did it!!”</Entry>
+  <Entry File="subin_1b\55b.wav" ID="55" Part="b">“The Huge Materia should be at the bottom  of the sea by now.  Let's continue the search…”</Entry>
+  <Entry File="subin_1b\56.wav" ID="56">“…All Shinra Submarine Units,do you read…?”</Entry>
+  <Entry File="subin_1b\57.wav" ID="57">Cloud “Hmm…?  …Must be from Shinra.”</Entry>
+  <Entry File="subin_1b\58.wav" ID="58">“…Report,No. 2…”</Entry>
+  <Entry File="subin_1b\59a.wav" ID="59" Part="a">Tifa “No. 2…”</Entry>
+  <Entry File="subin_1b\59b.wav" ID="59" Part="b">“…I saw that written at the dock!  They must mean this sub.”</Entry>
+  <Entry File="subin_1b\60.wav" ID="60">Barret “Is it us?”</Entry>
+  <Entry File="subin_1b\61.wav" ID="61">Red XIII “We're Submarine No. 2”</Entry>
+  <Entry File="subin_1b\62.wav" ID="62">Cid “Make 'em shut up!  Just answer somethin'!”</Entry>
+  <Entry File="subin_1b\63.wav" ID="63">Yuffie “Oh my god!  They mean us.”</Entry>
+  <Entry File="subin_1b\64.wav" ID="64">Cait Sith “We need to respond!”</Entry>
+  <Entry File="subin_1b\65.wav" ID="65">Vincent “We've no choice but to respond.”</Entry>
+  <Entry File="subin_1b\66.wav" ID="66">Cloud “All right,I'll do it.”</Entry>
+  <Entry File="subin_1b\67.wav" ID="67">Cloud “This is Shinra No. 2…  Everything's normal.”</Entry>
+  <Entry File="subin_1b\68.wav" ID="68">“…Roger…”</Entry>
+  <Entry File="subin_1b\69.wav" ID="69">“…Your next mission is…”</Entry>
+  <Entry File="subin_1b\70.wav" ID="70">“…Return to Junon Dock…”</Entry>
+  <Entry File="subin_1b\71.wav" ID="71">“…We will transport the Huge Materia  from the airport…”</Entry>
+  <Entry File="subin_1b\72.wav" ID="72">“…Those without other assignments  will report for guard duty…”</Entry>
+  <Entry File="subin_1b\73.wav" ID="73">“That is all. Over and out…”</Entry>
+  <Entry File="subin_1b\74.wav" ID="74">Cloud “Junon Airport…  We should make it if we hurry.”</Entry>
+  <Entry File="subin_1b\75a.wav" ID="75" Part="a">Cloud “Forget about the Huge Materia for now.”</Entry>
+  <Entry File="subin_1b\75b.wav" ID="75" Part="b">“We're climbing!”</Entry>
+  <Entry File="subin_1b\76.wav" ID="76">Tifa “Aye,aye…  CAPTAIN!”</Entry>
+  <Entry File="subin_1b\77.wav" ID="77">Barret “#%$@! What's all this 'Climbing!' crap?  Gimme a break!”</Entry>
+  <Entry File="subin_1b\78.wav" ID="78">Red XIII “Take o-ff!”</Entry>
+  <Entry File="subin_1b\79.wav" ID="79">Cid “The airport?  No sweat!”</Entry>
+  <Entry File="subin_1b\80.wav" ID="80">Yuffie “Climbing…arrrgh…my ears…!  LET ME OUT--I HATE THIS!”</Entry>
+  <Entry File="subin_1b\81.wav" ID="81">Cait Sith “We gotta hurry!”</Entry>
+  <Entry File="subin_1b\82.wav" ID="82">Vincent “First the ocean,now the air…  What a busy day.”</Entry>
+  <Entry File="subin_1b\84.wav" ID="84">Cloud “…We lost.  I guess I'm just not cut out for all this.”</Entry>
+  <Entry File="subin_1b\85.wav" ID="85">Cloud “We're gettin' outta here!”</Entry>
+  <Entry File="subin_1b\86a.wav" ID="86" Part="a">Cloud “Hear that?  Junon Airport!”</Entry>
+  <Entry File="subin_1b\86b.wav" ID="86" Part="b">“We can still get the Huge Materia back!  Let's hurry!”</Entry>
+  <Entry File="subin_1b\87.wav" ID="87">Cloud “It seems like a key to somewhere…”</Entry>
+  <Entry File="subin_1b\88.wav" ID="88">Cloud “Do you think it's…?”</Entry>
+  <Entry File="subin_1b\89.wav" ID="89">Cloud “It seems really old.”</Entry>
+  <Entry File="subin_1b\90.wav" ID="90">“…Analysis completed…”</Entry>
+  <Entry File="subin_1b\91.wav" ID="91">“…Exact date of origin: undetermined…”</Entry>
+  <Entry File="subin_1b\92.wav" ID="92">“…Estimated to be several thousand years old…”</Entry>
+  <Entry File="subin_1b\93.wav" ID="93">Cloud “Key of the Ancients…”</Entry>
+  <Entry File="subin_1b\94.wav" ID="94">Cloud “Several thousand years…  ……Ancients?”</Entry>
+  <Entry File="subin_1b\96.wav" ID="96">“Anyhow…”</Entry>
+  <Entry File="subin_1b\97.wav" ID="97">Cloud “So this is the Leader Sub…”</Entry>
+  <Entry File="subin_1b\98.wav" ID="98">Cloud “Damn…makes me sick just thinking about it…”</Entry>
+  <Entry File="subin_1b\99.wav" ID="99">“…Huge Materia recovered…”</Entry>
+  <Entry File="subin_1b\100.wav" ID="100">“…No damage appears to have been sustained…”</Entry>
+  <Entry File="subin_1b\101.wav" ID="101">Cloud “…phew…  That's good to hear.”</Entry>
+  <Entry File="subin_1b\103.wav" ID="103">Cloud “Hmmmm…” Fight them Take them prisoner</Entry>
+  <Entry File="subin_1b\104.wav" ID="104">“Piloting a submarine is very difficult!  I am completely clueless!”</Entry>
+  <Entry File="subin_1b\105.wav" ID="105">“I thank you!  I am happy to be a hostage!”</Entry>
+  <Entry File="subin_1b\106.wav" ID="106">“Hey!  Who am I to know?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="subin_1b\0.wav" ID="0">Submarine Bridge</Entry>
+	<Entry File="subin_1b\39b.wav" ID="39" Part="b">Change the screen mode.</Entry>
+	<Entry File="subin_1b\44b.wav" ID="44" Part="b"> Furthermore,it has been confirmed that  several mines have been dispersed  onto the ocean floor.</Entry>
+	<Entry File="subin_1b\44c.wav" ID="44" Part="c"> The ocean floor can only be monitored with  Shinra's Sonar Radar Screen.</Entry>
+	<Entry File="subin_1b\44d.wav" ID="44" Part="d"> Enemy subs can only be detected  within the Sonar area.  Get in front of the detected enemy sub  and "Lock On"!!</Entry>
+	<Entry File="subin_1b\44e.wav" ID="44" Part="e"> Push [SWITCH] to fire the torpedo!</Entry>
+	<Entry File="subin_1b\44f.wav" ID="44" Part="f"> The mines are found on the radar screen  at the top of the indicators.  The mines inflict great damage,  so be careful!</Entry>
+	<Entry File="subin_1b\48b.wav" ID="48" Part="b"> The basic strategies are  to   1) avoid the indicators,  and 2) "Lock On" to enemies from behind.</Entry>
+	<Entry File="subin_1b\48c.wav" ID="48" Part="c"> The lower gauge shows  the sub's remaining power.  The right gauge shows the sub's speed.  Other warnings are as follows…</Entry>
+	<Entry File="subin_1b\48d.wav" ID="48" Part="d"> WARNING…Enemy submarine detected nearby!  ALERT…Approaching torpedo detected!  MINE…Mine detected nearby!  CONFLICT…Collision with the ocean floor!</Entry>
+	<Entry File="subin_1b\53b.wav" ID="53" Part="b"> This will enable you to speed up  past the maximum speed  and outrun the torpedo!  …That is all.</Entry>
+	<Entry File="subin_1b\83.wav" ID="83">Received "Shinra Sub"!</Entry>
+	<Entry File="subin_1b\95.wav" ID="95">Received Key Item "Key to Ancients"!</Entry>
+	<Entry File="subin_1b\102.wav" ID="102">Received Key Item "Huge Materia"!</Entry>
+-->
+</VoiceList>

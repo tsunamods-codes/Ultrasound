@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="kuro_1\1.wav" ID="1">Barret “Damn!  So this is the Temple of the Ancients!”</Entry>
+  <Entry File="kuro_1\2.wav" ID="2">Barret “Oh man,you gotta be kiddin'.  This is makin' me dizzy!”</Entry>
+  <Entry File="kuro_1\3.wav" ID="3">Aeris “Words…feelings…  So many of them here.”</Entry>
+  <Entry File="kuro_1\4a.wav" ID="4" Part="a">Yuffie “Geeeez!  We got our work cut out for us.”</Entry>
+  <Entry File="kuro_1\4b.wav" ID="4" Part="b">“This is starting to get me really dizzy…”</Entry>
+  <Entry File="kuro_1\5.wav" ID="5">Cid “@#$%! @#$%! @#$%!  What the hell's with this place!”</Entry>
+  <Entry File="kuro_1\6.wav" ID="6">Cait Sith “Wow,this place is huge!  I'm starting to get bored.”</Entry>
+  <Entry File="kuro_1\7.wav" ID="7">Vincent “No exits…  We can't turn back.”</Entry>
+  <Entry File="kuro_1\8a.wav" ID="8" Part="a">Red XIII “…sniff…sniff…  This place smells good.”</Entry>
+  <Entry File="kuro_1\8b.wav" ID="8" Part="b">“It smells the same as Cosmo Canyon.”</Entry>
+  <Entry File="kuro_1\9.wav" ID="9">Tifa “What a strange place.  Do you think we're welcome here?”</Entry>
+  <Entry File="kuro_1\10a.wav" ID="10" Part="a">Aeris “…Cloud!  I know it's going to be tough,but…”</Entry>
+  <Entry File="kuro_1\10b.wav" ID="10" Part="b">“Don't give up!  We can do it!”</Entry>
+  <Entry File="kuro_1\11.wav" ID="11">Cloud “Sealed……?  That sound brings back memories.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="kuro_1\0.wav" ID="0">Temple of the Ancients</Entry>
+	<Entry File="kuro_1\12.wav" ID="12">Received "Morph" Materia!</Entry>
+	<Entry File="kuro_1\13.wav" ID="13">Received "Luck Plus" Materia!</Entry>
+	<Entry File="kuro_1\14.wav" ID="14">Received "Turbo Ether"!</Entry>
+	<Entry File="kuro_1\15.wav" ID="15">Received "Mind Source"!</Entry>
+	<Entry File="kuro_1\16.wav" ID="16">You cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="kuro_1\17.wav" ID="17">Received "Trident"!</Entry>
+	<Entry File="kuro_1\18.wav" ID="18">Received "Rocket Punch"!</Entry>
+	<Entry File="kuro_1\19.wav" ID="19">Received "Ribbon"!</Entry>
+-->
+</VoiceList>

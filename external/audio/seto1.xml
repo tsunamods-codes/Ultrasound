@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="seto1\1.wav" ID="1">Red XIII “This is…”</Entry>
+  <Entry File="seto1\2a.wav" ID="2" Part="a">Bugenhagen “…The warrior who fought  against the Gi.”</Entry>
+  <Entry File="seto1\2b.wav" ID="2" Part="b">“He kept them from taking even   one step into Cosmo Canyon.”</Entry>
+  <Entry File="seto1\3.wav" ID="3">Bugenhagen “But he was never able to  return to town…”</Entry>
+  <Entry File="seto1\4.wav" ID="4">Bugenhagen “Look,Nanaki.  Look at your father,  at the warrior,Seto.”</Entry>
+  <Entry File="seto1\5.wav" ID="5">Red XIII “…That…  That's…Seto?”</Entry>
+  <Entry File="seto1\6.wav" ID="6">Bugenhagen “Seto continued to fight the Gi tribe here.  …To protect this Canyon.”</Entry>
+  <Entry File="seto1\7a.wav" ID="7" Part="a">Bugenhagen “Even after the Gi's poisonous arrows  turned his body to stone……”</Entry>
+  <Entry File="seto1\7b.wav" ID="7" Part="b">“Even after they all ran away…  Seto,continued to protect us.”</Entry>
+  <Entry File="seto1\7c.wav" ID="7" Part="c">“And he continues to protect us,  even now.”</Entry>
+  <Entry File="seto1\8.wav" ID="8">Red XIII “Even now…”</Entry>
+  <Entry File="seto1\9a.wav" ID="9" Part="a">Bugenhagen “You thought that he was a coward  and ran away. But he,alone risked  his life to protect Cosmo Canyon.”</Entry>
+  <Entry File="seto1\9b.wav" ID="9" Part="b">“That is your father,Seto.”</Entry>
+  <Entry File="seto1\10.wav" ID="10">Red XIII “That…is Seto?  …!?  Did Mother know?”</Entry>
+  <Entry File="seto1\11.wav" ID="11">Bugenhagen “Ho Ho Hoooo…She knew.  The two of them made me promise  to keep this cave shut.”</Entry>
+  <Entry File="seto1\12a.wav" ID="12" Part="a">Bugenhagen “They asked me to seal it myself  and not to tell a soul.”</Entry>
+  <Entry File="seto1\12b.wav" ID="12" Part="b">“They said we should  forget about this cave.”</Entry>
+  <Entry File="seto1\13.wav" ID="13">Red XIII “…”</Entry>
+  <Entry File="seto1\14.wav" ID="14">Bugenhagen “Cloud…  Would you mind leaving  the two of us alone?”</Entry>
+  <Entry File="seto1\15.wav" ID="15">Bugenhagen “Nanaki. I want you to  continue your journey with  Cloud and the others.”</Entry>
+  <Entry File="seto1\16.wav" ID="16">Red XIII “Grandpa!?”</Entry>
+  <Entry File="seto1\17.wav" ID="17">Bugenhagen “Listen,Nanaki.”</Entry>
+  <Entry File="seto1\18a.wav" ID="18" Part="a">Bugenhagen “Cloud says they are  trying to save the Planet.”</Entry>
+  <Entry File="seto1\18b.wav" ID="18" Part="b">“Honestly,I don't think  it can be done.”</Entry>
+  <Entry File="seto1\18c.wav" ID="18" Part="c">“For even if they stop every reactor  on the Planet,it's only going  to postpone the inevitable.”</Entry>
+  <Entry File="seto1\18d.wav" ID="18" Part="d">“Even if they stop Sephiroth,  everything will perish.”</Entry>
+  <Entry File="seto1\19a.wav" ID="19" Part="a">Bugenhagen “But,Nanaki.  I've been thinking lately.”</Entry>
+  <Entry File="seto1\19b.wav" ID="19" Part="b">“I've been thinking if there was  anything WE could do,”</Entry>
+  <Entry File="seto1\19c.wav" ID="19" Part="c">“as a part of the Planet,something  to help a Planet already  in misery…”</Entry>
+  <Entry File="seto1\20a.wav" ID="20" Part="a">Bugenhagen “No matter what happens,  isn't it important to try?”</Entry>
+  <Entry File="seto1\20b.wav" ID="20" Part="b">“Am I just wishing against fate?”</Entry>
+  <Entry File="seto1\21a.wav" ID="21" Part="a">Bugenhagen “I am too old to do  anything about it…”</Entry>
+  <Entry File="seto1\21b.wav" ID="21" Part="b">“This year,I'll be 130.  Ho Ho Hoooo.”</Entry>
+  <Entry File="seto1\22.wav" ID="22">Bugenhagen “That is why,Nanaki,you must  go with them! For my sake.”</Entry>
+  <Entry File="seto1\23.wav" ID="23">Red XIII “Grandpa…”</Entry>
+  <Entry File="seto1\24a.wav" ID="24" Part="a">Bugenhagen “I wanted to show you your real father  before you left…”</Entry>
+  <Entry File="seto1\24b.wav" ID="24" Part="b">Bugenhagen “I'm so glad that you came back  while I was still alive to show you.”</Entry>
+  <Entry File="seto1\25.wav" ID="25">Red XIII “Grandpa…don't talk like that.  I don't want to think of life…  without you…”</Entry>
+  <Entry File="seto1\26.wav" ID="26">Bugenhagen “Ho Ho Hoooo.  Well,I've had a long life.”</Entry>
+  <Entry File="seto1\27a.wav" ID="27" Part="a">Red XIII “Grandpa!  You must live!”</Entry>
+  <Entry File="seto1\27b.wav" ID="27" Part="b">Red XIII “I'll see to it.”</Entry>
+  <Entry File="seto1\27c.wav" ID="27" Part="c">“I'll see to what's happening  to the Planet. And I'll come  back to tell you.”</Entry>
+  <Entry File="seto1\28.wav" ID="28">Bugenhagen “Nanaki…”</Entry>
+  <Entry File="seto1\29a.wav" ID="29" Part="a">Red XIII “I am Nanaki of  Cosmo Canyon!  The son of the  warrior,Seto!”</Entry>
+  <Entry File="seto1\29b.wav" ID="29" Part="b">“I'll come back a  warrior true  to that noble name!  So please,Grandpa…”</Entry>
+  <Entry File="seto1\30.wav" ID="30">Bugenhagen “That's…Seto's…  Seto…”</Entry>
+  <Entry File="seto1\31.wav" ID="31">Red XIII “Seto…  Fa…Father…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="seto1\0.wav" ID="0">Cet Wall</Entry>
+-->
+</VoiceList>

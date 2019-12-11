@@ -1,0 +1,2 @@
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Voices.ALOutput.ThreadProc() in c:\Users\ficedula\Projects\Voices\Voices\ALOutput.cs:line 170

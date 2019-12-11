@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="cosin1_1\1.wav" ID="1">Elder Hargo “Where did I put it?  I know it's around here…”</Entry>
+  <Entry File="cosin1_1\2.wav" ID="2">Elder Hargo “Mmm? Oh,we have guests.  Good,good.”</Entry>
+  <Entry File="cosin1_1\3a.wav" ID="3" Part="a">Elder Hargo “I know,I know.”</Entry>
+  <Entry File="cosin1_1\3b.wav" ID="3" Part="b">“You came to ask me something,right?  Am I right?” It's about the Promised Land Not really</Entry>
+  <Entry File="cosin1_1\4a.wav" ID="4" Part="a">Elder Hargo “…The Promised Land.  So what do you want to know?”</Entry>
+  <Entry File="cosin1_1\4b.wav" ID="4" Part="b">“There is no one place called  the Promised Land.  That's what I believe.”</Entry>
+  <Entry File="cosin1_1\4c.wav" ID="4" Part="c">“No,no,it does exist.  Hmmm…you can say that.”</Entry>
+  <Entry File="cosin1_1\4d.wav" ID="4" Part="d">“In other words,  it doesn't exist for us,  but it did for the Ancients.”</Entry>
+  <Entry File="cosin1_1\4e.wav" ID="4" Part="e">“The Promised Land is the   resting place of the Ancients.”</Entry>
+  <Entry File="cosin1_1\4f.wav" ID="4" Part="f">“The life of the Ancients is one continuous  journey. A journey to grow trees and plants,  raise animals,and make Mako energy.”</Entry>
+  <Entry File="cosin1_1\4g.wav" ID="4" Part="g">“Their harsh journey continued throughout  their lives…”</Entry>
+  <Entry File="cosin1_1\4h.wav" ID="4" Part="h">“The place they returned to after  their long journey…   Their burial land is the Promised Land.”</Entry>
+  <Entry File="cosin1_1\4i.wav" ID="4" Part="i">“Huh? Supreme Happiness?  I believe that,for the Ancients,  it was the moment that they were  able to return to their Planet,”</Entry>
+  <Entry File="cosin1_1\4j.wav" ID="4" Part="j">“That moment when they were released  from their fate,and gained their  supreme happiness…”</Entry>
+  <Entry File="cosin1_1\4k.wav" ID="4" Part="k">“At least that's what I believe.  I really don't know whether or  not it's true.”</Entry>
+  <Entry File="cosin1_1\5a.wav" ID="5" Part="a">Elder Hargo “Oh,that's not what you're here for?”</Entry>
+  <Entry File="cosin1_1\5b.wav" ID="5" Part="b">“I'd appreciate it if you didn't talk  about such foolish things as   legends and old wives tales.”</Entry>
+  <Entry File="cosin1_1\6a.wav" ID="6" Part="a">Barret “There was this guy who studied  'Planetary Life' here.”</Entry>
+  <Entry File="cosin1_1\6b.wav" ID="6" Part="b">“He couldn't take things the way  they were,so he went to Midgar  to form AVALANCHE.”</Entry>
+  <Entry File="cosin1_1\7.wav" ID="7">“Wanna hear more?” Go on Not really</Entry>
+  <Entry File="cosin1_1\8a.wav" ID="8" Part="a">Barret “Guess you could say this is  where AVALANCHE was born.”</Entry>
+  <Entry File="cosin1_1\8b.wav" ID="8" Part="b">“I always wanted to come here…  And finally…I made it.”</Entry>
+  <Entry File="cosin1_1\9.wav" ID="9">Barret “A lot's happened…” And then? Yeah,whatever…</Entry>
+  <Entry File="cosin1_1\10.wav" ID="10">Barret “And then…?  I don't know what's going to happen,  now that there is no AVALANCHE…”</Entry>
+  <Entry File="cosin1_1\11.wav" ID="11">Barret “What?”</Entry>
+  <Entry File="cosin1_1\12a.wav" ID="12" Part="a">“By the way,those that came  with you are all  at the Cosmo Candle.”</Entry>
+  <Entry File="cosin1_1\12b.wav" ID="12" Part="b">“Are you leaving?”</Entry>
+  <Entry File="cosin1_1\13a.wav" ID="13" Part="a">Elder Hargo “Ahh,here it is.”</Entry>
+  <Entry File="cosin1_1\13b.wav" ID="13" Part="b">“My job is to gather all the   legends and the knowledge of the Planet  and to make a book.”</Entry>
+  <Entry File="cosin1_1\13c.wav" ID="13" Part="c">“Then,even when I return to the Planet,  the children may still be  taught about many things…”</Entry>
+  <Entry File="cosin1_1\14a.wav" ID="14" Part="a">Elder Hargo “Mm…oh,this?  This is the Book of Stars.  I'm just finishing it.”</Entry>
+  <Entry File="cosin1_1\14b.wav" ID="14" Part="b">“Nothing is meaningless.  If I do this then,someday,  someone will run across it.”</Entry>
+  <Entry File="cosin1_1\14c.wav" ID="14" Part="c">“The Ancients did the same.  That is how we know about them,right?  Maybe even my book also…”</Entry>
+  <Entry File="cosin1_1\15a.wav" ID="15" Part="a">Elder Hargo “I think Bugenhagen  has foreseen things.”</Entry>
+  <Entry File="cosin1_1\15b.wav" ID="15" Part="b">“About the Planet…  About Nanaki…  And,about himself…”</Entry>
+  <Entry File="cosin1_1\15c.wav" ID="15" Part="c">“But,Bugenhagen would never  say that.  All he says is 'Ho Ho Hoooo'…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="cosin1_1\0.wav" ID="0">Elder's Room</Entry>
+-->
+</VoiceList>

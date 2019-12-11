@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="fship_4\2.wav" ID="2">Barret “Dammit! Why didn't ya tell me  you could fly an airship!?”</Entry>
+  <Entry File="fship_4\3.wav" ID="3">Barret “I thought…  Tifa was gone for good.”</Entry>
+  <Entry File="fship_4\4.wav" ID="4">Cait Sith “Sorry,but I had to do something  to trick the enemy.”</Entry>
+  <Entry File="fship_4\5.wav" ID="5">Cait Sith “Come on! Everyone is waiting!”</Entry>
+  <Entry File="fship_4\6.wav" ID="6">Tifa “Everyone?  Everyone's here?”</Entry>
+  <Entry File="fship_4\7.wav" ID="7">Barret “Yo,Cid!”</Entry>
+  <Entry File="fship_4\8.wav" ID="8">Barret “When you're ready,  we're headin' for the Corel Reactor.  C'mon Leader-man,let's hurry.”</Entry>
+  <Entry File="fship_4\9.wav" ID="9">Yuffie “Cid????”</Entry>
+  <Entry File="fship_4\10.wav" ID="10">Yuffie “…Urk…  …I'm not down yet.”</Entry>
+  <Entry File="fship_4\11.wav" ID="11">Bugenhagen  “Hmm,hmm,hmm!”</Entry>
+  <Entry File="fship_4\12.wav" ID="12">Bugenhagen “Smells like machinery.”</Entry>
+  <Entry File="fship_4\13.wav" ID="13">Red XIII “Just be patient,old man.”</Entry>
+  <Entry File="fship_4\14a.wav" ID="14" Part="a">Bugenhagen “I love this smell.”</Entry>
+  <Entry File="fship_4\14b.wav" ID="14" Part="b">“Of course,I also love   the smell of nature,too…”</Entry>
+  <Entry File="fship_4\15.wav" ID="15">Bugenhagen “Hmm? The deck's up there?”</Entry>
+  <Entry File="fship_4\16a.wav" ID="16" Part="a">Bugenhagen “Then I'll be on the deck  just passing the time.”</Entry>
+  <Entry File="fship_4\16b.wav" ID="16" Part="b">“I can feel the workings of the Planet  in the smell of the wind.”</Entry>
+  <Entry File="fship_4\16c.wav" ID="16" Part="c">“I also feel the greatness of Man's  wisdom and the knowledge   in the smell of machinery…”</Entry>
+  <Entry File="fship_4\16d.wav" ID="16" Part="d">“Well,bye for now.”</Entry>
+  <Entry File="fship_4\17.wav" ID="17">Red XIII “Gramps…  Sometimes I don't know what  he's talking about.”</Entry>
+  <Entry File="fship_4\18a.wav" ID="18" Part="a">Yuffie “I know you're all dyin' to talk  to a babe like me!”</Entry>
+  <Entry File="fship_4\18b.wav" ID="18" Part="b">“But just leave me alone.  This ship makes me…urk…!!”</Entry>
+  <Entry File="fship_4\19.wav" ID="19">Tifa “No one's…back yet.”</Entry>
+  <Entry File="fship_4\20.wav" ID="20">Cloud “That's just the way it is Tifa.  It was their choice to make.”</Entry>
+  <Entry File="fship_4\21.wav" ID="21">Tifa “What are you going to do,Cloud?”</Entry>
+  <Entry File="fship_4\22.wav" ID="22">Cloud “I'm…a coward.  I don't even have the guts  to call it quits here.”</Entry>
+  <Entry File="fship_4\23.wav" ID="23">Tifa “What's wrong with me?  I guess…I'm scared.”</Entry>
+  <Entry File="fship_4\24.wav" ID="24">Tifa “Cloud!  Say everything'll be fine!”</Entry>
+  <Entry File="fship_4\25.wav" ID="25">Cloud “Say everything'll be fine!”</Entry>
+  <Entry File="fship_4\26.wav" ID="26">Tifa “Wow!”</Entry>
+  <Entry File="fship_4\27.wav" ID="27">Tifa “I don't know why,but suddenly   I feel like everything'll be fine.”</Entry>
+  <Entry File="fship_4\28a.wav" ID="28" Part="a">Tifa “This airship is too big  for just the two of us.”</Entry>
+  <Entry File="fship_4\28b.wav" ID="28" Part="b">“Yeah,it's a little lonely  without everyone.”</Entry>
+  <Entry File="fship_4\29.wav" ID="29">Cloud “Don't worry.  It'll be okay.”</Entry>
+  <Entry File="fship_4\30.wav" ID="30">Cloud “I'll make a big enough  ruckus for everyone.”</Entry>
+  <Entry File="fship_4\31a.wav" ID="31" Part="a">Cloud “Besides,I'm the pilot.”</Entry>
+  <Entry File="fship_4\31b.wav" ID="31" Part="b">“No more flying around  casually like before.”</Entry>
+  <Entry File="fship_4\31c.wav" ID="31" Part="c">“We won't have   time to feel lonely.”</Entry>
+  <Entry File="fship_4\32.wav" ID="32">Tifa “Huh!?”</Entry>
+  <Entry File="fship_4\33.wav" ID="33">Cloud “It's moving…”</Entry>
+  <Entry File="fship_4\34.wav" ID="34">Cloud “Let's go Tifa.”</Entry>
+  <Entry File="fship_4\35.wav" ID="35">“My hands are full,  so I'll excuse myself here!” Fly Airship Chew the fat</Entry>
+  <Entry File="fship_4\37.wav" ID="37">“So things have come to this…  When you want to take off,  just tell the pilot on the bridge.”</Entry>
+  <Entry File="fship_4\38a.wav" ID="38" Part="a">“…Well…  Um,what should I talk about?”</Entry>
+  <Entry File="fship_4\38b.wav" ID="38" Part="b">“Wanna hear  why we rebelled?”</Entry>
+  <Entry File="fship_4\39a.wav" ID="39" Part="a">“Working on the Highwind,  we spent every day slaving  under Heidegger.”</Entry>
+  <Entry File="fship_4\39b.wav" ID="39" Part="b">“Whenever he got yelled at  by the President,he'd immediately  take it out on the crew.”</Entry>
+  <Entry File="fship_4\39c.wav" ID="39" Part="c">“We put up with this all the time,  even when he beat us.”</Entry>
+  <Entry File="fship_4\40a.wav" ID="40" Part="a">“I mean,I finally made it on   the crew of the famous Highwind,  and there's no way I was going  to quit over him.”</Entry>
+  <Entry File="fship_4\40b.wav" ID="40" Part="b">“Let's see,it must've been  a week ago…it was my shift and  we were heading towards the North Cave.”</Entry>
+  <Entry File="fship_4\40c.wav" ID="40" Part="c">“Everyone,including the President  and Scarlet,got on.”</Entry>
+  <Entry File="fship_4\40d.wav" ID="40" Part="d">“And with them,I saw Cid,  a legendary pilot!”</Entry>
+  <Entry File="fship_4\41a.wav" ID="41" Part="a">“And he was looking around   the inside of the ship  looking really,y'know,nostalgic…”</Entry>
+  <Entry File="fship_4\41b.wav" ID="41" Part="b">“He even talked to us.”</Entry>
+  <Entry File="fship_4\41c.wav" ID="41" Part="c">“I couldn't believe it! I was so impressed!  He was every bit as warm-hearted  as we'd always heard.”</Entry>
+  <Entry File="fship_4\41d.wav" ID="41" Part="d">“Cid said that   if he had the Highwind,  things would be a lot easier.”</Entry>
+  <Entry File="fship_4\41e.wav" ID="41" Part="e">“And now here we are off to save the Planet.  It's true. He really overwhelmed me.”</Entry>
+  <Entry File="fship_4\42a.wav" ID="42" Part="a">“And that's why we decided to help.”</Entry>
+  <Entry File="fship_4\42b.wav" ID="42" Part="b">“After the North Cave,we went to Junon,  and I started screaming 'Fire! Fire!'”</Entry>
+  <Entry File="fship_4\42c.wav" ID="42" Part="c">“In the middle of all the commotion,  we stole this ship from the Shinra.”</Entry>
+  <Entry File="fship_4\42d.wav" ID="42" Part="d">“That's how it happened.  Just a minor mutiny against our leaders.”</Entry>
+  <Entry File="fship_4\43a.wav" ID="43" Part="a">“But Barret and  you were captured  by Heidegger…”</Entry>
+  <Entry File="fship_4\43b.wav" ID="43" Part="b">“We waited seven days for a chance  to rescue you guys  before we finally could.”</Entry>
+  <Entry File="fship_4\43c.wav" ID="43" Part="c">“So thanks to our successful mission,we  were able to see you again.”</Entry>
+  <Entry File="fship_4\43d.wav" ID="43" Part="d">“I hope I didn't bore you  too much with that long story.”</Entry>
+  <Entry File="fship_4\44.wav" ID="44">“Huh?  Don't you want  to test my memory on  how we met Cid?”</Entry>
+  <Entry File="fship_4\45.wav" ID="45">“I'm not just shooting the breeze!  I'm also working!”</Entry>
+  <Entry File="fship_4\46a.wav" ID="46" Part="a">“Oh,yeah,yeah.  Are you using Chocobos?”</Entry>
+  <Entry File="fship_4\46b.wav" ID="46" Part="b">“I mean,just loading them up  and transporting them.”</Entry>
+  <Entry File="fship_4\47a.wav" ID="47" Part="a">“I wonder what everyone's going to do   when this fight's over?”</Entry>
+  <Entry File="fship_4\47b.wav" ID="47" Part="b">“I wonder what's gonna happen  to the Highwind?”</Entry>
+  <Entry File="fship_4\48a.wav" ID="48" Part="a">Yuffie “Where's the next stop?  Can't you get there any quicker?”</Entry>
+  <Entry File="fship_4\48b.wav" ID="48" Part="b">“Cloud,put me in your party,  so I can get off this ship.”</Entry>
+  <Entry File="fship_4\49a.wav" ID="49" Part="a">Yuffie “Hmph!”</Entry>
+  <Entry File="fship_4\49b.wav" ID="49" Part="b">“I wonder why anyone would ever   make an airship like this…”</Entry>
+  <Entry File="fship_4\49c.wav" ID="49" Part="c">“Ugh…ugh…”</Entry>
+  <Entry File="fship_4\50a.wav" ID="50" Part="a">Yuffie “What? Are we there?”</Entry>
+  <Entry File="fship_4\50b.wav" ID="50" Part="b">“I know it's all for Wutai,  But I can't take much more of this.”</Entry>
+  <Entry File="fship_4\51a.wav" ID="51" Part="a">Yuffie “Cloud…urp…ugh.”</Entry>
+  <Entry File="fship_4\51b.wav" ID="51" Part="b">“You know,I was thinking…phew…  Why does Materia always have  something to do with  battles or magic?”</Entry>
+  <Entry File="fship_4\51c.wav" ID="51" Part="c">“I bet the Ancients must've always been fighting.”</Entry>
+  <Entry File="fship_4\51d.wav" ID="51" Part="d">“It must've been…ugh…terrible…”</Entry>
+  <Entry File="fship_4\52a.wav" ID="52" Part="a">Yuffie “Are you waiting for Cloud?”</Entry>
+  <Entry File="fship_4\52b.wav" ID="52" Part="b">“He's flying right now,so you can't get him.”</Entry>
+  <Entry File="fship_4\52c.wav" ID="52" Part="c">“Were you going to force me  into the submarine right now?”</Entry>
+  <Entry File="fship_4\52d.wav" ID="52" Part="d">“Quit it!  If you want to go,then just leave me behind.”</Entry>
+  <Entry File="fship_4\52e.wav" ID="52" Part="e">“…ooooooh.  What're you talking about? I…”</Entry>
+  <Entry File="fship_4\53a.wav" ID="53" Part="a">Yuffie “What's the pilot like?”</Entry>
+  <Entry File="fship_4\53b.wav" ID="53" Part="b">“Tell him Yuffie says if he pilots  the plane smoothly,I'll give him  my autograph…”</Entry>
+  <Entry File="fship_4\54a.wav" ID="54" Part="a">Yuffie “Headed for…Midgar?”</Entry>
+  <Entry File="fship_4\54b.wav" ID="54" Part="b">“Uh,a,anywhere's fine…I don't care.  Just hurry up and land this thing.”</Entry>
+  <Entry File="fship_4\55.wav" ID="55">Yuffie “Cloud…sign this.”</Entry>
+  <Entry File="fship_4\56.wav" ID="56">Cloud “What is it?”</Entry>
+  <Entry File="fship_4\57a.wav" ID="57" Part="a">Yuffie “It's a contract that says when the war is over,  all the Materia will belong to me.”</Entry>
+  <Entry File="fship_4\57b.wav" ID="57" Part="b">“It's all in there. Read it  carefully and then sign it,all right?”</Entry>
+  <Entry File="fship_4\58.wav" ID="58">Cloud “Forget it,  I'm not even gonna read it.”</Entry>
+  <Entry File="fship_4\59.wav" ID="59">Cloud “Whenever I read,  I get airsick.”</Entry>
+  <Entry File="fship_4\60a.wav" ID="60" Part="a">Yuffie “Oh yeah?”</Entry>
+  <Entry File="fship_4\60b.wav" ID="60" Part="b">“I'm the same way,so I can't say too much.”</Entry>
+  <Entry File="fship_4\60c.wav" ID="60" Part="c">“Damn! My plan failed.  Let's pick on Red XIII later  to let off steam.”</Entry>
+  <Entry File="fship_4\62a.wav" ID="62" Part="a">Yuffie “Huh?”</Entry>
+  <Entry File="fship_4\62b.wav" ID="62" Part="b">“How would you even know?  You don't know how tough  it is…getting sick on boats and rides…”</Entry>
+  <Entry File="fship_4\62c.wav" ID="62" Part="c">“So,please…just leave me alone.”</Entry>
+  <Entry File="fship_4\63a.wav" ID="63" Part="a">Cloud “I really do understand,Yuffie.  When I get sick on a flight,it's a real killer.”</Entry>
+  <Entry File="fship_4\63b.wav" ID="63" Part="b">“When I was in SOLDIER,  I completely forgot about my motion sickness.”</Entry>
+  <Entry File="fship_4\64.wav" ID="64">Yuffie “Oh…”</Entry>
+  <Entry File="fship_4\65.wav" ID="65">Yuffie “Isn't there any way to prevent this?”</Entry>
+  <Entry File="fship_4\66.wav" ID="66">Cloud “Well,according to my research…”</Entry>
+  <Entry File="fship_4\67a.wav" ID="67" Part="a">Cloud “First off,if you're nervous a lot,  you won't get sick.”</Entry>
+  <Entry File="fship_4\67b.wav" ID="67" Part="b">“But you can't always be nervous.”</Entry>
+  <Entry File="fship_4\68a.wav" ID="68" Part="a">Cloud “With this much space,your best  bet is to move around  while you're riding.”</Entry>
+  <Entry File="fship_4\68b.wav" ID="68" Part="b">“It also might be a good idea to   stretch sometimes,too.”</Entry>
+  <Entry File="fship_4\69a.wav" ID="69" Part="a">Cloud “But in SOLDIER,we spent  a lot of time in trucks.”</Entry>
+  <Entry File="fship_4\69b.wav" ID="69" Part="b">“That sucked!”</Entry>
+  <Entry File="fship_4\70a.wav" ID="70" Part="a">Cloud “And there's one thing you mustn't do  when riding.”</Entry>
+  <Entry File="fship_4\70b.wav" ID="70" Part="b">“And that is…”</Entry>
+  <Entry File="fship_4\71.wav" ID="71">Cloud “Read!”</Entry>
+  <Entry File="fship_4\72.wav" ID="72">Yuffie “Read!”</Entry>
+  <Entry File="fship_4\73a.wav" ID="73" Part="a">Cloud “Once you get sick,there's nothing  anyone can do.”</Entry>
+  <Entry File="fship_4\73b.wav" ID="73" Part="b">“I know it's tough…”</Entry>
+  <Entry File="fship_4\74a.wav" ID="74" Part="a">Yuffie “…So you‘re a little better off  than me.”</Entry>
+  <Entry File="fship_4\74b.wav" ID="74" Part="b">“But I don't feel…well.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="fship_4\0.wav" ID="0">Highwind</Entry>
+	<Entry File="fship_4\1.wav" ID="1" />
+	<Entry File="fship_4\36.wav" ID="36">[OK] to move ahead [CANCEL] to land [MENU] to call the bridge [Directional button:up] lower altitude [Directional button:down]  raise altitude [Directional button:left]  move left [Directional button:right]  move right [PAGEUP] arc Left [PAGEDOWN] arc Right [ASSIST] to strafe [START]  toggle map</Entry>
+	<Entry File="fship_4\38c.wav" ID="38" Part="c">Listen Don't care</Entry>
+	<Entry File="fship_4\61.wav" ID="61" />
+-->
+</VoiceList>

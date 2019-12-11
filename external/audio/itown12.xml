@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="itown12\1.wav" ID="1">Barret “So what about him?  You know…Cloud?”</Entry>
+  <Entry File="itown12\2a.wav" ID="2" Part="a">Cid “Listen Doc,  why don't you tell us the truth.”</Entry>
+  <Entry File="itown12\2b.wav" ID="2" Part="b">“What about Cloud?  Is he all right?”</Entry>
+  <Entry File="itown12\3.wav" ID="3">Red XIII “Tell me doctor,  is Cloud all right?  I mean will he heal?”</Entry>
+  <Entry File="itown12\4.wav" ID="4">Yuffie “Hey Doc,is he okay?  Is he gonna heal?”</Entry>
+  <Entry File="itown12\5.wav" ID="5">Cait Sith “Hey doctor,is Cloud all right?  Is he gonna get better?  Come on,tell us the truth”</Entry>
+  <Entry File="itown12\6a.wav" ID="6" Part="a">“I'll say it again,  he's got Mako poisoning.  I've never seen a case this bad…”</Entry>
+  <Entry File="itown12\6b.wav" ID="6" Part="b">“An immense amount of  Mako-drenched knowledge was  infused into his brain.”</Entry>
+  <Entry File="itown12\6c.wav" ID="6" Part="c">“It's a miracle he survived!  No normal human could have.”</Entry>
+  <Entry File="itown12\7.wav" ID="7">Barret “No wonder…  After fallin' in the Lifestream an'  bein' washed up here…”</Entry>
+  <Entry File="itown12\8.wav" ID="8">Cid “No wonder…  After all,he fell into the Lifestream  and was carried down here.”</Entry>
+  <Entry File="itown12\9.wav" ID="9">Red XIII “No wonder. He fell into the  Lifestream and washed up here…”</Entry>
+  <Entry File="itown12\10.wav" ID="10">Yuffie “No lie.  After fallin' head first into the   Lifestream.”</Entry>
+  <Entry File="itown12\11.wav" ID="11">Cait Sith “No wonder.  After falling into the Lifestream…”</Entry>
+  <Entry File="itown12\12a.wav" ID="12" Part="a">“But remember,the light of hope  can be found anywhere.”</Entry>
+  <Entry File="itown12\12b.wav" ID="12" Part="b">“If you give up hope…  What will happen to him?”</Entry>
+  <Entry File="itown12\13.wav" ID="13">Barret “…hope…”</Entry>
+  <Entry File="itown12\14a.wav" ID="14" Part="a">Barret “Hey,but honestly,man…  Do I really want him to come back?”</Entry>
+  <Entry File="itown12\14b.wav" ID="14" Part="b">“What did he do for the world?  What can he do for us from here on out?  He may be nothing more than  Sephiroth's shadow…”</Entry>
+  <Entry File="itown12\15.wav" ID="15">“Is something wrong?”</Entry>
+  <Entry File="itown12\16.wav" ID="16">Barret “No,nothin'. Nothin' at all,Doc.”</Entry>
+  <Entry File="itown12\17a.wav" ID="17" Part="a">Cid “…Hope…”</Entry>
+  <Entry File="itown12\17b.wav" ID="17" Part="b">“I guess that's all that's left now…”</Entry>
+  <Entry File="itown12\18.wav" ID="18">Red XIII “Hmm,I know he'll recover!  Cloud was a strong   member of SOLDIER.”</Entry>
+  <Entry File="itown12\19.wav" ID="19">Yuffie “Yeah,that's right.  Besides,WE'RE here for him.  He's gotta get better!”</Entry>
+  <Entry File="itown12\20a.wav" ID="20" Part="a">Cait Sith “Yeah!  I know Cloud'll get better!”</Entry>
+  <Entry File="itown12\20b.wav" ID="20" Part="b">“With friends like us worrying about him  He'll pull through.”</Entry>
+  <Entry File="itown12\21.wav" ID="21">Tifa “…”</Entry>
+  <Entry File="itown12\22.wav" ID="22">Barret “You okay?”</Entry>
+  <Entry File="itown12\23.wav" ID="23">Cid “You okay?”</Entry>
+  <Entry File="itown12\24.wav" ID="24">Red XIII “Are you all right,Tifa?”</Entry>
+  <Entry File="itown12\25.wav" ID="25">Yuffie “You okay,Tifa?”</Entry>
+  <Entry File="itown12\26.wav" ID="26">Cait Sith “You all right?”</Entry>
+  <Entry File="itown12\27a.wav" ID="27" Part="a">Tifa “Yes…  I'm sorry to worry you all.”</Entry>
+  <Entry File="itown12\27b.wav" ID="27" Part="b">“There's something I want to  say to you…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="itown12\0.wav" ID="0">Mideel</Entry>
+-->
+</VoiceList>

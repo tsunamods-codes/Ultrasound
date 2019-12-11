@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jailin3\0.wav" ID="0">Cloud “Looks like we could get some sleep here.” Sleep Don't sleep</Entry>
+</VoiceList>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="uutai2\1.wav" ID="1">“That five-storied pagoda  over there is called  the Pagoda of the Five Mighty Gods…”</Entry>
+  <Entry File="uutai2\2a.wav" ID="2" Part="a">“The Five Gods are Power,Speed,  Magic,War and Omni. Omni has  the best of the others.”</Entry>
+  <Entry File="uutai2\2b.wav" ID="2" Part="b">“For generations,we in Wutai have   worshipped Da-chao the Water God.”</Entry>
+  <Entry File="uutai2\2c.wav" ID="2" Part="c">“Legend has it that the village has  been protected by Da-chao,  the Water God,and the Five Mighty Gods.”</Entry>
+  <Entry File="uutai2\2d.wav" ID="2" Part="d">“But,in the last battle,  we didn't fare so well…  I guess our beliefs were  only based on legend.”</Entry>
+  <Entry File="uutai2\3a.wav" ID="3" Part="a">“Have you ever heard of the  Water God's scales?”</Entry>
+  <Entry File="uutai2\3b.wav" ID="3" Part="b">“They're not just regular scales.  They have special hidden powers.  They're impervious to  the strongest flames.”</Entry>
+  <Entry File="uutai2\3c.wav" ID="3" Part="c">“But,of course,I don't think  they'd stand up to the fire  that huge eerie-lookin' Meteor's  gonna make when it crashes down.”</Entry>
+  <Entry File="uutai2\4.wav" ID="4">Reno “Hmm…  Corneo's good at escaping…”</Entry>
+  <Entry File="uutai2\5.wav" ID="5">Rude “…Elena.”</Entry>
+  <Entry File="uutai2\6.wav" ID="6">Reno “Let's go,Rude.  We'll give them a taste of what  the Turks can do.”</Entry>
+  <Entry File="uutai2\7.wav" ID="7">Reno “That sounded okay.”</Entry>
+  <Entry File="uutai2\8a.wav" ID="8" Part="a">Reno “If he has Elena,that's going to make  things a little difficult.”</Entry>
+  <Entry File="uutai2\8b.wav" ID="8" Part="b">“And uh…”</Entry>
+  <Entry File="uutai2\9a.wav" ID="9" Part="a">Cloud “…OK.  Corneo took Yuffie from us.”</Entry>
+  <Entry File="uutai2\9b.wav" ID="9" Part="b">“And without Yuffie,  there's no way   we'll get our Materia back.”</Entry>
+  <Entry File="uutai2\10a.wav" ID="10" Part="a">Tifa “…All right.  Corneo stole Yuffie  from us as well.”</Entry>
+  <Entry File="uutai2\10b.wav" ID="10" Part="b">“And without her,  there's no way  we'll get our Materia back.”</Entry>
+  <Entry File="uutai2\11a.wav" ID="11" Part="a">Cid “That's just beautiful!  And now that *#$^@'s walked off  with Yuffie too!”</Entry>
+  <Entry File="uutai2\11b.wav" ID="11" Part="b">“And without that brat,  we can't get our hands  on our Materia!”</Entry>
+  <Entry File="uutai2\12a.wav" ID="12" Part="a">Reno “Don't misunderstand.”</Entry>
+  <Entry File="uutai2\12b.wav" ID="12" Part="b">“We have no intention of joining you.  We're only agreeing not to  fight each other…for now.”</Entry>
+  <Entry File="uutai2\13a.wav" ID="13" Part="a">Cloud “That's fine.  We have no intention of  cooperating with you,either.”</Entry>
+  <Entry File="uutai2\13b.wav" ID="13" Part="b">“Now,uh,which direction did  Corneo run off?”</Entry>
+  <Entry File="uutai2\14a.wav" ID="14" Part="a">Tifa “The same goes for us.  We don't want to make friends  with the Turks.”</Entry>
+  <Entry File="uutai2\14b.wav" ID="14" Part="b">“Now,which direction did Corneo  run off?”</Entry>
+  <Entry File="uutai2\15a.wav" ID="15" Part="a">Cid “Of course!  There ain't no way we'd wanna  work with the Turks anyway!”</Entry>
+  <Entry File="uutai2\15b.wav" ID="15" Part="b">“Anyhow,which direction did  that %^$*&amp; run off?”</Entry>
+  <Entry File="uutai2\16.wav" ID="16">Reno “Hmm,nice attitude.  Here's a clue,it's the   most obvious place.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="uutai2\0.wav" ID="0">Wutai,Pagoda</Entry>
+-->
+</VoiceList>

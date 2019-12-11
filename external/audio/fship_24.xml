@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="fship_24\1.wav" ID="1">Cloud “Sephiroth's energy barrier is gone…”</Entry>
+  <Entry File="fship_24\2.wav" ID="2">Cloud “Cid!  Can the Airship get inside?”</Entry>
+  <Entry File="fship_24\3.wav" ID="3">Cloud “Right,sorry about that.”</Entry>
+  <Entry File="fship_24\4.wav" ID="4">Barret “Yo,Cait Sith!  Now what?”</Entry>
+  <Entry File="fship_24\5.wav" ID="5">Cid “Huh?  He's my pilot,ain't he!?  Of course he can go anywhere!”</Entry>
+  <Entry File="fship_24\6.wav" ID="6">Cait Sith “Hold it!”</Entry>
+  <Entry File="fship_24\7.wav" ID="7">Cait Sith “Scarlet!  Heidegger!  What's going on?”</Entry>
+  <Entry File="fship_24\8.wav" ID="8">Cloud “Can't you stop the Mako reactor?”</Entry>
+  <Entry File="fship_24\9.wav" ID="9">Cloud “Must stop Hojo…first.”</Entry>
+  <Entry File="fship_24\10.wav" ID="10">Barret “YO! Do somethin'!  Ya big cat!”</Entry>
+  <Entry File="fship_24\11.wav" ID="11">Barret “You're busted,Reeve!”</Entry>
+  <Entry File="fship_24\12.wav" ID="12">“Too late tryin' to hide it now…”</Entry>
+  <Entry File="fship_24\13.wav" ID="13">Barret “You're from Shinra,ain't ya?  So why's it impossible!?”</Entry>
+  <Entry File="fship_24\14.wav" ID="14">Barret “An explosion!!”</Entry>
+  <Entry File="fship_24\15.wav" ID="15">Barret “Damn!”</Entry>
+  <Entry File="fship_24\16.wav" ID="16">Cid “We came a long way to get here.  You better not double-cross us now!”</Entry>
+  <Entry File="fship_24\17.wav" ID="17">Cid “You damn fool!  Don't you understand anything I'm saying?”</Entry>
+  <Entry File="fship_24\18.wav" ID="18">“I don't give a damn about Shinra.  If you're a man… no,if you're a human being,  you'll save the planet!  Don't you even care?”</Entry>
+  <Entry File="fship_24\19.wav" ID="19">Cid “Why?  Can't you just shut off the valve?”</Entry>
+  <Entry File="fship_24\20.wav" ID="20">Cait Sith “We're sunk.  Hojo's doing this on his own…”</Entry>
+  <Entry File="fship_24\21.wav" ID="21">“…? …? Huh?”</Entry>
+  <Entry File="fship_24\22.wav" ID="22">“I don't like this…”</Entry>
+  <Entry File="fship_24\23.wav" ID="23">Cait Sith “Forget that…the CANNON!  We've got to get to Midgar!  That's the first thing!!”</Entry>
+  <Entry File="fship_24\24.wav" ID="24">Cait Sith “…We can't stop it.”</Entry>
+  <Entry File="fship_24\25.wav" ID="25">Cait Sith “…”</Entry>
+  <Entry File="fship_24\26.wav" ID="26">Cait Sith “I can't make you trust me…”</Entry>
+  <Entry File="fship_24\27.wav" ID="27">Cait Sith “No way! If we shut down the reactor,  all hell will break loose!!”</Entry>
+  <Entry File="fship_24\28.wav" ID="28">Cait Sith “Yeah,it's easy to shut off  the reactor's pipe valves…”</Entry>
+  <Entry File="fship_24\29a.wav" ID="29" Part="a">“But the reactor made a path for the energy  to escape from below.”</Entry>
+  <Entry File="fship_24\29b.wav" ID="29" Part="b">“Once you open that,  it'll be impossible to close it  until everything blasts out…”</Entry>
+  <Entry File="fship_24\30.wav" ID="30">“And we can't try to stop the energy  from gushing out…”</Entry>
+  <Entry File="fship_24\31.wav" ID="31">Cait Sith “This blast'll be way stronger than  when the Sector 1 Reactor blew up!”</Entry>
+  <Entry File="fship_24\32.wav" ID="32">Cloud “I know!”</Entry>
+  <Entry File="fship_24\33a.wav" ID="33" Part="a">Cait Sith “But!”</Entry>
+  <Entry File="fship_24\33b.wav" ID="33" Part="b">“But you'll come,won't you!?”</Entry>
+  <Entry File="fship_24\34.wav" ID="34">Cid “Hey!”</Entry>
+  <Entry File="fship_24\35.wav" ID="35">Cid “I'm leaving the ship in your hands!”</Entry>
+  <Entry File="fship_24\36.wav" ID="36">“I'm heading for Midgar!”</Entry>
+  <Entry File="fship_24\37a.wav" ID="37" Part="a">Barret “Even if we get there,  Midgar's under martial law!”</Entry>
+  <Entry File="fship_24\37b.wav" ID="37" Part="b">“There'll be no way  we could slip into the slums.”</Entry>
+  <Entry File="fship_24\38.wav" ID="38">Tifa “Looks like all transportation  from the slums is cut off…”</Entry>
+  <Entry File="fship_24\39a.wav" ID="39" Part="a">Cid “Hey,hey,whaddya think  we have Highwind for?”</Entry>
+  <Entry File="fship_24\39b.wav" ID="39" Part="b">“Where are we now!?”</Entry>
+  <Entry File="fship_24\40.wav" ID="40">Barret “Huh? Where are we?”</Entry>
+  <Entry File="fship_24\41.wav" ID="41">Cid “If land's no go…  We'll go by air!”</Entry>
+  <Entry File="fship_24\42.wav" ID="42">Cloud “Okay then!  We'll parachute into Midgar!!”</Entry>
+  <Entry File="fship_24\43.wav" ID="43">“We've reached Midgar!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="fship_24\0.wav" ID="0">Bridge</Entry>
+-->
+</VoiceList>

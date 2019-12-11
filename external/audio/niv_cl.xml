@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="niv_cl\1.wav" ID="1">Ù“…seem pretty tired…”Ù</Entry>
+  <Entry File="niv_cl\2.wav" ID="2">Cloud “…!?”</Entry>
+  <Entry File="niv_cl\3.wav" ID="3">Ù“I haven't slept in a bed like this    …for a long time.”Ù</Entry>
+  <Entry File="niv_cl\4.wav" ID="4">Cloud “Oh,yeah.”</Entry>
+  <Entry File="niv_cl\5.wav" ID="5">Ù“Ever since then.”Ù</Entry>
+  <Entry File="niv_cl\6.wav" ID="6">“My,how you've grown.”</Entry>
+  <Entry File="niv_cl\7.wav" ID="7">“I'll bet the girls never leave you alone.”</Entry>
+  <Entry File="niv_cl\8.wav" ID="8">Cloud “…Not really.”</Entry>
+  <Entry File="niv_cl\9a.wav" ID="9" Part="a">“…I'm worried about you.”</Entry>
+  <Entry File="niv_cl\9b.wav" ID="9" Part="b">“There are a lot of temptations in the city…”</Entry>
+  <Entry File="niv_cl\9c.wav" ID="9" Part="c">“I'd feel a lot better if you just settled down    with a nice girlfriend.”</Entry>
+  <Entry File="niv_cl\10.wav" ID="10">Cloud “…I'm all right.”</Entry>
+  <Entry File="niv_cl\11a.wav" ID="11" Part="a">“You should have…”</Entry>
+  <Entry File="niv_cl\11b.wav" ID="11" Part="b">“an older girlfriend,one that'll    take care of you.”</Entry>
+  <Entry File="niv_cl\11c.wav" ID="11" Part="c">“I think that would be best for you.”</Entry>
+  <Entry File="niv_cl\12.wav" ID="12">Cloud “I'm not interested.”</Entry>
+  <Entry File="niv_cl\13.wav" ID="13">Cloud “This is…my house.    It has nothing to do with what    happened five years ago.”</Entry>
+  <Entry File="niv_cl\14a.wav" ID="14" Part="a">Cloud “Hey…”</Entry>
+  <Entry File="niv_cl\14b.wav" ID="14" Part="b">“I can't…remember much else.    There's…nothing more to talk about.”</Entry>
+  <Entry File="niv_cl\15.wav" ID="15">Aeris “That's all right,Cloud.”</Entry>
+  <Entry File="niv_cl\16.wav" ID="16">Barret “Yo wait,I wanna hear.”</Entry>
+  <Entry File="niv_cl\17.wav" ID="17">Aeris “Me too!    It's been a long time,right?”</Entry>
+  <Entry File="niv_cl\18a.wav" ID="18" Part="a">Barret “Tell us more!”</Entry>
+  <Entry File="niv_cl\18b.wav" ID="18" Part="b">“You saw your family,right?”   Don't want to talk about it   All right…</Entry>
+  <Entry File="niv_cl\19.wav" ID="19">Barret “Well,I ain't gonna force ya…”</Entry>
+  <Entry File="niv_cl\20a.wav" ID="20" Part="a">Cloud “I don't know if you'd call it a 'family'…”</Entry>
+  <Entry File="niv_cl\20b.wav" ID="20" Part="b">“My father…died when I was still young.”</Entry>
+  <Entry File="niv_cl\20c.wav" ID="20" Part="c">“That's why my mom……   lived alone in this house.”</Entry>
+  <Entry File="niv_cl\21.wav" ID="21">Cloud “Yeah,I saw my mom.”</Entry>
+  <Entry File="niv_cl\22a.wav" ID="22" Part="a">Cloud “My mom…she was a vibrant woman.    Hadn't changed at all.”</Entry>
+  <Entry File="niv_cl\22b.wav" ID="22" Part="b">“But a few days later,she died…”</Entry>
+  <Entry File="niv_cl\22c.wav" ID="22" Part="c">“But when I saw her,she looked fine.”</Entry>
+  <Entry File="niv_cl\23.wav" ID="23">Cloud “Uh?”</Entry>
+  <Entry File="niv_cl\24.wav" ID="24">“Yes?”</Entry>
+  <Entry File="niv_cl\25.wav" ID="25">“Cloud!?”</Entry>
+  <Entry File="niv_cl\26.wav" ID="26">“Welcome home,Cloud!”</Entry>
+  <Entry File="niv_cl\27.wav" ID="27">Cloud “Hi,Mom.”</Entry>
+  <Entry File="niv_cl\28.wav" ID="28">“Come,come…    Let me take a look at you!”</Entry>
+  <Entry File="niv_cl\29.wav" ID="29">“Hmmm…”</Entry>
+  <Entry File="niv_cl\30.wav" ID="30">“You look so handsome.”</Entry>
+  <Entry File="niv_cl\31.wav" ID="31">“So is this a SOLDIER uniform?”</Entry>
+  <Entry File="niv_cl\32.wav" ID="32">Cloud “…Mom,I…”</Entry>
+  <Entry File="niv_cl\33.wav" ID="33">“Are you eating right?”</Entry>
+  <Entry File="niv_cl\34.wav" ID="34">Cloud “I'm all right.    The Company takes care of me.”</Entry>
+  <Entry File="niv_cl\35a.wav" ID="35" Part="a">“Is that so?”</Entry>
+  <Entry File="niv_cl\35b.wav" ID="35" Part="b">“I know you can't cook…”</Entry>
+  <Entry File="niv_cl\35c.wav" ID="35" Part="c">“I've been worried sick about you.”</Entry>
+  <Entry File="niv_cl\36.wav" ID="36">“Cloud?”</Entry>
+  <Entry File="niv_cl\37.wav" ID="37">“You know,Cloud…”</Entry>
+  <Entry File="niv_cl\38.wav" ID="38">“…isn't that right,Cloud?”</Entry>
+  <Entry File="niv_cl\39.wav" ID="39">“I'll always be your mother…”</Entry>
+  <Entry File="niv_cl\40.wav" ID="40">Cloud “…Let's stop this…”</Entry>
+  <Entry File="niv_cl\41.wav" ID="41">“What is it?” Nothing I want to hear your story</Entry>
+  <Entry File="niv_cl\42.wav" ID="42">Cloud “I lived in this house  until I was 14…”</Entry>
+  <Entry File="niv_cl\43.wav" ID="43">Cloud “No,but this town was burned down.”</Entry>
+  <Entry File="niv_cl\44a.wav" ID="44" Part="a">“You're sick,saying such things…”</Entry>
+  <Entry File="niv_cl\44b.wav" ID="44" Part="b">“Get out of here!”</Entry>
+  <Entry File="niv_cl\45.wav" ID="45">“Oh,really.  Then,it'll help me too.”</Entry>
+  <Entry File="niv_cl\46.wav" ID="46">“What's going to happen to this Planet!?  What the hell's Shinra doing!?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="niv_cl\0.wav" ID="0">Cloud's House</Entry>
+-->
+</VoiceList>

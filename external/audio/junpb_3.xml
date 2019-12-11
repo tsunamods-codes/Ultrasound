@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junpb_3\1.wav" ID="1">“Looks like something's going on outside,  but we're too smashed to do anything…”</Entry>
+  <Entry File="junpb_3\2.wav" ID="2">“Ooh,oohh…  Oh man,my head's burning up…”</Entry>
+  <Entry File="junpb_3\3.wav" ID="3">“I'm sorry!  It's all rented out today!”</Entry>
+  <Entry File="junpb_3\4.wav" ID="4">“The Shinra people are having a party  tonight,and we're all booked up.”</Entry>
+  <Entry File="junpb_3\5.wav" ID="5">“Seems like you're all a little  too young to be in here.”</Entry>
+  <Entry File="junpb_3\6a.wav" ID="6" Part="a">Rude “Hmm?  You too?”</Entry>
+  <Entry File="junpb_3\6b.wav" ID="6" Part="b">“Then,take your mask off and come here.  That's our rule.”</Entry>
+  <Entry File="junpb_3\7.wav" ID="7">“Seaweed…  Seaweed…”</Entry>
+  <Entry File="junpb_3\8.wav" ID="8">“It just isn't a party without Rude!”</Entry>
+  <Entry File="junpb_3\9.wav" ID="9">“Weapon and Meteor scared everyone else off,  but I'm sittin' here soused as usual.”</Entry>
+  <Entry File="junpb_3\10.wav" ID="10">“I'd like to close down this shop,  but we got the regulars to think about.  I don't know what to do…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junpb_3\0.wav" ID="0">Bar</Entry>
+-->
+</VoiceList>

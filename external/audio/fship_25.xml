@@ -1,0 +1,342 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="fship_25\3.wav" ID="3">“Heyyy!  What a minute!”</Entry>
+  <Entry File="fship_25\4.wav" ID="4">Learner Pilot (L8) “Wanna Go?” Yes No</Entry>
+  <Entry File="fship_25\5.wav" ID="5">Learner Pilot (L9) “Wanna go?” Go Don't go</Entry>
+  <Entry File="fship_25\6.wav" ID="6">Learner Pilot (L10) “Shall we go?” Let's No,let's not</Entry>
+  <Entry File="fship_25\7.wav" ID="7">Learner Pilot (L11) “OK then,let's go!” Let's go! Wait a sec…</Entry>
+  <Entry File="fship_25\8.wav" ID="8">Learner Pilot (L12) “Cloud,let's go!” Ok! Let's go! Uh,wait a sec!</Entry>
+  <Entry File="fship_25\9.wav" ID="9">Learner Pilot (L13) “Cloud! I'm going!” OK Excuse me,but could you wait?</Entry>
+  <Entry File="fship_25\10.wav" ID="10">Learner Pilot (L14) “Hey,Cloud!!!” Yeah,let's go! Uh,wait</Entry>
+  <Entry File="fship_25\11.wav" ID="11">Learner Pilot (L14 Limit Break!) “Yo,Cloud! Whacha gonna do?” Move it! Wait</Entry>
+  <Entry File="fship_25\12.wav" ID="12">Full Pilot “Cloud,what do you want to do?” Go on Wait a minute</Entry>
+  <Entry File="fship_25\13a.wav" ID="13" Part="a">Cait Sith “Listen,Cloud.”</Entry>
+  <Entry File="fship_25\13b.wav" ID="13" Part="b">“We're right in the middle of the  mission for the Huge Materia,right?”</Entry>
+  <Entry File="fship_25\14a.wav" ID="14" Part="a">Cait Sith “I know this's kinda outta the blue,but  Junon has an Underwater Reactor.”</Entry>
+  <Entry File="fship_25\14b.wav" ID="14" Part="b">“As far as I can see,  that's the only one left.”</Entry>
+  <Entry File="fship_25\14c.wav" ID="14" Part="c">“That's that. Let's go!”</Entry>
+  <Entry File="fship_25\15.wav" ID="15">Cloud “Rufus and the other's plan was a failure…”</Entry>
+  <Entry File="fship_25\16.wav" ID="16">Barret “What a bust…    But I kinda hoped it'd work.”</Entry>
+  <Entry File="fship_25\17a.wav" ID="17" Part="a">Cait Sith “We been botherin' them as much as we can…”</Entry>
+  <Entry File="fship_25\17b.wav" ID="17" Part="b">“But there ain't no other way…  Wonder if we've been wrong all this time?”</Entry>
+  <Entry File="fship_25\18.wav" ID="18">Red XIII “Makes you worry,doesn't it?”</Entry>
+  <Entry File="fship_25\19.wav" ID="19">Tifa “Don't worry! Think!”</Entry>
+  <Entry File="fship_25\20a.wav" ID="20" Part="a">Cid “Hey!  The girl's right.”</Entry>
+  <Entry File="fship_25\20b.wav" ID="20" Part="b">“You start worryin' and there's no stoppin' it!  Things just start fallin' apart and get  worse and worse.”</Entry>
+  <Entry File="fship_25\21.wav" ID="21">Barret “You're pretty damn optimistic !  You up to somethin'?”</Entry>
+  <Entry File="fship_25\22a.wav" ID="22" Part="a">Cid “Yeah,I been thinkin' about this and that.”</Entry>
+  <Entry File="fship_25\22b.wav" ID="22" Part="b">“All the time we been up here  lookin' at the planet.”</Entry>
+  <Entry File="fship_25\22c.wav" ID="22" Part="c">“I been thinkin' even when we were floatin'  in the ocean in that escape pod.”</Entry>
+  <Entry File="fship_25\23a.wav" ID="23" Part="a">Cloud “I've…been thinking,too.  About the universe…planet…ocean.”</Entry>
+  <Entry File="fship_25\23b.wav" ID="23" Part="b">“How wide and big…  No matter where I go and what I do  it won't change a thing.”</Entry>
+  <Entry File="fship_25\24.wav" ID="24">Cid “Maybe you're right.”</Entry>
+  <Entry File="fship_25\25.wav" ID="25">Cid “But I came up with something different.”</Entry>
+  <Entry File="fship_25\26a.wav" ID="26" Part="a">Cid “I always thought this Planet was so huge.”</Entry>
+  <Entry File="fship_25\26b.wav" ID="26" Part="b">“But lookin' at it from space,  I realized it's so small.”</Entry>
+  <Entry File="fship_25\27a.wav" ID="27" Part="a">Cid “We're just floatin' in the dark.  ……kind of makes you feel powerless.”</Entry>
+  <Entry File="fship_25\27b.wav" ID="27" Part="b">“On top of that it's got Sephiroth  festerin' inside it like a sickness.”</Entry>
+  <Entry File="fship_25\28a.wav" ID="28" Part="a">Cid “That's why I say this Planet's still a kid.”</Entry>
+  <Entry File="fship_25\28b.wav" ID="28" Part="b">“A little kid sick and trembling  in the middle of this huge universe.”</Entry>
+  <Entry File="fship_25\29.wav" ID="29">Cid “Someone's gotta protect it.”</Entry>
+  <Entry File="fship_25\30.wav" ID="30">Cid “Ya follow me?  That someone is us.”</Entry>
+  <Entry File="fship_25\31.wav" ID="31">Tifa “Cid…that's beautiful.”</Entry>
+  <Entry File="fship_25\32.wav" ID="32">Barret “Yo! Cid!  You even got to me!”</Entry>
+  <Entry File="fship_25\33.wav" ID="33">Barret “Now what?   How're we gonna protect   the Planet from Meteor?”</Entry>
+  <Entry File="fship_25\34.wav" ID="34">Cid “…I'm still thinkin' about that.”</Entry>
+  <Entry File="fship_25\35.wav" ID="35">Red XIII “Huh!?”</Entry>
+  <Entry File="fship_25\36.wav" ID="36">Red XIII “Did you…hear something?”</Entry>
+  <Entry File="fship_25\37.wav" ID="37">Cloud “What is it?”</Entry>
+  <Entry File="fship_25\38.wav" ID="38">Tifa “Maybe it's the Planet's scream…  Or is it Meteor?”</Entry>
+  <Entry File="fship_25\39.wav" ID="39">Cloud “It's the Planet's scream.  I'm sure of it.”</Entry>
+  <Entry File="fship_25\40.wav" ID="40">Cloud “Hey,how do we know that this is  really the Planet's scream?”</Entry>
+  <Entry File="fship_25\41a.wav" ID="41" Part="a">Tifa “Did you forget?”</Entry>
+  <Entry File="fship_25\41b.wav" ID="41" Part="b">“Bugenhagen told us.”</Entry>
+  <Entry File="fship_25\42.wav" ID="42">Cloud “Bugenhagen…”</Entry>
+  <Entry File="fship_25\43a.wav" ID="43" Part="a">Red XIII “Let's go see Grandfather!  To Cosmo Canyon!”</Entry>
+  <Entry File="fship_25\43b.wav" ID="43" Part="b">“I'm sure he'll be able to tell us  something that will be helpful!”</Entry>
+  <Entry File="fship_25\44.wav" ID="44">Cid “What's wrong!?”</Entry>
+  <Entry File="fship_25\45.wav" ID="45">“It's a strange signal!”</Entry>
+  <Entry File="fship_25\46.wav" ID="46">Cid “From where?”</Entry>
+  <Entry File="fship_25\47.wav" ID="47">“It's coming from this…person (?)”</Entry>
+  <Entry File="fship_25\48.wav" ID="48">Cait Sith “Wow!”</Entry>
+  <Entry File="fship_25\49.wav" ID="49">Cait Sith “Hey!”</Entry>
+  <Entry File="fship_25\50.wav" ID="50">Cait Sith “That was a surprise,  the controls went crazy.”</Entry>
+  <Entry File="fship_25\51.wav" ID="51">Cait Sith “This ain't good…”</Entry>
+  <Entry File="fship_25\52.wav" ID="52">Cait Sith “Weapon came out of the sea and  is heading straight for Midgar.”</Entry>
+  <Entry File="fship_25\53.wav" ID="53">Cloud “The new weapon should stop him,right?”</Entry>
+  <Entry File="fship_25\54.wav" ID="54">Cait Sith “I don't know if it's ready or not…”</Entry>
+  <Entry File="fship_25\55.wav" ID="55">Barret “Hey! What's gonna happen to Marlene!?”</Entry>
+  <Entry File="fship_25\56.wav" ID="56">Cait Sith “Doncha worry none,Marlene's in a safe place.  She's with Aeris's mama.”</Entry>
+  <Entry File="fship_25\57.wav" ID="57">Cait Sith “Barret!!”</Entry>
+  <Entry File="fship_25\58a.wav" ID="58" Part="a">Cait Sith “What was that scratching just now!?”</Entry>
+  <Entry File="fship_25\58b.wav" ID="58" Part="b">“As long as Marlene is safe,  who cares what else happens,right?”</Entry>
+  <Entry File="fship_25\59.wav" ID="59">Cait Sith “I been itchin' to say this  to you for a while now!”</Entry>
+  <Entry File="fship_25\60.wav" ID="60">Cait Sith “When you blew up the Sec.1 reactor  how many do you think died?”</Entry>
+  <Entry File="fship_25\61.wav" ID="61">Barret “…that was for the life of the Planet.  Ya gotta expect a few casualties.”</Entry>
+  <Entry File="fship_25\62.wav" ID="62">Cait Sith “A few? Whaddya mean 'a few'?  What may be a few to you  is everything to those who died…”</Entry>
+  <Entry File="fship_25\63a.wav" ID="63" Part="a">Cait Sith “Protect the Planet.  Hah! That sure sounds good!”</Entry>
+  <Entry File="fship_25\63b.wav" ID="63" Part="b">“And no one will go against you.  So you think you can do  whatever you want,right?”</Entry>
+  <Entry File="fship_25\64.wav" ID="64">Barret “I don't wanna hear that  from no one in Shinra…”</Entry>
+  <Entry File="fship_25\65.wav" ID="65">Cait Sith “Can't do anything about that…”</Entry>
+  <Entry File="fship_25\66.wav" ID="66">Cloud “Stop it!”</Entry>
+  <Entry File="fship_25\67a.wav" ID="67" Part="a">Tifa “Cait Sith…  Barret,he knows what he did.”</Entry>
+  <Entry File="fship_25\67b.wav" ID="67" Part="b">“What we did in Midgar can't be forgotten  no matter what the reason.”</Entry>
+  <Entry File="fship_25\68.wav" ID="68">Tifa “Right?  We haven't forgotten,right?”</Entry>
+  <Entry File="fship_25\69a.wav" ID="69" Part="a">Tifa “I know you.”</Entry>
+  <Entry File="fship_25\69b.wav" ID="69" Part="b">“You can't quit the company because you're  worried about the people in Midgar,right?”</Entry>
+  <Entry File="fship_25\70.wav" ID="70">Tifa “…Cloud?”</Entry>
+  <Entry File="fship_25\71.wav" ID="71">Cloud “Weapon?”</Entry>
+  <Entry File="fship_25\72.wav" ID="72">Cloud “OK! Let's go!  We'll beat Weapon ourselves!”</Entry>
+  <Entry File="fship_25\73a.wav" ID="73" Part="a">Cid “Hey Cloud…”</Entry>
+  <Entry File="fship_25\73b.wav" ID="73" Part="b">“You think we can win against that monster?  We got a chance of winnin',right?”</Entry>
+  <Entry File="fship_25\74a.wav" ID="74" Part="a">Cloud “How would I know?”</Entry>
+  <Entry File="fship_25\74b.wav" ID="74" Part="b">“But that's no reason for us  to just let him go!”</Entry>
+  <Entry File="fship_25\74c.wav" ID="74" Part="c">“We're goin' to Midgar and fight Weapon!  Come on,let's move!”</Entry>
+  <Entry File="fship_25\75.wav" ID="75">Cloud “What happened to Sephiroth?”</Entry>
+  <Entry File="fship_25\76a.wav" ID="76" Part="a">Cloud “Northern Cave…”</Entry>
+  <Entry File="fship_25\76b.wav" ID="76" Part="b">“Let's go see what  happened to it.”</Entry>
+  <Entry File="fship_25\78.wav" ID="78">Cait Sith “Shinra's…finished.”</Entry>
+  <Entry File="fship_25\79.wav" ID="79">Cloud “Meteor's gonna fall in about…”</Entry>
+  <Entry File="fship_25\80.wav" ID="80">Red XIII “Seven more days.  That's what Grandfather said.”</Entry>
+  <Entry File="fship_25\81a.wav" ID="81" Part="a">Cloud “Red XIII…”</Entry>
+  <Entry File="fship_25\81b.wav" ID="81" Part="b">“You want to see everyone in  Cosmo Canyon again?”</Entry>
+  <Entry File="fship_25\82.wav" ID="82">Red XIII “…Yes.”</Entry>
+  <Entry File="fship_25\83.wav" ID="83">Cloud “You want to see Marlene,right?”</Entry>
+  <Entry File="fship_25\84.wav" ID="84">Barret “Don't ask me that.”</Entry>
+  <Entry File="fship_25\85a.wav" ID="85" Part="a">Cloud “We'll beat Sephiroth…”</Entry>
+  <Entry File="fship_25\85b.wav" ID="85" Part="b">“Then,if we don't release  the power of Holy in seven days…”</Entry>
+  <Entry File="fship_25\85c.wav" ID="85" Part="c">“There won't be  a Planet left to protect.”</Entry>
+  <Entry File="fship_25\86a.wav" ID="86" Part="a">Cloud “If we can't beat Sephiroth…”</Entry>
+  <Entry File="fship_25\86b.wav" ID="86" Part="b">“It's as good as death for us.”</Entry>
+  <Entry File="fship_25\86c.wav" ID="86" Part="c">“We'll just go a few days sooner  than the rest who'll die from Meteor.”</Entry>
+  <Entry File="fship_25\87.wav" ID="87">Barret “Don't think you're gonna  lose before ya even fight!”</Entry>
+  <Entry File="fship_25\88.wav" ID="88">Cloud “No!”</Entry>
+  <Entry File="fship_25\89.wav" ID="89">Cloud “What I meant was…”</Entry>
+  <Entry File="fship_25\90a.wav" ID="90" Part="a">Cloud “What are we all fighting for?  I want us all to understand that.”</Entry>
+  <Entry File="fship_25\90b.wav" ID="90" Part="b">“Save the Planet…for the future of the Planet…  Sure,that's all fine.”</Entry>
+  <Entry File="fship_25\90c.wav" ID="90" Part="c">“But really,is that how it is?”</Entry>
+  <Entry File="fship_25\91a.wav" ID="91" Part="a">Cloud “For me,this is a personal feud.”</Entry>
+  <Entry File="fship_25\91b.wav" ID="91" Part="b">“I want to beat Sephiroth  and settle my past.”</Entry>
+  <Entry File="fship_25\91c.wav" ID="91" Part="c">“Saving the Planet just happens  to be part of that.”</Entry>
+  <Entry File="fship_25\92.wav" ID="92">Cloud “I've been thinking.”</Entry>
+  <Entry File="fship_25\93a.wav" ID="93" Part="a">Cloud “I think we all are   fighting for ourselves.”</Entry>
+  <Entry File="fship_25\93b.wav" ID="93" Part="b">“For ourselves…and that someone…  something…whatever   it is,that's important to us.”</Entry>
+  <Entry File="fship_25\93c.wav" ID="93" Part="c">“That's what we're fighting for.”</Entry>
+  <Entry File="fship_25\93d.wav" ID="93" Part="d">“That's why we keep up this  battle for the Planet.”</Entry>
+  <Entry File="fship_25\94a.wav" ID="94" Part="a">Barret “You're right…”</Entry>
+  <Entry File="fship_25\94b.wav" ID="94" Part="b">“It sounds cool sayin' it's  to save the Planet.”</Entry>
+  <Entry File="fship_25\94c.wav" ID="94" Part="c">“But I was the one who  blew up that Mako reactor……”</Entry>
+  <Entry File="fship_25\94d.wav" ID="94" Part="d">“Lookin' back on it now,I can see  that wasn't the right way to do things.”</Entry>
+  <Entry File="fship_25\94e.wav" ID="94" Part="e">“I made a lot of friends and innocent  bystanders suffer…”</Entry>
+  <Entry File="fship_25\95a.wav" ID="95" Part="a">Barret “…At first,it was revenge against Shinra.  For attackin' my town.”</Entry>
+  <Entry File="fship_25\95b.wav" ID="95" Part="b">“But now…”</Entry>
+  <Entry File="fship_25\95c.wav" ID="95" Part="c">“Yeah.  I'm fightin' for Marlene.”</Entry>
+  <Entry File="fship_25\95d.wav" ID="95" Part="d">“For Marlene…  For Marlene's future…”</Entry>
+  <Entry File="fship_25\95e.wav" ID="95" Part="e">“Yeah…I guess I want to save  the Planet for Marlene's sake…”</Entry>
+  <Entry File="fship_25\96.wav" ID="96">Cloud “Go and see her.  Make sure you're right,and come back.”</Entry>
+  <Entry File="fship_25\97a.wav" ID="97" Part="a">Cloud “All of you. Get off the ship  and find out your reasons for yourselves.”</Entry>
+  <Entry File="fship_25\97b.wav" ID="97" Part="b">“I want you to make sure.  Then I want you to come back.”</Entry>
+  <Entry File="fship_25\98a.wav" ID="98" Part="a">Cid “Maybe ain't none of us'll come back.”</Entry>
+  <Entry File="fship_25\98b.wav" ID="98" Part="b">“Meteor's gonna kill us all anyway.  Let's just forget any useless struggling!”</Entry>
+  <Entry File="fship_25\99a.wav" ID="99" Part="a">Cloud “I know why I'm fighting.”</Entry>
+  <Entry File="fship_25\99b.wav" ID="99" Part="b">“I'm fighting to save the Planet,  and that's that.”</Entry>
+  <Entry File="fship_25\99c.wav" ID="99" Part="c">“But besides that,there's   something personal,too…”</Entry>
+  <Entry File="fship_25\99d.wav" ID="99" Part="d">“A very personal memory that I have.”</Entry>
+  <Entry File="fship_25\99e.wav" ID="99" Part="e">“What about you all?”</Entry>
+  <Entry File="fship_25\99f.wav" ID="99" Part="f">“I want all of you to find  that something within yourselves.”</Entry>
+  <Entry File="fship_25\99g.wav" ID="99" Part="g">“If you don't find it,  then that's okay,too.”</Entry>
+  <Entry File="fship_25\99h.wav" ID="99" Part="h">“You can't fight without   a reason,right?”</Entry>
+  <Entry File="fship_25\99i.wav" ID="99" Part="i">“So,I won't hold it against you  if you don't come back.”</Entry>
+  <Entry File="fship_25\100.wav" ID="100">Cloud “What are you going to do,Tifa?”</Entry>
+  <Entry File="fship_25\101a.wav" ID="101" Part="a">Tifa “Did you forget?”</Entry>
+  <Entry File="fship_25\101b.wav" ID="101" Part="b">“I'm…all alone.  I don't have anywhere to go.”</Entry>
+  <Entry File="fship_25\123.wav" ID="123">Tifa “Let's do our best,Cloud!”</Entry>
+  <Entry File="fship_25\124a.wav" ID="124" Part="a">Tifa “How are you feeling?”</Entry>
+  <Entry File="fship_25\124b.wav" ID="124" Part="b">“You ought to rest a bit…  Don't push yourself.”</Entry>
+  <Entry File="fship_25\125.wav" ID="125">Tifa “Cloud…what should I do?  I've got to think.”</Entry>
+  <Entry File="fship_25\126.wav" ID="126">Tifa “The Planet's…scream.”</Entry>
+  <Entry File="fship_25\127.wav" ID="127">Tifa “Did Bugenhagen…tell you anything?”</Entry>
+  <Entry File="fship_25\128.wav" ID="128">Tifa “I wonder what Aeris felt…  when she was on that altar…?”</Entry>
+  <Entry File="fship_25\129.wav" ID="129">Cloud “I'm sure she wanted to give  her life for the Planet.”</Entry>
+  <Entry File="fship_25\130a.wav" ID="130" Part="a">Tifa “Really? I wonder?  I don't think that was it.”</Entry>
+  <Entry File="fship_25\130b.wav" ID="130" Part="b">“I don't think she wanted to die at all,  but was planning on coming back all along.”</Entry>
+  <Entry File="fship_25\131a.wav" ID="131" Part="a">“She always used to talk  about the 'next time'.”</Entry>
+  <Entry File="fship_25\131b.wav" ID="131" Part="b">“She talked about the future  more than any of us…”</Entry>
+  <Entry File="fship_25\132a.wav" ID="132" Part="a">Tifa “Although she never said anything to us  about it,she must've had a rough life.”</Entry>
+  <Entry File="fship_25\132b.wav" ID="132" Part="b">“I think Aeris looked     forward to tomorrow and    the future more than anyone…”</Entry>
+  <Entry File="fship_25\132c.wav" ID="132" Part="c">“…she must've had many  many dreams…”</Entry>
+  <Entry File="fship_25\133.wav" ID="133">Tifa “Cloud…”</Entry>
+  <Entry File="fship_25\134a.wav" ID="134" Part="a">Tifa “Whether you love it or hate it…”</Entry>
+  <Entry File="fship_25\134b.wav" ID="134" Part="b">“You just can't bring yourself  to leave Midgar,can you?”</Entry>
+  <Entry File="fship_25\135a.wav" ID="135" Part="a">Tifa “Now we're going to fight Sephiroth.”</Entry>
+  <Entry File="fship_25\135b.wav" ID="135" Part="b">“I wonder what the inside of that cave looks like?    You think Sephiroth is just sitting there    waiting for Meteor?”</Entry>
+  <Entry File="fship_25\136a.wav" ID="136" Part="a">Tifa “It's all right.”</Entry>
+  <Entry File="fship_25\136b.wav" ID="136" Part="b">“You're here…  Everyone's all together”</Entry>
+  <Entry File="fship_25\136c.wav" ID="136" Part="c">“Together…we can do anything.  We've worked this hard already.”</Entry>
+  <Entry File="fship_25\137a.wav" ID="137" Part="a">Tifa “Hey,Cloud…  Would you tell me 'It's all right'?”</Entry>
+  <Entry File="fship_25\138.wav" ID="138">Cloud “It's all right,Tifa.”</Entry>
+  <Entry File="fship_25\139.wav" ID="139">Cloud “…It's all right.”</Entry>
+  <Entry File="fship_25\140.wav" ID="140">Cloud “…I just can't say it that easy.”</Entry>
+  <Entry File="fship_25\141a.wav" ID="141" Part="a">Tifa “Now I feel like things are really  going to be all right.”</Entry>
+  <Entry File="fship_25\141b.wav" ID="141" Part="b">“Thanks,Cloud.”</Entry>
+  <Entry File="fship_25\142.wav" ID="142">Tifa “You're right,things will be all right.”</Entry>
+  <Entry File="fship_25\143.wav" ID="143">Tifa “I'm sorry…I guess you're right.”</Entry>
+  <Entry File="fship_25\144.wav" ID="144">Tifa “I'm all right.  I'm not going to chicken out at the last minute.”</Entry>
+  <Entry File="fship_25\145.wav" ID="145">Tifa “I'm…all right…really…  I'll fight my hardest…”</Entry>
+  <Entry File="fship_25\146.wav" ID="146">Tifa “……Wow.  I guess…I am a little scared.  My knees are trembling.”</Entry>
+  <Entry File="fship_25\147a.wav" ID="147" Part="a">Barret “C'mon,Cloud!  Don't #&amp;$* around!”</Entry>
+  <Entry File="fship_25\147b.wav" ID="147" Part="b">“We're goin' to Junon!!”</Entry>
+  <Entry File="fship_25\148.wav" ID="148">Barret “Them Shinras think they're gonna  fight Meteor with the Huge Materia?”</Entry>
+  <Entry File="fship_25\149.wav" ID="149">Barret “Damn,it kinda makes me sad…”</Entry>
+  <Entry File="fship_25\150a.wav" ID="150" Part="a">Barret “That Bugenhagen guy…  He was a weird old dude.”</Entry>
+  <Entry File="fship_25\150b.wav" ID="150" Part="b">“I used to think he was a naturalist,  but he was all into them machines.”</Entry>
+  <Entry File="fship_25\151a.wav" ID="151" Part="a">Barret “And Aeris…she's dead.”</Entry>
+  <Entry File="fship_25\151b.wav" ID="151" Part="b">“Guess she turned into Spiritual Energy  and returned to the Planet,huh?”</Entry>
+  <Entry File="fship_25\151c.wav" ID="151" Part="c">“But even if she did,there's no  way we'll meet her again…”</Entry>
+  <Entry File="fship_25\152.wav" ID="152">Barret “Whacha gonna do,Cloud?  Got any good ideas?”</Entry>
+  <Entry File="fship_25\153a.wav" ID="153" Part="a">Barret “That damn Weapon…  He's one big *&amp;$*&amp;%$…”</Entry>
+  <Entry File="fship_25\153b.wav" ID="153" Part="b">“Even Midgar's in trouble now.”</Entry>
+  <Entry File="fship_25\154a.wav" ID="154" Part="a">Barret “When AVALANCHE was startin' out,  we used to put up flyers everywhere.”</Entry>
+  <Entry File="fship_25\154b.wav" ID="154" Part="b">“And now,we're up against Sephiroth.  How about that?”</Entry>
+  <Entry File="fship_25\154c.wav" ID="154" Part="c">“Feels like a long time ago.”</Entry>
+  <Entry File="fship_25\155a.wav" ID="155" Part="a">Barret “Comin' and goin'…  gettin' pushed around.”</Entry>
+  <Entry File="fship_25\155b.wav" ID="155" Part="b">“But I got a debt to all them back in Midgar  that I can't never repay…”</Entry>
+  <Entry File="fship_25\156a.wav" ID="156" Part="a">Barret “Heh heh heh…  Time's got a way of sneakin' up on ya,huh?”</Entry>
+  <Entry File="fship_25\156b.wav" ID="156" Part="b">“I'm shakin' all over…  Heh heh…I feel sick…”</Entry>
+  <Entry File="fship_25\157.wav" ID="157">Red XIII “I'm glad you're back with us!”</Entry>
+  <Entry File="fship_25\158a.wav" ID="158" Part="a">Red XIII “Shinra only cares if things are good right now.”</Entry>
+  <Entry File="fship_25\158b.wav" ID="158" Part="b">“But,I plan to live for 500 years and  won't stand for that type of thinking.”</Entry>
+  <Entry File="fship_25\159.wav" ID="159">Red XIII “Yes.  We have to think about what to do.”</Entry>
+  <Entry File="fship_25\160.wav" ID="160">Red XIII “Hurry,hurry!  We must go meet Grandfather!”</Entry>
+  <Entry File="fship_25\161a.wav" ID="161" Part="a">Red XIII “Aeris used to pat me  on the nose sometimes.”</Entry>
+  <Entry File="fship_25\161b.wav" ID="161" Part="b">“I used to hate being treated   like a child like that,  but I also liked the attention.”</Entry>
+  <Entry File="fship_25\161c.wav" ID="161" Part="c">“I wanted to apologize to her  for what I did when we first met.”</Entry>
+  <Entry File="fship_25\162a.wav" ID="162" Part="a">Red XIII “If I were more of an adult,perhaps  I would have a better idea of what to do?”</Entry>
+  <Entry File="fship_25\162b.wav" ID="162" Part="b">“Whew…I wish I could grow up.”</Entry>
+  <Entry File="fship_25\162c.wav" ID="162" Part="c">“I wonder if after all this is over,  will I be an adult?”</Entry>
+  <Entry File="fship_25\163a.wav" ID="163" Part="a">Red XIII “Midgar…”</Entry>
+  <Entry File="fship_25\163b.wav" ID="163" Part="b">“I hated the fact I was caught by  Hojo and taken back  to the lab where they did all  kinds of experiments on me…”</Entry>
+  <Entry File="fship_25\163c.wav" ID="163" Part="c">“But because of that  I was able to meet you all…”</Entry>
+  <Entry File="fship_25\163d.wav" ID="163" Part="d">“People you want to meet…  others you don't…strange isn't it?”</Entry>
+  <Entry File="fship_25\164a.wav" ID="164" Part="a">Red XIII “Will we save the world if we beat Sephiroth?”</Entry>
+  <Entry File="fship_25\164b.wav" ID="164" Part="b">“I'm frightened,but I'll do my best.  Let's hurry to the Northern Cave!”</Entry>
+  <Entry File="fship_25\165a.wav" ID="165" Part="a">Red XIII “I wonder why Hojo performed  so many of these experiments?”</Entry>
+  <Entry File="fship_25\165b.wav" ID="165" Part="b">“Why couldn't he content himself  with quiet research?”</Entry>
+  <Entry File="fship_25\166a.wav" ID="166" Part="a">Red XIII “I am Nanaki,son of Seto…  I am afraid of nothing…”</Entry>
+  <Entry File="fship_25\166b.wav" ID="166" Part="b">“It's all right,all right.  I'm Nanaki,the son of brave Seto…  I'm not afraid of Sephiroth…”</Entry>
+  <Entry File="fship_25\167.wav" ID="167">Vincent “Escape from a world of illusions…  Hmph…I wonder which is better…?”</Entry>
+  <Entry File="fship_25\168.wav" ID="168">Vincent “…how does it feel,Cloud?  living for no one but yourself?”</Entry>
+  <Entry File="fship_25\169.wav" ID="169">Vincent “…feelings alone aren't enough.  …it's irritating,isn't it Cloud?”</Entry>
+  <Entry File="fship_25\170a.wav" ID="170" Part="a">Vincent “The machines in Cosmo Canyon  were presents of Dr. Gast.”</Entry>
+  <Entry File="fship_25\170b.wav" ID="170" Part="b">“Wrapped up in the Planet's strange notions  surrounded by Shinra-made machines…”</Entry>
+  <Entry File="fship_25\170c.wav" ID="170" Part="c">“Science and the Planet lived  side by side in that old man's heart.”</Entry>
+  <Entry File="fship_25\171a.wav" ID="171" Part="a">Vincent “City of the Ancients…”</Entry>
+  <Entry File="fship_25\171b.wav" ID="171" Part="b">“The Ancients…in time that is probably  what later generations will call us.”</Entry>
+  <Entry File="fship_25\171c.wav" ID="171" Part="c">“Hmm…hwa ha ha ha…  It's only a matter of time for us.”</Entry>
+  <Entry File="fship_25\172.wav" ID="172">Vincent “……we still can't seem to get near Sephiroth…”</Entry>
+  <Entry File="fship_25\173a.wav" ID="173" Part="a">Vincent “Kill Sephiroth…  Killing the son of my beloved woman…”</Entry>
+  <Entry File="fship_25\173b.wav" ID="173" Part="b">“Am I on the verge of committing  another sin?”</Entry>
+  <Entry File="fship_25\173c.wav" ID="173" Part="c">“Or am I atoning as best   I can for only standing by?”</Entry>
+  <Entry File="fship_25\174a.wav" ID="174" Part="a">Vincent “Hojo…what a queer fellow.”</Entry>
+  <Entry File="fship_25\174b.wav" ID="174" Part="b">“Such utter lack of scientific talent…  compared with the genius of Dr. Gast…”</Entry>
+  <Entry File="fship_25\174c.wav" ID="174" Part="c">“Lucrecia chose him in order to protect him.”</Entry>
+  <Entry File="fship_25\174d.wav" ID="174" Part="d">“Now I understand…  I understand…but…”</Entry>
+  <Entry File="fship_25\175a.wav" ID="175" Part="a">Vincent “Cloud…take the ship to  the Northern Cave.”</Entry>
+  <Entry File="fship_25\175b.wav" ID="175" Part="b">“The time for flying is now past.”</Entry>
+  <Entry File="fship_25\175c.wav" ID="175" Part="c">“Our battlefield is now  beneath the earth…”</Entry>
+  <Entry File="fship_25\175d.wav" ID="175" Part="d">“The gate to tomorrow is not  the light of heaven,  but the darkness of the depths of the earth.”</Entry>
+  <Entry File="fship_25\176.wav" ID="176">Cait Sith “This is kind of sudden,  but shouldn't we get to Junon!?”</Entry>
+  <Entry File="fship_25\177a.wav" ID="177" Part="a">Cait Sith “The Shinra are all gathered  at Cid's Rocket Town…”</Entry>
+  <Entry File="fship_25\177b.wav" ID="177" Part="b">“…I love giving out secrets  more than anything.”</Entry>
+  <Entry File="fship_25\178a.wav" ID="178" Part="a">Cait Sith “…That's not to say I don't know  how the President feels.”</Entry>
+  <Entry File="fship_25\178b.wav" ID="178" Part="b">“But,I can't shake the feeling he's  rushin' things a bit…”</Entry>
+  <Entry File="fship_25\179a.wav" ID="179" Part="a">Cait Sith “The life of the Planet…”</Entry>
+  <Entry File="fship_25\179b.wav" ID="179" Part="b">“Which was screaming?  The Planet? Or Meteor?”</Entry>
+  <Entry File="fship_25\180a.wav" ID="180" Part="a">Cait Sith “Just between you and me…”</Entry>
+  <Entry File="fship_25\180b.wav" ID="180" Part="b">“That Bugenhagen used  to be a Shinra worker.”</Entry>
+  <Entry File="fship_25\180c.wav" ID="180" Part="c">“He never bought any  weapons or Mako though…”</Entry>
+  <Entry File="fship_25\181a.wav" ID="181" Part="a"> Cait Sith  “I told Aeris's Mom about her  death.”</Entry>
+  <Entry File="fship_25\181b.wav" ID="181" Part="b"> “Elmyra was cried herself silly…  So did little Marlene…”</Entry>
+  <Entry File="fship_25\182.wav" ID="182">Cait Sith “Lately,they don't call me to meetings.  Probably because you know I'm a spy.”</Entry>
+  <Entry File="fship_25\183a.wav" ID="183" Part="a">Cait Sith “Cloud,you make sure  and do your best!”</Entry>
+  <Entry File="fship_25\183b.wav" ID="183" Part="b">“I know you can't forgive the  Shinra,but the people   in Midgar haven't done any wrong!”</Entry>
+  <Entry File="fship_25\184.wav" ID="184">Cait Sith “…Wonder what Sephiroth's up to?”</Entry>
+  <Entry File="fship_25\185a.wav" ID="185" Part="a">Cait Sith “I can't apologize to you enough.”</Entry>
+  <Entry File="fship_25\185b.wav" ID="185" Part="b">“If I was a better person,  none of this would have happened…”</Entry>
+  <Entry File="fship_25\186a.wav" ID="186" Part="a">“So let's get over it!  We've got to hurry to the slums!”</Entry>
+  <Entry File="fship_25\186b.wav" ID="186" Part="b">“Are you all right?  You say you lost your son?”</Entry>
+  <Entry File="fship_25\187a.wav" ID="187" Part="a">Cait Sith “Hey,Cloud!”</Entry>
+  <Entry File="fship_25\187b.wav" ID="187" Part="b">“The people ought to just about be  to safety in the slums by now.”</Entry>
+  <Entry File="fship_25\187c.wav" ID="187" Part="c">“Maybe we were all just kidding ourselves.”</Entry>
+  <Entry File="fship_25\188a.wav" ID="188" Part="a">Cait Sith “But I won't forget,  no matter what happens.”</Entry>
+  <Entry File="fship_25\188b.wav" ID="188" Part="b">“Not about this here trip,  or them folks--none of it!”</Entry>
+  <Entry File="fship_25\189a.wav" ID="189" Part="a">Cid “I know how tough it is bein' a leader,  because I've been one.”</Entry>
+  <Entry File="fship_25\189b.wav" ID="189" Part="b">“I always forget who has what Materia.”</Entry>
+  <Entry File="fship_25\190.wav" ID="190">Cid “You said there's somethin'  goin' on at Rocket Town…?”</Entry>
+  <Entry File="fship_25\191.wav" ID="191">Cid “I TOLD you I was thinkin' about it!”</Entry>
+  <Entry File="fship_25\192a.wav" ID="192" Part="a">Cid “Maybe it's just me,but has this ship been  remodeled without me knowin' it?”</Entry>
+  <Entry File="fship_25\192b.wav" ID="192" Part="b">“All these switches and levers.  They're kinda gettin' to me.”</Entry>
+  <Entry File="fship_25\193a.wav" ID="193" Part="a">Cid “Aeris?”</Entry>
+  <Entry File="fship_25\193b.wav" ID="193" Part="b">“I wanted to give her a ride in the Highwind…”</Entry>
+  <Entry File="fship_25\194.wav" ID="194">Cid “Phew…Cloud.  What're we gonna do?”</Entry>
+  <Entry File="fship_25\195.wav" ID="195">Cid “Well,I guess it's time for Sephiroth.  Are your hearts pounding?”</Entry>
+  <Entry File="fship_25\196a.wav" ID="196" Part="a">Cid “That reminds me of a test rocket that  landed in the Midgar Slums long ago.”</Entry>
+  <Entry File="fship_25\196b.wav" ID="196" Part="b">“I remember how relieved I was  when I heard it never blew up.”</Entry>
+  <Entry File="fship_25\197.wav" ID="197">Cid “Maybe this is the time?”</Entry>
+  <Entry File="fship_25\198a.wav" ID="198" Part="a">Cid “This runnin' back and forth is tough!”</Entry>
+  <Entry File="fship_25\198b.wav" ID="198" Part="b">“Even my bikini goddess   would be pantin' about now!”</Entry>
+  <Entry File="fship_25\199a.wav" ID="199" Part="a">Cid “You ever see   the play 'LOVELESS'?”</Entry>
+  <Entry File="fship_25\200.wav" ID="200">“Yeah,I figured someone like you wouldn't be  much on plays.”</Entry>
+  <Entry File="fship_25\201a.wav" ID="201" Part="a">“Yeah? Really?  Well,that's fine.”</Entry>
+  <Entry File="fship_25\201b.wav" ID="201" Part="b">“They've been doin' that play  every summer since I was a kid.”</Entry>
+  <Entry File="fship_25\201c.wav" ID="201" Part="c">“An' I remember seein' it just once…”</Entry>
+  <Entry File="fship_25\201d.wav" ID="201" Part="d">“That was when I was in Midgar  training to be a pilot.”</Entry>
+  <Entry File="fship_25\201e.wav" ID="201" Part="e">“I had some free time and  thought I'd catch the play.”</Entry>
+  <Entry File="fship_25\201f.wav" ID="201" Part="f">“Now,I'm no big fan of   the theater or anything.”</Entry>
+  <Entry File="fship_25\201g.wav" ID="201" Part="g">“But this thing put me to sleep,  just like I thought it would.”</Entry>
+  <Entry File="fship_25\201h.wav" ID="201" Part="h">“Finally during the last scene,  the guy next to me  woke me up tellin'   me my snorin' was too loud.”</Entry>
+  <Entry File="fship_25\201i.wav" ID="201" Part="i">“So about all I really remember  of that play is the end…”</Entry>
+  <Entry File="fship_25\201j.wav" ID="201" Part="j">“When the sister of the lead   asks her lover,”</Entry>
+  <Entry File="fship_25\202.wav" ID="202">“Do you really have to leave?”</Entry>
+  <Entry File="fship_25\203.wav" ID="203">Cid “And the guy says,”</Entry>
+  <Entry File="fship_25\204.wav" ID="204">“I made a promise.  The people I love are waiting.”</Entry>
+  <Entry File="fship_25\205.wav" ID="205">“…I don't understand.  Not at all. But,take care of yourself.”</Entry>
+  <Entry File="fship_25\206.wav" ID="206">“Of course…I'll come back to you.  Even if you don't promise to wait. I'll return  knowing you'll be here.”</Entry>
+  <Entry File="fship_25\207a.wav" ID="207" Part="a">Cid “I remember thinking when I heard those lines,”</Entry>
+  <Entry File="fship_25\207c.wav" ID="207" Part="c">“I think I understand…”</Entry>
+  <Entry File="fship_25\208.wav" ID="208">Cid “When this job's done,  I'm landing the ship…yeah,that's what I'll do.”</Entry>
+  <Entry File="fship_25\209.wav" ID="209">“Sorry,I'm in the middle of a very  delicate operation!”</Entry>
+  <Entry File="fship_25\210.wav" ID="210">“Ahhhhh!   Oh no,oh no,oh no!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="fship_25\0.wav" ID="0">Highwind</Entry>
+	<Entry File="fship_25\1.wav" ID="1">Head out?   Yes   No</Entry>
+	<Entry File="fship_25\2.wav" ID="2">Head out?   Yes   No   Last Dungeon</Entry>
+	<Entry File="fship_25\77.wav" ID="77" />
+	<Entry File="fship_25\102.wav" ID="102">Cloud </Entry>
+	<Entry File="fship_25\103.wav" ID="103" />
+	<Entry File="fship_25\104.wav" ID="104" />
+	<Entry File="fship_25\105.wav" ID="105" />
+	<Entry File="fship_25\106.wav" ID="106" />
+	<Entry File="fship_25\107.wav" ID="107" />
+	<Entry File="fship_25\108.wav" ID="108" />
+	<Entry File="fship_25\109.wav" ID="109">Cloud </Entry>
+	<Entry File="fship_25\110.wav" ID="110" />
+	<Entry File="fship_25\111.wav" ID="111" />
+	<Entry File="fship_25\112.wav" ID="112">Cait Sith </Entry>
+	<Entry File="fship_25\113.wav" ID="113">Barret </Entry>
+	<Entry File="fship_25\114.wav" ID="114" />
+	<Entry File="fship_25\115.wav" ID="115" />
+	<Entry File="fship_25\116.wav" ID="116">Yuffie  Geez…that's pretty lame.”</Entry>
+	<Entry File="fship_25\117.wav" ID="117">Yuffie I stuck in there even when I was  pukin' from bein' so seasick. But if you think I stuck through all this just to make off with  everything when the time's right, forget it. That's not my style.”</Entry>
+	<Entry File="fship_25\118.wav" ID="118">Cloud  Thanks,everyone.”</Entry>
+	<Entry File="fship_25\119.wav" ID="119">Barret  Ain't no one wanna be thanked by you!”</Entry>
+	<Entry File="fship_25\120.wav" ID="120">Cid  So,what's next.  Now that everyone's here.  What're you going to do?”</Entry>
+	<Entry File="fship_25\121.wav" ID="121">Cloud  This is our last battle.  Our target is Sephiroth in  the Northern Cave!  So…”</Entry>
+	<Entry File="fship_25\122.wav" ID="122">Cloud  Let's do it. Come on,everyone!”</Entry>
+	<Entry File="fship_25\137b.wav" ID="137" Part="b">Say it cool Say it normal Don't say it</Entry>
+	<Entry File="fship_25\199b.wav" ID="199" Part="b">No Yes</Entry>
+	<Entry File="fship_25\207b.wav" ID="207" Part="b">What the hell's he talkin' about?  But,you know…now I'm not so sure…”</Entry>
+-->
+</VoiceList>

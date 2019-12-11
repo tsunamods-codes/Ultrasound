@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junonr1\1.wav" ID="1">“Let the Welcome  Parade begin!”</Entry>
+  <Entry File="junonr1\2.wav" ID="2">“Oh…no!!  No one's here!”</Entry>
+  <Entry File="junonr1\3.wav" ID="3">“Late!?”</Entry>
+  <Entry File="junonr1\4.wav" ID="4">“Hey! Rookie!!  It's you're fault for running  around like that!!”</Entry>
+  <Entry File="junonr1\5.wav" ID="5">“Captain!!  We'll take a short cut!”</Entry>
+  <Entry File="junonr1\6a.wav" ID="6" Part="a">“Right!”</Entry>
+  <Entry File="junonr1\6b.wav" ID="6" Part="b">“Good idea.”</Entry>
+  <Entry File="junonr1\7.wav" ID="7">“Get over here!!”</Entry>
+  <Entry File="junonr1\8.wav" ID="8">“Hey!!  Don't get me any madder than  I already am!”</Entry>
+  <Entry File="junonr1\9.wav" ID="9">“All right!  You first!”</Entry>
+  <Entry File="junonr1\10.wav" ID="10">“Thanks!!”</Entry>
+  <Entry File="junonr1\11.wav" ID="11">“Come on,forget about your job!  Step right up!!”</Entry>
+  <Entry File="junonr1\12.wav" ID="12">“Come on in!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junonr1\0.wav" ID="0">Upper Junon</Entry>
+-->
+</VoiceList>

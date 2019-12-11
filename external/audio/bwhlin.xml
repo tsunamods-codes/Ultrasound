@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="bwhlin\1.wav" ID="1">Tifa “Oh,how pretty.”</Entry>
+  <Entry File="bwhlin\2.wav" ID="2">Tifa “Look,Cloud.”</Entry>
+  <Entry File="bwhlin\3.wav" ID="3">Tifa “Oh,Cloud.”</Entry>
+  <Entry File="bwhlin\4.wav" ID="4">Aeris “Wow,how nice.”</Entry>
+  <Entry File="bwhlin\5.wav" ID="5">Aeris “Oh! Look,Cloud.”</Entry>
+  <Entry File="bwhlin\6.wav" ID="6">Aeris “It's so pretty.”</Entry>
+  <Entry File="bwhlin\7.wav" ID="7">Yuffie “Wow!”</Entry>
+  <Entry File="bwhlin\8.wav" ID="8">Yuffie “Geez!!”</Entry>
+  <Entry File="bwhlin\9.wav" ID="9">Yuffie “Cloud!”</Entry>
+  <Entry File="bwhlin\13.wav" ID="13">Tifa “…it's really pretty,isn't it?”</Entry>
+  <Entry File="bwhlin\14.wav" ID="14">Tifa “Ok,I'm going to just  go ahead and say it…”</Entry>
+  <Entry File="bwhlin\15.wav" ID="15">Cloud “…What?”</Entry>
+  <Entry File="bwhlin\16.wav" ID="16">Tifa “Aeris would be able to just  come out and say it,probably.”</Entry>
+  <Entry File="bwhlin\17.wav" ID="17">Cloud “Huh?”</Entry>
+  <Entry File="bwhlin\18.wav" ID="18">Tifa “Sometimes being old friends is hard.”</Entry>
+  <Entry File="bwhlin\19.wav" ID="19">Tifa “I mean,timing is everything.”</Entry>
+  <Entry File="bwhlin\20.wav" ID="20">Cloud “Yeah…”</Entry>
+  <Entry File="bwhlin\21.wav" ID="21">Tifa “Cloud…?”</Entry>
+  <Entry File="bwhlin\22.wav" ID="22">Tifa “I…”</Entry>
+  <Entry File="bwhlin\23.wav" ID="23">Tifa “….  ….”</Entry>
+  <Entry File="bwhlin\24.wav" ID="24">Aeris “…Beautiful,isn't it?”</Entry>
+  <Entry File="bwhlin\25.wav" ID="25">Aeris “……first off,  it bothered me how you  looked exactly alike.”</Entry>
+  <Entry File="bwhlin\26.wav" ID="26">Aeris “Two completely different people,  but look exactly the same.”</Entry>
+  <Entry File="bwhlin\27.wav" ID="27">Aeris “The way you walk,gesture…”</Entry>
+  <Entry File="bwhlin\28.wav" ID="28">Aeris “I think I must have seen him again,in you…”</Entry>
+  <Entry File="bwhlin\29.wav" ID="29">Aeris “But you're different.”</Entry>
+  <Entry File="bwhlin\30.wav" ID="30">Aeris “Things are different…”</Entry>
+  <Entry File="bwhlin\31.wav" ID="31">Aeris “Cloud…”</Entry>
+  <Entry File="bwhlin\32.wav" ID="32">Aeris “I'm searching for you.”</Entry>
+  <Entry File="bwhlin\33.wav" ID="33">Cloud “…?”</Entry>
+  <Entry File="bwhlin\34.wav" ID="34">Aeris “I want to meet you.”</Entry>
+  <Entry File="bwhlin\35.wav" ID="35">Cloud “But I'm right here.”</Entry>
+  <Entry File="bwhlin\37.wav" ID="37">Aeris “I want to meet…you.”</Entry>
+  <Entry File="bwhlin\38.wav" ID="38">Barret “Hey spike-head.    What'd you wanna see fireworks with me for?”</Entry>
+  <Entry File="bwhlin\39.wav" ID="39">Cloud “Not having fun?”</Entry>
+  <Entry File="bwhlin\40.wav" ID="40">Barret “You should've asked one of them!”</Entry>
+  <Entry File="bwhlin\41.wav" ID="41">Cloud “Which would you have asked?”</Entry>
+  <Entry File="bwhlin\42.wav" ID="42">Barret “Oh man,there just ain't no choice!”</Entry>
+  <Entry File="bwhlin\43.wav" ID="43">Barret “Tifa,Aeris.”</Entry>
+  <Entry File="bwhlin\44.wav" ID="44">Barret “Ah,Yuffie?”</Entry>
+  <Entry File="bwhlin\46.wav" ID="46">Barret “What the hell's that supposed to mean?”</Entry>
+  <Entry File="bwhlin\47.wav" ID="47">Barret “Hey,you don't mean…Marlene?”</Entry>
+  <Entry File="bwhlin\48.wav" ID="48">Barret “NO WAY! Forget it!”</Entry>
+  <Entry File="bwhlin\49.wav" ID="49">Barret “There ain't no way I'm lettin' a wacko like you  anywhere near my little Marlene!”</Entry>
+  <Entry File="bwhlin\50.wav" ID="50">Barret “She's my baby. My prized possession.”</Entry>
+  <Entry File="bwhlin\51.wav" ID="51">Barret “…Marlene.”</Entry>
+  <Entry File="bwhlin\52.wav" ID="52">Barret “Wish I could've brought Marlene here.  She'd love the fireworks.”</Entry>
+  <Entry File="bwhlin\53.wav" ID="53">Barret “Why the hell do I gotta be  here with a jackass like you!”</Entry>
+  <Entry File="bwhlin\54.wav" ID="54">Barret “…The more I think  'bout it the madder I get!”</Entry>
+  <Entry File="bwhlin\55.wav" ID="55">Barret “Damn fireworks anyways.”</Entry>
+  <Entry File="bwhlin\56.wav" ID="56">Barret “Shut up!!”</Entry>
+  <Entry File="bwhlin\57.wav" ID="57">Yuffie “Cloud…?”</Entry>
+  <Entry File="bwhlin\58.wav" ID="58">Yuffie “No I,uh…”</Entry>
+  <Entry File="bwhlin\59.wav" ID="59">Cloud “…”</Entry>
+  <Entry File="bwhlin\60.wav" ID="60">Yuffie “I just felt like doing that.”</Entry>
+  <Entry File="bwhlin\61.wav" ID="61">Yuffie “That's all.”</Entry>
+  <Entry File="bwhlin\62.wav" ID="62">Yuffie “H,hey!!  Say something,why don't you!”</Entry>
+  <Entry File="bwhlin\63.wav" ID="63">Yuffie “…gawd,I could just die.”</Entry>
+  <Entry File="bwhlin\64.wav" ID="64">Yuffie “Say something,PLEASE!”</Entry>
+  <Entry File="bwhlin\65.wav" ID="65">Cloud “…something.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="bwhlin\0.wav" ID="0">Inside the Ferris Wheel</Entry>
+	<Entry File="bwhlin\10.wav" ID="10"></Entry>
+	<Entry File="bwhlin\11.wav" ID="11" />
+	<Entry File="bwhlin\12.wav" ID="12">Wait a minute.</Entry>
+	<Entry File="bwhlin\36.wav" ID="36">Aeris I know,I know…what I mean is…</Entry>
+	<Entry File="bwhlin\45.wav" ID="45">Cloud (hoo boy)</Entry>
+	<Entry File="bwhlin\66.wav" ID="66">X    Y   </Entry>
+-->
+</VoiceList>

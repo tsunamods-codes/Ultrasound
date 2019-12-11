@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds5_3\1.wav" ID="1">Aeris “You're up bright and early.”</Entry>
+  <Entry File="mds5_3\2.wav" ID="2">Cloud “I couldn't ask you to go.   I knew it would be dangerous.”</Entry>
+  <Entry File="mds5_3\3.wav" ID="3">Aeris “Are you done?”</Entry>
+  <Entry File="mds5_3\4a.wav" ID="4" Part="a">Aeris “You have to go through the slum in  Sector 6 to get to  Tifa's 7th Heaven.”</Entry>
+  <Entry File="mds5_3\4b.wav" ID="4" Part="b">“I'll take you there. Come on!”</Entry>
+  <Entry File="mds5_3\5.wav" ID="5">“Huh?    Who the hell're you? Who    do ya think you're talkin' to!?”</Entry>
+  <Entry File="mds5_3\6.wav" ID="6">“Aaaaah…what a drag.    You wanna go to that store in    Sector 6 again?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds5_3\0.wav" ID="0">Sector 5 Slum</Entry>
+-->
+</VoiceList>

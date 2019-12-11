@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="itown1b\1a.wav" ID="1" Part="a">“Ahoy! This here's Mideel.  As you can see,  this used to be a quiet hot springs town.”</Entry>
+  <Entry File="itown1b\1b.wav" ID="1" Part="b">“Everything's gone now but  in a way,I'm kinda glad   everything's cleaned out.  Feels better this way,ho,ho.”</Entry>
+  <Entry File="itown1b\2a.wav" ID="2" Part="a">“Have you seen my husband?  He disappeared during the big   earthquake and I haven't seen him since.”</Entry>
+  <Entry File="itown1b\2b.wav" ID="2" Part="b">“I thought he'd be in the store…”</Entry>
+  <Entry File="itown1b\2c.wav" ID="2" Part="c">“You don't think he got through that door  and went to another country  on the other side,do you?”</Entry>
+  <Entry File="itown1b\2d.wav" ID="2" Part="d">“That's all just a dream…  That could never really happen.  Heh…”</Entry>
+  <Entry File="itown1b\3.wav" ID="3">“Welcome!  We always welcome cash!  What can I do for you today?”</Entry>
+  <Entry File="itown1b\4a.wav" ID="4" Part="a">“I'm sorry.  Our stock isn't so great now…  But that's just the way it is here.”</Entry>
+  <Entry File="itown1b\4b.wav" ID="4" Part="b">“If you're looking for other items,  why don't you check out  the other stores?”</Entry>
+  <Entry File="itown1b\5.wav" ID="5">“Welcome.  Just what you need at a time like  this--a shop of rest and relaxation.  What ya want?”</Entry>
+  <Entry File="itown1b\6.wav" ID="6">“Thank you!  We don't have many goods  but you come again,please.”</Entry>
+  <Entry File="itown1b\7.wav" ID="7">“Hee,hee. Welcome  It's here. The day's finally come!  Your day to shop!!”</Entry>
+  <Entry File="itown1b\8a.wav" ID="8" Part="a">“Do we have items and weapons!?  Well,I should say so. And here's a bargain!  What would you say to 50% off everything?”</Entry>
+  <Entry File="itown1b\8b.wav" ID="8" Part="b">“Just kidding. Even I wouldn't do   something like that.  Now what can I do for you today?”</Entry>
+  <Entry File="itown1b\10.wav" ID="10">“Thank you.  Come again!”</Entry>
+  <Entry File="itown1b\11a.wav" ID="11" Part="a">“Hey,you feelin' all better now?  That's good,real good.”</Entry>
+  <Entry File="itown1b\11b.wav" ID="11" Part="b">“Now don't overdo yourself  like that again,hear?”</Entry>
+  <Entry File="itown1b\12a.wav" ID="12" Part="a">“Isn't the Lifestream  a strange thing?”</Entry>
+  <Entry File="itown1b\12b.wav" ID="12" Part="b">“When I die,  I wonder if I'll float along   in the middle of a warm gentle  stream like this?”</Entry>
+  <Entry File="itown1b\13a.wav" ID="13" Part="a">“Hmph! You!?  How did you get over your Mako poisoning?”</Entry>
+  <Entry File="itown1b\13b.wav" ID="13" Part="b">“It's absolutely amazing…  I am so glad for you!  Looks like your friends' wishes came true.”</Entry>
+  <Entry File="itown1b\13c.wav" ID="13" Part="c">“You can see for yourself what things are like,  but at least no one was seriously hurt.  We're just very unhappy now.”</Entry>
+  <Entry File="itown1b\14a.wav" ID="14" Part="a">“You probably don't remember,but  you know that girl that watched over  you for so long when you were sick?”</Entry>
+  <Entry File="itown1b\14b.wav" ID="14" Part="b">“You'd better be good to her.  If you don't,you'll be sorry.  Believe me!”</Entry>
+  <Entry File="itown1b\15a.wav" ID="15" Part="a">Cloud “Who's this?  Say,why are you being so friendly?”</Entry>
+  <Entry File="itown1b\15b.wav" ID="15" Part="b">“Oh,so this is it?  You like the Mimmet Greens,don't you?”</Entry>
+  <Entry File="itown1b\17.wav" ID="17">Cloud “Sorry,peewee  But I can't give you any.”</Entry>
+  <Entry File="itown1b\18.wav" ID="18">Cloud “Well,I guess it won't hurt.  Here,shorty,eat up.”</Entry>
+  <Entry File="itown1b\19.wav" ID="19">Cloud “Ha,ha. You're pretty cute.  Here,I'm gonna tickle you a bit.”</Entry>
+  <Entry File="itown1b\31.wav" ID="31">Cloud “Hey,don't surprise me like that!  I thought you were dead!”</Entry>
+  <Entry File="itown1b\32.wav" ID="32">“Well anyhow…  Hey,you all look terrible.  Why don't you rest up for a while?”</Entry>
+  <Entry File="itown1b\33.wav" ID="33">“OK! Perfect!  Well then,take care.”</Entry>
+  <Entry File="itown1b\34a.wav" ID="34" Part="a">“Oh great.  Now I've got to find another job…”</Entry>
+  <Entry File="itown1b\34b.wav" ID="34" Part="b">“I guess I might as well make my  side job as an accessory seller  into my regular job.”</Entry>
+  <Entry File="itown1b\35.wav" ID="35">“Well,since you're already here,  why don't you buy something  to take back with you?”</Entry>
+  <Entry File="itown1b\36.wav" ID="36">“Thank you.  Stop by again.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="itown1b\0.wav" ID="0">Mideel</Entry>
+	<Entry File="itown1b\9.wav" ID="9">Show me your items Show me some weapons Show me some Materia Let me outta here</Entry>
+	<Entry File="itown1b\16.wav" ID="16">Give it some Mimmet Greens Don't give it any!</Entry>
+	<Entry File="itown1b\20.wav" ID="20">The Chocobo devoured the Greens.</Entry>
+	<Entry File="itown1b\21.wav" ID="21">Tickle the bottom of its feet Tickle its stomach Tickle its neck Tickle its belly button Tickle behind its ear Tickle under its arm</Entry>
+	<Entry File="itown1b\22.wav" ID="22">The Chocobo looks happy.</Entry>
+	<Entry File="itown1b\23.wav" ID="23">The Chocobo looks ticklish.</Entry>
+	<Entry File="itown1b\24.wav" ID="24">The Chocobo looks angry.</Entry>
+	<Entry File="itown1b\25.wav" ID="25">The Chocobo looks shy.</Entry>
+	<Entry File="itown1b\26.wav" ID="26">The Chocobo looks bored.</Entry>
+	<Entry File="itown1b\27.wav" ID="27">Dined and dashed.</Entry>
+	<Entry File="itown1b\28.wav" ID="28">Received Materia from the Chocobo!</Entry>
+	<Entry File="itown1b\29.wav" ID="29">But you have too much Materia already. You can't take on anymore…</Entry>
+	<Entry File="itown1b\30.wav" ID="30">The Chocobo put the Materia away.</Entry>
+	<Entry File="itown1b\37.wav" ID="37">Chocobos ignore humans who don't look like they'll give them greens.</Entry>
+-->
+</VoiceList>

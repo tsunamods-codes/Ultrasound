@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ujunon1\1.wav" ID="1">Cloud “What kinda place is this?”</Entry>
+  <Entry File="ujunon1\2.wav" ID="2">Cloud “Did you see a man with a black cape?”</Entry>
+  <Entry File="ujunon1\3.wav" ID="3">Cloud “Are you all right now?”</Entry>
+  <Entry File="ujunon1\4.wav" ID="4">Cloud “That's all right.”</Entry>
+  <Entry File="ujunon1\5.wav" ID="5">Cloud “Hey!!”</Entry>
+  <Entry File="ujunon1\6.wav" ID="6">Cloud “Wait a second!”</Entry>
+  <Entry File="ujunon1\7.wav" ID="7">Cloud “What happened to this town?  It's so run-down…”</Entry>
+  <Entry File="ujunon1\8.wav" ID="8">Barret “What's that music?  It sure sounds lively.”</Entry>
+  <Entry File="ujunon1\9.wav" ID="9">Barret “Rufus!?  I gotta pay my respects.”</Entry>
+  <Entry File="ujunon1\10.wav" ID="10">Barret “We gotta get to the town up there…  Mebbe we could climb the tower?”</Entry>
+  <Entry File="ujunon1\11.wav" ID="11">Barret “Yeah,I'd like to take a good look  at the new President of Shinra,Inc.!”</Entry>
+  <Entry File="ujunon1\12.wav" ID="12">Barret “Seems like something's goin' on up there!”</Entry>
+  <Entry File="ujunon1\13a.wav" ID="13" Part="a">Tifa “High voltage tower…”</Entry>
+  <Entry File="ujunon1\13b.wav" ID="13" Part="b">“I guess this means   Cloud'll have to do it.”</Entry>
+  <Entry File="ujunon1\14.wav" ID="14">Tifa “Don't you just hate this?”</Entry>
+  <Entry File="ujunon1\15.wav" ID="15">Tifa “Doesn't it seem a little strange?  Everything getting so noisy  all of a sudden?”</Entry>
+  <Entry File="ujunon1\16.wav" ID="16">Tifa “Maybe…he dropped some from  the North Caves into the Lifestream…</Entry>
+  <Entry File="ujunon1\17a.wav" ID="17" Part="a">“Sir,do you know  where the Lifestream runs through?”</Entry>
+  <Entry File="ujunon1\17b.wav" ID="17" Part="b">“Cloud might have  drifted from there.”</Entry>
+  <Entry File="ujunon1\18.wav" ID="18">Aeris “You think Rufus is thinking about  crossing the ocean from here,too?”</Entry>
+  <Entry File="ujunon1\19.wav" ID="19">“What?  Does that mean Sephiroth   already crossed the ocean?”</Entry>
+  <Entry File="ujunon1\20.wav" ID="20">Aeris “Yeah,better leave it  to Cloud!”</Entry>
+  <Entry File="ujunon1\21.wav" ID="21">Aeris “You're probably right.”</Entry>
+  <Entry File="ujunon1\22.wav" ID="22">Aeris “I heard that girl regained consciousness.”</Entry>
+  <Entry File="ujunon1\23.wav" ID="23">Red XIII “Cloud,  didn't you finish Rufus off?”</Entry>
+  <Entry File="ujunon1\24.wav" ID="24">Red XIII “We're counting on you,Cloud.”</Entry>
+  <Entry File="ujunon1\25.wav" ID="25">Red XIII “That looks like a Shinra soldier.”</Entry>
+  <Entry File="ujunon1\26.wav" ID="26">Red XIII “Does this have something to do  with the Shinra?”</Entry>
+  <Entry File="ujunon1\27.wav" ID="27">Yuffie “Aren't you going to follow her?”</Entry>
+  <Entry File="ujunon1\28.wav" ID="28">Yuffie “What's this loud music?  It's giving me a headache!”</Entry>
+  <Entry File="ujunon1\29.wav" ID="29">Priscilla “Umm…thanks for helping…”</Entry>
+  <Entry File="ujunon1\30.wav" ID="30">Priscilla “I'm sorry,I mistook you for  one of those Shinra,Inc….”</Entry>
+  <Entry File="ujunon1\31.wav" ID="31">Priscilla “I heard they're rehearsing the reception  for the new Shinra president.”</Entry>
+  <Entry File="ujunon1\32a.wav" ID="32" Part="a">Priscilla “Grandpa and Grandma told me  this beach was beautiful  when they were small.”</Entry>
+  <Entry File="ujunon1\32b.wav" ID="32" Part="b">“But after the Shinra built that city above,  the sun stopped shining here,  and the water got polluted…”</Entry>
+  <Entry File="ujunon1\32c.wav" ID="32" Part="c">“I was raised on that story and   hate Shinra so much,I could die!”</Entry>
+  <Entry File="ujunon1\33.wav" ID="33">Priscilla “No! No! There's a high voltage current  running underneath the tower.  Don't wander near it,it's dangerous!”</Entry>
+  <Entry File="ujunon1\34.wav" ID="34">Priscilla “But…you might be able to  if Mr. Dolphin helps you.   Follow me!”</Entry>
+  <Entry File="ujunon1\35.wav" ID="35">Priscilla “I'll give you something SPECIAL!”</Entry>
+  <Entry File="ujunon1\36.wav" ID="36">“It's an amulet.  Take good care of it,OK?”</Entry>
+  <Entry File="ujunon1\37.wav" ID="37">“It's at my house,so come by  later to pick it up,OK?”</Entry>
+  <Entry File="ujunon1\38.wav" ID="38">“If you want to  get on the elevator that badly,  give me 10 gil!” Okay,I guess No way!</Entry>
+  <Entry File="ujunon1\39.wav" ID="39">“Hurry up and get in!”</Entry>
+  <Entry File="ujunon1\40.wav" ID="40">“You're such a cheapskate.”</Entry>
+  <Entry File="ujunon1\41.wav" ID="41">“HEY!  This is Shinra,Inc.'s elevator.    Don't be snooping around here!!”</Entry>
+  <Entry File="ujunon1\42.wav" ID="42">“What?  It's not time for our shift,yet.  Just relax.”</Entry>
+  <Entry File="ujunon1\43.wav" ID="43">“That's not enough!  Can't let you get on…”</Entry>
+  <Entry File="ujunon1\44.wav" ID="44">Cloud “Uh…yeah…”</Entry>
+  <Entry File="ujunon1\45.wav" ID="45">“Who are you people?  Where did you come from?”</Entry>
+  <Entry File="ujunon1\46.wav" ID="46">“Hmm…  I've never seen that feller before.”</Entry>
+  <Entry File="ujunon1\47.wav" ID="47">“There's nothing here now…   But it used to be a busy port.”</Entry>
+  <Entry File="ujunon1\48.wav" ID="48">“Sorry,Cloud.  Priscilla needs to rest for a while.”</Entry>
+  <Entry File="ujunon1\49a.wav" ID="49" Part="a">“I just saw some Shinra soldiers   all huddled together discussing something.”</Entry>
+  <Entry File="ujunon1\49b.wav" ID="49" Part="b">“They said a plane carrying Huge Materia  would be taking off from the airport above.”</Entry>
+  <Entry File="ujunon1\50a.wav" ID="50" Part="a">“I remember years ago,  seein' the Shinra build  a long pipe underwater.”</Entry>
+  <Entry File="ujunon1\50b.wav" ID="50" Part="b">“The underwater reactor is  connected to Junon by a pipe.”</Entry>
+  <Entry File="ujunon1\50c.wav" ID="50" Part="c">“You should be able to get  to the reactor through it.”</Entry>
+  <Entry File="ujunon1\51.wav" ID="51">“What?  Cloud is missing?”</Entry>
+  <Entry File="ujunon1\52a.wav" ID="52" Part="a">“What? The Northern…what?  Sorry,but I don't think I follow.”</Entry>
+  <Entry File="ujunon1\52b.wav" ID="52" Part="b">“But…I think I remember hearing Priscilla  saying 'Life…something' before.”</Entry>
+  <Entry File="ujunon1\53.wav" ID="53">“I think I've heard Priscilla  mentioning 'Life…something' before.”</Entry>
+  <Entry File="ujunon1\54a.wav" ID="54" Part="a">“Listen Cloud,  I'm over the hill,but  Priscilla is still a child.”</Entry>
+  <Entry File="ujunon1\54b.wav" ID="54" Part="b">“Isn't there a way to protect  at least her from Meteor?”</Entry>
+  <Entry File="ujunon1\55a.wav" ID="55" Part="a">“Ever since…Shinra built that  city up above during the war…ugh,ugh.”</Entry>
+  <Entry File="ujunon1\55b.wav" ID="55" Part="b">“There's been no fish in the water!  It got so polluted…phew…”</Entry>
+  <Entry File="ujunon1\56a.wav" ID="56" Part="a">“It seems like  there's something going on again up there.”</Entry>
+  <Entry File="ujunon1\56b.wav" ID="56" Part="b">“Is that huge plane going to  take off again with that deafening roar?”</Entry>
+  <Entry File="ujunon1\57.wav" ID="57">“I don't think I'll ever…cough…  …live to see things…  …beautiful again.”</Entry>
+  <Entry File="ujunon1\58.wav" ID="58">“Once Meteor hits,not just the fish,  but the whole ocean will be destroyed…”</Entry>
+  <Entry File="ujunon1\59a.wav" ID="59" Part="a">“There's a dolphin in the bay.  If you get close enough and  blow the whistle,  it might come to you.”</Entry>
+  <Entry File="ujunon1\59b.wav" ID="59" Part="b">“If you want to get on the ship,  why not have the dolphin take you?”</Entry>
+  <Entry File="ujunon1\60.wav" ID="60">“Wow,now this is rare.  We almost never have anyone other  than the Shinra people visit this town.”</Entry>
+  <Entry File="ujunon1\61.wav" ID="61">“I know you guys want to go to  the Western Continent,  but the only way is on a Shinra ship.”</Entry>
+  <Entry File="ujunon1\62.wav" ID="62">“Hey,come in for a while.”</Entry>
+  <Entry File="ujunon1\63a.wav" ID="63" Part="a">“For the past few decades,  the only thing I've been hearing about  is the Shinra.”</Entry>
+  <Entry File="ujunon1\63b.wav" ID="63" Part="b">“I miss the times  when we used to talk only about fish…”</Entry>
+  <Entry File="ujunon1\64a.wav" ID="64" Part="a">“I almost passed out  when I saw Weapon.”</Entry>
+  <Entry File="ujunon1\64b.wav" ID="64" Part="b">“I heard Weapon was beaten,  but a Shinra soldier told me  there are 4 more.”</Entry>
+  <Entry File="ujunon1\65a.wav" ID="65" Part="a">“They say Shinra's gathering Huge Materia  from around the world and  bringing it to Junon.”</Entry>
+  <Entry File="ujunon1\65b.wav" ID="65" Part="b">“Bringing it to Junon must mean   they want to use their airplanes.”</Entry>
+  <Entry File="ujunon1\66a.wav" ID="66" Part="a">“I've noticed  there's been a lot of Shinra ships recently.  I think they're going to  the Junon Underwater Reactor.”</Entry>
+  <Entry File="ujunon1\66b.wav" ID="66" Part="b">“Isn't Shinra trying to  transport the Reactor's Huge Materia?”</Entry>
+  <Entry File="ujunon1\67.wav" ID="67">“I heard a war's about to start!  And that's why they're moving  the big cannon!”</Entry>
+  <Entry File="ujunon1\68.wav" ID="68">“Could be the end of the world…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ujunon1\0.wav" ID="0">Under Junon</Entry>
+	<Entry File="ujunon1\69.wav" ID="69">Received "Shiva" Materia!</Entry>
+	<Entry File="ujunon1\70.wav" ID="70">[SWITCH]  Blow the whistle and    call the dolphin.</Entry>
+-->
+</VoiceList>

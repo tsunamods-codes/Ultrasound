@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="midgal\3.wav" ID="3">“Hey!  This is your food.”</Entry>
+  <Entry File="midgal\4.wav" ID="4">Shinra Soldier “What do you want to do with him?”</Entry>
+  <Entry File="midgal\5.wav" ID="5">Cloud “…Ah…ughhhh…”</Entry>
+  <Entry File="midgal\6.wav" ID="6">Commander “Forget it. Just leave him.”</Entry>
+  <Entry File="midgal\7.wav" ID="7">Cloud “uh…uhhh…Za…Zack…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="midgal\0.wav" ID="0">You cannot take on anymore Materia. Please discard some Materia.</Entry>
+	<Entry File="midgal\1.wav" ID="1" />
+	<Entry File="midgal\2.wav" ID="2">Received "High Blow ST"!</Entry>
+-->
+</VoiceList>

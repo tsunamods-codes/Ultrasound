@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="sninn_b1\1a.wav" ID="1" Part="a">“I've heard there's a snow woman  at the Great Glacier  that hates hot springs…”</Entry>
+  <Entry File="sninn_b1\1b.wav" ID="1" Part="b">“But I think it's  just a myth to scare off visitors.”</Entry>
+  <Entry File="sninn_b1\2.wav" ID="2">“Do you know what a Cetra is?”</Entry>
+  <Entry File="sninn_b1\3a.wav" ID="3" Part="a">“Yeah,a Cetra lived in this town  a long time ago.”</Entry>
+  <Entry File="sninn_b1\3b.wav" ID="3" Part="b">“Her name was Ifalna,and  she knew about a lot of things…”</Entry>
+  <Entry File="sninn_b1\4.wav" ID="4">“I heard she was abducted by the Shinra and  was taken somewhere.”</Entry>
+  <Entry File="sninn_b1\5.wav" ID="5">“With all the strange things  happening in the world,  I kinda understand  why people want to leave…”</Entry>
+  <Entry File="sninn_b1\6.wav" ID="6">“What were the Cetra?  Oh yeah,they were  the same as the Ancients,right?”</Entry>
+  <Entry File="sninn_b1\7.wav" ID="7">“Whadaya mean?”</Entry>
+  <Entry File="sninn_b1\8.wav" ID="8">“Shinra and the Ancients…  I smell somethin' fishy…”</Entry>
+  <Entry File="sninn_b1\9a.wav" ID="9" Part="a">“Maybe we'd better  leave town soon too.”</Entry>
+  <Entry File="sninn_b1\9b.wav" ID="9" Part="b">“Let's go to that island in the South!  What was it called?”</Entry>
+  <Entry File="sninn_b1\9c.wav" ID="9" Part="c">“Yeah,yeah,I heard that there's a town  called Mideel on a southern island.”</Entry>
+  <Entry File="sninn_b1\10a.wav" ID="10" Part="a">“I heard some guy went to  the Great Glacier in the North.”</Entry>
+  <Entry File="sninn_b1\10b.wav" ID="10" Part="b">“What an idiot.  Is he thinkin' 'bout going to  that hot spring?”</Entry>
+  <Entry File="sninn_b1\11a.wav" ID="11" Part="a">“He's probably gonna get lost in   the glacier and freeze to death.”</Entry>
+  <Entry File="sninn_b1\11b.wav" ID="11" Part="b">“No matter how well equipped he is,  out there in that cold on the glacier,  I give him two days at the most.”</Entry>
+  <Entry File="sninn_b1\12.wav" ID="12">“You thinkin' of going North?” That's my plan No</Entry>
+  <Entry File="sninn_b1\13a.wav" ID="13" Part="a">“Well…if you're going past this town  you'll need a map.”</Entry>
+  <Entry File="sninn_b1\13b.wav" ID="13" Part="b">“Maybe there's one left at  Mr. Holzoff's house.  He used to be a mountain climber.”</Entry>
+  <Entry File="sninn_b1\14.wav" ID="14">“Yeah,we really don't have anything  here,but make yourself at home.”</Entry>
+  <Entry File="sninn_b1\15a.wav" ID="15" Part="a">“If you go further North,  I heard there's a Huge Crater.”</Entry>
+  <Entry File="sninn_b1\15b.wav" ID="15" Part="b">“Something huge must've fallen   from the sky a long time ago!”</Entry>
+  <Entry File="sninn_b1\16.wav" ID="16">“Am I boring you?”</Entry>
+  <Entry File="sninn_b1\17.wav" ID="17">“Welcome!  You look like a STRONG one…”</Entry>
+  <Entry File="sninn_b1\18.wav" ID="18">“If you want,  I could lend you an ear?” Yeah Not interested</Entry>
+  <Entry File="sninn_b1\19.wav" ID="19">“What's with you!?  You make me sick!”</Entry>
+  <Entry File="sninn_b1\20.wav" ID="20">“I got bored  listening to his stories.”</Entry>
+  <Entry File="sninn_b1\21.wav" ID="21">“Oh yeah?”</Entry>
+  <Entry File="sninn_b1\22.wav" ID="22">“WHAT YOU LOOKIN' AT!?”</Entry>
+  <Entry File="sninn_b1\23.wav" ID="23">“You're a real freakazoid,  aren't you?”</Entry>
+  <Entry File="sninn_b1\24.wav" ID="24">“Eyaaaaaaaaah!!!”</Entry>
+  <Entry File="sninn_b1\25.wav" ID="25">“I'm still in here!  All right!?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="sninn_b1\0.wav" ID="0">Icicle Inn Bar</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jailin2\1.wav" ID="1">Cloud “Barret!”</Entry>
+  <Entry File="jailin2\2.wav" ID="2">Barret “Didn't I tell you not to come here!?”</Entry>
+  <Entry File="jailin2\3.wav" ID="3">Cait Sith “Ju…just hold on for a second!  We just want to talk!  You'll understand if you just hear us out!”</Entry>
+  <Entry File="jailin2\4.wav" ID="4">Cloud “Barret!!”</Entry>
+  <Entry File="jailin2\5.wav" ID="5">Barret “Didn't want none  of ya to get involved…”</Entry>
+  <Entry File="jailin2\6.wav" ID="6">Aeris “Hey that's Cloud's line!  '…It's too dangerous,I can't  let you get involved…' blah,blah,blah…”</Entry>
+  <Entry File="jailin2\7.wav" ID="7">Tifa “Yeah.  We're already involved in this.”</Entry>
+  <Entry File="jailin2\8.wav" ID="8">Aeris “We saw you and hurried here.  Barret,just tell us  what's going on.”</Entry>
+  <Entry File="jailin2\9.wav" ID="9">Tifa “We saw you and hurried here.  So come on Barret,  just tell us what's going on.”</Entry>
+  <Entry File="jailin2\10.wav" ID="10">Barret “You guys…”</Entry>
+  <Entry File="jailin2\11.wav" ID="11">Red XIII “I heard that the murders at the  Battle Arena were done by a man  with a gun-arm…was that you?”</Entry>
+  <Entry File="jailin2\12.wav" ID="12">Barret “There's another…  another man that got a gun   grafted inta one of his arms.  It was four years ago…”</Entry>
+  <Entry File="jailin2\13.wav" ID="13">Barret “From then on,  I couldn't use my right arm no more.”</Entry>
+  <Entry File="jailin2\14.wav" ID="14">Barret “…I was depressed for a while.”</Entry>
+  <Entry File="jailin2\15.wav" ID="15">Barret “But then I threw away my artificial arm  and got this gun grafted in.”</Entry>
+  <Entry File="jailin2\16.wav" ID="16">Barret “Got a new right arm to get revenge on  the Shinra,who took everything away…”</Entry>
+  <Entry File="jailin2\17a.wav" ID="17" Part="a">Barret “Back then,I heard the doc say  there was another man  who got the same operation as me.”</Entry>
+  <Entry File="jailin2\17b.wav" ID="17" Part="b">“But,his was the left arm.”</Entry>
+  <Entry File="jailin2\18.wav" ID="18">Cloud “…”</Entry>
+  <Entry File="jailin2\19.wav" ID="19">Aeris “But…Dyne's injury was  the same as yours,right?”</Entry>
+  <Entry File="jailin2\20a.wav" ID="20" Part="a">Tifa “Yeah,that's right.  He was deceived by the Shinra too.”</Entry>
+  <Entry File="jailin2\20b.wav" ID="20" Part="b">“He'll probably join us  to fight against the Shinra.”</Entry>
+  <Entry File="jailin2\21.wav" ID="21">Barret “…Wouldn't bet on it.  I gotta 'pologize to Dyne   before I can rest in peace.”</Entry>
+  <Entry File="jailin2\22.wav" ID="22">Barret “An' that's why I gotta go alone.”</Entry>
+  <Entry File="jailin2\23a.wav" ID="23" Part="a">Cloud “Do whatever you want…  Is that what you want to hear?”</Entry>
+  <Entry File="jailin2\23b.wav" ID="23" Part="b">“Well,I can't let you do it.  We need your help to save  the Planet.”</Entry>
+  <Entry File="jailin2\24.wav" ID="24">Aeris “Barret,  this isn't the end.”</Entry>
+  <Entry File="jailin2\25.wav" ID="25">Tifa “Weren't you going to save the Planet?”</Entry>
+  <Entry File="jailin2\26.wav" ID="26">Barret “@#$%! Tifa,  you oughtta know by now.”</Entry>
+  <Entry File="jailin2\27.wav" ID="27">Tifa “…That's all right.  I'm not so different from you.”</Entry>
+  <Entry File="jailin2\28.wav" ID="28">Aeris “That's easier to understand.  It's you,Barret.”</Entry>
+  <Entry File="jailin2\29.wav" ID="29">Cloud “So there it is,Barret.  So I guess it'll be  Barret,me,and…”</Entry>
+  <Entry File="jailin2\30.wav" ID="30">Aeris “I wonder if Dyne will join us?”</Entry>
+  <Entry File="jailin2\31.wav" ID="31">Tifa “Be careful.”</Entry>
+  <Entry File="jailin2\32.wav" ID="32">Red XIII “Hmm? Shall I go with you?”</Entry>
+  <Entry File="jailin2\33.wav" ID="33">Cait Sith “Fortune's good.  Everything is perfect!”</Entry>
+  <Entry File="jailin2\34.wav" ID="34">Yuffie “You all sure are acting pretty heroic,  considerin' we're not  makin' any money on this…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jailin2\0.wav" ID="0">Mayor's Old House</Entry>
+-->
+</VoiceList>

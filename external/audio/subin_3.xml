@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="subin_3\1.wav" ID="1">Cloud “We're breakin' out of here!”</Entry>
+  <Entry File="subin_3\2.wav" ID="2">Tifa “But how?  We're at the bottom of the sea!!”</Entry>
+  <Entry File="subin_3\3.wav" ID="3">Barret “Whatcha gonna do!?”</Entry>
+  <Entry File="subin_3\4.wav" ID="4">Red XIII “I can't swim…”</Entry>
+  <Entry File="subin_3\5.wav" ID="5">Cid “Damn!  What are we gonna do?”</Entry>
+  <Entry File="subin_3\6.wav" ID="6">Yuffie “I wanna get outta here,now!”</Entry>
+  <Entry File="subin_3\7.wav" ID="7">Cait Sith “What we gonna do?”</Entry>
+  <Entry File="subin_3\8.wav" ID="8">Vincent “We're at the bottom of the sea.”</Entry>
+  <Entry File="subin_3\9.wav" ID="9">Cloud “We're gonna hop on a   torpedo and blast outta here!”</Entry>
+  <Entry File="subin_3\10a.wav" ID="10" Part="a">Cloud “Don't worry!  I won't miss!”</Entry>
+  <Entry File="subin_3\10b.wav" ID="10" Part="b">“We don't even have a target.  We're just aiming at the sky.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="subin_3\0.wav" ID="0">Inside Submarine</Entry>
+-->
+</VoiceList>

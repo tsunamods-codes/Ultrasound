@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jun_m\1a.wav" ID="1" Part="a">“Welcome!”</Entry>
+  <Entry File="jun_m\1b.wav" ID="1" Part="b">“I was just starting to get worried…  You see our sales were pretty bad today.”</Entry>
+  <Entry File="jun_m\2a.wav" ID="2" Part="a">“Welcome!!”</Entry>
+  <Entry File="jun_m\2b.wav" ID="2" Part="b">“I just can't believe it.  I never thought a monster like   Weapon really existed.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jun_m\0.wav" ID="0">Materia Store</Entry>
+-->
+</VoiceList>

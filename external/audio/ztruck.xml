@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ztruck\0.wav" ID="0">Zack “Oh,here!!”</Entry>
+  <Entry File="ztruck\1.wav" ID="1">Zack “Put this on.”</Entry>
+  <Entry File="ztruck\2.wav" ID="2">Zack “It smells a little,but  don't complain.”</Entry>
+  <Entry File="ztruck\3.wav" ID="3">Zack “You look pretty good with that.”</Entry>
+  <Entry File="ztruck\4.wav" ID="4">Zack “Well…”</Entry>
+  <Entry File="ztruck\5.wav" ID="5">Zack “Yo! Old guy!  We at Midgar yet?”</Entry>
+  <Entry File="ztruck\6.wav" ID="6">“Shaddap!  You're lucky I even  gave you a ride!”</Entry>
+  <Entry File="ztruck\7.wav" ID="7">Zack “Hah!”</Entry>
+  <Entry File="ztruck\8.wav" ID="8">Zack “What're you gonna do  once we get to Midgar?”</Entry>
+  <Entry File="ztruck\9.wav" ID="9">Cloud “…”</Entry>
+  <Entry File="ztruck\10.wav" ID="10">Zack “I know what I'm  gonna do.”</Entry>
+  <Entry File="ztruck\11.wav" ID="11">Cloud “…”</Entry>
+  <Entry File="ztruck\12.wav" ID="12">Zack “I got a place I can  crash for a while…”</Entry>
+  <Entry File="ztruck\13.wav" ID="13">Zack “No wait,the mother  lives there too.”</Entry>
+  <Entry File="ztruck\14.wav" ID="14">Zack “Guess that's out.”</Entry>
+  <Entry File="ztruck\15.wav" ID="15">Cloud “…”</Entry>
+  <Entry File="ztruck\16.wav" ID="16">Zack “Yep…gotta change  my plans!”</Entry>
+  <Entry File="ztruck\17a.wav" ID="17" Part="a">Zack “Hmm…”</Entry>
+  <Entry File="ztruck\17b.wav" ID="17" Part="b">“No matter what I do,I  need some money first…”</Entry>
+  <Entry File="ztruck\18.wav" ID="18">Zack “…Hey,wanna start a business?  Now what could we do?”</Entry>
+  <Entry File="ztruck\19a.wav" ID="19" Part="a">Zack “Hey,Cloud.”</Entry>
+  <Entry File="ztruck\19b.wav" ID="19" Part="b">“Think there's anything  I'd be good at?”</Entry>
+  <Entry File="ztruck\20a.wav" ID="20" Part="a">Zack “Hey old guy!”</Entry>
+  <Entry File="ztruck\20b.wav" ID="20" Part="b">“What do you think  I'd be good at?”</Entry>
+  <Entry File="ztruck\21a.wav" ID="21" Part="a">“What're you yappin' about?  You're still young  ain't ya?”</Entry>
+  <Entry File="ztruck\21b.wav" ID="21" Part="b">“Young folks should  try everything!”</Entry>
+  <Entry File="ztruck\22a.wav" ID="22" Part="a">“You gotta pay your dues  while you're young.”</Entry>
+  <Entry File="ztruck\22b.wav" ID="22" Part="b">“Go out and look for  what you really want.”</Entry>
+  <Entry File="ztruck\23.wav" ID="23">Zack “Yeah,whatever…”</Entry>
+  <Entry File="ztruck\24.wav" ID="24">Zack “Try everything…  That's easy for him to say.”</Entry>
+  <Entry File="ztruck\25.wav" ID="25">Cloud “…”</Entry>
+  <Entry File="ztruck\26.wav" ID="26">Zack “HEY!”</Entry>
+  <Entry File="ztruck\27a.wav" ID="27" Part="a">Zack “Of course!”</Entry>
+  <Entry File="ztruck\27b.wav" ID="27" Part="b">“I got more brains and skill than  most other guys!”</Entry>
+  <Entry File="ztruck\28.wav" ID="28">Zack “That settles it!”</Entry>
+  <Entry File="ztruck\29.wav" ID="29">Zack “I'm gonna become a mercenary!”</Entry>
+  <Entry File="ztruck\30.wav" ID="30">“Hey…didn't you even hear  a word I said?”</Entry>
+  <Entry File="ztruck\31.wav" ID="31">Zack “Yeah! Thanks Pops!”</Entry>
+  <Entry File="ztruck\32.wav" ID="32">“No,wait…you got it all wrong.”</Entry>
+  <Entry File="ztruck\33a.wav" ID="33" Part="a">Zack “Listen,I'm gonna become  a mercenary and that's that.”</Entry>
+  <Entry File="ztruck\33b.wav" ID="33" Part="b">“Boring stuff,dangerous stuff,  anything for money.”</Entry>
+  <Entry File="ztruck\33c.wav" ID="33" Part="c">“I'm gonna be rich!”</Entry>
+  <Entry File="ztruck\34.wav" ID="34">Zack “So,Cloud?  What are YOU gonna do?”</Entry>
+  <Entry File="ztruck\35.wav" ID="35">Cloud “U…uhhh…”</Entry>
+  <Entry File="ztruck\36.wav" ID="36">Zack “Just kidding…  I won't leave you hanging like that.”</Entry>
+  <Entry File="ztruck\37.wav" ID="37">Cloud “…”</Entry>
+  <Entry File="ztruck\38.wav" ID="38">Zack “We're friends,right?”</Entry>
+  <Entry File="ztruck\39.wav" ID="39">Zack “Mercenaries. Cloud.  That's what you an' me are gonna be.”</Entry>
+  <Entry File="ztruck\40.wav" ID="40">Zack “Mercenaries. Cloud.  That's what you an' me are gonna be.”</Entry>
+  <Entry File="ztruck\41.wav" ID="41">Zack “Understand,Cloud?”</Entry>
+</VoiceList>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="kuro_4\2.wav" ID="2">“I am the Time Guardian.  Ye who seek the knowledge of the Ancients.  I control the time,select your path.”</Entry>
+  <Entry File="kuro_4\3.wav" ID="3">“What is it you wish,seeker of knowledge?” Speed up time Go back in time</Entry>
+  <Entry File="kuro_4\4.wav" ID="4">“How fast would ye move time?” Just a bit A little more Plenty Cancel</Entry>
+  <Entry File="kuro_4\5.wav" ID="5">“…It is time…  You may proceed.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="kuro_4\0.wav" ID="0">Temple of the Ancients</Entry>
+	<Entry File="kuro_4\1.wav" ID="1" />
+	<Entry File="kuro_4\6.wav" ID="6">[MENU]: Leave it up to the Guard [OK]: Spin [CANCEL]: Proceed now!</Entry>
+	<Entry File="kuro_4\7.wav" ID="7">[OK]: Stop!</Entry>
+	<Entry File="kuro_4\8.wav" ID="8">[MENU]: Move it myself [OK]: Spin [CANCEL]: Proceed now!</Entry>
+	<Entry File="kuro_4\9.wav" ID="9">[MENU]: Go back in time [OK]: Speed up time [CANCEL]: Proceed now!</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="church\1.wav" ID="1">Aeris “Ha,ha…  They're looking for  me again.”</Entry>
+  <Entry File="church\2.wav" ID="2">Cloud “You mean it's not the  first time they've  been after you?”</Entry>
+  <Entry File="church\3.wav" ID="3">Aeris “…no.”</Entry>
+  <Entry File="church\4.wav" ID="4">Cloud “They're the Turks.”</Entry>
+  <Entry File="church\5.wav" ID="5">Aeris “Hmm…”</Entry>
+  <Entry File="church\6.wav" ID="6">Cloud “The Turks are  a Shinra organization.  They scout for possible  candidates for SOLDIER.”</Entry>
+  <Entry File="church\7.wav" ID="7">Aeris “This violently? I thought  they were kidnapping  someone.”</Entry>
+  <Entry File="church\8a.wav" ID="8" Part="a">Cloud “They're also involved in  a lot of other dirty  stuff on the side.”</Entry>
+  <Entry File="church\8b.wav" ID="8" Part="b">“Spying,  murder…you know.”</Entry>
+  <Entry File="church\9.wav" ID="9">Aeris “They look like it.”</Entry>
+  <Entry File="church\10.wav" ID="10">Cloud “But,why're they after you?  There must be a reason,  right?”</Entry>
+  <Entry File="church\11.wav" ID="11">Aeris “No,not really. I think they  believe I have what it  takes to be in SOLDIER!”</Entry>
+  <Entry File="church\12.wav" ID="12">Cloud “Maybe you do.  You want to join?”</Entry>
+  <Entry File="church\13.wav" ID="13">Aeris “I don't know…  But I don't want to   get caught  by THOSE people!”</Entry>
+  <Entry File="church\14.wav" ID="14">Cloud “Then,let's go!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="church\0.wav" ID="0">Church</Entry>
+-->
+</VoiceList>

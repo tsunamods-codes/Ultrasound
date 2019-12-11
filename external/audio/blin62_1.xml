@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blin62_1\5a.wav" ID="5" Part="a">Hart “How do you do?”</Entry>
+  <Entry File="blin62_1\5b.wav" ID="5" Part="b">“This is the Midgar Mayor's Office.  Mayor Domino is in his office.”</Entry>
+  <Entry File="blin62_1\5c.wav" ID="5" Part="c">“I am the Deputy Mayor.  If you should have any questions  feel free to ask me…”</Entry>
+  <Entry File="blin62_1\6a.wav" ID="6" Part="a">Domino “Hmm?  Oh,and who might you be?”</Entry>
+  <Entry File="blin62_1\6b.wav" ID="6" Part="b">“You all must be those…ahem…  Me? I'm Domino,the Mayor of Midgar.”</Entry>
+  <Entry File="blin62_1\6c.wav" ID="6" Part="c">“Actually,I'm Mayor in name only.  The city and everything in it is really  run by Shinra,Inc.”</Entry>
+  <Entry File="blin62_1\6d.wav" ID="6" Part="d">“My only real job is watching over  Shinra's documents…”</Entry>
+  <Entry File="blin62_1\6e.wav" ID="6" Part="e">“Me! The Mayor!  A librarian!  Ohh…”</Entry>
+  <Entry File="blin62_1\6f.wav" ID="6" Part="f">“You want to get upstairs?  I tell you what,if you can guess the  password,I'll give you my keycard.”</Entry>
+  <Entry File="blin62_1\7a.wav" ID="7" Part="a">“Yes,that's it.  Guess the password  and I'll give you my keycard!”</Entry>
+  <Entry File="blin62_1\7b.wav" ID="7" Part="b">“Get it on the first try  and I'll even throw in  a special item!”</Entry>
+  <Entry File="blin62_1\8a.wav" ID="8" Part="a">Domino “Got it?”</Entry>
+  <Entry File="blin62_1\8b.wav" ID="8" Part="b">“Then tell me.”</Entry>
+  <Entry File="blin62_1\9.wav" ID="9">“So,what's the password?” BEST KING ORBS BOMB MAKO HOJO Wait a second</Entry>
+  <Entry File="blin62_1\10.wav" ID="10">Domino “Nope! You're ALL wrong!  It's a much better word than that!  Try again!”</Entry>
+  <Entry File="blin62_1\11.wav" ID="11">Domino “BEST!!”</Entry>
+  <Entry File="blin62_1\12a.wav" ID="12" Part="a">“God,I love the sound of that!  BEST!! I AM the best…ME!!  No matter what anyone else says,  you'd better believe it.”</Entry>
+  <Entry File="blin62_1\12b.wav" ID="12" Part="b">“…hmm. Well,OK.  Here,take it.”</Entry>
+  <Entry File="blin62_1\13.wav" ID="13">Domino “KING!!”</Entry>
+  <Entry File="blin62_1\14a.wav" ID="14" Part="a">“God,I love the sound of that!  KING!! President Shinra sucks!  I should be King of Midgar!”</Entry>
+  <Entry File="blin62_1\14b.wav" ID="14" Part="b">“…hmm. Well,OK.  Here,take it.”</Entry>
+  <Entry File="blin62_1\15.wav" ID="15">Domino “BOMB!!”</Entry>
+  <Entry File="blin62_1\16a.wav" ID="16" Part="a">“God,I love the sound of that!  BOMB!! I'm so angry,I'm like  a walking time bomb waiting to explode!”</Entry>
+  <Entry File="blin62_1\16b.wav" ID="16" Part="b">“…hmm. Well,OK.  Here,take it.”</Entry>
+  <Entry File="blin62_1\17.wav" ID="17">Domino “MAKO!!”</Entry>
+  <Entry File="blin62_1\18a.wav" ID="18" Part="a">“God,I love the sound of that!  MAKO! If I had a lot more of it,  I would be a real Mayor!”</Entry>
+  <Entry File="blin62_1\18b.wav" ID="18" Part="b">“…hmm. Well,OK.  Here,take it.”</Entry>
+  <Entry File="blin62_1\20a.wav" ID="20" Part="a">Domino “Why would I do something  like this,you ask?”</Entry>
+  <Entry File="blin62_1\20b.wav" ID="20" Part="b">“Revenge,of course!  Shinra's been torturing me forever.”</Entry>
+  <Entry File="blin62_1\20c.wav" ID="20" Part="c">“That's why I was a little rough  on you all just now.  Now go up there and really  make them suffer.”</Entry>
+  <Entry File="blin62_1\20d.wav" ID="20" Part="d">“This ought to teach them!  Heh heh heh…”</Entry>
+  <Entry File="blin62_1\21a.wav" ID="21" Part="a">Domino “But my card will only get you  to the 65th floor.”</Entry>
+  <Entry File="blin62_1\21b.wav" ID="21" Part="b">“Can you believe how they treat me?  …ME! Like some common employee…”</Entry>
+  <Entry File="blin62_1\22a.wav" ID="22" Part="a">Hart “Did you speak with the Mayor?”</Entry>
+  <Entry File="blin62_1\22b.wav" ID="22" Part="b">“What?  A password?  Oh,I get it…”</Entry>
+  <Entry File="blin62_1\22c.wav" ID="22" Part="c">“He's got way too much time on his hands.  But you can't really blame him,  Everything in Midgar is controlled  by President Shinra.”</Entry>
+  <Entry File="blin62_1\22d.wav" ID="22" Part="d">“Maybe I can help you.”</Entry>
+  <Entry File="blin62_1\23.wav" ID="23">“What do you want to know?” The password…duh! How about a hint? Get out of my face</Entry>
+  <Entry File="blin62_1\24a.wav" ID="24" Part="a">Hart “…I see.  Then,I guess that's that.”</Entry>
+  <Entry File="blin62_1\24b.wav" ID="24" Part="b">“Good luck  finding it on your own.”</Entry>
+  <Entry File="blin62_1\24c.wav" ID="24" Part="c">“If you decide you want help.  I'll just be right over here.  Ready to tell you anytime…”</Entry>
+  <Entry File="blin62_1\25.wav" ID="25">“What can I do for you?” Give me the hint again Give me the next hint Uh,nothing</Entry>
+  <Entry File="blin62_1\26a.wav" ID="26" Part="a">Hart “Sure,sure.  All right.”</Entry>
+  <Entry File="blin62_1\26b.wav" ID="26" Part="b">“As a public servant,  it's my job to serve  the needs of the people.”</Entry>
+  <Entry File="blin62_1\26c.wav" ID="26" Part="c">“So here's a hint…”</Entry>
+  <Entry File="blin62_1\27.wav" ID="27">“…for 500 gil.” Give him the money Forget it!</Entry>
+  <Entry File="blin62_1\28.wav" ID="28">“…for 1000 gil.” Give him the money Forget it!</Entry>
+  <Entry File="blin62_1\29.wav" ID="29">“…for 2000 gil.” Give him the money Forget it!</Entry>
+  <Entry File="blin62_1\30.wav" ID="30">“…for 5000 gil.” Give him the money Forget it!</Entry>
+  <Entry File="blin62_1\31.wav" ID="31">“…for 15000 gil.” Give him the money Forget it!</Entry>
+  <Entry File="blin62_1\32.wav" ID="32">Hart “What do you want to know?” HELP Forget it</Entry>
+  <Entry File="blin62_1\33a.wav" ID="33" Part="a">Hart “Hey now!  You're a bit short.”</Entry>
+  <Entry File="blin62_1\33b.wav" ID="33" Part="b">“No one works on credit nowadays…  not even stores in the slums.”</Entry>
+  <Entry File="blin62_1\34a.wav" ID="34" Part="a">Hart “I can't believe it! I gave you all  these hints,and you STILL don't get it?”</Entry>
+  <Entry File="blin62_1\34b.wav" ID="34" Part="b">“You guys are amazing!  Really,amazing…”</Entry>
+  <Entry File="blin62_1\34c.wav" ID="34" Part="c">“Well,seeing as things have come to this,  I might as well just tell you.”</Entry>
+  <Entry File="blin62_1\35.wav" ID="35">Hart “Oh,my…well,  Thank you very much.”</Entry>
+  <Entry File="blin62_1\36a.wav" ID="36" Part="a">“Now listen.  On this floor are four research libraries  for four different sections of Shinra,Inc….”</Entry>
+  <Entry File="blin62_1\36b.wav" ID="36" Part="b">“Parts of the password are hidden  in each of the libraries.”</Entry>
+  <Entry File="blin62_1\36c.wav" ID="36" Part="c">“Pay careful attention to the files  in each room.”</Entry>
+  <Entry File="blin62_1\36d.wav" ID="36" Part="d">“The name of each library is written  on the plaque outside the door.”</Entry>
+  <Entry File="blin62_1\37a.wav" ID="37" Part="a">“Now,in each library will be one file  mixed in from another library.”</Entry>
+  <Entry File="blin62_1\37b.wav" ID="37" Part="b">“Look carefully at the numbers  on each file.”</Entry>
+  <Entry File="blin62_1\38a.wav" ID="38" Part="a">“There is a number at the beginning  of each file name.”</Entry>
+  <Entry File="blin62_1\38b.wav" ID="38" Part="b">“Look at the number on  the files that don't belong  in that library.”</Entry>
+  <Entry File="blin62_1\38c.wav" ID="38" Part="c">“Match the number with the letters  in the title of the file.”</Entry>
+  <Entry File="blin62_1\38d.wav" ID="38" Part="d">“If the file starts with a 4,  then check the fourth letter and…  well,you get the idea.”</Entry>
+  <Entry File="blin62_1\39a.wav" ID="39" Part="a">Hart “What do you mean the next hint?  I've practically told you,didn't I?”</Entry>
+  <Entry File="blin62_1\39b.wav" ID="39" Part="b">“…all right.  Since this seems like a special case,  I'll give you MY key card!”</Entry>
+  <Entry File="blin62_1\40a.wav" ID="40" Part="a">Hart “If you run into President Shinra,  please don't tell him about this.”</Entry>
+  <Entry File="blin62_1\40b.wav" ID="40" Part="b">“I can't be a partner to  anymore trouble for Shinra.”</Entry>
+  <Entry File="blin62_1\41a.wav" ID="41" Part="a">“I never thought you'd  get it on the first try…”</Entry>
+  <Entry File="blin62_1\41b.wav" ID="41" Part="b">“Just goes to show you can't  judge a book by its cover.  Oh well,a promise is a promise.  Take this,too.”</Entry>
+  <Entry File="blin62_1\44.wav" ID="44">Domino “What…full already?  Come back again when it's empty.”</Entry>
+  <Entry File="blin62_1\48a.wav" ID="48" Part="a">Domino “Hmm.  It appears you're not completely stupid.”</Entry>
+  <Entry File="blin62_1\48b.wav" ID="48" Part="b">“Fine then,take this.”</Entry>
+  <Entry File="blin62_1\49a.wav" ID="49" Part="a">Domino “I see…  For you…this might be best.”</Entry>
+  <Entry File="blin62_1\49b.wav" ID="49" Part="b">“Then,  this is for all of you.”</Entry>
+  <Entry File="blin62_1\50a.wav" ID="50" Part="a">Domino “Hoo boy! You finally got it?”</Entry>
+  <Entry File="blin62_1\50b.wav" ID="50" Part="b">“You all really don't use  your heads much,do you?”</Entry>
+  <Entry File="blin62_1\50c.wav" ID="50" Part="c">“……What the hey.  Here,just take it anyway.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blin62_1\0.wav" ID="0">Shinra Bldg. 62f.</Entry>
+	<Entry File="blin62_1\1.wav" ID="1">Shinra,Inc. Urban Dev. Research Library</Entry>
+	<Entry File="blin62_1\2.wav" ID="2">Shinra,Inc. Space Dev. Research Library</Entry>
+	<Entry File="blin62_1\3.wav" ID="3">Shinra,Inc. Peace Preservation/ Weapon Dev. Research Library</Entry>
+	<Entry File="blin62_1\4.wav" ID="4">Shinra,Inc. Scientific Research Library</Entry>
+	<Entry File="blin62_1\19.wav" ID="19">Received "Keycard 65"!</Entry>
+	<Entry File="blin62_1\42.wav" ID="42">Received "Elemental" Materia!</Entry>
+	<Entry File="blin62_1\43.wav" ID="43">You cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="blin62_1\45.wav" ID="45">Received "Elixir"!</Entry>
+	<Entry File="blin62_1\46.wav" ID="46">Received "Ether"!</Entry>
+	<Entry File="blin62_1\47.wav" ID="47">Received "Potion"!</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds7plr1\1.wav" ID="1">Barret “Don't get all slaphappy just 'cause  today's mission went well!!”</Entry>
+  <Entry File="mds7plr1\2.wav" ID="2">Barret “Yo,Cloud!  Over here,now!”</Entry>
+  <Entry File="mds7plr1\3.wav" ID="3">Tifa “We made it!  The pillar's standing!”</Entry>
+  <Entry File="mds7plr1\4.wav" ID="4">Cloud “Wait!  You hear something above us?”</Entry>
+  <Entry File="mds7plr1\5.wav" ID="5">Aeris “…gun fire?”</Entry>
+  <Entry File="mds7plr1\6.wav" ID="6">Cloud “Barret? ”</Entry>
+  <Entry File="mds7plr1\7.wav" ID="7">Cloud “I'm going up!”</Entry>
+  <Entry File="mds7plr1\8.wav" ID="8">Cloud “Aeris!  You look after Wedge.”</Entry>
+  <Entry File="mds7plr1\9a.wav" ID="9" Part="a">Tifa “Aeris,do me a favor.”</Entry>
+  <Entry File="mds7plr1\9b.wav" ID="9" Part="b">“I have a bar called '7th Heaven' in   this neighborhood.”</Entry>
+  <Entry File="mds7plr1\10.wav" ID="10">“There's a little girl  named Marlene there.”</Entry>
+  <Entry File="mds7plr1\11.wav" ID="11">Aeris “Don't worry.  I'll put her somewhere safe.”</Entry>
+  <Entry File="mds7plr1\12a.wav" ID="12" Part="a">Tifa “It's dangerous here!”</Entry>
+  <Entry File="mds7plr1\12b.wav" ID="12" Part="b">“Everyone get away from the pillar,quickly!”</Entry>
+  <Entry File="mds7plr1\12c.wav" ID="12" Part="c">“Everyone get out of Sector 7!”</Entry>
+  <Entry File="mds7plr1\13.wav" ID="13">Cloud “Wedge!!  You all right!?”</Entry>
+  <Entry File="mds7plr1\14.wav" ID="14">Wedge “…Cloud.  You remembered…my name.”</Entry>
+  <Entry File="mds7plr1\15.wav" ID="15">“Barret's up top.  …Help him…”</Entry>
+  <Entry File="mds7plr1\16.wav" ID="16">“An' Cloud…  Sorry,I wasn't any help.”</Entry>
+  <Entry File="mds7plr1\17.wav" ID="17">“Cloud…  It hurts…”</Entry>
+  <Entry File="mds7plr1\18.wav" ID="18">Tifa “Cloud!!  You've gotta go now,  or Barret's…”</Entry>
+  <Entry File="mds7plr1\19.wav" ID="19">“Hey now!!  Oops!!”</Entry>
+  <Entry File="mds7plr1\20a.wav" ID="20" Part="a">“What on earth are you doing?  Just butt out…geez!”</Entry>
+  <Entry File="mds7plr1\20b.wav" ID="20" Part="b">“Huh?  You came to see it,too?”</Entry>
+  <Entry File="mds7plr1\21a.wav" ID="21" Part="a">“There was a bombing on top.  If this pillar should come down,  everyone in the slums is dust…”</Entry>
+  <Entry File="mds7plr1\21b.wav" ID="21" Part="b">“Well,  there's no point in worryin' about that.”</Entry>
+  <Entry File="mds7plr1\22.wav" ID="22">“Hey!! Check it out!  It's huge,ain't it?”</Entry>
+  <Entry File="mds7plr1\23a.wav" ID="23" Part="a">“Hey…  This is a strange and wonderful place.”</Entry>
+  <Entry File="mds7plr1\23b.wav" ID="23" Part="b">“This is my place,  but you can come here when you want.  See ya,bro!”</Entry>
+  <Entry File="mds7plr1\24.wav" ID="24">“Ah…eh…uhm.  Excuse me. You cannot pass  without the proper clearance.”</Entry>
+  <Entry File="mds7plr1\25.wav" ID="25">“Did I do good this time?”</Entry>
+  <Entry File="mds7plr1\26.wav" ID="26">“You gotta be tougher!”</Entry>
+  <Entry File="mds7plr1\27.wav" ID="27">“But,uh,I…”</Entry>
+  <Entry File="mds7plr1\28.wav" ID="28">“W,wow! You're great!!”</Entry>
+  <Entry File="mds7plr1\29.wav" ID="29">“Damn right!!  Don't waste time talkin's  what I always say!”</Entry>
+  <Entry File="mds7plr1\30.wav" ID="30">“What the hell do you want?  You know who I am?”</Entry>
+  <Entry File="mds7plr1\31.wav" ID="31">“You can't pass.  I got the miserable job of keepin'  scum like you from trying to sneak in here.”</Entry>
+  <Entry File="mds7plr1\32.wav" ID="32">“Listen…  My partner's pretty mean,  I wouldn't get him mad,if I were you.”</Entry>
+  <Entry File="mds7plr1\33.wav" ID="33">“You know,I got some tickets to  'Loveless',do you want to go?”</Entry>
+  <Entry File="mds7plr1\34.wav" ID="34">“What're you,retarded?  Midgar's under martial law now!”</Entry>
+  <Entry File="mds7plr1\35.wav" ID="35">“Cloud,are you really  concerned for me?”</Entry>
+  <Entry File="mds7plr1\36a.wav" ID="36" Part="a">“Hell no!!  But in case you forgot,  we're in the middle of a slum.”</Entry>
+  <Entry File="mds7plr1\36b.wav" ID="36" Part="b">“They could be anywhere around,  so stay on your guard.”</Entry>
+  <Entry File="mds7plr1\37a.wav" ID="37" Part="a">“Right. You mean the AVALANCHE?”</Entry>
+  <Entry File="mds7plr1\37b.wav" ID="37" Part="b">“Don't you worry.  SOLDIER has been added to the police force.”</Entry>
+  <Entry File="mds7plr1\38a.wav" ID="38" Part="a">“Boy,it's been a while since SOLDIER's been   mobilized,hasn't it?”</Entry>
+  <Entry File="mds7plr1\38b.wav" ID="38" Part="b">“I ever tell you that I flunked the  SOLDIER entrance exam?”</Entry>
+  <Entry File="mds7plr1\39a.wav" ID="39" Part="a">“Damn right!!  blahblahblah…”</Entry>
+  <Entry File="mds7plr1\39b.wav" ID="39" Part="b">“Hey shut up for a minute  and let me get back to work!”</Entry>
+  <Entry File="mds7plr1\40.wav" ID="40">“…sigh.”</Entry>
+  <Entry File="mds7plr1\41a.wav" ID="41" Part="a">“What are you more scared of  AVALANCHE or me?”</Entry>
+  <Entry File="mds7plr1\41b.wav" ID="41" Part="b">“Oh,you,of course.”</Entry>
+  <Entry File="mds7plr1\42.wav" ID="42">“HALT!!  No one is allowed to pass!!”</Entry>
+  <Entry File="mds7plr1\44.wav" ID="44">Aeris “Don't worry.  You let me handle this.”</Entry>
+  <Entry File="mds7plr1\45a.wav" ID="45" Part="a">“Uh oh…  There goes the pillar.”</Entry>
+  <Entry File="mds7plr1\45b.wav" ID="45" Part="b">“I'm scared,  but it's for your own good.”</Entry>
+  <Entry File="mds7plr1\46.wav" ID="46">“If things get too hairy,we'll escape.  It's not something  you'll see happen too often.”</Entry>
+  <Entry File="mds7plr1\47.wav" ID="47">“Uhh…Help!  My strange and wonderful little place.”</Entry>
+  <Entry File="mds7plr1\48.wav" ID="48">“L,look… This is my job,so  I have to be here  until the absolute last minute.”</Entry>
+  <Entry File="mds7plr1\49.wav" ID="49">“Umm…  I just LOVE men with a sense of duty.  Let me stay here with you.”</Entry>
+  <Entry File="mds7plr1\50.wav" ID="50">“B,but…  What happens if AVALANCHE shows up?”</Entry>
+  <Entry File="mds7plr1\51.wav" ID="51">“Umm…you're shaking.  You're so gentle…I think I'm in love.”</Entry>
+  <Entry File="mds7plr1\52a.wav" ID="52" Part="a">“Doh! And this was supposed to be  my last job!  Do something!!”</Entry>
+  <Entry File="mds7plr1\52b.wav" ID="52" Part="b">“I never thought this would ever happen to me!  Great…  I'm quitting tomorrow!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds7plr1\0.wav" ID="0">Sector 7 Slums</Entry>
+	<Entry File="mds7plr1\43.wav" ID="43">[Save Point] Access the menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

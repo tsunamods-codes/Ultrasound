@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="woa_1\1.wav" ID="1">Tifa “We need to cross  when the wind is calm,  or we'll get swept off!”</Entry>
+  <Entry File="woa_1\2.wav" ID="2">“Wh…who---a”</Entry>
+  <Entry File="woa_1\3.wav" ID="3">“Uph…Se…phi…roth…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="woa_1\0.wav" ID="0">Whirlwind Maze</Entry>
+	<Entry File="woa_1\4.wav" ID="4">Received "Ether"!</Entry>
+	<Entry File="woa_1\5.wav" ID="5">Received "Hi-Potion"!</Entry>
+-->
+</VoiceList>

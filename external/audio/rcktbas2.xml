@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="rcktbas2\18.wav" ID="18">“Better ask the Captain about this town.  He's the one in charge of it.” Captain? Did you see a man in a black cape?</Entry>
+  <Entry File="rcktbas2\19a.wav" ID="19" Part="a">“The Captain was a pilot  when Shinra was still interested  in their Space Program.”</Entry>
+  <Entry File="rcktbas2\19b.wav" ID="19" Part="b">“He was going to be the world's  first astronaut,  but there was an accident…”</Entry>
+  <Entry File="rcktbas2\19c.wav" ID="19" Part="c">“Ever since then,he's been wasting  his life away here dreaming about  going into outer space.”</Entry>
+  <Entry File="rcktbas2\20.wav" ID="20">“A man in a black cape?  Nope…never seen him.”</Entry>
+  <Entry File="rcktbas2\21a.wav" ID="21" Part="a">“This used to be a Shinra base  where they used to launch rockets.”</Entry>
+  <Entry File="rcktbas2\21b.wav" ID="21" Part="b">“You saw the leaning rocket,right?  That's Shinra No. 26.  It never got off the ground though.”</Entry>
+  <Entry File="rcktbas2\22.wav" ID="22">“Everyone in this town was a mechanic  back when they were planning to  launch the rocket.”</Entry>
+  <Entry File="rcktbas2\23.wav" ID="23">Cloud “Rocket launch plan?  What do you mean?”</Entry>
+  <Entry File="rcktbas2\24a.wav" ID="24" Part="a">“You don't know?”</Entry>
+  <Entry File="rcktbas2\24b.wav" ID="24" Part="b">“There was a plan to send a man  into outer space.”</Entry>
+  <Entry File="rcktbas2\24c.wav" ID="24" Part="c">“It was headed up by the leader of  the Shinra Space Program,Palmer.”</Entry>
+  <Entry File="rcktbas2\24d.wav" ID="24" Part="d">“This town is the result of the plan,  but the plan got cut…”</Entry>
+  <Entry File="rcktbas2\25.wav" ID="25">Cloud “Who's the 'Captain'?”</Entry>
+  <Entry File="rcktbas2\26.wav" ID="26">Cloud “Did you see a man in a black cape?”</Entry>
+  <Entry File="rcktbas2\27.wav" ID="27">“Did you meet the Captain already?  He's really the town's representative,  so you should really talk with him.”</Entry>
+  <Entry File="rcktbas2\28a.wav" ID="28" Part="a">“Welcome to the Shanghai Inn!”</Entry>
+  <Entry File="rcktbas2\28b.wav" ID="28" Part="b">“It's 100 gil a night.  Would you like to spend the night?” Yes No</Entry>
+  <Entry File="rcktbas2\29.wav" ID="29">“Yes sir. Thank you!”</Entry>
+  <Entry File="rcktbas2\30.wav" ID="30">“Well then,come by again sometime.”</Entry>
+  <Entry File="rcktbas2\31a.wav" ID="31" Part="a">“Excuse me.  Please don't come in here.”</Entry>
+  <Entry File="rcktbas2\31b.wav" ID="31" Part="b">“Our books and the room keys are in here,  so I'll have to ask you to please stay out.”</Entry>
+  <Entry File="rcktbas2\32a.wav" ID="32" Part="a">Cloud “The books…”</Entry>
+  <Entry File="rcktbas2\32b.wav" ID="32" Part="b">“Maybe we could find out who's been here?” Was there a man in a black cape? Not interested</Entry>
+  <Entry File="rcktbas2\33.wav" ID="33">“Look,we're all adults here,  so I'd appreciate it  if you used some discretion.”</Entry>
+  <Entry File="rcktbas2\34.wav" ID="34">“A man with a black cape?  No,no one like that  has ever stayed here.”</Entry>
+  <Entry File="rcktbas2\35.wav" ID="35">“Would you like something to drink?” Let me hear your story Not interested</Entry>
+  <Entry File="rcktbas2\36a.wav" ID="36" Part="a">“Cid's had some bad breaks.  It's really no one's fault  he couldn't go into space.”</Entry>
+  <Entry File="rcktbas2\36b.wav" ID="36" Part="b">“Just bad luck,I guess…”</Entry>
+  <Entry File="rcktbas2\37.wav" ID="37">“If he keeps up like that,  he's gonna collapse someday.  Y'know what I mean?  I'm talkin' heart attack.”</Entry>
+  <Entry File="rcktbas2\38.wav" ID="38">“…That's too bad.  Please come again.”</Entry>
+  <Entry File="rcktbas2\39.wav" ID="39">“A drink will ease your heart…”</Entry>
+  <Entry File="rcktbas2\40.wav" ID="40">“Welcome!  This is the Item Shop.”</Entry>
+  <Entry File="rcktbas2\41.wav" ID="41">“…Hey now!  I would appreciate it  if you wouldn't come in.”</Entry>
+  <Entry File="rcktbas2\42.wav" ID="42">Cloud “What's that?”</Entry>
+  <Entry File="rcktbas2\43.wav" ID="43">Cloud “A rusty old rocket…  Wonder why they made  something so huge?”</Entry>
+  <Entry File="rcktbas2\44.wav" ID="44">“That rusted out rocket is  all that remains of  the Shinra's Space Program.”</Entry>
+  <Entry File="rcktbas2\45a.wav" ID="45" Part="a">“It just looms there.  That's how the town got its name…   'Shinra No. 26'.”</Entry>
+  <Entry File="rcktbas2\45b.wav" ID="45" Part="b">“Want to look at the rocket with me?” Yeah,let's take a look No,not interested</Entry>
+  <Entry File="rcktbas2\46.wav" ID="46">“I get so impressed  every time I look at it.”</Entry>
+  <Entry File="rcktbas2\47.wav" ID="47">“Oh,how boring…”</Entry>
+  <Entry File="rcktbas2\48.wav" ID="48">“All gramps does is  gaze at that rocket all day long.”</Entry>
+  <Entry File="rcktbas2\49.wav" ID="49">“Well,he really  loves machinery…”</Entry>
+  <Entry File="rcktbas2\51.wav" ID="51">“Excuse me…  You don't have enough money.”</Entry>
+  <Entry File="rcktbas2\52.wav" ID="52">“Let me handle  all your weapon and accessory needs!”</Entry>
+  <Entry File="rcktbas2\53.wav" ID="53">“There's a bunch of Shinra people  here messin' with the rocket…”</Entry>
+  <Entry File="rcktbas2\54.wav" ID="54">“Is my rocket…all right?”</Entry>
+  <Entry File="rcktbas2\55.wav" ID="55">“The Shinra serious 'bout launching  that piece of crap rocket?  But why now?”</Entry>
+  <Entry File="rcktbas2\56.wav" ID="56">“…I'm in here.”</Entry>
+  <Entry File="rcktbas2\57.wav" ID="57">“Urrrrgh,urrrgh”</Entry>
+  <Entry File="rcktbas2\58.wav" ID="58">“P…  Urrrrgh…aaaaaghh…”</Entry>
+  <Entry File="rcktbas2\59.wav" ID="59">“There's a lot happenin'  in the world outside,  but as long as I got this rocket  I'm satisfied.”</Entry>
+  <Entry File="rcktbas2\60a.wav" ID="60" Part="a">“Anyways.”</Entry>
+  <Entry File="rcktbas2\60b.wav" ID="60" Part="b">“How 'bout it?  Want to look at the rocket with me?” Look up No</Entry>
+  <Entry File="rcktbas2\61.wav" ID="61">“My,my precious rocket…  It's gone.”</Entry>
+  <Entry File="rcktbas2\62a.wav" ID="62" Part="a">“Hmph,I know.  No matter how much I look,  the rocket's still gone.”</Entry>
+  <Entry File="rcktbas2\62b.wav" ID="62" Part="b">“But I just can't stop it.  Just call it an old man's  folly if you will.”</Entry>
+  <Entry File="rcktbas2\63.wav" ID="63">“What's young President Rufus  doing by getting  all those mechanics together?”</Entry>
+  <Entry File="rcktbas2\64.wav" ID="64">“Those terrorists are here!”</Entry>
+  <Entry File="rcktbas2\65.wav" ID="65">“Don't let them get any further!  Everyone,ATTACK---!”</Entry>
+  <Entry File="rcktbas2\66.wav" ID="66">“Is something about to happen?  Oh,I'm getting excited.”</Entry>
+  <Entry File="rcktbas2\67.wav" ID="67">“Mmm,a SPECTACLE.”</Entry>
+  <Entry File="rcktbas2\68.wav" ID="68">“Urrrgh,you're not going anywhere!"  Uh un,nowhere!”</Entry>
+  <Entry File="rcktbas2\69.wav" ID="69">Cid “Goddammit,what the hell do they think  they're gonna do to my rocket!?”</Entry>
+  <Entry File="rcktbas2\70.wav" ID="70">Cid “I'm outta here,Cloud!  I'm gonna kick those $^%$# Shinra  right out of my rocket!”</Entry>
+  <Entry File="rcktbas2\71.wav" ID="71">Cid “Wait,Cloud!”</Entry>
+  <Entry File="rcktbas2\72.wav" ID="72">Cid “If you're gonna kick those *#$% Shinra  out of my rocket,  then take me with you!”</Entry>
+  <Entry File="rcktbas2\73.wav" ID="73">Cid “ALL RIGHT!  Let's show those &amp;$!@&amp; Shinra!”</Entry>
+  <Entry File="rcktbas2\74.wav" ID="74">Cid “Cloud,what are you doin'!?  They're gonna launch the rocket!!”</Entry>
+  <Entry File="rcktbas2\75.wav" ID="75">Rude “You again?”</Entry>
+  <Entry File="rcktbas2\76.wav" ID="76">Rude “We will eliminate everyone who  gets in Shinra's way.”</Entry>
+  <Entry File="rcktbas2\77.wav" ID="77">Rude “…They got us.”</Entry>
+  <Entry File="rcktbas2\78.wav" ID="78">Rude “…Hmm.”</Entry>
+  <Entry File="rcktbas2\79.wav" ID="79">“What?  You guys are terrorists?  Wow,that's kinda exciting!”</Entry>
+  <Entry File="rcktbas2\80.wav" ID="80">“Mmm,here comes some hard action!”</Entry>
+  <Entry File="rcktbas2\81.wav" ID="81">“Hmm.  Is it real or fake?”</Entry>
+  <Entry File="rcktbas2\82.wav" ID="82">“Mmm…  I'm starting to see it now…”</Entry>
+  <Entry File="rcktbas2\83a.wav" ID="83" Part="a">“Sorry to get you into this.  For me,it's a kinda hobby.”</Entry>
+  <Entry File="rcktbas2\83b.wav" ID="83" Part="b">“But,out of appreciation,  let me give you this.”</Entry>
+  <Entry File="rcktbas2\84.wav" ID="84">“I wish you'd  take care of it and use it…”</Entry>
+  <Entry File="rcktbas2\85.wav" ID="85">“Maybe it's time for me to  get a new hobby…”</Entry>
+  <Entry File="rcktbas2\86a.wav" ID="86" Part="a">“Oh,it's you?  I heard you and the Captain  really made a BANG!”</Entry>
+  <Entry File="rcktbas2\86b.wav" ID="86" Part="b">“I also heard that Rufus was so pissed off  he went on a rampage and that  no one's been able to get near him!”</Entry>
+  <Entry File="rcktbas2\87.wav" ID="87">“If things go on like this,  then Meteor's just going to smash  right into us and kill us all,right?  …I guess that's life?”</Entry>
+  <Entry File="rcktbas2\88.wav" ID="88">“I get so restless with the rocket gone.  And now that we can see Meteor clearly,  …I can't stand it.”</Entry>
+  <Entry File="rcktbas2\89a.wav" ID="89" Part="a">“I heard Tiny Bronco broke…”</Entry>
+  <Entry File="rcktbas2\89b.wav" ID="89" Part="b">“That sucks.  I was secretly eyeing that thing.  Broke,huh? What a drag.”</Entry>
+  <Entry File="rcktbas2\90.wav" ID="90">“Look up at the sky.  The bigger Meteor gets,  the less time we have to live.”</Entry>
+  <Entry File="rcktbas2\91.wav" ID="91">“I still can't believe that  piece of crap rocket  actually made it into space…  I guess the mechanic was a genius.”</Entry>
+  <Entry File="rcktbas2\92a.wav" ID="92" Part="a">“Because those Shinra creeps locked us  up in our houses,we couldn't  even watch the rocket lift off.”</Entry>
+  <Entry File="rcktbas2\92b.wav" ID="92" Part="b">“I never thought that my only hobby  would be destroyed by that  arrogant young Rufus!”</Entry>
+  <Entry File="rcktbas2\93.wav" ID="93">“Mmm. You know that Shinra sports car  at Cid's house?  It might be fun to try and restore  that thing…”</Entry>
+  <Entry File="rcktbas2\94.wav" ID="94">“Welcome to the Shanghai Inn!  Only 300 gil a night?” Yes No</Entry>
+  <Entry File="rcktbas2\95.wav" ID="95">“Y'know,I heard Rufus rushed back  to headquarters in Midgar…”</Entry>
+  <Entry File="rcktbas2\96a.wav" ID="96" Part="a">“Even though they failed to blow up  Meteor with the rocket,  the Shinra haven't given up yet…”</Entry>
+  <Entry File="rcktbas2\96b.wav" ID="96" Part="b">“Looks like they're gathering all the weapons  from all their bases and  are preparing for a final showdown.”</Entry>
+  <Entry File="rcktbas2\97.wav" ID="97">“I heard a rumor that a Shinra airship  carrying a secret weapon was attacked by  a monster and sunk to the bottom of the sea…”</Entry>
+  <Entry File="rcktbas2\98.wav" ID="98">“You don't feel comfortable here?  Then,everytime you look in the sky  you see Meteor.”</Entry>
+  <Entry File="rcktbas2\99.wav" ID="99">“How long's that guy gonna be  in the bathroom?  I need to go,too…”</Entry>
+  <Entry File="rcktbas2\100.wav" ID="100">“Seems like Palmer of Shinra,Inc.  ordered soldiers  to restore the rocket…”</Entry>
+  <Entry File="rcktbas2\101.wav" ID="101">“Meteor's coming toward us!?  And I can't even go to the bathroom…!?”</Entry>
+  <Entry File="rcktbas2\102a.wav" ID="102" Part="a">“OK,which is gonna happen first?  Meteor hits us,  or that guy comes out of the bathroom?”</Entry>
+  <Entry File="rcktbas2\102b.wav" ID="102" Part="b">“I'm not movin' from this spot  till I see it with my own eyes.”</Entry>
+  <Entry File="rcktbas2\103.wav" ID="103">“Even with all this goin' on outside,  that guy still won't come out  of the bathroom?  He must be a damn water tank!?”</Entry>
+  <Entry File="rcktbas2\104.wav" ID="104">“Is Gramps gonna stay like that  even though rocket's gone?”</Entry>
+  <Entry File="rcktbas2\105.wav" ID="105">“Geeeeez,it's boring!  Isn't anything exciting going to happen here?”</Entry>
+  <Entry File="rcktbas2\106.wav" ID="106">“Now that one of Shinra's greatest events is over,  I guess it's back to  the same old boring life again…”</Entry>
+  <Entry File="rcktbas2\107.wav" ID="107">“Mmm,I'm so bored.  Isn't there anything that can excite me?”</Entry>
+  <Entry File="rcktbas2\108.wav" ID="108">“Even the rocket launch wasn't all THAT great.”</Entry>
+  <Entry File="rcktbas2\109.wav" ID="109">Shera “I'll take care of everything at home.  But please take care of the Captain.”</Entry>
+  <Entry File="rcktbas2\110.wav" ID="110">Shera “What's going to happen?”</Entry>
+  <Entry File="rcktbas2\111a.wav" ID="111" Part="a">Shera “Now all we have to take care of  is Meteor,right?  You should be able…”</Entry>
+  <Entry File="rcktbas2\111b.wav" ID="111" Part="b">“Excuse me…  …Please take care of the Captain.”</Entry>
+  <Entry File="rcktbas2\113.wav" ID="113">“A gun is a MAN'S weapon!  Nuthin' else'll do!”</Entry>
+  <Entry File="rcktbas2\114.wav" ID="114">“Hmm,let's see…  do I know any good jokes?”</Entry>
+  <Entry File="rcktbas2\115.wav" ID="115">“It's my job to make people laugh   all over the world…”</Entry>
+  <Entry File="rcktbas2\116.wav" ID="116">“Hey Cid!  I just thought of the best joke!  Listen to this one.”</Entry>
+  <Entry File="rcktbas2\117.wav" ID="117">Cid “I'm so sick of hearing these dumb puns,  but okay…let's get it over with.  Go on…let me hear it.”</Entry>
+  <Entry File="rcktbas2\118a.wav" ID="118" Part="a">“Uh,now,let's see,  how did it go?”</Entry>
+  <Entry File="rcktbas2\118b.wav" ID="118" Part="b">“…'He's crude an' a jerk'…  I mean,  He's 'Rude of the Turks'!”</Entry>
+  <Entry File="rcktbas2\119a.wav" ID="119" Part="a">“'President Rufus,lathers Tantrics'…  Uh,I mean…  'President Rufus,gathers mechanics'…”</Entry>
+  <Entry File="rcktbas2\119b.wav" ID="119" Part="b">“'Raunchy meat,a pocket full,at the cafeteria'.  Uh,I mean…  'Launch a beat up rocket full of Materia'.”</Entry>
+  <Entry File="rcktbas2\120.wav" ID="120">Cid “And I thought it might be fun to hear some of  your stupid puns again for old times sake…  my mistake.”</Entry>
+  <Entry File="rcktbas2\121.wav" ID="121">“Oh,'crap-again'(oh,captain).”</Entry>
+  <Entry File="rcktbas2\122.wav" ID="122">Cid “Dammit! That does it!”</Entry>
+  <Entry File="rcktbas2\123.wav" ID="123">“How rude…”</Entry>
+  <Entry File="rcktbas2\124.wav" ID="124">Cid “Rude,hell!  You're the one who always cracks  those #$##@&amp; jokes!”</Entry>
+  <Entry File="rcktbas2\125a.wav" ID="125" Part="a">Cid “Sorry,'bout that,now lesse…”</Entry>
+  <Entry File="rcktbas2\125b.wav" ID="125" Part="b">“Looks like that *&amp;%$#^$ Rufus wants to   use my rocket for somethin'.”</Entry>
+  <Entry File="rcktbas2\125c.wav" ID="125" Part="c">“Let's go to the launching pad!”</Entry>
+  <Entry File="rcktbas2\126.wav" ID="126">Party2 “(A fearful sense of humor…)”</Entry>
+  <Entry File="rcktbas2\127.wav" ID="127">Party3 “(A fearful sense of humor…)”</Entry>
+  <Entry File="rcktbas2\128.wav" ID="128">Cloud “…??”</Entry>
+  <Entry File="rcktbas2\129.wav" ID="129">“Ugh…  Nice kick.”</Entry>
+  <Entry File="rcktbas2\130.wav" ID="130">“I got to learn more…  Devotion,devotion.”</Entry>
+  <Entry File="rcktbas2\131.wav" ID="131">Cid “DAMMIT!  No more of them ^$#%$@# puns!”</Entry>
+  <Entry File="rcktbas2\132.wav" ID="132">Cid “And?”</Entry>
+  <Entry File="rcktbas2\133.wav" ID="133">Cloud “(The problem starts way  before his sense of humor.)”</Entry>
+  <Entry File="rcktbas2\134.wav" ID="134">“Would you like a drink?” Let's hear your story No thanks</Entry>
+  <Entry File="rcktbas2\135a.wav" ID="135" Part="a">“Shinra's trying to gather the Huge Materia from  Corel and Fort Condor.  There are four left,  and they're transporting them here.”</Entry>
+  <Entry File="rcktbas2\135b.wav" ID="135" Part="b">“I can't stand the thought of them using my  rocket for something like this.”</Entry>
+  <Entry File="rcktbas2\136a.wav" ID="136" Part="a">“Shinra's trying to gather the Huge Materia from  the Junon Underwater Reactor.  There are four left,  and they're transporting them here.”</Entry>
+  <Entry File="rcktbas2\136b.wav" ID="136" Part="b">“I can't stand them using my precious rocket for  a thing like this.”</Entry>
+  <Entry File="rcktbas2\137.wav" ID="137">“Authorized personnel only.”</Entry>
+  <Entry File="rcktbas2\138.wav" ID="138">Shera “Excuse me…Cloud?”</Entry>
+  <Entry File="rcktbas2\139.wav" ID="139">Shera “Did the Captain say anything?”</Entry>
+  <Entry File="rcktbas2\140.wav" ID="140">Cloud “Nope…”</Entry>
+  <Entry File="rcktbas2\141.wav" ID="141">Shera “Welcome home.”</Entry>
+  <Entry File="rcktbas2\142.wav" ID="142">Cid “^%$#! Shera.  What are you,blind!?”</Entry>
+  <Entry File="rcktbas2\143.wav" ID="143">Cid “We got guests!!   GET SOME TEA! ^%$#!”</Entry>
+  <Entry File="rcktbas2\144.wav" ID="144">Shera “I…I'm sorry.”</Entry>
+  <Entry File="rcktbas2\145.wav" ID="145">Cloud “Really,don't mind us.”</Entry>
+  <Entry File="rcktbas2\146.wav" ID="146">Cid “Shut up!  Sit your butts down in those chairs  and drink your goddamn TEA!”</Entry>
+  <Entry File="rcktbas2\147.wav" ID="147">Cid “Arggggggh!  DAMN,I'm pissed!”</Entry>
+  <Entry File="rcktbas2\148.wav" ID="148">Barret “…Damn,man. Wassup with  that guy's attitude?”</Entry>
+  <Entry File="rcktbas2\149.wav" ID="149">Aeris “Sheesh!!  What bad manners!”</Entry>
+  <Entry File="rcktbas2\150.wav" ID="150">Tifa “Poor Shera.”</Entry>
+  <Entry File="rcktbas2\151.wav" ID="151">Red XIII “Who does he think he is?”</Entry>
+  <Entry File="rcktbas2\152.wav" ID="152">Yuffie “Man,this sucks!”</Entry>
+  <Entry File="rcktbas2\153.wav" ID="153">Cait Sith “Man,he sure seems wound up tight.”</Entry>
+  <Entry File="rcktbas2\154.wav" ID="154">Vincent “…”</Entry>
+  <Entry File="rcktbas2\155.wav" ID="155">Cloud “Sorry.  It's our fault.”</Entry>
+  <Entry File="rcktbas2\156.wav" ID="156">Shera “No,no.  He's always like this.”</Entry>
+  <Entry File="rcktbas2\157.wav" ID="157">Shera “Oh?”</Entry>
+  <Entry File="rcktbas2\158a.wav" ID="158" Part="a">Cid “Shera!  I'll be in the backyard  tunin' up Tiny Bronco!”</Entry>
+  <Entry File="rcktbas2\158b.wav" ID="158" Part="b">“An' make sure to  serve them some tea!  All right!?”</Entry>
+  <Entry File="rcktbas2\159.wav" ID="159">Barret “He always like this?  That's pretty bad!”</Entry>
+  <Entry File="rcktbas2\160.wav" ID="160">Aeris “Is it like this all the time?  You keep quiet even when  he's like that to you?”</Entry>
+  <Entry File="rcktbas2\161.wav" ID="161">Tifa “Is it always like this?  Why is Cid so hard on you?”</Entry>
+  <Entry File="rcktbas2\162.wav" ID="162">Red XIII “I think it's a bit too harsh.”</Entry>
+  <Entry File="rcktbas2\163.wav" ID="163">Cait Sith “Is he like this all the time?  Bitin' your head off like that?  I could never stand it…”</Entry>
+  <Entry File="rcktbas2\164.wav" ID="164">Yuffie “What's his prob!?  I'm gonna go clean that guy's clock!!”</Entry>
+  <Entry File="rcktbas2\165.wav" ID="165">Vincent “…It's amazing that  you can live with it.”</Entry>
+  <Entry File="rcktbas2\166a.wav" ID="166" Part="a">Shera “No…  It's because of  my stupid mistake.”</Entry>
+  <Entry File="rcktbas2\166b.wav" ID="166" Part="b">“I was the one  who destroyed his dream…”</Entry>
+  <Entry File="rcktbas2\167.wav" ID="167">Cloud “What happened?”</Entry>
+  <Entry File="rcktbas2\168a.wav" ID="168" Part="a">Shera “He pushed  the Emergency Engine Shut Down switch,  aborting the mission,to save my life.”</Entry>
+  <Entry File="rcktbas2\168b.wav" ID="168" Part="b">“After that,the Space Program was cut back  and the launch was canceled.”</Entry>
+  <Entry File="rcktbas2\168c.wav" ID="168" Part="c">“It's my fault his dream was destroyed…”</Entry>
+  <Entry File="rcktbas2\169.wav" ID="169">Shera “That's why…it's all right.  I don't care what the Captain says,  I'll live my life for him.”</Entry>
+  <Entry File="rcktbas2\170.wav" ID="170">Cid “Shera!  You still haven't served 'em tea!”</Entry>
+  <Entry File="rcktbas2\171.wav" ID="171">Cid “Hurry up and sit down!  Or ain't my hospitality good  enough for you!?”</Entry>
+  <Entry File="rcktbas2\172.wav" ID="172">Cid “They're late…  Where is Rufus?”</Entry>
+  <Entry File="rcktbas2\173.wav" ID="173">Palmer “Hey-HEY! Long time no see!  So Cid,how ya been?”</Entry>
+  <Entry File="rcktbas2\174.wav" ID="174">Cid “Well,if it ain't fat man,Palmer.  How long were you figurin' on  keepin' me waitin'!?”</Entry>
+  <Entry File="rcktbas2\175.wav" ID="175">Palmer “Hey-hey!  I don't know.  The President's outside,  so why don't you ask him?”</Entry>
+  <Entry File="rcktbas2\176.wav" ID="176">Cid “^$#&amp;!  Good for nothing,fat &amp;$#$^@!”</Entry>
+  <Entry File="rcktbas2\177.wav" ID="177">Palmer “Don't say 'fat'!”</Entry>
+  <Entry File="rcktbas2\178a.wav" ID="178" Part="a">Palmer “Hey-hey! Tea!”</Entry>
+  <Entry File="rcktbas2\178b.wav" ID="178" Part="b">“Can I have some too?  With lotsa sugar and honey and…  oh yeah,don't forget the lard!”</Entry>
+  <Entry File="rcktbas2\179.wav" ID="179">Palmer “Hey-hey?  Have we met before?”</Entry>
+  <Entry File="rcktbas2\180.wav" ID="180">Cid “So?  When's the Space Program  gonna start up again?”</Entry>
+  <Entry File="rcktbas2\181.wav" ID="181">Shera “Is President Rufus here to announce  that he's going to restart  the Space Program?”</Entry>
+  <Entry File="rcktbas2\182a.wav" ID="182" Part="a">Palmer “Hey-hey!  Is the tea ready yet?”</Entry>
+  <Entry File="rcktbas2\182b.wav" ID="182" Part="b">“With plenty of sugar and honey.  Oh yeah,  and don't forget the lard,too.”</Entry>
+  <Entry File="rcktbas2\183.wav" ID="183">Cid “What the!?  You got me all excited  for nothing!?”</Entry>
+  <Entry File="rcktbas2\184.wav" ID="184">Cid “Then,what'd you come here for?”</Entry>
+  <Entry File="rcktbas2\185.wav" ID="185">Rufus “I want to borrow  the Tiny Bronco.”</Entry>
+  <Entry File="rcktbas2\186a.wav" ID="186" Part="a">Cid “&amp;^#^%!  First the Airship,then the Rocket,  and now,the Tiny Bronco.”</Entry>
+  <Entry File="rcktbas2\186b.wav" ID="186" Part="b">“Shinra took outer space away from me   and now you want to  take the sky away from me too!?”</Entry>
+  <Entry File="rcktbas2\187a.wav" ID="187" Part="a">Rufus “Oh my…”</Entry>
+  <Entry File="rcktbas2\187b.wav" ID="187" Part="b">“You seem to forget it was  because of Shinra,Inc.  that you were able to fly  in the first place.”</Entry>
+  <Entry File="rcktbas2\188.wav" ID="188">Cid “What!?”</Entry>
+  <Entry File="rcktbas2\189.wav" ID="189">Shera “Uh,excuse me…”</Entry>
+  <Entry File="rcktbas2\190.wav" ID="190">Shera “This way…”</Entry>
+  <Entry File="rcktbas2\191.wav" ID="191">Shera “You wanted to use the Tiny Bronco,  right?”</Entry>
+  <Entry File="rcktbas2\192.wav" ID="192">Shera “I believe Palmer's going to take it.  Why don't you talk to him?”</Entry>
+  <Entry File="rcktbas2\193a.wav" ID="193" Part="a">Rufus “We're going after Sephiroth.  But seems like we've been going  in the wrong direction.”</Entry>
+  <Entry File="rcktbas2\193b.wav" ID="193" Part="b">“But now,  we think we know where he's headed.  But,we have to cross the ocean.  That's why we want your plane…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="rcktbas2\0.wav" ID="0">Rocket Town</Entry>
+	<Entry File="rcktbas2\1.wav" ID="1">Cid's House</Entry>
+	<Entry File="rcktbas2\2.wav" ID="2">Cid's backyard</Entry>
+	<Entry File="rcktbas2\3.wav" ID="3">Weapons Store</Entry>
+	<Entry File="rcktbas2\4.wav" ID="4">Item Store</Entry>
+	<Entry File="rcktbas2\5.wav" ID="5">Shanghai Inn</Entry>
+	<Entry File="rcktbas2\6.wav" ID="6">Shanghai Inn</Entry>
+	<Entry File="rcktbas2\7.wav" ID="7">House</Entry>
+	<Entry File="rcktbas2\8.wav" ID="8">Rocket Launching Pad</Entry>
+	<Entry File="rcktbas2\9.wav" ID="9">Backyard (Inn)</Entry>
+	<Entry File="rcktbas2\10.wav" ID="10"> [MENU] Open Menu  [OK] Change Party  [CANCEL] Continue</Entry>
+	<Entry File="rcktbas2\11.wav" ID="11">Received "Drill Arm"!</Entry>
+	<Entry File="rcktbas2\12.wav" ID="12">Received "Yoshiyuki"!</Entry>
+	<Entry File="rcktbas2\13.wav" ID="13">Received "Power Source"!</Entry>
+	<Entry File="rcktbas2\14.wav" ID="14">Received "Venus Gospel"!</Entry>
+	<Entry File="rcktbas2\15.wav" ID="15">Received "Circlet"!</Entry>
+	<Entry File="rcktbas2\16.wav" ID="16">Received "Fourth Bracelet"!</Entry>
+	<Entry File="rcktbas2\17.wav" ID="17">Received "Guard Source"!</Entry>
+	<Entry File="rcktbas2\50.wav" ID="50">  Locked</Entry>
+	<Entry File="rcktbas2\112a.wav" ID="112" Part="a">  There're tons of what look   like antique guns.</Entry>
+	<Entry File="rcktbas2\112b.wav" ID="112" Part="b">  …I bet the owner of this store   was a real gun fanatic.</Entry>
+-->
+</VoiceList>

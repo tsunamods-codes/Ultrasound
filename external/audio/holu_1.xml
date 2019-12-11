@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="holu_1\1.wav" ID="1">Holzoff “You ever hear about those who  challenged the cliff?” Yeah No</Entry>
+  <Entry File="holu_1\2.wav" ID="2">“The first time my friend Yamski and I  tried to climb the cliff was 30 years ago.”</Entry>
+  <Entry File="holu_1\3a.wav" ID="3" Part="a">“There's an old legend that says something  fell from the sky here a long time ago.”</Entry>
+  <Entry File="holu_1\3b.wav" ID="3" Part="b">“It's supposed to have pushed the  land up and formed this cliff.”</Entry>
+  <Entry File="holu_1\3c.wav" ID="3" Part="c">“20 Years ago,Yamski and I braved this cliff  to see what was on the other side.”</Entry>
+  <Entry File="holu_1\4.wav" ID="4">“But,we weren't prepared for it.  We never dreamed the temperature  would be so low…”</Entry>
+  <Entry File="holu_1\5.wav" ID="5">“That cliff has a biting cold wind  that lowers your body temperature.”</Entry>
+  <Entry File="holu_1\6a.wav" ID="6" Part="a">“Yamski was below me.  He cut his own rope…”</Entry>
+  <Entry File="holu_1\6b.wav" ID="6" Part="b">“…I didn't even notice…”</Entry>
+  <Entry File="holu_1\7.wav" ID="7">“I've lived here ever since…  challenging the cliff  and providing warning  and shelter to my fellow climbers.”</Entry>
+  <Entry File="holu_1\8.wav" ID="8">“If you're going to climb the cliff,  you need to take 2 precautions.”</Entry>
+  <Entry File="holu_1\9.wav" ID="9">“First,check your route…  It's hard to find  because of all the snow.”</Entry>
+  <Entry File="holu_1\10.wav" ID="10">“Second,  warm yourselves up  once you get to a ledge.”</Entry>
+  <Entry File="holu_1\11.wav" ID="11">“Understand?” One more time Yes</Entry>
+  <Entry File="holu_1\12.wav" ID="12">“You must be tired coming  all the way up here…  Better get some rest before you head out.”</Entry>
+  <Entry File="holu_1\13.wav" ID="13">“Want to get some rest?” Rest Don't rest</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="holu_1\0.wav" ID="0">Base of Gaea's Cliff</Entry>
+	<Entry File="holu_1\14.wav" ID="14">[OK] Confirm route. [SWITCH] Push repeatedly to  raise body temperature.</Entry>
+	<Entry File="holu_1\15.wav" ID="15">[Save Point]  Access the Menu and select  [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

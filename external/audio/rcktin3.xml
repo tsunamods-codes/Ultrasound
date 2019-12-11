@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="rcktin3\7.wav" ID="7">“What're you guys doin' here?”</Entry>
+  <Entry File="rcktin3\8.wav" ID="8">Cloud “We heard the Captain was here.”</Entry>
+  <Entry File="rcktin3\9.wav" ID="9">“Captain?  I'm the Captain!”</Entry>
+  <Entry File="rcktin3\10.wav" ID="10">Cid “The name's Cid.  Everyone calls me 'Captain',though.”</Entry>
+  <Entry File="rcktin3\11.wav" ID="11">Cid “What d'ya want?” Tell me about this rocket Is Rufus coming? Can we borrow the "Tiny Bronco"?</Entry>
+  <Entry File="rcktin3\12.wav" ID="12">Cid “Wow!  Not bad for a kid.”</Entry>
+  <Entry File="rcktin3\13.wav" ID="13">Cid “Alright then,  I'll explain it to you.”</Entry>
+  <Entry File="rcktin3\14a.wav" ID="14" Part="a">Cid “You know Shinra developed  a lot of technological gadgets  during the meaningless war,right?”</Entry>
+  <Entry File="rcktin3\14b.wav" ID="14" Part="b">“Now it's a Mako company,  but in the old days it  was a weapons manufacturer.”</Entry>
+  <Entry File="rcktin3\15.wav" ID="15">Cid “Well,  they came up with a Rocket Engine.”</Entry>
+  <Entry File="rcktin3\16.wav" ID="16">Cid “There was so much excitement about   the thought of going into outer space.  Our dreams got bigger and bigger.”</Entry>
+  <Entry File="rcktin3\17a.wav" ID="17" Part="a">Cid “They put a major budget into it  and made prototype after prototype!  Finally,they completed Shinra No. 26.”</Entry>
+  <Entry File="rcktin3\17b.wav" ID="17" Part="b">“They chose the best pilot in Shinra…  no,in the world--me.  I mean,come on.”</Entry>
+  <Entry File="rcktin3\18.wav" ID="18">Cid “And finally we get to the day of the launch.  Everything was goin' well…”</Entry>
+  <Entry File="rcktin3\19.wav" ID="19">Cid “But,because of that dumb-ass Shera,  the launch got messed up.  That's why they became so anal!”</Entry>
+  <Entry File="rcktin3\20a.wav" ID="20" Part="a">Cid “And so,Shinra nixed  their outer space exploration plans.”</Entry>
+  <Entry File="rcktin3\20b.wav" ID="20" Part="b">“After they told me  how the future was Space Exploration  and got my damn hopes up…DAMN THEM!”</Entry>
+  <Entry File="rcktin3\21.wav" ID="21">Cid “Then,it was all over once they   found out Mako energy was profitable.  They didn't even so much as  look at space exploration.”</Entry>
+  <Entry File="rcktin3\22.wav" ID="22">Cid “Money,moola,dinero!  My dream was just a financial  number for them!”</Entry>
+  <Entry File="rcktin3\23.wav" ID="23">Cid “Look at this rusted Rocket.  I was supposed to be the first man  in space with this.”</Entry>
+  <Entry File="rcktin3\24a.wav" ID="24" Part="a">Cid “Everyday,it tilts a little bit more.”</Entry>
+  <Entry File="rcktin3\24b.wav" ID="24" Part="b">“At this rate,  I don't know which'll be first,  this thing falling over or  me gettin' outta here.”</Entry>
+  <Entry File="rcktin3\25a.wav" ID="25" Part="a">Cid “Yeah! It must be news about  restarting the Space Program.”</Entry>
+  <Entry File="rcktin3\25b.wav" ID="25" Part="b">“A young President,  that's what we needed!  He still has dreams,too!”</Entry>
+  <Entry File="rcktin3\26.wav" ID="26">Cid “You out of your *&amp;$^$# mind!?  That's my most cherished possession.  I can't let you take it.”</Entry>
+  <Entry File="rcktin3\27.wav" ID="27">Cid “Ummm…  Just look around.”</Entry>
+  <Entry File="rcktin3\28.wav" ID="28">Cid “My last hope is  to talk to the President.”</Entry>
+  <Entry File="rcktin3\29a.wav" ID="29" Part="a">Cid “Hey! Get your ass in gear!  You work like a snail!”</Entry>
+  <Entry File="rcktin3\29b.wav" ID="29" Part="b">“Even the moon'd get tired  waitin' around for your ass!”</Entry>
+  <Entry File="rcktin3\30.wav" ID="30">Shera “I'm…I'm sorry.”</Entry>
+  <Entry File="rcktin3\31a.wav" ID="31" Part="a">Cid “Don't take so much time checkin'  that *%$^# oxygen tank!”</Entry>
+  <Entry File="rcktin3\31c.wav" ID="31" Part="c">“That thing wouldn't break  even if hell froze over.”</Entry>
+  <Entry File="rcktin3\32.wav" ID="32">Shera “But…”</Entry>
+  <Entry File="rcktin3\33a.wav" ID="33" Part="a">Cid “No buts!!”</Entry>
+  <Entry File="rcktin3\33b.wav" ID="33" Part="b">“You're not stupid,  so be more efficient!”</Entry>
+  <Entry File="rcktin3\34.wav" ID="34">Shera “I'm sorry…”</Entry>
+  <Entry File="rcktin3\35.wav" ID="35">Cid “Instrument panel…all clear.  Shinra No. 26,ready for launch.”</Entry>
+  <Entry File="rcktin3\36.wav" ID="36">“Engine pressure rising.  Shinra No. 26,3 minutes to launch.  Beginning countdown.”</Entry>
+  <Entry File="rcktin3\37.wav" ID="37">Cid “…Finally.”</Entry>
+  <Entry File="rcktin3\38.wav" ID="38">Cid “What the? What happened!?”</Entry>
+  <Entry File="rcktin3\39a.wav" ID="39" Part="a">“Cid!  We have an emergency situation!”</Entry>
+  <Entry File="rcktin3\39b.wav" ID="39" Part="b">“A mechanic is still in the   engine section of the rocket!”</Entry>
+  <Entry File="rcktin3\40.wav" ID="40">Cid “What!?  Who is the little ^%$@!?”</Entry>
+  <Entry File="rcktin3\41.wav" ID="41">“I don't know.  Activating the intercom  in the engine section.”</Entry>
+  <Entry File="rcktin3\42.wav" ID="42">Cid “Hey goddammit!!  Who the &amp;%$#'s still in there?”</Entry>
+  <Entry File="rcktin3\43.wav" ID="43">Shera “It's Shera,Captain.  Don't mind me,go ahead with the launch.”</Entry>
+  <Entry File="rcktin3\44.wav" ID="44">Cid “Shera!?  What are you still doin' in there!?”</Entry>
+  <Entry File="rcktin3\45.wav" ID="45">Shera “I was still concerned.  The results of the oxygen tank test  weren't satisfactory.”</Entry>
+  <Entry File="rcktin3\46a.wav" ID="46" Part="a">Cid “You stupid little $#^%!”</Entry>
+  <Entry File="rcktin3\46b.wav" ID="46" Part="b">“It's gonna get so hot in there that  there ain't gonna be #$!%  left when we blast off!”</Entry>
+  <Entry File="rcktin3\46c.wav" ID="46" Part="c">“You're gonna be burnt to a crisp!  You're gonna die! You know that,  doncha!?”</Entry>
+  <Entry File="rcktin3\47a.wav" ID="47" Part="a">Shera “I don't mind.”</Entry>
+  <Entry File="rcktin3\47b.wav" ID="47" Part="b">“If I can just fix this,  the launch will be a success.  I'm almost done.”</Entry>
+  <Entry File="rcktin3\48.wav" ID="48">Cid “Almost done!?  You're gonna die!”</Entry>
+  <Entry File="rcktin3\49.wav" ID="49">“Cid,  We must start the countdown.  We won't make it if we don't!”</Entry>
+  <Entry File="rcktin3\50.wav" ID="50">“What are you going to do,Cid?  If we cancel now,it'll be another  six months until the next launch!”</Entry>
+  <Entry File="rcktin3\51.wav" ID="51">“Starting engine!”</Entry>
+  <Entry File="rcktin3\52.wav" ID="52">Cid “GODDAMMIT,Shera…  you wanna make me a murderer?”</Entry>
+  <Entry File="rcktin3\53.wav" ID="53">Shera “Tank Number 7 check is complete.  Once I complete Tank Number 8,  it's all clear.”</Entry>
+  <Entry File="rcktin3\54.wav" ID="54">Cid “Oh man,the moon…outer space…  my dreams…”</Entry>
+  <Entry File="rcktin3\55.wav" ID="55">“Ignite Engine!”</Entry>
+  <Entry File="rcktin3\56.wav" ID="56">“15 seconds until ignition.  Internal temperature rising.”</Entry>
+  <Entry File="rcktin3\57.wav" ID="57">Cid “SH-------#%!!”</Entry>
+  <Entry File="rcktin3\58.wav" ID="58">“Captain!  Our dreams are finally coming true!”</Entry>
+  <Entry File="rcktin3\59.wav" ID="59">“We are so proud to be a part  of the launch of Shinra No. 26.”</Entry>
+  <Entry File="rcktin3\60.wav" ID="60">“All right,Captain!  Fly our dreams into outer space!”</Entry>
+  <Entry File="rcktin3\61.wav" ID="61">Cid “Yeah! Leave it all to me!  I'll be back in a few!”</Entry>
+  <Entry File="rcktin3\62.wav" ID="62">“We're praying for your safety!”</Entry>
+  <Entry File="rcktin3\63.wav" ID="63">“Captain,preparations are complete!  All that's left is lift off!”</Entry>
+  <Entry File="rcktin3\64.wav" ID="64">Cid “Thanks,guys!”</Entry>
+  <Entry File="rcktin3\65.wav" ID="65">Cid “Hey,wait a minute!  Shera's still in here!”</Entry>
+  <Entry File="rcktin3\66.wav" ID="66">Shera “Captain!”</Entry>
+  <Entry File="rcktin3\67.wav" ID="67">Cid “Shera!?”</Entry>
+  <Entry File="rcktin3\68.wav" ID="68">“30 seconds until ignition.  Beginning countdown.”</Entry>
+  <Entry File="rcktin3\69.wav" ID="69">“Cid!  Forget about her.  We won't make it in time!”</Entry>
+  <Entry File="rcktin3\70.wav" ID="70">Cid “Come on,Shera…hurry up…  You're gonna die…”</Entry>
+  <Entry File="rcktin3\72.wav" ID="72">Cid “What…what am I…  What am I supposed to do?”</Entry>
+  <Entry File="rcktin3\73.wav" ID="73">“You…you!  Why are you here?  Rude of the Turks should've been here!!”</Entry>
+  <Entry File="rcktin3\74.wav" ID="74">Cloud “Too bad.  Those guys are over there.”</Entry>
+  <Entry File="rcktin3\75.wav" ID="75">“Oh man…the Turks,being done in like that…  But,I won't let you through!”</Entry>
+  <Entry File="rcktin3\76.wav" ID="76">“Urrrrgh…”</Entry>
+  <Entry File="rcktin3\77.wav" ID="77">“Hey! Just when I thought somethin'  was goin' on,you come back!”</Entry>
+  <Entry File="rcktin3\78.wav" ID="78">Cid “Hey!  What the hell're you guys doin'!?”</Entry>
+  <Entry File="rcktin3\79.wav" ID="79">“Listen to me,Captain.  We're gonna launch this rocket!”</Entry>
+  <Entry File="rcktin3\80.wav" ID="80">Cid “Huh?  What are you talkin' 'bout?”</Entry>
+  <Entry File="rcktin3\81.wav" ID="81">“We're gonna load a Materia bomb  in this and blow up Meteor.”</Entry>
+  <Entry File="rcktin3\82.wav" ID="82">“Our rocket's gonna  save the planet!”</Entry>
+  <Entry File="rcktin3\83.wav" ID="83">“Urrrrgh.  Man this is so COOL!!”</Entry>
+  <Entry File="rcktin3\84.wav" ID="84">Cloud “Wait a minute!”</Entry>
+  <Entry File="rcktin3\85.wav" ID="85">Cid “Shut up!!  Just shut the hell up!”</Entry>
+  <Entry File="rcktin3\86.wav" ID="86">Cid “How's the rocket?”</Entry>
+  <Entry File="rcktin3\87.wav" ID="87">“It's pretty much OK.”</Entry>
+  <Entry File="rcktin3\88.wav" ID="88">“But…”</Entry>
+  <Entry File="rcktin3\89.wav" ID="89">“We planned to run it  into Meteor on Auto-Pilot,but  the most important device is broken.”</Entry>
+  <Entry File="rcktin3\90.wav" ID="90">Cid “Broken?  How's the repair goin'?”</Entry>
+  <Entry File="rcktin3\91.wav" ID="91">“Shera's doin' it…”</Entry>
+  <Entry File="rcktin3\92.wav" ID="92">Cid “Oh great!  What a buncha wizards you guys are!  She's gonna take a 100 years!”</Entry>
+  <Entry File="rcktin3\93.wav" ID="93">Cid “I'll take over,so don't worry  about the Auto-Pilot!”</Entry>
+  <Entry File="rcktin3\94.wav" ID="94">Cid “Hey,go ahead!  Go tell everyone!”</Entry>
+  <Entry File="rcktin3\95.wav" ID="95">“All right,Captain.  Good luck.”</Entry>
+  <Entry File="rcktin3\96.wav" ID="96">Cloud “Hey,Cid!  What're you doing!?”</Entry>
+  <Entry File="rcktin3\97a.wav" ID="97" Part="a">Cloud “There are generations of knowledge  and wisdom inside the Materia.”</Entry>
+  <Entry File="rcktin3\97b.wav" ID="97" Part="b">“We're gonna borrow their powers and  save the Planet from Sephiroth.”</Entry>
+  <Entry File="rcktin3\97c.wav" ID="97" Part="c">“There's no way that  we can lose the Huge Materia.  You understand that,right?”</Entry>
+  <Entry File="rcktin3\98.wav" ID="98">Cid “Yeah,I understand.  I understand that Materia is precious,  and I also understand what you're thinking.”</Entry>
+  <Entry File="rcktin3\99a.wav" ID="99" Part="a">Cid “But listen.”</Entry>
+  <Entry File="rcktin3\99b.wav" ID="99" Part="b">“I don't give a rat's ass whether it's  science or magical power.”</Entry>
+  <Entry File="rcktin3\100.wav" ID="100">Cid “No,I guess if I had to choose,I'd rather   put my money on the power of science.”</Entry>
+  <Entry File="rcktin3\101a.wav" ID="101" Part="a">Cid “Humans only used to walk  around on the ground  but now they can fly!”</Entry>
+  <Entry File="rcktin3\101b.wav" ID="101" Part="b">“And finally,   we're about to go   into outer space.”</Entry>
+  <Entry File="rcktin3\102.wav" ID="102">Cid “Science is a 'Power' created and  developed by humans.  And science just might be  what saves this Planet.”</Entry>
+  <Entry File="rcktin3\103.wav" ID="103">Cid “I was able to earn  my living,thanks to science.  So to me,there's nothing greater!”</Entry>
+  <Entry File="rcktin3\104a.wav" ID="104" Part="a">Cid “Now quit your worrying  'bout what Shinra's gonna do!”</Entry>
+  <Entry File="rcktin3\104b.wav" ID="104" Part="b">“I don't want to regret  not having done something later.”</Entry>
+  <Entry File="rcktin3\105.wav" ID="105">Cloud “But,Cid…”</Entry>
+  <Entry File="rcktin3\106.wav" ID="106">Cid “Shut the hell up!!  I don't wanna hear it!!”</Entry>
+  <Entry File="rcktin3\107.wav" ID="107">Cid “Alright,time to get to work!  Anyone who ain't involved,  get the hell outta here!”</Entry>
+  <Entry File="rcktin3\108.wav" ID="108">Cid “What the hell?  What the hell happened!?”</Entry>
+  <Entry File="rcktin3\109.wav" ID="109">Palmer “Hey-hey!”</Entry>
+  <Entry File="rcktin3\110.wav" ID="110">Cid “Palmer!  What the hell did'ya do!?”</Entry>
+  <Entry File="rcktin3\111.wav" ID="111">Palmer “They said they finished  repairing the Auto-Pilot.  So,I laun---ched it!”</Entry>
+  <Entry File="rcktin3\112.wav" ID="112">Cid “Goddamn Shera!  Why'd she pick today to get fast!”</Entry>
+  <Entry File="rcktin3\113.wav" ID="113">Cid “DAMN! Won't even budge!  It's completely locked up!”</Entry>
+  <Entry File="rcktin3\114.wav" ID="114">Palmer “Hey-hey-hey!  Almost lift off!”</Entry>
+  <Entry File="rcktin3\115.wav" ID="115">Cid “What the!? No countdown!?  It just don't seem the same without it!”</Entry>
+  <Entry File="rcktin3\116.wav" ID="116">Palmer “Hey!!!!  Hey-hey!!!  Blast-----off!”</Entry>
+  <Entry File="rcktin3\117.wav" ID="117">Barret “Can't we do somethin'?  We can't jus' leave it.”</Entry>
+  <Entry File="rcktin3\118.wav" ID="118">Tifa “Can't we do something?  If it goes on,we're…”</Entry>
+  <Entry File="rcktin3\119.wav" ID="119">Red XIII “What should we do?  Are we all going to die?”</Entry>
+  <Entry File="rcktin3\120.wav" ID="120">Yuffie “Hey old man!  Do something!”</Entry>
+  <Entry File="rcktin3\121a.wav" ID="121" Part="a">Cait Sith “What shall we do?  What shall we do?”</Entry>
+  <Entry File="rcktin3\121b.wav" ID="121" Part="b">“I'm a toy,so I don't care,but for  all of you it's a different story…”</Entry>
+  <Entry File="rcktin3\122.wav" ID="122">Vincent “We're in space now.  A long rest…”</Entry>
+  <Entry File="rcktin3\123.wav" ID="123">Cid “That damn Palmer went outta his way to   lock the Auto-Pilot device.  We might not be able to change course.”</Entry>
+  <Entry File="rcktin3\124.wav" ID="124">Cloud “…Is this the end?”</Entry>
+  <Entry File="rcktin3\125.wav" ID="125">Cid “Huh? What the hell're you sayin'?  You're still young,  don't give up so easily!”</Entry>
+  <Entry File="rcktin3\126.wav" ID="126">Cid “I'm not gonna crash into Meteor.”</Entry>
+  <Entry File="rcktin3\127.wav" ID="127">Cid “Just watch.”</Entry>
+  <Entry File="rcktin3\128.wav" ID="128">Cid “I keep an escape pod on the rocket  just for emergencies like this.”</Entry>
+  <Entry File="rcktin3\129.wav" ID="129">Cid “I deciphered the lock code  on the escape pod.  We'll bail right before  we crash into Meteor.”</Entry>
+  <Entry File="rcktin3\130.wav" ID="130">Cid “Let's see,  how's the course set?”</Entry>
+  <Entry File="rcktin3\131.wav" ID="131">Cid “Yup,it's headed for a collision  with Meteor.”</Entry>
+  <Entry File="rcktin3\132.wav" ID="132">Cid “I finally made it…  outer space…”</Entry>
+  <Entry File="rcktin3\133a.wav" ID="133" Part="a">Barret “Hey  wait a second!”</Entry>
+  <Entry File="rcktin3\133b.wav" ID="133" Part="b">“What's gonna happen to  the Huge Materia?”</Entry>
+  <Entry File="rcktin3\134.wav" ID="134">Tifa “Hey,what about the Huge Materia?”</Entry>
+  <Entry File="rcktin3\135.wav" ID="135">Red XIII “But,what are we going to do with  the Huge Materia?  Are we just going to give it up?”</Entry>
+  <Entry File="rcktin3\136a.wav" ID="136" Part="a">Yuffie “Hmm? What are we gonna do  with the Huge Materia?”</Entry>
+  <Entry File="rcktin3\136b.wav" ID="136" Part="b">“If you don't want it,maybe…  you could…give it to ME!”</Entry>
+  <Entry File="rcktin3\137.wav" ID="137">Cait Sith “By the way,what are we goin' to do  with the Huge Materia?”</Entry>
+  <Entry File="rcktin3\138.wav" ID="138">Vincent “Then the remaining question  is what to do with the Huge Materia.”</Entry>
+  <Entry File="rcktin3\139.wav" ID="139">Cid “If you want the Materia,  do whatever you want!”</Entry>
+  <Entry File="rcktin3\140.wav" ID="140">Cloud “…You sure?”</Entry>
+  <Entry File="rcktin3\141.wav" ID="141">Cid “I dunno…”</Entry>
+  <Entry File="rcktin3\142.wav" ID="142">Cid “I know what I said a minute ago.”</Entry>
+  <Entry File="rcktin3\143.wav" ID="143">Cid “But maybe all that I really wanted was  just to go into outer space.”</Entry>
+  <Entry File="rcktin3\144.wav" ID="144">Cid “So,why don't you all do whatever  you think is right?”</Entry>
+  <Entry File="rcktin3\145.wav" ID="145">Cid “…”</Entry>
+  <Entry File="rcktin3\146.wav" ID="146">Cid “The Materia should be there after  you climb that ladder.”</Entry>
+  <Entry File="rcktin3\147.wav" ID="147">Cid “Hey,Cloud.”</Entry>
+  <Entry File="rcktin3\148.wav" ID="148">Cid “If you're goin' to get the Materia,  it's this way.”</Entry>
+  <Entry File="rcktin3\149.wav" ID="149">Shera “The escape pod is this way.  Please hurry.”</Entry>
+  <Entry File="rcktin3\150.wav" ID="150">Cid “So this is…outer space…”</Entry>
+  <Entry File="rcktin3\151.wav" ID="151">Cid “So long,  Shinra No.26…”</Entry>
+  <Entry File="rcktin3\152.wav" ID="152">Cid “Man…it's the real thing…  I'm really here in outer space…”</Entry>
+  <Entry File="rcktin3\153.wav" ID="153">Shera “Hurry.  I'm going to detach the escape pod.”</Entry>
+  <Entry File="rcktin3\154.wav" ID="154">Cid “Hey,Shera!  Does this pod really fly?”</Entry>
+  <Entry File="rcktin3\155.wav" ID="155">Shera “It'll be OK.    I've checked it.”</Entry>
+  <Entry File="rcktin3\156.wav" ID="156">Cid “…  Then I'm relieved.”</Entry>
+  <Entry File="rcktin3\157.wav" ID="157">Shera “…Thanks.”</Entry>
+  <Entry File="rcktin3\158.wav" ID="158">Cloud “I finally found  the Huge Materia…”</Entry>
+  <Entry File="rcktin3\159.wav" ID="159">Cid “It's structured so that the lock can   be opened if we enter the passcode  from this control panel.”</Entry>
+  <Entry File="rcktin3\160a.wav" ID="160" Part="a">Cid “Hey Cloud,  you know how to use it,right?”</Entry>
+  <Entry File="rcktin3\160b.wav" ID="160" Part="b">“Everytime it says,   'Enter Passcode,' push   [OK] [CANCEL] [MENU] [OR] [SWITCH].</Entry>
+  <Entry File="rcktin3\160c.wav" ID="160" Part="c">“If you punch in the right code,  it'll unlock and you can get  the Huge Materia!”</Entry>
+  <Entry File="rcktin3\161.wav" ID="161">Cid “Whoa,pretty good!  You got the passcode in a single try!”</Entry>
+  <Entry File="rcktin3\162.wav" ID="162">Cid “You must've known the passcode.  If not,it's impossible.”</Entry>
+  <Entry File="rcktin3\164a.wav" ID="164" Part="a">Cid “Seems like you missed the code!”</Entry>
+  <Entry File="rcktin3\164b.wav" ID="164" Part="b">“If we don't enter the correct passcode  before the protection system activates,  we won't be able to get the Materia back!”</Entry>
+  <Entry File="rcktin3\165.wav" ID="165">Cloud “So,what order am I supposed  to enter the passcode in?”</Entry>
+  <Entry File="rcktin3\172.wav" ID="172">Cid “I'm pretty sure that the last code was [MENU].  No,maybe it was [CANCEL]…?”</Entry>
+  <Entry File="rcktin3\173.wav" ID="173">Cid “The second one's not [MENU].  I'm sure of it!”</Entry>
+  <Entry File="rcktin3\174.wav" ID="174">Cid “I dunno.  Just try and punch in the code randomly.”</Entry>
+  <Entry File="rcktin3\175.wav" ID="175">Cid “I think the first code wasn't [SWITCH].”</Entry>
+  <Entry File="rcktin3\176.wav" ID="176">Cid “I think the second code wasn't [CANCEL]…”</Entry>
+  <Entry File="rcktin3\177.wav" ID="177">Cid “Code No. 3 was [CANCEL]  …I think.”</Entry>
+  <Entry File="rcktin3\178.wav" ID="178">Cid “Hmm,I can't remember.  Give me some more time!”</Entry>
+  <Entry File="rcktin3\179.wav" ID="179">Cid “Did you use [MENU]?  I'm pretty sure you didn't…”</Entry>
+  <Entry File="rcktin3\180.wav" ID="180">Cid “I have a feeling you  push [OK] only once…”</Entry>
+  <Entry File="rcktin3\181.wav" ID="181">Cid “I think there was a key that  you have to push twice…”</Entry>
+  <Entry File="rcktin3\182a.wav" ID="182" Part="a">Cid “I heard there's a passcode only the   top people in Shinra know.”</Entry>
+  <Entry File="rcktin3\182b.wav" ID="182" Part="b">“We probably have to enter that.  Try and enter some codes while I try  and remember that passcode!”</Entry>
+  <Entry File="rcktin3\183.wav" ID="183">Cid “Alright,Cloud!!  It's unlocked!”</Entry>
+  <Entry File="rcktin3\184.wav" ID="184">Cid “Yup,  my great advice saved the day.”</Entry>
+  <Entry File="rcktin3\189.wav" ID="189">Cid “Ahhh &amp;$#$#!  The Protection System just activated!”</Entry>
+  <Entry File="rcktin3\190.wav" ID="190">Cid “…Cloud,too bad,  but we gotta let it go.”</Entry>
+  <Entry File="rcktin3\191.wav" ID="191">Cid “ALRIGHT!  Let's get outta here while we can!”</Entry>
+  <Entry File="rcktin3\192.wav" ID="192">Cloud “Cid!!”</Entry>
+  <Entry File="rcktin3\193.wav" ID="193">Cloud “I'm gonna do whatever I can.”</Entry>
+  <Entry File="rcktin3\194a.wav" ID="194" Part="a">Cid “Grrrgh!”</Entry>
+  <Entry File="rcktin3\194b.wav" ID="194" Part="b">“Damn!  My leg's stuck in the debris.”</Entry>
+  <Entry File="rcktin3\195.wav" ID="195">Cid “Don't worry 'bout me. Hurry up and go!  If you don't hurry,the rocket's  gonna crash into Meteor!”</Entry>
+  <Entry File="rcktin3\196.wav" ID="196">Cloud “…I can't go without my friends.”</Entry>
+  <Entry File="rcktin3\197.wav" ID="197">Cid “You %#@&amp;!  No time to worry 'bout  other people!”</Entry>
+  <Entry File="rcktin3\198.wav" ID="198">Cid “Tank Number 8 blew up…/   So Tank Number 8…/   really was malfunctioning…”</Entry>
+  <Entry File="rcktin3\199.wav" ID="199">Cid “Shera…/   You were right.”</Entry>
+  <Entry File="rcktin3\200.wav" ID="200">Cid “But,  …this is the end for me.”</Entry>
+  <Entry File="rcktin3\201.wav" ID="201">Shera “Don't say that,Cid.”</Entry>
+  <Entry File="rcktin3\202.wav" ID="202">Cid “Huh!? Shera!?”</Entry>
+  <Entry File="rcktin3\203.wav" ID="203">Shera “I tagged along.  I'm coming to help you.”</Entry>
+  <Entry File="rcktin3\204.wav" ID="204">Cid “You stupid &amp;$#%!!”</Entry>
+  <Entry File="rcktin3\205.wav" ID="205">Barret “…Damn!  …Can't lift it!”</Entry>
+  <Entry File="rcktin3\206.wav" ID="206">Tifa “…I can't!  It's so heavy,I can't lift it…”</Entry>
+  <Entry File="rcktin3\207.wav" ID="207">Red XIII “I can't do anything  with my strength alone..!”</Entry>
+  <Entry File="rcktin3\208.wav" ID="208">Yuffie “I can't budge it by myself!!”</Entry>
+  <Entry File="rcktin3\209.wav" ID="209">Cait Sith “What shall we do?  It won't budge!”</Entry>
+  <Entry File="rcktin3\210.wav" ID="210">Vincent “…No.  I can't lift it.”</Entry>
+  <Entry File="rcktin3\211.wav" ID="211">Cid “You're stupid.  You're really $#&amp;^%$* stupid.”</Entry>
+  <Entry File="rcktin3\212.wav" ID="212">Cid “…/ …/  Sorry.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="rcktin3\0.wav" ID="0">Cockpit</Entry>
+	<Entry File="rcktin3\1.wav" ID="1">Engine Room</Entry>
+	<Entry File="rcktin3\2.wav" ID="2">Materia Room</Entry>
+	<Entry File="rcktin3\3.wav" ID="3">Ship Hallway</Entry>
+	<Entry File="rcktin3\4.wav" ID="4">Duct</Entry>
+	<Entry File="rcktin3\5.wav" ID="5">Escape Pod</Entry>
+	<Entry File="rcktin3\6.wav" ID="6">Received Key Item "Huge Materia"!</Entry>
+	<Entry File="rcktin3\31b.wav" ID="31" Part="b">"Shera,bein' careful's good,  but no matter how many times  you check that oxygen tank,  it won't matter.”</Entry>
+	<Entry File="rcktin3\71.wav" ID="71" />
+	<Entry File="rcktin3\163a.wav" ID="163" Part="a">  Passcode Input Error</Entry>
+	<Entry File="rcktin3\163b.wav" ID="163" Part="b">  Unauthorized User Identified   Protection System will activate in 3 minutes  </Entry>
+	<Entry File="rcktin3\166.wav" ID="166">There is the control panel. Try and operate it? Yes No</Entry>
+	<Entry File="rcktin3\167.wav" ID="167">Enter Passcode</Entry>
+	<Entry File="rcktin3\168.wav" ID="168">  Enter Passcode 1  </Entry>
+	<Entry File="rcktin3\169.wav" ID="169">  Enter Passcode 2  </Entry>
+	<Entry File="rcktin3\170.wav" ID="170">  Enter Passcode 3  </Entry>
+	<Entry File="rcktin3\171.wav" ID="171">  Enter Passcode 4  </Entry>
+	<Entry File="rcktin3\185.wav" ID="185"> Passcode Confirmed   Identified as an Authorized User      Unlocked</Entry>
+	<Entry File="rcktin3\186.wav" ID="186">  2 minutes until activation of      the Protection System</Entry>
+	<Entry File="rcktin3\187.wav" ID="187">  1 minute until activation of      the Protection System</Entry>
+	<Entry File="rcktin3\188.wav" ID="188">   Protection System Activated   </Entry>
+-->
+</VoiceList>

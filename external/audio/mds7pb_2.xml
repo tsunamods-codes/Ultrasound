@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds7pb_2\1a.wav" ID="1" Part="a">Barret “Yo,Cloud!  There's somethin' I wanna ask ya.”</Entry>
+  <Entry File="mds7pb_2\1b.wav" ID="1" Part="b">“Was there anyone from SOLDIER  fighting us today?”</Entry>
+  <Entry File="mds7pb_2\2.wav" ID="2">Cloud “None.   I'm positive.”</Entry>
+  <Entry File="mds7pb_2\3.wav" ID="3">Barret “You sound pretty sure.”</Entry>
+  <Entry File="mds7pb_2\4.wav" ID="4">Cloud “If there was anyone from SOLDIER  you wouldn't be standing here now.”</Entry>
+  <Entry File="mds7pb_2\5.wav" ID="5">Barret “Don't go thinkin' you so bad jus' cuz  you was in SOLDIER.”</Entry>
+  <Entry File="mds7pb_2\6.wav" ID="6">Cloud “…”</Entry>
+  <Entry File="mds7pb_2\7a.wav" ID="7" Part="a">Barret “Yeah,you're strong.”</Entry>
+  <Entry File="mds7pb_2\7b.wav" ID="7" Part="b">“Probably all them guys in SOLDIER are.”</Entry>
+  <Entry File="mds7pb_2\7c.wav" ID="7" Part="c">“But don't forget that  your skinny ass's workin'  for AVALANCHE now!”</Entry>
+  <Entry File="mds7pb_2\7d.wav" ID="7" Part="d">“Don't get no ideas  'bout hangin' on to Shinra.”</Entry>
+  <Entry File="mds7pb_2\8a.wav" ID="8" Part="a">Cloud “Stayin' with Shinra?”</Entry>
+  <Entry File="mds7pb_2\8b.wav" ID="8" Part="b">“You asked me a question  and I answered it…that's all.”</Entry>
+  <Entry File="mds7pb_2\9.wav" ID="9">Cloud “I'm going upstairs.  I want to talk about my money.”</Entry>
+  <Entry File="mds7pb_2\10.wav" ID="10">Tifa “Wait,Cloud!”</Entry>
+  <Entry File="mds7pb_2\11a.wav" ID="11" Part="a">Barret “Tifa!  Let him go!”</Entry>
+  <Entry File="mds7pb_2\11b.wav" ID="11" Part="b">“Looks like he still misses the Shinra!”</Entry>
+  <Entry File="mds7pb_2\12a.wav" ID="12" Part="a">Cloud “Shut up!”</Entry>
+  <Entry File="mds7pb_2\12b.wav" ID="12" Part="b">“I don't care about neither Shinra  nor SOLDIER!”</Entry>
+  <Entry File="mds7pb_2\13a.wav" ID="13" Part="a">“But don't get me wrong!”</Entry>
+  <Entry File="mds7pb_2\13b.wav" ID="13" Part="b">“I don't care about AVALANCHE or   the Planet for that matter!”</Entry>
+  <Entry File="mds7pb_2\32.wav" ID="32">Wedge “You think I'm a little too uptight?” Yeah… No…</Entry>
+  <Entry File="mds7pb_2\33a.wav" ID="33" Part="a">“The next mission will be  to blow up the Sector 5 Reactor.”</Entry>
+  <Entry File="mds7pb_2\33b.wav" ID="33" Part="b">“Cloud,you're great!  Don't you ever get nervous?”</Entry>
+  <Entry File="mds7pb_2\33c.wav" ID="33" Part="c">“Or are you like,impervious to feelings?  Naw,that couldn't be it.”</Entry>
+  <Entry File="mds7pb_2\34.wav" ID="34">“Well,that's OK. Don't worry about me.  I don't look like it,  but I'm a coward at heart.”</Entry>
+  <Entry File="mds7pb_2\35a.wav" ID="35" Part="a">Wedge “…Cloud.”</Entry>
+  <Entry File="mds7pb_2\35b.wav" ID="35" Part="b">“You say you don't care,  but you came to talk to me.”</Entry>
+  <Entry File="mds7pb_2\36a.wav" ID="36" Part="a">“Cloud…  You just want friends.”</Entry>
+  <Entry File="mds7pb_2\36b.wav" ID="36" Part="b">“Isn't that right?” Blow off I really don't care</Entry>
+  <Entry File="mds7pb_2\37a.wav" ID="37" Part="a">“Yeah,well.  You look kind of lonely to me.”</Entry>
+  <Entry File="mds7pb_2\37b.wav" ID="37" Part="b">“If you ever got anything you want to  get off your chest,  you can always talk to me.”</Entry>
+  <Entry File="mds7pb_2\38.wav" ID="38">“You're terrible.  Real cold-blooded.”</Entry>
+  <Entry File="mds7pb_2\39a.wav" ID="39" Part="a">Jessie “Oops…”</Entry>
+  <Entry File="mds7pb_2\39b.wav" ID="39" Part="b">“Hey,look at the news…  What a blast.”</Entry>
+  <Entry File="mds7pb_2\39c.wav" ID="39" Part="c">“Think it was all because of my bomb?  But all I really did was just make it  like the computer told me.”</Entry>
+  <Entry File="mds7pb_2\39d.wav" ID="39" Part="d">“Oh no!  I must've made a miscalculation somewhere.”</Entry>
+  <Entry File="mds7pb_2\40.wav" ID="40">Jessie “Hey,that was my first bomb.  Makes me kinda proud.”</Entry>
+  <Entry File="mds7pb_2\41a.wav" ID="41" Part="a">Jessie “Money…”</Entry>
+  <Entry File="mds7pb_2\41b.wav" ID="41" Part="b">“Oh my.  It must have been for a lot of it.”</Entry>
+  <Entry File="mds7pb_2\41c.wav" ID="41" Part="c">“Sure!  Well,what the hell? It's a verbal agreement.  Now let me figure this out.”</Entry>
+  <Entry File="mds7pb_2\42.wav" ID="42">“Oh stop it,Cloud!  Did you hear me?”</Entry>
+  <Entry File="mds7pb_2\43.wav" ID="43">President Shinra “…today the No.1 Reactor was bombed.  The terrorist group AVALANCHE has claimed  responsibility for the bombing.”</Entry>
+  <Entry File="mds7pb_2\44.wav" ID="44">“It is expected that AVALANCHE will  continue its reign of terror.”</Entry>
+  <Entry File="mds7pb_2\45a.wav" ID="45" Part="a">“But citizens of Midgar,there is no   need to fear.”</Entry>
+  <Entry File="mds7pb_2\45b.wav" ID="45" Part="b">“I have immediately mobilized SOLDIER to protect  our citizenry against this senseless violence.  Thank you and good night.”</Entry>
+  <Entry File="mds7pb_2\46.wav" ID="46">Marlene “Papa,  you're so great!”</Entry>
+  <Entry File="mds7pb_2\47.wav" ID="47">Barret “Shucks!!  …money…”</Entry>
+  <Entry File="mds7pb_2\48.wav" ID="48">Tifa “Straighten things up  with everyone for me.”</Entry>
+  <Entry File="mds7pb_2\49.wav" ID="49">“Save Point” Access the menu and select [SAVE] to save your game. akaoJ P+! -28BeX</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds7pb_2\0.wav" ID="0">AVALANCHE Hideout</Entry>
+	<Entry File="mds7pb_2\14.wav" ID="14" />
+	<Entry File="mds7pb_2\15.wav" ID="15" />
+	<Entry File="mds7pb_2\16.wav" ID="16" />
+	<Entry File="mds7pb_2\17.wav" ID="17" />
+	<Entry File="mds7pb_2\18.wav" ID="18" />
+	<Entry File="mds7pb_2\19.wav" ID="19" />
+	<Entry File="mds7pb_2\20.wav" ID="20" />
+	<Entry File="mds7pb_2\21.wav" ID="21" />
+	<Entry File="mds7pb_2\22.wav" ID="22" />
+	<Entry File="mds7pb_2\23.wav" ID="23" />
+	<Entry File="mds7pb_2\24.wav" ID="24" />
+	<Entry File="mds7pb_2\25.wav" ID="25" />
+	<Entry File="mds7pb_2\26.wav" ID="26" />
+	<Entry File="mds7pb_2\27.wav" ID="27" />
+	<Entry File="mds7pb_2\28.wav" ID="28" />
+	<Entry File="mds7pb_2\29.wav" ID="29" />
+	<Entry File="mds7pb_2\30.wav" ID="30" />
+	<Entry File="mds7pb_2\31.wav" ID="31" />
+-->
+</VoiceList>

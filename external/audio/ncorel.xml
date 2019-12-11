@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ncorel\1.wav" ID="1">Barret “You heard 'em…  It's my fault  this town was…destroyed…”</Entry>
+  <Entry File="ncorel\2.wav" ID="2">Barret “Wait here…”</Entry>
+  <Entry File="ncorel\3.wav" ID="3">Barret “Can't keep regrettin' the past…  It's the future  we gotta think about now.”</Entry>
+  <Entry File="ncorel\4.wav" ID="4">Barret “…I'm sorry…”</Entry>
+  <Entry File="ncorel\5.wav" ID="5">“YOU know who's responsible for North Corel  winding up like this!”</Entry>
+  <Entry File="ncorel\6.wav" ID="6">“Well,lookey here!  Never thought  I'd ever see your face again.”</Entry>
+  <Entry File="ncorel\7.wav" ID="7">“I'll never understand the rich.  I heard some guy named  Dio at the Gold Saucer  is collectin' rocks!”</Entry>
+  <Entry File="ncorel\8.wav" ID="8">“I figure if I stay alive long enough,  something good's bound to happen.”</Entry>
+  <Entry File="ncorel\9a.wav" ID="9" Part="a">“Some Shinra soldiers went up to Mt. Corel.  They said they're collecting Huge Materia  to blow up Meteor!”</Entry>
+  <Entry File="ncorel\9b.wav" ID="9" Part="b">“Ya think they can really do it?  I'll bet the reactor destroys everything  even before Meteor hits!”</Entry>
+  <Entry File="ncorel\10a.wav" ID="10" Part="a">“Look down… nuthin' but junk.  Look up…Meteor.”</Entry>
+  <Entry File="ncorel\10b.wav" ID="10" Part="b">“Am I gonna be stuck between these two  for the rest of my life?”</Entry>
+  <Entry File="ncorel\11.wav" ID="11">“”</Entry>
+  <Entry File="ncorel\12.wav" ID="12">“I wanna play at the Gold Saucer…”</Entry>
+  <Entry File="ncorel\13.wav" ID="13">“And it's only a Ropeway ride away…  but I don't have enough money to play…”</Entry>
+  <Entry File="ncorel\14a.wav" ID="14" Part="a">“Those people over there,  they with you?”</Entry>
+  <Entry File="ncorel\14b.wav" ID="14" Part="b">“Well,I feel sorry for 'em!  Hangin' around a walkin' death sentence  like Barret.”</Entry>
+  <Entry File="ncorel\15a.wav" ID="15" Part="a">“They kick you out of  another town or somethin'?”</Entry>
+  <Entry File="ncorel\15b.wav" ID="15" Part="b">“You destroy everything you touch.”</Entry>
+  <Entry File="ncorel\16a.wav" ID="16" Part="a">“Why doncha say something!?”</Entry>
+  <Entry File="ncorel\16b.wav" ID="16" Part="b">“Or did ya forget  what you done here already?”</Entry>
+  <Entry File="ncorel\17a.wav" ID="17" Part="a">“Get out of the way!!”</Entry>
+  <Entry File="ncorel\17b.wav" ID="17" Part="b">“The only way we can make ends meet around  here now is by collecting junk!”</Entry>
+  <Entry File="ncorel\18.wav" ID="18">“You,you're…”</Entry>
+  <Entry File="ncorel\19.wav" ID="19">“Hey!!  He's back!”</Entry>
+  <Entry File="ncorel\20a.wav" ID="20" Part="a">“You got a lot of nerve  comin' back here!”</Entry>
+  <Entry File="ncorel\20b.wav" ID="20" Part="b">“Look at this place!  It's all your fault North Corel  turned into a garbage heap!”</Entry>
+  <Entry File="ncorel\21.wav" ID="21">“^%$#!  You ain't even worth the effort.”</Entry>
+  <Entry File="ncorel\22.wav" ID="22">“Don't waste your time talkin' to  that Techno-freak!”</Entry>
+  <Entry File="ncorel\23a.wav" ID="23" Part="a">“Whenever I look up in the sky,  I see Meteor staring me right in the face…”</Entry>
+  <Entry File="ncorel\23b.wav" ID="23" Part="b">“If you're gonna crash down,then hurry up!!  'Cause I'm gonna kick the $#@&amp; outta ya!”</Entry>
+  <Entry File="ncorel\24a.wav" ID="24" Part="a">“A buncha guys called Turks came here  sayin' they'd pay 10000 gil for   some rock called a 'Keystone'.”</Entry>
+  <Entry File="ncorel\24b.wav" ID="24" Part="b">“When I asked how much they'd pay for  a regular rock just layin' around here,  they slapped me upside my damn head!!”</Entry>
+  <Entry File="ncorel\25a.wav" ID="25" Part="a">“Shinra soldiers came around sayin'  they were gathering up  all the Huge Materia.”</Entry>
+  <Entry File="ncorel\25b.wav" ID="25" Part="b">“I think they're gonna bring it here   by coal train,from the Corel Reactor.”</Entry>
+  <Entry File="ncorel\26a.wav" ID="26" Part="a">“Staring up at Meteor  won't put food in my stomach.”</Entry>
+  <Entry File="ncorel\26b.wav" ID="26" Part="b">“But if I look down,  sometimes I find somethin' to eat.”</Entry>
+  <Entry File="ncorel\27.wav" ID="27">“I hear it's a big fad now in the city  to get tattoos. Is that right?” I wouldn't know That's right</Entry>
+  <Entry File="ncorel\28.wav" ID="28">“Really…?  I saw a big '1' on the arm of   a young guy heading towards the Ropeway.  That Black Cape he had on was really cool.”</Entry>
+  <Entry File="ncorel\29.wav" ID="29">“I guess I should get a '0' tattoo!  For a poor man like me,  '0' oughtta be perfect.”</Entry>
+  <Entry File="ncorel\30a.wav" ID="30" Part="a">“Hey,  what's gonna happen to the world?”</Entry>
+  <Entry File="ncorel\30b.wav" ID="30" Part="b">“I guess no one wants to have fun anymore  now that the Gold Saucer is closing…”</Entry>
+  <Entry File="ncorel\31a.wav" ID="31" Part="a">“Hey,  the Gold Saucer reopened!”</Entry>
+  <Entry File="ncorel\31b.wav" ID="31" Part="b">“We've got to play hard  to get our minds off Meteor.”</Entry>
+  <Entry File="ncorel\32.wav" ID="32">“If you want to survive,  then you're gonna need  some of my weapons.”</Entry>
+  <Entry File="ncorel\33.wav" ID="33">“Please buy something!  Anything will do!”</Entry>
+  <Entry File="ncorel\34.wav" ID="34">“What do you want?” Buy Listen to your story Not interested</Entry>
+  <Entry File="ncorel\35a.wav" ID="35" Part="a">“Take that road on the left  to the Ropeway station!”</Entry>
+  <Entry File="ncorel\35b.wav" ID="35" Part="b">“The Ropeway'll take you  to the Gold Saucer.” </Entry>
+  <Entry File="ncorel\36.wav" ID="36">“It don't mean much  to us poor folks though…”</Entry>
+  <Entry File="ncorel\37.wav" ID="37">“Sometimes,I see something glowin'  inside the well.  If I ever get it,I'm going to sell it  and go to the Gold Saucer.”</Entry>
+  <Entry File="ncorel\38a.wav" ID="38" Part="a">“I'm gonna keep diggin' in this well  till I come out   on the other side of the world…”</Entry>
+  <Entry File="ncorel\38b.wav" ID="38" Part="b">“Then,I'm going to make lotsa friends.”</Entry>
+  <Entry File="ncorel\39.wav" ID="39">“I got this out of that well.  This rock must REALLY be something!!”</Entry>
+  <Entry File="ncorel\40a.wav" ID="40" Part="a">“Whoops…  You can't hold all those.”</Entry>
+  <Entry File="ncorel\40b.wav" ID="40" Part="b">“Here,I'll keep it in my pocket,  and you can come by later and  get it,OK?”</Entry>
+  <Entry File="ncorel\41.wav" ID="41">Tifa “I wonder what Shinra wants to do  with all that Huge Materia?”</Entry>
+  <Entry File="ncorel\42.wav" ID="42">Red XIII “What are we going to do now?”</Entry>
+  <Entry File="ncorel\43.wav" ID="43">Cid “Sorry…  I never shoulda gave that Huge Materia  to the Shinra so easily…”</Entry>
+  <Entry File="ncorel\44.wav" ID="44">Yuffie “No use baggin' on yourself!  It's not like you,OLD guy!”</Entry>
+  <Entry File="ncorel\45.wav" ID="45">Cait Sith “It's not all over yet.  Cheer up!”</Entry>
+  <Entry File="ncorel\46.wav" ID="46">Vincent “…Isn't is too early  to give up?”</Entry>
+  <Entry File="ncorel\48.wav" ID="48">Cid “There's only one more Huge Materia  the Shinra needs…  That's the one at the Underwater Reactor.”</Entry>
+  <Entry File="ncorel\49.wav" ID="49">Cid “With us always in their face,  even the Shinra's gotta be  getting tired of it all.”</Entry>
+  <Entry File="ncorel\50.wav" ID="50">Cid “We have to hurry that much…  …Right now I'm more worried  about him than anything else!”</Entry>
+  <Entry File="ncorel\51.wav" ID="51">Cid “Yeah,and I'm worried  about Tifa,too.”</Entry>
+  <Entry File="ncorel\52.wav" ID="52">Cid “Let's go see  what's going on at Mideel…”</Entry>
+  <Entry File="ncorel\53.wav" ID="53">Barret “We'll get there first!”</Entry>
+  <Entry File="ncorel\54.wav" ID="54">Barret “Cloud…”</Entry>
+  <Entry File="ncorel\55.wav" ID="55">Red XIII “We HAVE to stop them!!”</Entry>
+  <Entry File="ncorel\56.wav" ID="56">Red XIII “Must be about Cloud…”</Entry>
+  <Entry File="ncorel\57.wav" ID="57">Yuffie “We've got to hurry and stop 'em!!”</Entry>
+  <Entry File="ncorel\58.wav" ID="58">Yuffie “You must be talking 'bout Cloud…”</Entry>
+  <Entry File="ncorel\59.wav" ID="59">Cait Sith “We headin' out to  the Underwater Reactor?”</Entry>
+  <Entry File="ncorel\60.wav" ID="60">Cait Sith “Cloud…”</Entry>
+  <Entry File="ncorel\61.wav" ID="61">Vincent “Are we going to  the Underwater Reactor?”</Entry>
+  <Entry File="ncorel\62.wav" ID="62">Vincent “Cloud…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ncorel\0.wav" ID="0">North Corel</Entry>
+	<Entry File="ncorel\47.wav" ID="47">Received "Ultima" Materia!</Entry>
+-->
+</VoiceList>

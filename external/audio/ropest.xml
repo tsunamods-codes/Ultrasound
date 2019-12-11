@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ropest\1.wav" ID="1">“Ride the Ropeway?” Go on Don't go on</Entry>
+  <Entry File="ropest\2.wav" ID="2">“Ride the Ropeway?” Yes No</Entry>
+  <Entry File="ropest\3.wav" ID="3">Cloud “What happened?”</Entry>
+  <Entry File="ropest\4.wav" ID="4">Cloud “Shinra troops?  What for!?”</Entry>
+  <Entry File="ropest\5.wav" ID="5">Cloud “Let's get on.”</Entry>
+  <Entry File="ropest\6.wav" ID="6">Tifa “That's so terrible!”</Entry>
+  <Entry File="ropest\7.wav" ID="7">Tifa “Don't blame yourself.  We were all fooled by the promises  Shinra made back then.”</Entry>
+  <Entry File="ropest\8.wav" ID="8">Tifa “I never knew.  Barret never said a thing…”</Entry>
+  <Entry File="ropest\9.wav" ID="9">Tifa “…”</Entry>
+  <Entry File="ropest\10.wav" ID="10">“We better go on!”</Entry>
+  <Entry File="ropest\11.wav" ID="11">Tifa “Everyone's…  been through a lot of hardship…”</Entry>
+  <Entry File="ropest\12.wav" ID="12">Barret “Sorry.”</Entry>
+  <Entry File="ropest\13.wav" ID="13">Barret “My hometown used to be around here.”</Entry>
+  <Entry File="ropest\14.wav" ID="14">Barret “It ain't here no more.  Heard it got buried…  in just 4 years.”</Entry>
+  <Entry File="ropest\15.wav" ID="15">Barret “An' it's my fault.  ALL my fault.”</Entry>
+  <Entry File="ropest\16a.wav" ID="16" Part="a">Barret “There was an explosion at a reactor.”</Entry>
+  <Entry File="ropest\16b.wav" ID="16" Part="b">“Shinra blamed the accident on the people.  Said it was done by a rebel faction.”</Entry>
+  <Entry File="ropest\17a.wav" ID="17" Part="a">Barret “Well,I guess that's true.  But more than Shinra,  I can't forgive myself.”</Entry>
+  <Entry File="ropest\17b.wav" ID="17" Part="b">“Never should've gone along  with the building of the reactor…”</Entry>
+  <Entry File="ropest\18.wav" ID="18">Barret “That's why…  that's why I get so pissed off!!”</Entry>
+  <Entry File="ropest\19.wav" ID="19">“Not only did they take advantage of me…  But I lost my wife,Myrna,too…”</Entry>
+  <Entry File="ropest\20.wav" ID="20">Barret “Dyne was my best friend.  We were close ever  since we were kids…”</Entry>
+  <Entry File="ropest\21.wav" ID="21">Barret “It's all my fault…”</Entry>
+  <Entry File="ropest\22.wav" ID="22">Aeris “Barret,what happened?”</Entry>
+  <Entry File="ropest\23.wav" ID="23">Aeris “But how could those people  say those terrible things?”</Entry>
+  <Entry File="ropest\24.wav" ID="24">Aeris “…”</Entry>
+  <Entry File="ropest\25.wav" ID="25">Aeris “Everything Shinra does seems to  make everyone miserable…”</Entry>
+  <Entry File="ropest\26.wav" ID="26">Red XIII “What do you mean 'used to'?”</Entry>
+  <Entry File="ropest\27.wav" ID="27">Red XIII “…”</Entry>
+  <Entry File="ropest\28.wav" ID="28">Yuffie “I'm not sympathizing with Barret!  He never should have trusted Shinra,Inc.”</Entry>
+  <Entry File="ropest\29.wav" ID="29">Yuffie “I'm waiting inside.”</Entry>
+  <Entry File="ropest\30.wav" ID="30">“The Ropeway takes you  to the 'Gold Saucer'.  It's free,so don't worry about it.”</Entry>
+  <Entry File="ropest\31.wav" ID="31">“Hey everyone!  If you want to go to the 'Gold Saucer',  hurry and get on!”</Entry>
+  <Entry File="ropest\32.wav" ID="32">“The Gold Saucer is currently closed.  The Ropeway's up and runnin',but  there's no point in goin' there.”</Entry>
+  <Entry File="ropest\33.wav" ID="33">“The Gold Saucer reopened.  Why don't you go play hard and  clear your heads  as well as your pockets?”</Entry>
+  <Entry File="ropest\34.wav" ID="34">“I'm gonna use all my life savings  before Meteor hits!”</Entry>
+  <Entry File="ropest\35.wav" ID="35">“I know how you feel,  but what if Meteor doesn't hit us?  What are you gonna do then?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ropest\0.wav" ID="0">Ropeway Station</Entry>
+-->
+</VoiceList>

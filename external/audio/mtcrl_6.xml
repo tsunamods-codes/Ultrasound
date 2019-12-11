@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mtcrl_6\1a.wav" ID="1" Part="a">Cloud “OW!!  Sure is tight in here…”</Entry>
+  <Entry File="mtcrl_6\1b.wav" ID="1" Part="b">“Come on,Cloud,  don't let it get to you.  Let's see…this is it.”</Entry>
+  <Entry File="mtcrl_6\2a.wav" ID="2" Part="a">Cloud “Maybe if I turn this…”</Entry>
+  <Entry File="mtcrl_6\2b.wav" ID="2" Part="b">“…something should happen.” Do it Leave it</Entry>
+  <Entry File="mtcrl_6\3.wav" ID="3">Cloud “OK,then…” PHS Let's move on!</Entry>
+  <Entry File="mtcrl_6\4.wav" ID="4">Tifa “OH!! Cloud!  That's it!”</Entry>
+  <Entry File="mtcrl_6\5a.wav" ID="5" Part="a">Tifa “We can't go on until the   bridge is let down.”</Entry>
+  <Entry File="mtcrl_6\5b.wav" ID="5" Part="b">“I think there's a switch  in that shack over there…”</Entry>
+  <Entry File="mtcrl_6\5c.wav" ID="5" Part="c">“But there's too many monsters around  and I'm beat…”</Entry>
+  <Entry File="mtcrl_6\6.wav" ID="6">Aeris “Cloud!!”</Entry>
+  <Entry File="mtcrl_6\7a.wav" ID="7" Part="a">Aeris “I was just wishing you were  here!”</Entry>
+  <Entry File="mtcrl_6\7b.wav" ID="7" Part="b">“Unless someone lets down the bridge,  we're stuck.”</Entry>
+  <Entry File="mtcrl_6\7c.wav" ID="7" Part="c">“Cloud should be able  to do something.”</Entry>
+  <Entry File="mtcrl_6\7d.wav" ID="7" Part="d">“But let's take a   breather first.”</Entry>
+  <Entry File="mtcrl_6\8.wav" ID="8">Aeris “Come on,Cloud.  Let's rest a minute.”</Entry>
+  <Entry File="mtcrl_6\9.wav" ID="9">Red XIII “Wha? Oh,it's you.”</Entry>
+  <Entry File="mtcrl_6\10a.wav" ID="10" Part="a">Red XIII “There seems to be an instrument in that  hut that manipulates this bridge.”</Entry>
+  <Entry File="mtcrl_6\10b.wav" ID="10" Part="b">“Perhaps it's best if we rest a moment.”</Entry>
+  <Entry File="mtcrl_6\11.wav" ID="11">Barret “…whew!”</Entry>
+  <Entry File="mtcrl_6\12.wav" ID="12">Yuffie “I don't want to have to   go all that way!”</Entry>
+  <Entry File="mtcrl_6\13.wav" ID="13">Tifa “I'm beat…”</Entry>
+  <Entry File="mtcrl_6\14.wav" ID="14">Aeris “I'm sure glad I'm with you, Cloud!”</Entry>
+  <Entry File="mtcrl_6\15.wav" ID="15">Red XIII “What?”</Entry>
+  <Entry File="mtcrl_6\16.wav" ID="16">Yuffie “I'm pooped!”</Entry>
+  <Entry File="mtcrl_6\17.wav" ID="17">Tifa “Cloud!!  Go Cloud!! Go!!”</Entry>
+  <Entry File="mtcrl_6\18.wav" ID="18">Aeris “Oh,Cloud!!  Good Luck!!”</Entry>
+  <Entry File="mtcrl_6\21.wav" ID="21">“The shack is here!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mtcrl_6\0.wav" ID="0">Mt. Corel</Entry>
+	<Entry File="mtcrl_6\19.wav" ID="19">"Morph Menu"</Entry>
+	<Entry File="mtcrl_6\20.wav" ID="20">[Save Point] Access the menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

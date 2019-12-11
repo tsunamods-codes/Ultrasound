@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Ultrasound xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Replacement ID="359" Kind="Sequential">
+    <Sound>ultrasound\save1.mp3</Sound>
+    <Sound>ultrasound\save2.mp3</Sound>
+    <Sound>ultrasound\save3.mp3</Sound>
+  </Replacement>
+  <Replacement ID="1" Kind="Random">
+    <Sound PPVs="0,191">ultrasound\blip1.mp3</Sound>
+    <Sound PPVs="0,191">ultrasound\blip2.mp3</Sound>
+    <Sound>ultrasound\blip3.mp3</Sound>
+  </Replacement>
+
+  <Ambient FieldIDs="195" Loop="true">ultrasound\rain-heavy.mp3</Ambient>
+  <Ambient FieldIDs="195" Group="1" Loop="true">ultrasound\blip2.mp3</Ambient>
+  <Ambient FieldIDs="202" Loop="true" Volume="0.5">ultrasound\rain-heavy.mp3</Ambient>
+</Ultrasound>

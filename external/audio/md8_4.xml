@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="md8_4\0.wav" ID="0">Biggs “That should keep the planet going…  at least a little longer.”</Entry>
+  <Entry File="md8_4\1.wav" ID="1">Wedge “Yeah.”</Entry>
+  <Entry File="md8_4\2.wav" ID="2">Barret “…”</Entry>
+  <Entry File="md8_4\3.wav" ID="3">Jessie “OK!   Now everyone get back.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="md8_4\4.wav" ID="4">Sector 8</Entry>
+-->
+</VoiceList>

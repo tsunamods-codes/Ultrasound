@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="cosmin4\1a.wav" ID="1" Part="a">Red XIII “Don't worry about me.  I've seen it many times.”</Entry>
+  <Entry File="cosmin4\1b.wav" ID="1" Part="b">“I haven't been back for a while…  Let me rest for a bit.”</Entry>
+  <Entry File="cosmin4\2a.wav" ID="2" Part="a">“It's not that I'm afraid of that  big star.”</Entry>
+  <Entry File="cosmin4\2b.wav" ID="2" Part="b">“It's just that,uh,I have a stomach ache…  That's why I'm not moving.  That's the truth!”</Entry>
+  <Entry File="cosmin4\3.wav" ID="3">“Both Nanaki and Bugenhagen are gone…  I feel so lonely…”</Entry>
+  <Entry File="cosmin4\4.wav" ID="4">“That Nanaki's slick! He said,  'I'll protect this canyon'! But he didn't.  Forget about Nanaki.”</Entry>
+  <Entry File="cosmin4\5.wav" ID="5">Red XIII “Sorry…I'm really sorry.  But now,I have…”</Entry>
+  <Entry File="cosmin4\6a.wav" ID="6" Part="a">“He's finally come home,but  Bugenhagen doesn't seem well…”</Entry>
+  <Entry File="cosmin4\6b.wav" ID="6" Part="b">“I want to hear Bugenhagen talk  with Nanaki like we used to do…”</Entry>
+  <Entry File="cosmin4\7.wav" ID="7">“Nanaki,is it true that Bugenhagen  left on a journey?  Then that means he's better,right?  He IS going to come back soon,right?”</Entry>
+  <Entry File="cosmin4\8a.wav" ID="8" Part="a">Red XIII “…”</Entry>
+  <Entry File="cosmin4\8b.wav" ID="8" Part="b">“…Don't worry.  Grandpa will come back floating,  saying 'Ho Ho Hoooo' again…”</Entry>
+  <Entry File="cosmin4\9.wav" ID="9">“Yea,that's right!  'Ho Ho Hoooo'!”</Entry>
+  <Entry File="cosmin4\10.wav" ID="10">“It's Ho Ho Hoooo!  Ho Ho Hoooo!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="cosmin4\0.wav" ID="0">Nanaki's Room</Entry>
+-->
+</VoiceList>

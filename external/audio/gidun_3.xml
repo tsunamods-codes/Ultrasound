@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="gidun_3\1.wav" ID="1">Bugenhagen “What is this?”</Entry>
+  <Entry File="gidun_3\2.wav" ID="2">Red XIII “Grandpa,is he?”</Entry>
+  <Entry File="gidun_3\3a.wav" ID="3" Part="a">Bugenhagen “After death…  The ghosts of the Gi.  Like stagnant air…”</Entry>
+  <Entry File="gidun_3\3b.wav" ID="3" Part="b">“This…can't be!!”</Entry>
+  <Entry File="gidun_3\4a.wav" ID="4" Part="a">Bugenhagen “…Thank you,Cloud.  because of you,we survived.”</Entry>
+  <Entry File="gidun_3\4b.wav" ID="4" Part="b">“Nanaki,you have grown strong,too.”</Entry>
+  <Entry File="gidun_3\5.wav" ID="5">Red XIII “…Oh yeah?”</Entry>
+  <Entry File="gidun_3\6a.wav" ID="6" Part="a">Bugenhagen “Now I know that it wasn't a mistake  bringing you here…”</Entry>
+  <Entry File="gidun_3\6b.wav" ID="6" Part="b">“Come,I have something I want to show you.  Right over here.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="gidun_3\0.wav" ID="0">Cave of the Gi</Entry>
+	<Entry File="gidun_3\7.wav" ID="7">You cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="gidun_3\8.wav" ID="8">Received "Gravity" Materia!</Entry>
+-->
+</VoiceList>

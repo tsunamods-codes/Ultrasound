@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="las0_3\6.wav" ID="6">Cloud “Looks like we can only slide down.” Alright,let's go! Let's get ready first</Entry>
+  <Entry File="las0_3\7.wav" ID="7">Cloud “Looks like we can get back to the Highwind.” Let's go back to the Highwind Let's get off again</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="las0_3\0.wav" ID="0">Northern Cave</Entry>
+	<Entry File="las0_3\1.wav" ID="1">Received "Potion"!</Entry>
+	<Entry File="las0_3\2.wav" ID="2">Received "Hi-Potion"!</Entry>
+	<Entry File="las0_3\3.wav" ID="3">Received "Ether"!</Entry>
+	<Entry File="las0_3\4.wav" ID="4">Received "Turbo Ether"!</Entry>
+	<Entry File="las0_3\5.wav" ID="5">Received "Phoenix Down"!</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="eals_1\2.wav" ID="2">Tifa “How do we get to the Shinra Building?”</Entry>
+  <Entry File="eals_1\3.wav" ID="3">Barret “There ain't no train  that goes up there anymore…”</Entry>
+  <Entry File="eals_1\4.wav" ID="4">Tifa “…”</Entry>
+  <Entry File="eals_1\5.wav" ID="5">Tifa “Well,let's go to Wall Market.  We might be able to find something there.”</Entry>
+  <Entry File="eals_1\6.wav" ID="6">Cloud “Through Sector 6 to get to Sector 7.  I should be able to do it alone…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="eals_1\0.wav" ID="0">  Received "Ether"!</Entry>
+	<Entry File="eals_1\1.wav" ID="1">  Received "Cover" Materia!</Entry>
+	<Entry File="eals_1\7.wav" ID="7">Aeris's House</Entry>
+	<Entry File="eals_1\8.wav" ID="8">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="eals_1\9.wav" ID="9">You cannot take on any more Materia. Please discard some Materia.</Entry>
+-->
+</VoiceList>

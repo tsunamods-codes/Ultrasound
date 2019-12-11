@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="shpin_2\1a.wav" ID="1" Part="a">Yuffie “Urrrgh…  This is why…I hate ships.”</Entry>
+  <Entry File="shpin_2\1b.wav" ID="1" Part="b">“Hey,Cloud.  You have any 'Tranquilizers'?” Here,use this Nope</Entry>
+  <Entry File="shpin_2\2.wav" ID="2">Yuffie “Thanks…  Gross…this is bitter.”</Entry>
+  <Entry File="shpin_2\3.wav" ID="3">Yuffie “…Unless it's an emergency  get away from me.”</Entry>
+  <Entry File="shpin_2\4a.wav" ID="4" Part="a">Yuffie “Ugh,you don't have any?”</Entry>
+  <Entry File="shpin_2\4b.wav" ID="4" Part="b">“…Unless it's an emergency  get away from me.”</Entry>
+  <Entry File="shpin_2\5a.wav" ID="5" Part="a">Yuffie “Where are the others?”</Entry>
+  <Entry File="shpin_2\5b.wav" ID="5" Part="b">“I dunno. Aren't they hiding  somewhere around here?”</Entry>
+  <Entry File="shpin_2\5c.wav" ID="5" Part="c">“How should I know…?  Ugh…urk…”</Entry>
+  <Entry File="shpin_2\6a.wav" ID="6" Part="a">“…the Engine Room…  …a suspicious…character…”</Entry>
+  <Entry File="shpin_2\6b.wav" ID="6" Part="b">“No…there's no way…  that…not a human…  That thing's not human.”</Entry>
+  <Entry File="shpin_2\7.wav" ID="7">“…”</Entry>
+  <Entry File="shpin_2\8a.wav" ID="8" Part="a">“Hey,get to work!”</Entry>
+  <Entry File="shpin_2\8b.wav" ID="8" Part="b">“Both the new President Rufus and   Heidegger are aboard this ship!”</Entry>
+  <Entry File="shpin_2\8c.wav" ID="8" Part="c">“If we do good,we could  get promoted!”</Entry>
+  <Entry File="shpin_2\9a.wav" ID="9" Part="a">“Umm…It's me  Aeris.”</Entry>
+  <Entry File="shpin_2\9b.wav" ID="9" Part="b">Aeris “Hey,Cloud.  Did you see the Airship at Junon?”</Entry>
+  <Entry File="shpin_2\10.wav" ID="10">Cloud “…I heard it was big,but  I didn't expect  it to be THAT big.”</Entry>
+  <Entry File="shpin_2\11a.wav" ID="11" Part="a">Aeris “That was REALLY something.”</Entry>
+  <Entry File="shpin_2\11b.wav" ID="11" Part="b">“Hey,do you think I could get on it?” I'll take you someday I dunno…</Entry>
+  <Entry File="shpin_2\12.wav" ID="12">Cloud “…It's a Shinra weapon.  We probably should've  destroyed it.”</Entry>
+  <Entry File="shpin_2\13.wav" ID="13">Aeris “…Hmm.  But just once,  I'd like to ride it.”</Entry>
+  <Entry File="shpin_2\14.wav" ID="14">Aeris “Just once,  I'd like to ride that Airship.”</Entry>
+  <Entry File="shpin_2\15.wav" ID="15">Cloud “…Keep hoping.”</Entry>
+  <Entry File="shpin_2\16.wav" ID="16">Aeris “Wow!  I'm really looking forward to it!”</Entry>
+  <Entry File="shpin_2\17.wav" ID="17">Aeris “Let's ride the Airship together,OK?  Promise,promise me!”</Entry>
+  <Entry File="shpin_2\18a.wav" ID="18" Part="a">Aeris “Hey,Cloud.  Did you see Barret?”</Entry>
+  <Entry File="shpin_2\18b.wav" ID="18" Part="b">“I hope he's not doing  anything stupid…”</Entry>
+  <Entry File="shpin_2\19a.wav" ID="19" Part="a">“It won't do any good trying  to stop me!”</Entry>
+  <Entry File="shpin_2\19b.wav" ID="19" Part="b">“All right! I'm going to show the  new President what I'm made of!”</Entry>
+  <Entry File="shpin_2\20a.wav" ID="20" Part="a">“Geez…  What chance for a promotion.”</Entry>
+  <Entry File="shpin_2\20b.wav" ID="20" Part="b">“The only one who's gonna benefit  from this is the Chief,anyway.”</Entry>
+  <Entry File="shpin_2\20c.wav" ID="20" Part="c">“It has nothing to do with us   workers.”</Entry>
+  <Entry File="shpin_2\21a.wav" ID="21" Part="a">“I'm workin' hard already,and  you still want me to do more?”</Entry>
+  <Entry File="shpin_2\21b.wav" ID="21" Part="b">“The new President's  probably the same.”</Entry>
+  <Entry File="shpin_2\21c.wav" ID="21" Part="c">“He's just gonna order  us around anyway.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="shpin_2\0.wav" ID="0">Cargo Ship</Entry>
+	<Entry File="shpin_2\22.wav" ID="22">Received "All" Materia!</Entry>
+	<Entry File="shpin_2\23.wav" ID="23">Received "Ether"!</Entry>
+	<Entry File="shpin_2\24.wav" ID="24">You cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="shpin_2\25.wav" ID="25">Put back the "All" Materia…</Entry>
+-->
+</VoiceList>

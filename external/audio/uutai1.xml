@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="uutai1\1.wav" ID="1">Yuffie “Hey!!”</Entry>
+  <Entry File="uutai1\2a.wav" ID="2" Part="a">“Life is just like a river.  It flows from the large ocean of life,  and eventually it returns back to it.”</Entry>
+  <Entry File="uutai1\2b.wav" ID="2" Part="b">“Wutai is a historical place.  There are some very unusual things  here you should see.”</Entry>
+  <Entry File="uutai1\3.wav" ID="3">“Yuffie?  I saw her a while ago.  She must be in one of  the houses around here.”</Entry>
+  <Entry File="uutai1\4.wav" ID="4">“Materia is like Life.  They both come from the large ocean of life,  and both must return to it.”</Entry>
+  <Entry File="uutai1\5.wav" ID="5">“Life is like the dew on the leaves of the trees.  Whether Meteor falls or not is  no more than a fleeting glimmer.”</Entry>
+  <Entry File="uutai1\6a.wav" ID="6" Part="a">“Lord Godo is in this house.”</Entry>
+  <Entry File="uutai1\6b.wav" ID="6" Part="b">“He used to be quite strong,  but now,all he does is sleep…”</Entry>
+  <Entry File="uutai1\7a.wav" ID="7" Part="a">“What,Yuffie…  It's best to ask Lord Godo about that.”</Entry>
+  <Entry File="uutai1\7b.wav" ID="7" Part="b">“But today he's not in the best of…  Well,I should say…  But really he's not so…”</Entry>
+  <Entry File="uutai1\8a.wav" ID="8" Part="a">“Anyhow,for some reason  Yuffie's had a fondness  for Materia ever since  I can remember.”</Entry>
+  <Entry File="uutai1\8b.wav" ID="8" Part="b">“She's always hung around  places she thought   might have it.”</Entry>
+  <Entry File="uutai1\9a.wav" ID="9" Part="a">“That's just how she is.  Sometimes she'll just  bust into people's houses.”</Entry>
+  <Entry File="uutai1\9b.wav" ID="9" Part="b">“Other times she'll hide in the shadows  just like a little kid.”</Entry>
+  <Entry File="uutai1\10a.wav" ID="10" Part="a">“That reminds me,lately I've seen a  kid around here that reminds  me of Yuffie.”</Entry>
+  <Entry File="uutai1\10b.wav" ID="10" Part="b">“Always sneakin' around corners and  doin' somethin' she shouldn't.”</Entry>
+  <Entry File="uutai1\11a.wav" ID="11" Part="a">“She's always getting into fights.  I guess she takes  after Godo that way.”</Entry>
+  <Entry File="uutai1\11b.wav" ID="11" Part="b">“Like father like daughter…”</Entry>
+  <Entry File="uutai1\12a.wav" ID="12" Part="a">“Two girls just went off towards  Da-chao. I wonder if  that place is popular  with the kids now?”</Entry>
+  <Entry File="uutai1\12b.wav" ID="12" Part="b">“One had herself all tangled up in  a rope. And the other one kind of  looked like Yuffie.”</Entry>
+  <Entry File="uutai1\13a.wav" ID="13" Part="a">“Hm,money?  There's all kinds of money.”</Entry>
+  <Entry File="uutai1\13b.wav" ID="13" Part="b">“This type and that…  Hey now that you mention it,  there was some money over there.”</Entry>
+  <Entry File="uutai1\14a.wav" ID="14" Part="a">“The end is right in front of us…”</Entry>
+  <Entry File="uutai1\14b.wav" ID="14" Part="b">“But what can you do about it?  Just go on living your  life,day in and day out…”</Entry>
+  <Entry File="uutai1\15a.wav" ID="15" Part="a">“Alright,alright,alright!  I know!”</Entry>
+  <Entry File="uutai1\15b.wav" ID="15" Part="b">“On the side of the mountain,right there  in your face is Da-chao!”</Entry>
+  <Entry File="uutai1\15c.wav" ID="15" Part="c">“I hear you can climb to the top,  but since it's dangerous  I'd be mighty careful if I were you!”</Entry>
+  <Entry File="uutai1\16.wav" ID="16">“A girl with Materia?  No,there hasn't been anyone climbing  Da-chao for some time now.”</Entry>
+  <Entry File="uutai1\17.wav" ID="17">“You know I've noticed that there's a   pounding noise from time to time  in this store.”</Entry>
+  <Entry File="uutai1\18.wav" ID="18">“Why Da-chao?  Alright,alright,alright!  I don't know!”</Entry>
+  <Entry File="uutai1\19a.wav" ID="19" Part="a">“Alright,alright,alright!  I saw an old man in flashy clothes running   towards Da-chao!”</Entry>
+  <Entry File="uutai1\19b.wav" ID="19" Part="b">“He was babblin' somethin' and looked  like he was floatin'!  He almost bowled me over!”</Entry>
+  <Entry File="uutai1\20.wav" ID="20">“When that big star bashes into us,  both Wutai and Da-chao are going to  be dust! Can't we do anything?”</Entry>
+  <Entry File="uutai1\22.wav" ID="22">“This is MY house! Nobody gets in!”</Entry>
+  <Entry File="uutai1\23.wav" ID="23">Cloud “You can't get away,Yuffie.”</Entry>
+  <Entry File="uutai1\24.wav" ID="24">Tifa “Give it up,Yuffie!”</Entry>
+  <Entry File="uutai1\25.wav" ID="25">Cid “You lost,Yuffie.”</Entry>
+  <Entry File="uutai1\26a.wav" ID="26" Part="a">Yuffie “O…OK,I know…  I was wrong…”</Entry>
+  <Entry File="uutai1\26b.wav" ID="26" Part="b">“You win.  I'll give you back your Materia…”</Entry>
+  <Entry File="uutai1\27.wav" ID="27">Aeris “I don't think she came out from here…  Is that OK?”</Entry>
+  <Entry File="uutai1\28.wav" ID="28">Barret “Wait,that damn Yuffie's  gotta be somewhere in this  cheap town! You jus' gonna leave?”</Entry>
+  <Entry File="uutai1\29.wav" ID="29">Tifa “Knowing Yuffie,  she's still hidden somewhere in town.  You sure?”</Entry>
+  <Entry File="uutai1\30.wav" ID="30">Red XIII “I know she hasn't left town!  You still want to leave?”</Entry>
+  <Entry File="uutai1\31.wav" ID="31">Cid “You lettin' that damn kid off the hook?  I know she's gotta be   hiding around here somewhere!”</Entry>
+  <Entry File="uutai1\32.wav" ID="32">Vincent “She couldn't have left town…  I think she is must still be here.  Or,do you want to go on?”</Entry>
+  <Entry File="uutai1\34c.wav" ID="34" Part="c">“There's six in all.  If you find them all,  make sure to let the owner of Turtle's  Paradise know. You can win a prize!”</Entry>
+  <Entry File="uutai1\34d.wav" ID="34" Part="d">“All you have to do is read them.  Please don't take them down  or rip them up!!” Owner,Turtle's Paradise</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="uutai1\0.wav" ID="0">Wutai</Entry>
+	<Entry File="uutai1\21.wav" ID="21">[Save Point] Access the menu and select [SAVE] to save your game.</Entry>
+	<Entry File="uutai1\33.wav" ID="33">Pub [Turtle's Paradise] Publicity Flyers! Notice</Entry>
+	<Entry File="uutai1\34a.wav" ID="34" Part="a"> [Turtle's Paradise] is now having a publicity campaign.</Entry>
+	<Entry File="uutai1\34b.wav" ID="34" Part="b">Flyer's will be posted all over the world. So make sure you look for our flyers that say "Turtle's Paradise"</Entry>
+-->
+</VoiceList>

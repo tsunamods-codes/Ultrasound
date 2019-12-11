@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="md8_2\0.wav" ID="0">Flower girl “Excuse me.”</Entry>
+  <Entry File="md8_2\1.wav" ID="1">Flower girl “What happened?” You'd better get out of here Nothing…hey…</Entry>
+  <Entry File="md8_2\2.wav" ID="2">Flower girl “Really?  I don't know what's going on,  but all right.”</Entry>
+  <Entry File="md8_2\3.wav" ID="3">Cloud “…” Don't see many flowers around here Never mind</Entry>
+  <Entry File="md8_2\4.wav" ID="4">Flower girl “What!  Tell me!”</Entry>
+  <Entry File="md8_2\5.wav" ID="5">Flower girl “Oh,these?  Do you like them?  They're only one gil.”</Entry>
+  <Entry File="md8_2\7.wav" ID="7">Flower girl “Uh,excuse me,would you like  to buy some flowers?  They're only one gil.”</Entry>
+  <Entry File="md8_2\8.wav" ID="8">Flower girl “Oh,thank you!”</Entry>
+  <Entry File="md8_2\9.wav" ID="9">Flower girl “Here you are!”</Entry>
+  <Entry File="md8_2\10.wav" ID="10">Flower girl “Ahh…not again.”</Entry>
+  <Entry File="md8_2\11.wav" ID="11">“What an explosion!”</Entry>
+  <Entry File="md8_2\12.wav" ID="12">“Think it's another Mako reactor accident?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="md8_2\6.wav" ID="6">Buy one Forget it</Entry>
+	<Entry File="md8_2\13.wav" ID="13">Sector 8</Entry>
+-->
+</VoiceList>

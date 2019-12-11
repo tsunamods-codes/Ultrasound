@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="coloin1\1.wav" ID="1">“Whenever you come to the Gold Saucer,  I recommend you visit the owner's museum  at least once.”</Entry>
+  <Entry File="coloin1\2.wav" ID="2">“Crap!  I still don't have enough points.”</Entry>
+  <Entry File="coloin1\3.wav" ID="3">“Hmm…”</Entry>
+  <Entry File="coloin1\4.wav" ID="4">“So,uh,how've things been since then?” No sweat They're going</Entry>
+  <Entry File="coloin1\5.wav" ID="5">“Hmm,pretty good.”</Entry>
+  <Entry File="coloin1\6.wav" ID="6">“Ha ha ha!  Well,good luck.”</Entry>
+  <Entry File="coloin1\7.wav" ID="7">“Mmm? You're new here,aren't you?  Then,you want an explanation   of the Battle Arena?”</Entry>
+  <Entry File="coloin1\9a.wav" ID="9" Part="a">“What,you too?  With the way things are in the world,  It makes you wonder  what we're doin' here?”</Entry>
+  <Entry File="coloin1\9b.wav" ID="9" Part="b">“Well,it's a little late for me  to run around now,  so I do what I love,  it works best for me.”</Entry>
+  <Entry File="coloin1\9c.wav" ID="9" Part="c">“Oh,by the way,did you know?  I heard that there's going to be a battle   and only the strongest  will be allowed to participate.”</Entry>
+  <Entry File="coloin1\9d.wav" ID="9" Part="d">“But what do they mean by 'strongest'?  If ya ask me I'll say it's 'weapons.'”</Entry>
+  <Entry File="coloin1\9e.wav" ID="9" Part="e">“But,there's gotta be a way  to measure this,too.  Mmm,we need  another way to measure strength.”</Entry>
+  <Entry File="coloin1\10a.wav" ID="10" Part="a">“You fight here and collect  battle points.    You can then exchange  those points for prizes.”</Entry>
+  <Entry File="coloin1\10b.wav" ID="10" Part="b">“The Battle Game…even though it's a game  you still use all your physical abilities.  To participate,  go to the front and pay yer GP's.”</Entry>
+  <Entry File="coloin1\10c.wav" ID="10" Part="c">“You can fight in up to eight battles.   The more you win,   the more battle points you get.”</Entry>
+  <Entry File="coloin1\10d.wav" ID="10" Part="d">“But,if you lose,  you lose all your points  So it's up to you whether  or not to fight after each win.”</Entry>
+  <Entry File="coloin1\10e.wav" ID="10" Part="e">“They also make  it harder by givin' out handicaps.”</Entry>
+  <Entry File="coloin1\10f.wav" ID="10" Part="f">“They decide what  handicaps there'll be,and  you won't know what  you're up against until the battle.”</Entry>
+  <Entry File="coloin1\10g.wav" ID="10" Part="g">“Oh yeah,once you leave the Battle area,  all your battle points will  become useless. So watch it.”</Entry>
+  <Entry File="coloin1\10h.wav" ID="10" Part="h">“Oh,and one more thing. The maximum  points you could get is 65000,  no more. So if you get that many  you should exchange them for something.”</Entry>
+  <Entry File="coloin1\11.wav" ID="11">“Sir,that entrance is for the  challengers who have already  registered. Please register here.”</Entry>
+  <Entry File="coloin1\12.wav" ID="12">“Um,I'm sorry,that's only for registered  participants. You can't  enter there until  you register.”</Entry>
+  <Entry File="coloin1\13.wav" ID="13">“I'm sorry to announce that  our prizes have changed.   Your previous battle points  are no longer valid.”</Entry>
+  <Entry File="coloin1\14.wav" ID="14">“Welcome. You currently have    battle points.”</Entry>
+  <Entry File="coloin1\15.wav" ID="15">“Would you like to exchange them? Yeah No,thanks</Entry>
+  <Entry File="coloin1\16.wav" ID="16">“Thank you very much.  Please remember,your battle  points become invalid  once you leave the Battle Arena.”</Entry>
+  <Entry File="coloin1\17.wav" ID="17">“Man,I knew I should've stopped.  But it's so hard to stop…”</Entry>
+  <Entry File="coloin1\18.wav" ID="18">“Maybe I could've made it a little further.  It's so hard to know when to stop…”</Entry>
+  <Entry File="coloin1\19.wav" ID="19">“All right,it should be my turn  comin' up here soon.”</Entry>
+  <Entry File="coloin1\20.wav" ID="20">“I'm not going to lose this time!”</Entry>
+  <Entry File="coloin1\21.wav" ID="21">“I'll give that Meteor my ultra kick…  …or…maybe not.”</Entry>
+  <Entry File="coloin1\22a.wav" ID="22" Part="a">“Hey,have you heard?  Something awful happened!”</Entry>
+  <Entry File="coloin1\22b.wav" ID="22" Part="b">“Two staff members and   some Shinra soldiers were shot.”</Entry>
+  <Entry File="coloin1\22c.wav" ID="22" Part="c">“The soldiers died instantly,  but the staff survived.”</Entry>
+  <Entry File="coloin1\23a.wav" ID="23" Part="a">“Those two over there eloped,  saying something about   'Our last moments together---'  I can't bear it.”</Entry>
+  <Entry File="coloin1\23b.wav" ID="23" Part="b">“I don't have anyone special in my life  but when it happens,it happens.”</Entry>
+  <Entry File="coloin1\23c.wav" ID="23" Part="c">“…that's why I'm working now.  Oh,sorry for going off like that…”</Entry>
+  <Entry File="coloin1\24.wav" ID="24">Barret “Dyne…”</Entry>
+  <Entry File="coloin1\25a.wav" ID="25" Part="a">“You know,I've been thinking about it  for a while now,  but you must be pretty strong.”</Entry>
+  <Entry File="coloin1\25b.wav" ID="25" Part="b">“Probably strong enough to take on   the top 1 or 2 fighters?”</Entry>
+  <Entry File="coloin1\25c.wav" ID="25" Part="c">“Maybe you'll be good  enough for the big match…”</Entry>
+  <Entry File="coloin1\25d.wav" ID="25" Part="d"> “How 'bout it? There's a private battle    only for the strongest. Wanna try?” Let's do it Not interested</Entry>
+  <Entry File="coloin1\26.wav" ID="26">“Register for battle?  The entrance fee is 10 GP.” Try the special battle Try the regular battle Not interested</Entry>
+  <Entry File="coloin1\27.wav" ID="27">“Register for battle?   The registration fee is 10 GP.” Let's do it Not interested</Entry>
+  <Entry File="coloin1\28.wav" ID="28">“This is a one-on-one battle.   Which one of you will participate?”</Entry>
+  <Entry File="coloin1\30.wav" ID="30">“You can fight up to eight battles.  But the more battles you fight,  the greater your handicap,  and stronger the monsters will become.”</Entry>
+  <Entry File="coloin1\31.wav" ID="31">“Well,good luck.”</Entry>
+  <Entry File="coloin1\32.wav" ID="32">“Seems like you do not have enough GP.”</Entry>
+  <Entry File="coloin1\35.wav" ID="35">Cloud “Well,I guess I'll enjoy  a few battles.”</Entry>
+  <Entry File="coloin1\36.wav" ID="36">Cloud “All right,I'll show 'em.”</Entry>
+  <Entry File="coloin1\37.wav" ID="37">Barret “I'm gonna bust the place up!”</Entry>
+  <Entry File="coloin1\38.wav" ID="38">Tifa “I'll show 'em with a BANG!”</Entry>
+  <Entry File="coloin1\39.wav" ID="39">Aeris “Let's make this quick.”</Entry>
+  <Entry File="coloin1\40.wav" ID="40">Red XIII “I guess it'll be fun to show off  what I've got.”</Entry>
+  <Entry File="coloin1\41.wav" ID="41">Cid “Let ol' Cid  show ya how it's done!”</Entry>
+  <Entry File="coloin1\42.wav" ID="42">Yuffie “I'll show you my moves!”</Entry>
+  <Entry File="coloin1\43.wav" ID="43">Vincent “Hmph…I'll show them  what real fighting is.”</Entry>
+  <Entry File="coloin1\44.wav" ID="44">Cait Sith “Then,I'm off!”</Entry>
+  <Entry File="coloin1\51.wav" ID="51">“You do not have enough battle points.”</Entry>
+  <Entry File="coloin1\52.wav" ID="52">“We are currently out of this prize.”</Entry>
+  <Entry File="coloin1\71.wav" ID="71">“You cannot take on any more Materia.”</Entry>
+  <Entry File="coloin1\78.wav" ID="78">Aeris “We don't have time for that!?  Let's hurry and go after Cait Sith!”</Entry>
+  <Entry File="coloin1\79.wav" ID="79">Tifa “There's no time to waste.  Let's hurry after Cait Sith!”</Entry>
+  <Entry File="coloin1\80.wav" ID="80">Yuffie “Should we be doing that?  We've got to go after Cait Sith?”</Entry>
+  <Entry File="coloin1\81.wav" ID="81">Barret “Whacha doin!?  We're goin' after Cait Sith!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="coloin1\0.wav" ID="0">Arena Lobby</Entry>
+	<Entry File="coloin1\8.wav" ID="8">Yeah Not interested</Entry>
+	<Entry File="coloin1\29.wav" ID="29">Party1 Party2 Party3</Entry>
+	<Entry File="coloin1\33.wav" ID="33">Gained   Battle Points Total   BP</Entry>
+	<Entry File="coloin1\34.wav" ID="34">Current GP   GP</Entry>
+	<Entry File="coloin1\45.wav" ID="45">Current BP     Next Page  Potion = 80  Phoenix Down = 160  Shrapnel = 320  Ether = 640  Memmet Greens = 1280  Changed my mind</Entry>
+	<Entry File="coloin1\46.wav" ID="46">Current BP     Previous Page  Fury Ring = 2560  Enemy lure = 5120  Pre-Emptive = 10240  Speed Plus = 20480  Championship Belt = 40960  Changed my mind</Entry>
+	<Entry File="coloin1\47.wav" ID="47">Current BP     Next Page  Phoenix Down = 100  Remedy = 200  Memmet Greens = 400  Enemy lure = 800  Bird Wing = 1600  Changed my mind</Entry>
+	<Entry File="coloin1\48.wav" ID="48">Current BP     Previous Page  S-Mine = 3200  Pre-Emptive = 6400  Speed Plus = 12800  Championship Belt = 25600  Omnislash(Limit 1) = 51200  Changed my mind</Entry>
+	<Entry File="coloin1\49.wav" ID="49">Current BP     Next Page  Remedy = 100  Enemy lure = 250  Right Arm = 500  Pre-Emptive = 1000  Regan Greens = 2000  Changed my mind</Entry>
+	<Entry File="coloin1\50.wav" ID="50">Current BP     Previous Page  Speed Plus = 4000  Stardust = 8000  Championship Belt = 16000  Omnislash (Limit 1) = 32000  W-Summon (Limit 1) = 64000  Changed my mind</Entry>
+	<Entry File="coloin1\53.wav" ID="53">Received "Potion"!</Entry>
+	<Entry File="coloin1\54.wav" ID="54">Received "Phoenix Down"!</Entry>
+	<Entry File="coloin1\55.wav" ID="55">Received "Shrapnel"!</Entry>
+	<Entry File="coloin1\56.wav" ID="56">Received "Ether"!</Entry>
+	<Entry File="coloin1\57.wav" ID="57">Received "Memmet Greens"!</Entry>
+	<Entry File="coloin1\58.wav" ID="58">Received "Fury Ring"!</Entry>
+	<Entry File="coloin1\59.wav" ID="59">Received "Enemy lure"!</Entry>
+	<Entry File="coloin1\60.wav" ID="60">Received "Pre-Emptive" Materia!</Entry>
+	<Entry File="coloin1\61.wav" ID="61">Received "Speed Plus" Materia!</Entry>
+	<Entry File="coloin1\62.wav" ID="62">Received "Championship Belt"!</Entry>
+	<Entry File="coloin1\63.wav" ID="63">Received "Remedy"!</Entry>
+	<Entry File="coloin1\64.wav" ID="64">Received "Bird Wing"!</Entry>
+	<Entry File="coloin1\65.wav" ID="65">Received "S-Mine"!</Entry>
+	<Entry File="coloin1\66.wav" ID="66">Received "Omnislash"!</Entry>
+	<Entry File="coloin1\67.wav" ID="67">Received "Right Arm"!</Entry>
+	<Entry File="coloin1\68.wav" ID="68">Received "Regan Greens"!</Entry>
+	<Entry File="coloin1\69.wav" ID="69">Received "Stardust"!</Entry>
+	<Entry File="coloin1\70.wav" ID="70">Received "W-Summon" Materia!</Entry>
+	<Entry File="coloin1\72.wav" ID="72">Consolation Prize Received "Tissue"!</Entry>
+	<Entry File="coloin1\73.wav" ID="73">For winning the Special Battle, Received "Ribbon"!</Entry>
+	<Entry File="coloin1\74.wav" ID="74">For winning the Special Battle, Received "Autograph"!</Entry>
+	<Entry File="coloin1\75.wav" ID="75">For winning the Special Battle, Received "Combat Diary"!</Entry>
+	<Entry File="coloin1\76.wav" ID="76">For winning the Special Battle, Received "Gambler"!</Entry>
+	<Entry File="coloin1\77.wav" ID="77">For winning the Special Battle, Received "Final Attack" Materia!</Entry>
+-->
+</VoiceList>

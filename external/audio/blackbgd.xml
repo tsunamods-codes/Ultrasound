@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blackbgd\0.wav" ID="0">Zack “Yo,gramps!  We at Midgar yet?”</Entry>
+  <Entry File="blackbgd\1.wav" ID="1">“Ah,shaddap!  You're lucky I even gave you a ride!”</Entry>
+  <Entry File="blackbgd\2.wav" ID="2">Zack “Hah!”</Entry>
+  <Entry File="blackbgd\3.wav" ID="3">Zack “What're you gonna do once we get to Midgar?”</Entry>
+  <Entry File="blackbgd\4.wav" ID="4">Cloud “…”</Entry>
+  <Entry File="blackbgd\5.wav" ID="5">Zack “I know what I'm gonna do.”</Entry>
+  <Entry File="blackbgd\6.wav" ID="6">Cloud “…”</Entry>
+  <Entry File="blackbgd\7.wav" ID="7">Zack “I got a place I can crash for a while…  No wait,the mother lives there too…  Guess that's out…”</Entry>
+  <Entry File="blackbgd\8.wav" ID="8">Cloud “…”</Entry>
+  <Entry File="blackbgd\9.wav" ID="9">Zack “Yep…gotta change my plans!”</Entry>
+  <Entry File="blackbgd\10a.wav" ID="10" Part="a">Zack “Hmm…”</Entry>
+  <Entry File="blackbgd\10b.wav" ID="10" Part="b">“No matter what I do,I  need some money first…”</Entry>
+  <Entry File="blackbgd\11.wav" ID="11">Zack “…Hey,wanna start a business?  But what could we do?”</Entry>
+  <Entry File="blackbgd\12.wav" ID="12">Zack “Hey,Cloud.  Think there's anything I'd be good at?”</Entry>
+  <Entry File="blackbgd\13.wav" ID="13">Zack “Hey gramps!  What do you think I'd be good at?”</Entry>
+  <Entry File="blackbgd\14.wav" ID="14">“What're you yappin' about?  You're still young ain't ya?   Young folks should try everything!”</Entry>
+  <Entry File="blackbgd\15.wav" ID="15">“You gotta pay your dues while you're young.  Go out and look for what you really want.”</Entry>
+  <Entry File="blackbgd\16.wav" ID="16">Zack “Yeah,whatever…”</Entry>
+  <Entry File="blackbgd\17.wav" ID="17">Zack “Try everything…  That's easy for him to say…”</Entry>
+  <Entry File="blackbgd\18.wav" ID="18">Cloud “…”</Entry>
+  <Entry File="blackbgd\19.wav" ID="19">Zack “HEY!”</Entry>
+  <Entry File="blackbgd\20a.wav" ID="20" Part="a">Zack “Of course!”</Entry>
+  <Entry File="blackbgd\20b.wav" ID="20" Part="b">“I got a lot of brains and skill that  other guys don't!”</Entry>
+  <Entry File="blackbgd\21.wav" ID="21">Zack “That settles it!”</Entry>
+  <Entry File="blackbgd\22.wav" ID="22">Zack “I'll be a mercenary!”</Entry>
+  <Entry File="blackbgd\23.wav" ID="23">“Hey…didn't you even hear a word I said?”</Entry>
+  <Entry File="blackbgd\24.wav" ID="24">Zack “Yeah! Thanks gramps!”</Entry>
+  <Entry File="blackbgd\25.wav" ID="25">“No,wait…you got it all wrong.”</Entry>
+  <Entry File="blackbgd\26a.wav" ID="26" Part="a">Zack “Listen,I'm gonna become  a mercenary and that's that.”</Entry>
+  <Entry File="blackbgd\26b.wav" ID="26" Part="b">“Boring stuff,dangerous stuff,  anything for money.”</Entry>
+  <Entry File="blackbgd\26c.wav" ID="26" Part="c">“I'm gonna be rich!”</Entry>
+  <Entry File="blackbgd\27.wav" ID="27">Zack “So,Cloud?  What are YOU gonna do?”</Entry>
+  <Entry File="blackbgd\28.wav" ID="28">Cloud “u…uhhh…”</Entry>
+  <Entry File="blackbgd\29.wav" ID="29">Zack “Just kidding…  I won't leave you by yourself.”</Entry>
+  <Entry File="blackbgd\30.wav" ID="30">Cloud “…”</Entry>
+  <Entry File="blackbgd\31.wav" ID="31">Zack “Hey,we're friends,right?”</Entry>
+  <Entry File="blackbgd\32.wav" ID="32">Zack “Ha,ha,ha…knock it off,  you're embarrassin' me!”</Entry>
+  <Entry File="blackbgd\33.wav" ID="33">Zack “Mercenaries,Cloud.  That's what you an' me are gonna be.”</Entry>
+  <Entry File="blackbgd\34.wav" ID="34">Zack “Understand,Cloud?”</Entry>
+</VoiceList>

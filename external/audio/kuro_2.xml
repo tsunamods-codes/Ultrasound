@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="kuro_2\1.wav" ID="1">“Nyum…nyum…”</Entry>
+  <Entry File="kuro_2\2.wav" ID="2">“Nyum,nyum…” Can I buy something? Let me rest I want to save my game Nothing</Entry>
+  <Entry File="kuro_2\3a.wav" ID="3" Part="a">Cloud “This is the Temple of the Ancients.  You won't be able to go back easily.”</Entry>
+  <Entry File="kuro_2\3b.wav" ID="3" Part="b">“Is that all right?” Changed my mind Save</Entry>
+  <Entry File="kuro_2\4.wav" ID="4">“Welcome!”</Entry>
+  <Entry File="kuro_2\5.wav" ID="5">“Please come again!”</Entry>
+  <Entry File="kuro_2\7a.wav" ID="7" Part="a">Aeris “Whew!  We finally caught up to you.”</Entry>
+  <Entry File="kuro_2\7b.wav" ID="7" Part="b">“I'm sorry.  You waited for me.”</Entry>
+  <Entry File="kuro_2\8a.wav" ID="8" Part="a">Aeris “Those are the spirit bodies of the Ancients.”</Entry>
+  <Entry File="kuro_2\8b.wav" ID="8" Part="b">“They've been away from  their Planet for a long time  to protect this Temple.”</Entry>
+  <Entry File="kuro_2\9a.wav" ID="9" Part="a">Aeris “Over the many years,  they've lost the ability to talk.”</Entry>
+  <Entry File="kuro_2\9b.wav" ID="9" Part="b">“Actually,they didn't need words  from the beginning  because there was only one objective  for those left in the Temple.”</Entry>
+  <Entry File="kuro_2\10.wav" ID="10">Aeris “Please,talk to me!”</Entry>
+  <Entry File="kuro_2\11a.wav" ID="11" Part="a">Aeris “No good. I don't understand the rest.  Are you afraid?”</Entry>
+  <Entry File="kuro_2\11b.wav" ID="11" Part="b">“Is it because Sephiroth is in the Temple?  Or something else?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="kuro_2\0.wav" ID="0">Temple of the Ancients</Entry>
+	<Entry File="kuro_2\6.wav" ID="6">HP/MP Restored!</Entry>
+	<Entry File="kuro_2\12.wav" ID="12">Received "Mop"!</Entry>
+	<Entry File="kuro_2\13.wav" ID="13">Received "Silver Rifle"!</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="gidun_2\1a.wav" ID="1" Part="a">Bugenhagen “As you can see,this cave  leads to the back of Cosmo Canyon.”</Entry>
+  <Entry File="gidun_2\1b.wav" ID="1" Part="b">“Even though the Gi outnumbered  us,they could not attack  through here because the  passage is too narrow.”</Entry>
+  <Entry File="gidun_2\2.wav" ID="2">Red XIII “…”</Entry>
+  <Entry File="gidun_2\3.wav" ID="3">Bugenhagen “Let's move on.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="gidun_2\0.wav" ID="0">Cave of the Gi</Entry>
+	<Entry File="gidun_2\4.wav" ID="4">Received "Black M-phone"!</Entry>
+	<Entry File="gidun_2\5.wav" ID="5">Received "Ether"!</Entry>
+-->
+</VoiceList>

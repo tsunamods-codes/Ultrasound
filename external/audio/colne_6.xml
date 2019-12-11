@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="colne_6\1a.wav" ID="1" Part="a">Don Corneo “Woo-hoo!”</Entry>
+  <Entry File="colne_6\1b.wav" ID="1" Part="b">“Come,come,don't   be so shy…”</Entry>
+  <Entry File="colne_6\2a.wav" ID="2" Part="a">Aeris “Ye…yes…”</Entry>
+  <Entry File="colne_6\2b.wav" ID="2" Part="b">“But Mr. Don.  I'd like you to explain  something to me first…”</Entry>
+  <Entry File="colne_6\3.wav" ID="3">Don Corneo “Of course,my dear.  I'll take you through it slowly,  step by step. So come on!”</Entry>
+  <Entry File="colne_6\4a.wav" ID="4" Part="a">Aeris “No,that's not what  I meant!”</Entry>
+  <Entry File="colne_6\4b.wav" ID="4" Part="b">“NO,STOP!  Just,just wait a second!!”</Entry>
+  <Entry File="colne_6\5a.wav" ID="5" Part="a">Don Corneo “Come! Come!”</Entry>
+  <Entry File="colne_6\5b.wav" ID="5" Part="b">“Aoooooooh!!  I can't wait any longer!  Here comes Papa!!”</Entry>
+  <Entry File="colne_6\6.wav" ID="6">Aeris “Cloud!!”</Entry>
+  <Entry File="colne_6\7a.wav" ID="7" Part="a">Tifa “I know…”</Entry>
+  <Entry File="colne_6\7b.wav" ID="7" Part="b">“But you know,Don Corneo,  I'd like you to explain  something before we start…”</Entry>
+  <Entry File="colne_6\8a.wav" ID="8" Part="a">Don Corneo “Hm? Oh,you mean about THAT?”</Entry>
+  <Entry File="colne_6\8b.wav" ID="8" Part="b">“Don't worry.  I'm single.  There,feel better now?”</Entry>
+  <Entry File="colne_6\9a.wav" ID="9" Part="a">Tifa “No…I wasn't asking about that…”</Entry>
+  <Entry File="colne_6\9b.wav" ID="9" Part="b">“Wait a minute!  No,not yet!!”</Entry>
+  <Entry File="colne_6\10.wav" ID="10">Tifa “Cloud!!”</Entry>
+  <Entry File="colne_6\11.wav" ID="11">Don Corneo “…What the hell?  Who's there?”</Entry>
+  <Entry File="colne_6\12.wav" ID="12">Aeris “I'm sorry,  Don.”</Entry>
+  <Entry File="colne_6\13.wav" ID="13">Tifa “You still don't get it do you,  Don Corneo?”</Entry>
+  <Entry File="colne_6\14.wav" ID="14">Don Corneo “What?”</Entry>
+  <Entry File="colne_6\15.wav" ID="15">Tifa “Shut up,  we're asking the questions now…”</Entry>
+  <Entry File="colne_6\16.wav" ID="16">Tifa “What did your assistants find out?  Talk! If you don't tell us…”</Entry>
+  <Entry File="colne_6\17.wav" ID="17">Cloud “…I'll chop it off.”</Entry>
+  <Entry File="colne_6\18.wav" ID="18">Don Corneo “No! Not that!  I'll talk! I'll tell you everything!”</Entry>
+  <Entry File="colne_6\19.wav" ID="19">Tifa “So…talk.”</Entry>
+  <Entry File="colne_6\20.wav" ID="20">Don Corneo “…I made 'em find out where  the man with the gun-arm was.  But that's what I was ordered to do.”</Entry>
+  <Entry File="colne_6\21.wav" ID="21">Tifa “By whom?”</Entry>
+  <Entry File="colne_6\22.wav" ID="22">Don Corneo “No--!  If I told you that,I'd be killed!”</Entry>
+  <Entry File="colne_6\23.wav" ID="23">Tifa “Talk! If you don't tell us…”</Entry>
+  <Entry File="colne_6\24.wav" ID="24">Aeris “…I'll rip it off.”</Entry>
+  <Entry File="colne_6\25a.wav" ID="25" Part="a">Don Corneo “Waaaaaaaaaaah--!  It was Heidegger of Shinra!”</Entry>
+  <Entry File="colne_6\25b.wav" ID="25" Part="b">“Heidegger,the head of  Peace Preservation!”</Entry>
+  <Entry File="colne_6\26.wav" ID="26">Cloud “The head of Peace Preservation!?”</Entry>
+  <Entry File="colne_6\27a.wav" ID="27" Part="a">Tifa “Did you say the Shinra!?  What are they up to!? Talk!”</Entry>
+  <Entry File="colne_6\27b.wav" ID="27" Part="b">“If you don't tell us…”</Entry>
+  <Entry File="colne_6\28.wav" ID="28">Tifa “…I'll smash it.”</Entry>
+  <Entry File="colne_6\29a.wav" ID="29" Part="a">Don Corneo “…You're serious,aren't you…  …ohboy,ohbooy,ohboy.”</Entry>
+  <Entry File="colne_6\29b.wav" ID="29" Part="b">“…I'm not fooling around  here either,you know.”</Entry>
+  <Entry File="colne_6\30.wav" ID="30">Don Corneo “Shinra's trying to crush a   small rebel group called AVALANCHE,  and want to infiltrate their hideout.”</Entry>
+  <Entry File="colne_6\31a.wav" ID="31" Part="a">Don Corneo “And they're really going  to crush them…literally.”</Entry>
+  <Entry File="colne_6\31b.wav" ID="31" Part="b">“By breaking the supports  holding up the plate above them.”</Entry>
+  <Entry File="colne_6\32.wav" ID="32">Tifa “Break the supports!?”</Entry>
+  <Entry File="colne_6\33a.wav" ID="33" Part="a">Don Corneo “You know what's going to happen?  The plate'll go PING”</Entry>
+  <Entry File="colne_6\33b.wav" ID="33" Part="b">“and everything's gonna go BAMMM!!  I heard their hideout's in  the Sector 7 Slums…”</Entry>
+  <Entry File="colne_6\33c.wav" ID="33" Part="c">“I'm just glad it's not here  in Sector 6.”</Entry>
+  <Entry File="colne_6\34.wav" ID="34">Tifa “They're going to wipe  out the Sector 7 Slums!?”</Entry>
+  <Entry File="colne_6\35.wav" ID="35">Tifa “Cloud,will you come with   me to Sector 7?”</Entry>
+  <Entry File="colne_6\36.wav" ID="36">Cloud “Of course,  Tifa.”</Entry>
+  <Entry File="colne_6\37.wav" ID="37">Don Corneo “Just a second!”</Entry>
+  <Entry File="colne_6\38.wav" ID="38">Cloud “Shut up!”</Entry>
+  <Entry File="colne_6\39a.wav" ID="39" Part="a">Don Corneo “No wait,it'll only take a second.”</Entry>
+  <Entry File="colne_6\39b.wav" ID="39" Part="b">“Why do you think scum like me  babbled on about the truth?”</Entry>
+  <Entry File="colne_6\40.wav" ID="40">Don Corneo “Buuzzzzz! Wrong!”</Entry>
+  <Entry File="colne_6\41.wav" ID="41">Don Corneo “Woo-hoo!  Right!”</Entry>
+  <Entry File="colne_6\42.wav" ID="42">Don Corneo “Close,but no cigar!”</Entry>
+  <Entry File="colne_6\43a.wav" ID="43" Part="a">Don Corneo “Ahh,we're finally alone…”</Entry>
+  <Entry File="colne_6\43b.wav" ID="43" Part="b">“All right,pussycat…  Come to daddy!!”</Entry>
+  <Entry File="colne_6\44a.wav" ID="44" Part="a">Don Corneo “You're so cute,I never  get tired of looking at you.”</Entry>
+  <Entry File="colne_6\44b.wav" ID="44" Part="b">“Do you…like me,too?” Of course! Umm…</Entry>
+  <Entry File="colne_6\45a.wav" ID="45" Part="a">Don Corneo “You sure do know how to make a guy  feel good!”</Entry>
+  <Entry File="colne_6\45b.wav" ID="45" Part="b">“Then,wh…what do you want to DO?” Whatever YOU want,daddy I don't care…</Entry>
+  <Entry File="colne_6\46.wav" ID="46">Don Corneo “Oh man!  I can't stand it!  All right,then…”</Entry>
+  <Entry File="colne_6\47.wav" ID="47">“Give me a kiss!! A KISS!!” All right… Nope,can't do that…</Entry>
+  <Entry File="colne_6\48.wav" ID="48">Don Corneo “Why?  WHY? WHY?”</Entry>
+  <Entry File="colne_6\49.wav" ID="49">Cloud “Because…”</Entry>
+  <Entry File="colne_6\50.wav" ID="50">Cloud “Because I'm gonna need  that mouth of yours to  give me some information!!”</Entry>
+  <Entry File="colne_6\51a.wav" ID="51" Part="a">Don Corneo “A man!?  You tricked me!!”</Entry>
+  <Entry File="colne_6\51b.wav" ID="51" Part="b">“Somebody get in here NOW!!”</Entry>
+  <Entry File="colne_6\52.wav" ID="52">Don Corneo “A man!?  What's goin' on?”</Entry>
+  <Entry File="colne_6\53.wav" ID="53">“Unfortunately,  no one'll be comin' to help.”</Entry>
+  <Entry File="colne_6\54.wav" ID="54">“You're the ones from before!  Wh…what the hell's going on?”</Entry>
+  <Entry File="colne_6\55.wav" ID="55">“Ju---st a minute!!”</Entry>
+  <Entry File="colne_6\56a.wav" ID="56" Part="a">Tifa “Cloud…”</Entry>
+  <Entry File="colne_6\56b.wav" ID="56" Part="b">“Were you really…?”</Entry>
+  <Entry File="colne_6\57.wav" ID="57">“Information? What information?”</Entry>
+  <Entry File="colne_6\58.wav" ID="58">“Th…then why?”</Entry>
+  <Entry File="colne_6\59a.wav" ID="59" Part="a">Don Corneo “You don't like me?”</Entry>
+  <Entry File="colne_6\59b.wav" ID="59" Part="b">“There…there isn't someone else,is there?” No,only you Yes,his name's Barret…</Entry>
+  <Entry File="colne_6\60a.wav" ID="60" Part="a">Don Corneo “No way!”</Entry>
+  <Entry File="colne_6\60b.wav" ID="60" Part="b">“Hmm? Barret?  That sounds familiar…”</Entry>
+  <Entry File="colne_6\61.wav" ID="61">Cloud “You know,he's one of the ones   you were trying to find out about.  You know,AVALANCHE…?”</Entry>
+  <Entry File="colne_6\62.wav" ID="62">Don Corneo “Oh,yeah,yeah.  In Sector 7,in the slums.”</Entry>
+  <Entry File="colne_6\63.wav" ID="63">Don Corneo “…and how do YOU  know that!?”</Entry>
+  <Entry File="colne_6\64a.wav" ID="64" Part="a">Don Corneo “Woo-hoo!”</Entry>
+  <Entry File="colne_6\64b.wav" ID="64" Part="b">“Don't be shy.  We're all alone now…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="colne_6\0.wav" ID="0">Corneo Hall,2f.</Entry>
+	<Entry File="colne_6\39c.wav" ID="39" Part="c">Because I've given up on life Because I'm sure I'll win Because I'm clueless</Entry>
+	<Entry File="colne_6\65.wav" ID="65">Received "Hyper"!</Entry>
+-->
+</VoiceList>

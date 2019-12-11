@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds7st2\1.wav" ID="1">Cloud “Aeris,  I got you mixed up in this…”</Entry>
+  <Entry File="mds7st2\2.wav" ID="2">Aeris “Don't tell me to go home.”</Entry>
+  <Entry File="mds7st2\3.wav" ID="3">Tifa “If we can just get past  the trains that are lit up,  we should be able to get out of here.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds7st2\0.wav" ID="0">Train Graveyard</Entry>
+	<Entry File="mds7st2\4.wav" ID="4">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="mds7st2\5.wav" ID="5">Received "Hi-Potion"!</Entry>
+	<Entry File="mds7st2\6.wav" ID="6">Received "Ether"!</Entry>
+	<Entry File="mds7st2\7.wav" ID="7">Received "Potion"!</Entry>
+	<Entry File="mds7st2\8.wav" ID="8">Received "Echo Screen"!</Entry>
+-->
+</VoiceList>

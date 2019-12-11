@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="holu_2\1.wav" ID="1">“Now,this is a surprise!!”</Entry>
+  <Entry File="holu_2\2.wav" ID="2">“It's been years since I last  saw anyone up here.”</Entry>
+  <Entry File="holu_2\3a.wav" ID="3" Part="a">“Oh,I'm sorry,my name is Holzoff.  I've lived here for 20 years.”</Entry>
+  <Entry File="holu_2\3b.wav" ID="3" Part="b">“Do you mind hearing some  stories from a lonely climber?”</Entry>
+  <Entry File="holu_2\4.wav" ID="4">“Why don't we go to the next room  and sit down.”</Entry>
+  <Entry File="holu_2\5a.wav" ID="5" Part="a">“To climb this cliff,  you must check your route”</Entry>
+  <Entry File="holu_2\5b.wav" ID="5" Part="b">“…And you have to keep  your body temperature normal.  Don't forget these 2 things.”</Entry>
+  <Entry File="holu_2\6.wav" ID="6">“Like to rest a little?” Oh yeah No,thanks</Entry>
+  <Entry File="holu_2\7.wav" ID="7">“Don't overdo it.”</Entry>
+  <Entry File="holu_2\8.wav" ID="8">“You awake?”</Entry>
+  <Entry File="holu_2\9.wav" ID="9">“You collapsed at the Great Glacier.  It's a miracle you're alive.”</Entry>
+  <Entry File="holu_2\10a.wav" ID="10" Part="a">“My name is Holzoff.  I've been living here 20 years now.”</Entry>
+  <Entry File="holu_2\10b.wav" ID="10" Part="b">“If you are planning to head north,  you'd better listen to me.”</Entry>
+  <Entry File="holu_2\11a.wav" ID="11" Part="a">“It's dangerous past the cliff  because of the Barrier!”</Entry>
+  <Entry File="holu_2\11b.wav" ID="11" Part="b">“It's better  not to go anywhere near it!!”</Entry>
+  <Entry File="holu_2\12.wav" ID="12">“You shouldn't go near the cliff unprepared,  it's dangerous!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="holu_2\0.wav" ID="0">Base of Gaea's Cliff</Entry>
+	<Entry File="holu_2\13.wav" ID="13">[OK] Confirm route. [SWITCH] Push repeatedly to  raise body temperature.</Entry>
+-->
+</VoiceList>

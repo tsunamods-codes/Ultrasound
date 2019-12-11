@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="gldelev\0a.wav" ID="0" Part="a">Ester “Hmm,so that's what happened.  I'll talk to Dio directly.  You just concentrate on the race.”</Entry>
+  <Entry File="gldelev\0b.wav" ID="0" Part="b">“Oh yeah,getting back to the other thing,  there are many different  types of Chocobo jockeys.  It's not only for criminals.”</Entry>
+  <Entry File="gldelev\0c.wav" ID="0" Part="c">“Some people compete for the fame,  some people compete for the money,  some only for glory…  And then there're people like you.”</Entry>
+  <Entry File="gldelev\0d.wav" ID="0" Part="d">“Oh yeah,  I'll teach you how to  ride a Chocobo.”</Entry>
+  <Entry File="gldelev\2a.wav" ID="2" Part="a">Ester “Ummm…  First use [ASSIST]  to choose either AUTO or MANUAL.”</Entry>
+  <Entry File="gldelev\2b.wav" ID="2" Part="b">“This lets you control the Chocobo  yourself or lets it run on its own.”</Entry>
+  <Entry File="gldelev\2c.wav" ID="2" Part="c">“But it's pretty hard to make the   Chocobo run the way you want it to.  If the Chocobo doesn't like you,  it won't listen.”</Entry>
+  <Entry File="gldelev\2d.wav" ID="2" Part="d">“Then,you're stuck…”</Entry>
+  <Entry File="gldelev\2e.wav" ID="2" Part="e">“But,most of the Chocobos  I have are mellow  and you should be able to  handle them.”</Entry>
+  <Entry File="gldelev\2f.wav" ID="2" Part="f">“When you're riding,  use [SWITCH] to Speed Up  and [CANCEL] to Slow Down.”</Entry>
+  <Entry File="gldelev\2g.wav" ID="2" Part="g">“But,if you go faster than  the Chocobo can handle,it will  quickly lose its stamina.”</Entry>
+  <Entry File="gldelev\2h.wav" ID="2" Part="h">“Use the Directional button to  move the Chocobo left and right,  use [OK]  to get a boost of speed.”</Entry>
+  <Entry File="gldelev\2i.wav" ID="2" Part="i">“But this makes your stamina  run out faster.”</Entry>
+  <Entry File="gldelev\2j.wav" ID="2" Part="j">“Some Chocobos are bad-tempered  and can't pace themselves.  They'll lose their  stamina quickly.”</Entry>
+  <Entry File="gldelev\2k.wav" ID="2" Part="k">“Those Chocobos should be  set on Manual  to slow them down.”</Entry>
+  <Entry File="gldelev\2l.wav" ID="2" Part="l">“Finally,some advice  for the restless. Once  the first and second Chocobo  cross the goal line,”</Entry>
+  <Entry File="gldelev\2m.wav" ID="2" Part="m">“push [START]  to end the race.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="gldelev\1.wav" ID="1">All right Not interested</Entry>
+-->
+</VoiceList>

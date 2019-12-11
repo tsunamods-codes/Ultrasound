@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jail3\1.wav" ID="1">“If you get lost in the desert,  just keep going Northeast.  If you're lucky,you'll make it back here.”</Entry>
+  <Entry File="jail3\2.wav" ID="2">“Man,the Boss was REALLY  in a bad mood today…  Or was it one of his better days?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jail3\0.wav" ID="0">Corel Prison</Entry>
+-->
+</VoiceList>

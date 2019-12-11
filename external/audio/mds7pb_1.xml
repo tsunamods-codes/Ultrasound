@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds7pb_1\1.wav" ID="1">“Papa!!”</Entry>
+  <Entry File="mds7pb_1\2.wav" ID="2">“Marlene!  Aren't you going to say anything  to Cloud?”</Entry>
+  <Entry File="mds7pb_1\3.wav" ID="3">“Welcome home,Cloud.  Looks like everything went well.”</Entry>
+  <Entry File="mds7pb_1\4.wav" ID="4">“Did you fight with Barret?” Yeah Not this time</Entry>
+  <Entry File="mds7pb_1\5a.wav" ID="5" Part="a">“I should have known.”</Entry>
+  <Entry File="mds7pb_1\5b.wav" ID="5" Part="b">“He's always pushing people around,  and you've always been in fights  ever since you were little.”</Entry>
+  <Entry File="mds7pb_1\5c.wav" ID="5" Part="c">“I was worried.”</Entry>
+  <Entry File="mds7pb_1\6a.wav" ID="6" Part="a">“Hmm.  You've grown up.”</Entry>
+  <Entry File="mds7pb_1\6b.wav" ID="6" Part="b">“When you were little you used to get into  fights at the drop of a hat.”</Entry>
+  <Entry File="mds7pb_1\7.wav" ID="7">“Enter name”</Entry>
+  <Entry File="mds7pb_1\8a.wav" ID="8" Part="a">Tifa “Flowers?  How nice…”</Entry>
+  <Entry File="mds7pb_1\8b.wav" ID="8" Part="b">“You almost never see them  here in the slums.”</Entry>
+  <Entry File="mds7pb_1\9a.wav" ID="9" Part="a">Tifa “But…”</Entry>
+  <Entry File="mds7pb_1\9b.wav" ID="9" Part="b">“A flower for me?  Oh Cloud,you shouldn't have…”</Entry>
+  <Entry File="mds7pb_1\10.wav" ID="10">Cloud “…” Give it to Tifa Give it to Marlene</Entry>
+  <Entry File="mds7pb_1\11.wav" ID="11">Tifa “Thank you,Cloud.  It smells wonderful.”</Entry>
+  <Entry File="mds7pb_1\12.wav" ID="12">“Maybe I should fill the store  with flowers.”</Entry>
+  <Entry File="mds7pb_1\14.wav" ID="14">Marlene “Papa,welcome home!”</Entry>
+  <Entry File="mds7pb_1\15.wav" ID="15">Tifa “You all right,Barret?”</Entry>
+  <Entry File="mds7pb_1\16.wav" ID="16">Barret “Great!!”</Entry>
+  <Entry File="mds7pb_1\17.wav" ID="17">Barret “Get in here,fools!!  We're startin' the meetin'!!”</Entry>
+  <Entry File="mds7pb_1\19.wav" ID="19">Tifa “Everyone is down below.”</Entry>
+  <Entry File="mds7pb_1\20.wav" ID="20">Barret “Yeah.”</Entry>
+  <Entry File="mds7pb_1\21.wav" ID="21">Barret “Huh?  Where'd you get that flower?”</Entry>
+  <Entry File="mds7pb_1\22.wav" ID="22">Marlene “Cloud gave it to me.”</Entry>
+  <Entry File="mds7pb_1\23.wav" ID="23">Barret “Oh…”</Entry>
+  <Entry File="mds7pb_1\24.wav" ID="24">Barret “Did you thank him?”</Entry>
+  <Entry File="mds7pb_1\25.wav" ID="25">“…”</Entry>
+  <Entry File="mds7pb_1\26a.wav" ID="26" Part="a">Marlene “Thank you,Cloud.”</Entry>
+  <Entry File="mds7pb_1\26b.wav" ID="26" Part="b">“We'll take care of you.”</Entry>
+  <Entry File="mds7pb_1\27.wav" ID="27">Tifa “Cloud…  come over here.”</Entry>
+  <Entry File="mds7pb_1\28.wav" ID="28">Tifa “Sit down.”</Entry>
+  <Entry File="mds7pb_1\29a.wav" ID="29" Part="a">Tifa “How about…”</Entry>
+  <Entry File="mds7pb_1\29b.wav" ID="29" Part="b">“…something to drink?” I don't feel like it Give me something hard</Entry>
+  <Entry File="mds7pb_1\30a.wav" ID="30" Part="a">Tifa “OHH!!”</Entry>
+  <Entry File="mds7pb_1\30b.wav" ID="30" Part="b">“I can make a drink just  as good as anyone else.”</Entry>
+  <Entry File="mds7pb_1\30c.wav" ID="30" Part="c">“Everyone says my drinks taste the best!”</Entry>
+  <Entry File="mds7pb_1\31.wav" ID="31">Tifa “Just a minute.   I'll make one for you.”</Entry>
+  <Entry File="mds7pb_1\32.wav" ID="32">Tifa “You know,I'm relieved you made it back  safely.”</Entry>
+  <Entry File="mds7pb_1\33.wav" ID="33">Cloud “What's with you all of a sudden?  That job wasn't even tough.”</Entry>
+  <Entry File="mds7pb_1\34a.wav" ID="34" Part="a">Tifa “I guess not…”</Entry>
+  <Entry File="mds7pb_1\34b.wav" ID="34" Part="b">“You were in SOLDIER.”</Entry>
+  <Entry File="mds7pb_1\35.wav" ID="35">Tifa “Make sure you get your pay  from Barret.”</Entry>
+  <Entry File="mds7pb_1\36.wav" ID="36">Cloud “Don't worry.  Once I get that money,I'm outta here.”</Entry>
+  <Entry File="mds7pb_1\37.wav" ID="37">Tifa “Cloud.  Are you feeling all right?”</Entry>
+  <Entry File="mds7pb_1\38.wav" ID="38">Cloud “…Yeah…  Why?”</Entry>
+  <Entry File="mds7pb_1\39.wav" ID="39">Tifa “No reason.  You just look a little tired I guess.”</Entry>
+  <Entry File="mds7pb_1\40.wav" ID="40">Tifa “You'd better go down below.”</Entry>
+  <Entry File="mds7pb_1\41.wav" ID="41">Tifa “Listen,Cloud. I'm asking you.  Please join us.”</Entry>
+  <Entry File="mds7pb_1\42.wav" ID="42">Cloud “Sorry Tifa…”</Entry>
+  <Entry File="mds7pb_1\43a.wav" ID="43" Part="a">Tifa “The Planet is dying.  Slowly but surely,it's dying.”</Entry>
+  <Entry File="mds7pb_1\43b.wav" ID="43" Part="b">“Someone has to do something.”</Entry>
+  <Entry File="mds7pb_1\44a.wav" ID="44" Part="a">Cloud “So let Barret and his buddies  do something about it.”</Entry>
+  <Entry File="mds7pb_1\44b.wav" ID="44" Part="b">“It's got nothin' to do with me.”</Entry>
+  <Entry File="mds7pb_1\45.wav" ID="45">Barret “You damn right we'll do something about it.  N' you stay outta this Tifa!”</Entry>
+  <Entry File="mds7pb_1\46.wav" ID="46">President Shinra “The terrorist group called AVALANCHE  has claimed responsibility for today's bombing  of the No. 1 Mako Reactor.”</Entry>
+  <Entry File="mds7pb_1\47.wav" ID="47">“It is also predicted  that they will continue with similar terrorist   activities in the future.”</Entry>
+  <Entry File="mds7pb_1\48a.wav" ID="48" Part="a">“But I want the citizens of Midgar to be assured.”</Entry>
+  <Entry File="mds7pb_1\48b.wav" ID="48" Part="b">“Shinra,Inc. has mobilized SOLDIER to protect  you from any violence and thereby…”</Entry>
+  <Entry File="mds7pb_1\49a.wav" ID="49" Part="a">Tifa “Will you please come back?  Ah,wait. Please wait.”</Entry>
+  <Entry File="mds7pb_1\49b.wav" ID="49" Part="b">“The president of Shinra  is going to read a statement.”</Entry>
+  <Entry File="mds7pb_1\50.wav" ID="50">Tifa “The next time we'll be up against…SOLDIER.”</Entry>
+  <Entry File="mds7pb_1\51.wav" ID="51">Tifa “Cloud,then you'll help us?” A promise is a promise But I still hate Barret</Entry>
+  <Entry File="mds7pb_1\52.wav" ID="52">Tifa “I hate Barret.”</Entry>
+  <Entry File="mds7pb_1\53.wav" ID="53">Tifa “You came to tell me that?”</Entry>
+  <Entry File="mds7pb_1\54.wav" ID="54">Tifa “He's not a bad person.”</Entry>
+  <Entry File="mds7pb_1\55.wav" ID="55">Tifa “Don't worry.  I'll talk to him.”</Entry>
+  <Entry File="mds7pb_1\56.wav" ID="56">Tifa “Come on. Let's go below!”</Entry>
+  <Entry File="mds7pb_1\57a.wav" ID="57" Part="a">Tifa “Good Morning! Cloud!”</Entry>
+  <Entry File="mds7pb_1\57b.wav" ID="57" Part="b">“Did you sleep well?” Barret's snoring kept me up…. Next to you,who wouldn't?</Entry>
+  <Entry File="mds7pb_1\58a.wav" ID="58" Part="a">Tifa “…psst…”</Entry>
+  <Entry File="mds7pb_1\58b.wav" ID="58" Part="b">“(keep it down,they'll hear you.  Barret's always edgy  before an operation.)”</Entry>
+  <Entry File="mds7pb_1\59.wav" ID="59">Tifa “I don't know what you mean.”</Entry>
+  <Entry File="mds7pb_1\60.wav" ID="60">Tifa “I'm going this time.”</Entry>
+  <Entry File="mds7pb_1\61.wav" ID="61">Tifa “Marlene,  you watch the store while we're gone!”</Entry>
+  <Entry File="mds7pb_1\62.wav" ID="62">Marlene “All right!!  Good Luck.”</Entry>
+  <Entry File="mds7pb_1\63.wav" ID="63">Marlene “Take care!”</Entry>
+  <Entry File="mds7pb_1\64.wav" ID="64">Tifa “Sorry,Cloud.  Marlene seems a little shy.”</Entry>
+  <Entry File="mds7pb_1\65.wav" ID="65">Marlene “…”</Entry>
+  <Entry File="mds7pb_1\66.wav" ID="66">Tifa “Please Cloud…”</Entry>
+  <Entry File="mds7pb_1\67.wav" ID="67">Tifa “Cloud…  I can't believe this is goodbye.”</Entry>
+  <Entry File="mds7pb_1\68.wav" ID="68">Barret “There's your money.  Now get the hell out!!”</Entry>
+  <Entry File="mds7pb_1\69.wav" ID="69">Biggs “Aaah!!  Nothin' like that first drink after a job.”</Entry>
+  <Entry File="mds7pb_1\70a.wav" ID="70" Part="a">Biggs “Hic!!”</Entry>
+  <Entry File="mds7pb_1\70b.wav" ID="70" Part="b">“Why don't you have one too?” No Yeah,why not?</Entry>
+  <Entry File="mds7pb_1\71a.wav" ID="71" Part="a">Biggs “Oh!!  That's more like it!!”</Entry>
+  <Entry File="mds7pb_1\71b.wav" ID="71" Part="b">“Even if you were with SOLDIER,  you're still a rookie here.  So you'd better listen to whatever I tell ya!”</Entry>
+  <Entry File="mds7pb_1\72a.wav" ID="72" Part="a">“What!? You tellin' me  you're too good to drink with me?”</Entry>
+  <Entry File="mds7pb_1\72b.wav" ID="72" Part="b">“Don't act big-headed jus' because you were  in SOLDIER!”</Entry>
+  <Entry File="mds7pb_1\73a.wav" ID="73" Part="a">Biggs “Hic!!”</Entry>
+  <Entry File="mds7pb_1\73b.wav" ID="73" Part="b">“Oh…  don't tell Barret what I jus' said.”</Entry>
+  <Entry File="mds7pb_1\74a.wav" ID="74" Part="a">Wedge “Oh,Cloud!”</Entry>
+  <Entry File="mds7pb_1\74b.wav" ID="74" Part="b">“Tifa really knows how to cook.  Mmm…”</Entry>
+  <Entry File="mds7pb_1\74c.wav" ID="74" Part="c">“Anyway,let me tell you somethin'.” About what? I'm not interested in your stories</Entry>
+  <Entry File="mds7pb_1\75a.wav" ID="75" Part="a">“Tifa always lets me  taste her cooking.”</Entry>
+  <Entry File="mds7pb_1\75b.wav" ID="75" Part="b">“And look at me now,I'm rolly-polly.”</Entry>
+  <Entry File="mds7pb_1\75c.wav" ID="75" Part="c">“Don't know whether I should be happy or sad.  But it's the good food and drinks that make   this shop famous.”</Entry>
+  <Entry File="mds7pb_1\76.wav" ID="76">“Oh well…  forget it then.”</Entry>
+  <Entry File="mds7pb_1\77a.wav" ID="77" Part="a">Jessie “Hey Wedge,  you're getting all excited.”</Entry>
+  <Entry File="mds7pb_1\77b.wav" ID="77" Part="b">“Stop making such a mess!”</Entry>
+  <Entry File="mds7pb_1\78a.wav" ID="78" Part="a">Biggs “You know,Cloud.  Barret says those things,but…”</Entry>
+  <Entry File="mds7pb_1\78b.wav" ID="78" Part="b">“We're really unstable right now.  If SOLDIER were to show up,they'd whoop us.”</Entry>
+  <Entry File="mds7pb_1\79.wav" ID="79">Wedge “Cloud,ya gotta help us.  I'm really scared.”</Entry>
+  <Entry File="mds7pb_1\80a.wav" ID="80" Part="a">Jessie “Cloud….  It's painful.”</Entry>
+  <Entry File="mds7pb_1\80b.wav" ID="80" Part="b">“Why is that?”</Entry>
+  <Entry File="mds7pb_1\81.wav" ID="81">Cloud “What's goin' on?  It's really shakin' a lot…”</Entry>
+  <Entry File="mds7pb_1\82.wav" ID="82">Cloud “Tifa? Tifa?  Where?</Entry>
+  <Entry File="mds7pb_1\85.wav" ID="85">Tifa “So!  You're really leaving!?”</Entry>
+  <Entry File="mds7pb_1\86.wav" ID="86">Tifa “You're just going to walk right out   ignoring your childhood friend!?”</Entry>
+  <Entry File="mds7pb_1\87.wav" ID="87">Cloud “What?” How can you say that! …Sorry</Entry>
+  <Entry File="mds7pb_1\88.wav" ID="88">Tifa “….You forgot the promise,too.”</Entry>
+  <Entry File="mds7pb_1\89.wav" ID="89">Cloud “Promise?”</Entry>
+  <Entry File="mds7pb_1\90.wav" ID="90">Tifa “So you DID forget.”</Entry>
+  <Entry File="mds7pb_1\91.wav" ID="91">Tifa “Remember? Cloud,  it was seven years ago…”</Entry>
+  <Entry File="mds7pb_1\92.wav" ID="92">Tifa “You remember now,don't you?  Our promise?”</Entry>
+  <Entry File="mds7pb_1\93.wav" ID="93">Cloud “I'm not a hero and I'm not famous.  So I can't keep our promise.”</Entry>
+  <Entry File="mds7pb_1\94.wav" ID="94">Tifa “But you got your childhood dream,didn't you?  You joined SOLDIER.”</Entry>
+  <Entry File="mds7pb_1\95.wav" ID="95">Tifa “So come on!  You've got to keep your promise…”</Entry>
+  <Entry File="mds7pb_1\96.wav" ID="96">Barret “Wait a sec big-time SOLDIER!”</Entry>
+  <Entry File="mds7pb_1\97.wav" ID="97">Cloud “This is my pay?  Don't make me laugh.”</Entry>
+  <Entry File="mds7pb_1\98.wav" ID="98">Tifa “What? Then you'll…”</Entry>
+  <Entry File="mds7pb_1\99.wav" ID="99">Cloud “You got the next mission lined up?  I'll do it for 3000.”</Entry>
+  <Entry File="mds7pb_1\100.wav" ID="100">Barret “What!?”</Entry>
+  <Entry File="mds7pb_1\101.wav" ID="101">Tifa “It's OK,it's OK.”</Entry>
+  <Entry File="mds7pb_1\102.wav" ID="102">Tifa “…psst….  (We're really hurting for help,right?)”</Entry>
+  <Entry File="mds7pb_1\103.wav" ID="103">Barret “Uh….ugh….  (That money's for Marlene's schoolin'….)”</Entry>
+  <Entry File="mds7pb_1\104.wav" ID="104">Barret “2000!”</Entry>
+  <Entry File="mds7pb_1\105.wav" ID="105">Tifa “Thanks,Cloud.”</Entry>
+  <Entry File="mds7pb_1\106a.wav" ID="106" Part="a">Barret “Our target's the Sector 5 Reactor.  Head for the station first.”</Entry>
+  <Entry File="mds7pb_1\106b.wav" ID="106" Part="b">“I'll fill you in on the train.”</Entry>
+  <Entry File="mds7pb_1\107a.wav" ID="107" Part="a">Barret “Yo,Cloud.”</Entry>
+  <Entry File="mds7pb_1\107b.wav" ID="107" Part="b">“Got a message from the old man  at the weapon shop upstairs!”</Entry>
+  <Entry File="mds7pb_1\107c.wav" ID="107" Part="c">“Said he's got somethin' special  so come and get it!”</Entry>
+  <Entry File="mds7pb_1\107d.wav" ID="107" Part="d">“Yo! If you pull somethin' funny…  you now what I'll do to ya,right?”</Entry>
+  <Entry File="mds7pb_1\108.wav" ID="108">Barret “Whoa,wait a damn minute.  Cloud!!”</Entry>
+  <Entry File="mds7pb_1\109.wav" ID="109">Barret “A promise is a promise!  Here!!”</Entry>
+  <Entry File="mds7pb_1\110.wav" ID="110">Tifa “I'm so glad everyone's safe.”</Entry>
+  <Entry File="mds7pb_1\111a.wav" ID="111" Part="a">Barret “Yo! Cloud!”</Entry>
+  <Entry File="mds7pb_1\111b.wav" ID="111" Part="b">“Before the next mission,  I got somethin' I wanna ask you!”</Entry>
+  <Entry File="mds7pb_1\111c.wav" ID="111" Part="c">“I,uh…  I don't really know how to use Materia!”</Entry>
+  <Entry File="mds7pb_1\111d.wav" ID="111" Part="d">“I'll give you that Materia we found.  Just teach me how to use it!”</Entry>
+  <Entry File="mds7pb_1\112.wav" ID="112">Cloud “…sigh…” OK,I'll explain it You wouldn't understand</Entry>
+  <Entry File="mds7pb_1\113a.wav" ID="113" Part="a">Barret “So this is what makes them guys  in SOLDIER so great,huh!?”</Entry>
+  <Entry File="mds7pb_1\113b.wav" ID="113" Part="b">“Ok. I'll ask Jessie again later.  But you're in charge of the Materia!”</Entry>
+  <Entry File="mds7pb_1\114a.wav" ID="114" Part="a">Barret “&amp;$*#! What's this,  'It wasn't that tough!' crap?”</Entry>
+  <Entry File="mds7pb_1\114b.wav" ID="114" Part="b">“I don't get it!….”</Entry>
+  <Entry File="mds7pb_1\114c.wav" ID="114" Part="c">“You just handle the Materia,Cloud!”</Entry>
+  <Entry File="mds7pb_1\115a.wav" ID="115" Part="a">Tifa “Cloud! I got a message  from the Weapon Shop man upstairs.”</Entry>
+  <Entry File="mds7pb_1\115b.wav" ID="115" Part="b">“He has something he wants to give you.  Don't forget!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds7pb_1\0.wav" ID="0">7th Heaven</Entry>
+	<Entry File="mds7pb_1\13.wav" ID="13">Thudthudthud!! That ???? is supposed to come in.</Entry>
+	<Entry File="mds7pb_1\18.wav" ID="18">????</Entry>
+	<Entry File="mds7pb_1\83.wav" ID="83">Cloud   …I'm going out…</Entry>
+	<Entry File="mds7pb_1\84.wav" ID="84">Received Barret's stash,1500 gil!</Entry>
+	<Entry File="mds7pb_1\116.wav" ID="116">[Materia System]  Access the menu  and select [Materia] to equip Materia.</Entry>
+-->
+</VoiceList>

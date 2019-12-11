@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="delmin2\1.wav" ID="1">Johnny “What's with YOU?”</Entry>
+  <Entry File="delmin2\2a.wav" ID="2" Part="a">Johnny “Hey,is it really you?”</Entry>
+  <Entry File="delmin2\2b.wav" ID="2" Part="b">“We were in SOLDIER,  and childhood friends before that.  You were such a playboy.”</Entry>
+  <Entry File="delmin2\2c.wav" ID="2" Part="c">“And a $#&amp;^ murderer!!”</Entry>
+  <Entry File="delmin2\2d.wav" ID="2" Part="d">“Why can't I remember your name?” Who are YOU? I'm Cloud,and don't forget it</Entry>
+  <Entry File="delmin2\3a.wav" ID="3" Part="a">Johnny “That's right. Long time no see.  Do you remember me?”</Entry>
+  <Entry File="delmin2\3b.wav" ID="3" Part="b">“That's okay.  We'll just pretend like  we don't know each other.”</Entry>
+  <Entry File="delmin2\3c.wav" ID="3" Part="c">“I started a new life in this town.”</Entry>
+  <Entry File="delmin2\3d.wav" ID="3" Part="d">“A lot of things happened to us.  Heh,I better stop my complaining!  I sure envy you all living  out under the stars.”</Entry>
+  <Entry File="delmin2\4a.wav" ID="4" Part="a">Johnny “You think you're good enough to  brag about how big you are?”</Entry>
+  <Entry File="delmin2\4b.wav" ID="4" Part="b">“I don't wanna hear it!  Heh,no more complaining from me!”</Entry>
+  <Entry File="delmin2\4c.wav" ID="4" Part="c">“From now on,I'm turning over a new leaf!”</Entry>
+  <Entry File="delmin2\5a.wav" ID="5" Part="a">Johnny “Go on and beat it!”</Entry>
+  <Entry File="delmin2\5b.wav" ID="5" Part="b">“I'm happy like this.  So keep out of my life.”</Entry>
+  <Entry File="delmin2\6.wav" ID="6">“I'm sorry about that.  He's had some big shocks  and has been depressed lately.”</Entry>
+  <Entry File="delmin2\7.wav" ID="7">Tifa “Oh,right!  I remember that,too.”</Entry>
+  <Entry File="delmin2\8.wav" ID="8">Johnny “Yeah,yeah!  And you remember the time when….”</Entry>
+  <Entry File="delmin2\9.wav" ID="9">Tifa “Hee,hee,hee!”</Entry>
+  <Entry File="delmin2\10.wav" ID="10">Johnny “Ha,ha,ha!”</Entry>
+  <Entry File="delmin2\11.wav" ID="11">Tifa “Ha,ha…oh stop it!  That's right.  Oh really…”</Entry>
+  <Entry File="delmin2\12.wav" ID="12">Johnny “Yeah.  Oh yeah,and then that time…”</Entry>
+  <Entry File="delmin2\13.wav" ID="13">Tifa “Yeah,yeah!”</Entry>
+  <Entry File="delmin2\14a.wav" ID="14" Part="a">Tifa “Cloud,  would you mind leaving us  alone for the day?”</Entry>
+  <Entry File="delmin2\14b.wav" ID="14" Part="b">“We haven't seen each other for ages and  sometimes it's fun to talk about  old times for a change.”</Entry>
+  <Entry File="delmin2\15.wav" ID="15">Johnny “Yeah,  don't get mad or anything.”</Entry>
+  <Entry File="delmin2\16a.wav" ID="16" Part="a">Tifa “I'll try not to be back too late.”</Entry>
+  <Entry File="delmin2\16b.wav" ID="16" Part="b">“So please don't worry about us!” Worry? Yeah…</Entry>
+  <Entry File="delmin2\17.wav" ID="17">Cloud “I'm not worried.”</Entry>
+  <Entry File="delmin2\18.wav" ID="18">Cloud “Just remember we're leaving early tomorrow.”</Entry>
+  <Entry File="delmin2\19.wav" ID="19">Tifa “You're right…”</Entry>
+  <Entry File="delmin2\20.wav" ID="20">Tifa “OK,I know.”</Entry>
+  <Entry File="delmin2\21.wav" ID="21">Johnny “…mumble…mumble…  (Tifa,promise me  you're gonna be happy.)”</Entry>
+  <Entry File="delmin2\22a.wav" ID="22" Part="a">Johnny “Heh,heh,heh!  She and I are getting  along pretty good.”</Entry>
+  <Entry File="delmin2\22b.wav" ID="22" Part="b">“But I'm such a pitiful waste…”</Entry>
+  <Entry File="delmin2\23.wav" ID="23">Johnny “…sigh…I'm not good enough for her.  What should I do?”</Entry>
+  <Entry File="delmin2\24a.wav" ID="24" Part="a">Johnny “I proposed to her in the middle of all that  Meteor stuff!”</Entry>
+  <Entry File="delmin2\24b.wav" ID="24" Part="b">“I don't care  even if the world were to end right now!”</Entry>
+  <Entry File="delmin2\24c.wav" ID="24" Part="c">“I can't think of anything else!”</Entry>
+  <Entry File="delmin2\25a.wav" ID="25" Part="a">Johnny “No,no,NO!!  Meteor's getting closer every minute!!”</Entry>
+  <Entry File="delmin2\25b.wav" ID="25" Part="b">“I wanna live my life right now!!  I want to build a home  and grow old together with her!”</Entry>
+  <Entry File="delmin2\25c.wav" ID="25" Part="c">“If you can't do it,then I will!  And that's that!”</Entry>
+  <Entry File="delmin2\25d.wav" ID="25" Part="d">“I'm gonna do my best,  so you hang in there too!”</Entry>
+  <Entry File="delmin2\26.wav" ID="26">“If you can't do it,then I will!  And that's that!  I'm gonna do my best,  so you hang in there too!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="delmin2\0.wav" ID="0">Johnny's New Home</Entry>
+-->
+</VoiceList>

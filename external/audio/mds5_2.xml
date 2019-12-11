@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds5_2\1.wav" ID="1">Aeris “Whew! Finally made it off!  Now what?”</Entry>
+  <Entry File="mds5_2\2.wav" ID="2">Aeris “My house is over here.  Hurry before they come.”</Entry>
+  <Entry File="mds5_2\3a.wav" ID="3" Part="a">“The Sector 5 and Sector 6  slums are right ahead…”</Entry>
+  <Entry File="mds5_2\3b.wav" ID="3" Part="b">“Do you know what kind of place they are? Tell me about sector 5 Tell me about sector 6 Yeah,I know</Entry>
+  <Entry File="mds5_2\4a.wav" ID="4" Part="a">“Sector 5 slum…  It's not a big town.”</Entry>
+  <Entry File="mds5_2\4b.wav" ID="4" Part="b">“No thrills,no danger. But there  are a few stores so if there's  something you want,stop by.”</Entry>
+  <Entry File="mds5_2\5.wav" ID="5">“Sector 6 slum…heh heh heh,  A man's paradise.  I've always wanted to go.”</Entry>
+  <Entry File="mds5_2\6.wav" ID="6">“…But not for a nice girl like you…  But there may be something else  good for you. Heh,heh,heh.”</Entry>
+  <Entry File="mds5_2\7a.wav" ID="7" Part="a">“Yeah,but it's a little dangerous  over there,you know.”</Entry>
+  <Entry File="mds5_2\7b.wav" ID="7" Part="b">“That's all I got to say. If you want  to know more,you'll have to go there  yourself. But you can't just waltz  over there anytime you feel like it.”</Entry>
+  <Entry File="mds5_2\8.wav" ID="8">“Hmm…    Then,I'll do as I please.”</Entry>
+  <Entry File="mds5_2\9a.wav" ID="9" Part="a">“HEY! Looks like they were in Sector 6.    Have fun?”</Entry>
+  <Entry File="mds5_2\9b.wav" ID="9" Part="b">“That reminds me,you don't hear  much about Corneo lately.  Wonder what happened to him?”</Entry>
+  <Entry File="mds5_2\10.wav" ID="10">“I saw her!  I really did!”</Entry>
+  <Entry File="mds5_2\11a.wav" ID="11" Part="a">“This woman just disappeared!  Right there around the old church.”</Entry>
+  <Entry File="mds5_2\11b.wav" ID="11" Part="b">“I waited around a long time,  but she never came out again!”</Entry>
+  <Entry File="mds5_2\11c.wav" ID="11" Part="c">“I tell you,it's one of them  …haunted churches!  Ohhh…shiver…shake…”</Entry>
+  <Entry File="mds5_2\12a.wav" ID="12" Part="a">“Then with a big rumble,the sector 7    plate came crashing down on the slum.”</Entry>
+  <Entry File="mds5_2\12b.wav" ID="12" Part="b">“Oh man,if something like that ever    fell on us…ohhh…shiver…”</Entry>
+  <Entry File="mds5_2\13a.wav" ID="13" Part="a">“A really weird guy lives inside of    some Huge Materia! And then there were    9 little devils! Ohh…shiver…shake…”</Entry>
+  <Entry File="mds5_2\13b.wav" ID="13" Part="b">“Huh?  Oh,uh,no,I uh…  really didn't see it myself…I uh,  well,it was more like a,whaddya  call…rumor I heard.”</Entry>
+  <Entry File="mds5_2\13c.wav" ID="13" Part="c">“All right. It was a lie.    I just made it up because  nothing's been happening around  here lately.”</Entry>
+  <Entry File="mds5_2\14.wav" ID="14">Aeris “You mean that's…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds5_2\0.wav" ID="0">Sector 5 Slum</Entry>
+	<Entry File="mds5_2\15.wav" ID="15">[Save Point] Access menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

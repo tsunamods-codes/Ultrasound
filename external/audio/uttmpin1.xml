@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="uttmpin1\1.wav" ID="1">Cloud “…” Wanna rest? Let's move on</Entry>
+  <Entry File="uttmpin1\2.wav" ID="2">Tifa “Phew…” Yeah,let's get some rest I'm all right</Entry>
+  <Entry File="uttmpin1\3.wav" ID="3">Cid “Well…” I could take a short nap No time to waste</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="uttmpin1\0.wav" ID="0">Wutai,Main Mtn.</Entry>
+-->
+</VoiceList>

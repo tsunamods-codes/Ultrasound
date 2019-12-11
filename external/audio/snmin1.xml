@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="snmin1\1.wav" ID="1">“I got hurt on my snowboard,  and now I can't go out for a while…”</Entry>
+  <Entry File="snmin1\2.wav" ID="2">“Hey,  I'll give you my snowboard.”</Entry>
+  <Entry File="snmin1\3.wav" ID="3">“…whimper…weep…”</Entry>
+  <Entry File="snmin1\4.wav" ID="4">“Tell me if you get good at it.”</Entry>
+  <Entry File="snmin1\5.wav" ID="5">“I wanted to get a lot   better at snowboarding…”</Entry>
+  <Entry File="snmin1\6a.wav" ID="6" Part="a">“My boy got hurt  right about the time we moved here…”</Entry>
+  <Entry File="snmin1\6b.wav" ID="6" Part="b">“I never shoulda got him that snowboard.”</Entry>
+  <Entry File="snmin1\7.wav" ID="7">“Teach me too,OK!?”</Entry>
+  <Entry File="snmin1\8a.wav" ID="8" Part="a">“I can't live in this town anymore.  It gets so cold here!”</Entry>
+  <Entry File="snmin1\8b.wav" ID="8" Part="b">“I have to move again…  I don't know where to start.”</Entry>
+  <Entry File="snmin1\9a.wav" ID="9" Part="a">“The reason for the drop in temperature must be  because of that dome of light  at the Northern limits…”</Entry>
+  <Entry File="snmin1\9b.wav" ID="9" Part="b">“You all should get away from here and  go to a place like  Mideel Island in the south.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="snmin1\0.wav" ID="0">Icicle Inn</Entry>
+	<Entry File="snmin1\10.wav" ID="10">Received Key Item "Snowboard"!</Entry>
+-->
+</VoiceList>

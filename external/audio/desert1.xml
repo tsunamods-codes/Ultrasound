@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="desert1\1.wav" ID="1">“Wanna ride?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="desert1\0.wav" ID="0">Corel Desert</Entry>
+	<Entry File="desert1\2.wav" ID="2">Get on Don't get on</Entry>
+-->
+</VoiceList>

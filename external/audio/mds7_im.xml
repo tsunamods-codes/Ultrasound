@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds7_im\1a.wav" ID="1" Part="a">“Ahh…  Another slow day…”</Entry>
+  <Entry File="mds7_im\1b.wav" ID="1" Part="b">“If this keeps up,this store's goin' under…”</Entry>
+  <Entry File="mds7_im\1c.wav" ID="1" Part="c">“Can't sell any really good medicine  in a slum like this.”</Entry>
+  <Entry File="mds7_im\2.wav" ID="2">“Oh!! Look at this!  This doesn't happen everyday.  Are you…a customer?”</Entry>
+  <Entry File="mds7_im\3.wav" ID="3">“Yes!! Welcome!!  We sell!  We buy!”</Entry>
+  <Entry File="mds7_im\4.wav" ID="4">“By the way,you wouldn't happen to be… Naw,never mind. Forget it.</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds7_im\0.wav" ID="0">Sector 7 Item Store</Entry>
+-->
+</VoiceList>

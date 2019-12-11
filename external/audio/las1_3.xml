@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="las1_3\18.wav" ID="18">“Take care!”</Entry>
+  <Entry File="las1_3\25.wav" ID="25">“Welcome!  Everyone's waiting for you.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="las1_3\0.wav" ID="0">Highwind,on deck</Entry>
+	<Entry File="las1_3\1.wav" ID="1">Northern Cave Crater</Entry>
+	<Entry File="las1_3\2.wav" ID="2">Inside Northern Cave</Entry>
+	<Entry File="las1_3\3.wav" ID="3">Received "Elixir"!</Entry>
+	<Entry File="las1_3\4.wav" ID="4">Received "Mystile"!</Entry>
+	<Entry File="las1_3\5.wav" ID="5">Received "Speed Source"!</Entry>
+	<Entry File="las1_3\6.wav" ID="6">Received "Tetra Elemental"!</Entry>
+	<Entry File="las1_3\7.wav" ID="7">Received "Megalixir"!</Entry>
+	<Entry File="las1_3\8.wav" ID="8">Received "Power Source"!</Entry>
+	<Entry File="las1_3\9.wav" ID="9">Received "Elixir"!</Entry>
+	<Entry File="las1_3\10.wav" ID="10">Received "Guard Source"!</Entry>
+	<Entry File="las1_3\11.wav" ID="11">Received "Mind Source"!</Entry>
+	<Entry File="las1_3\12.wav" ID="12">Received "Magic Source"!</Entry>
+	<Entry File="las1_3\13.wav" ID="13">Received "Save Crystal"!</Entry>
+	<Entry File="las1_3\14.wav" ID="14">Received "HP Absorb" Materia!</Entry>
+	<Entry File="las1_3\15.wav" ID="15">Cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="las1_3\16.wav" ID="16">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="las1_3\17.wav" ID="17">Would you like to create a [SAVE POINT] here? Yes No</Entry>
+	<Entry File="las1_3\19.wav" ID="19">   Jump down    Don't do it</Entry>
+	<Entry File="las1_3\20.wav" ID="20">   Jump across    Don't do it</Entry>
+	<Entry File="las1_3\21.wav" ID="21">   Climb up    Don't do it</Entry>
+	<Entry File="las1_3\22.wav" ID="22">   Go down    Don't do it</Entry>
+	<Entry File="las1_3\23.wav" ID="23">Push [OK button] to jump down.</Entry>
+	<Entry File="las1_3\24.wav" ID="24">Push [OK button] to climb up.</Entry>
+-->
+</VoiceList>

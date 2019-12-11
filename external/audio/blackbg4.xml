@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blackbg4\0.wav" ID="0">EARITH HOME</Entry>
+	<Entry File="blackbg4\1.wav" ID="1">  1F   okaasan au   1F   katari haha   2F   nigeru   2F   ballet naku   hoka wo ataru</Entry>
+	<Entry File="blackbg4\2.wav" ID="2">8bangai</Entry>
+	<Entry File="blackbg4\3.wav" ID="3">  tojikomerarechatta   BOOM to kitamonda   hajimete earith   tobe cloud   hoka ga ii</Entry>
+	<Entry File="blackbg4\4.wav" ID="4">6bangai</Entry>
+	<Entry File="blackbg4\5.wav" ID="5">  love love   7ban dokan   matte matte   checkyou kouen   yameta</Entry>
+	<Entry File="blackbg4\6.wav" ID="6">Gold</Entry>
+	<Entry File="blackbg4\7.wav" ID="7">  ballet punpun   caitsith toujou   dio toujou   tougijou de   kaettekita cloud   under corel   yameta</Entry>
+	<Entry File="blackbg4\8.wav" ID="8">movie check</Entry>
+	<Entry File="blackbg4\9.wav" ID="9">  doka~n   tou!   dongaragashan   touchaku   deppatu   sample   sample   yame</Entry>
+	<Entry File="blackbg4\10.wav" ID="10">  saishono   jet   chokobo   diozou   hotel   hiroba   hanabi1   hanabi2   yame</Entry>
+	<Entry File="blackbg4\11.wav" ID="11">party</Entry>
+	<Entry File="blackbg4\12.wav" ID="12">party?   un   uun</Entry>
+	<Entry File="blackbg4\13.wav" ID="13">  cloud   tifa   cid</Entry>
+	<Entry File="blackbg4\14.wav" ID="14">  cloud   earith   tifa   yufi   ballet   red13   cid   caitsith   vincent   inai</Entry>
+	<Entry File="blackbg4\15.wav" ID="15">1P</Entry>
+	<Entry File="blackbg4\16.wav" ID="16">2P</Entry>
+	<Entry File="blackbg4\17.wav" ID="17">GS</Entry>
+	<Entry File="blackbg4\18.wav" ID="18">  hotel   jet   game1F   game2F   kanransha   hiroba   eki(R1de mage)   chokobo   kanransha naka   tougijou   yame</Entry>
+	<Entry File="blackbg4\19.wav" ID="19">bokujou</Entry>
+	<Entry File="blackbg4\20.wav" ID="20">  ie no naka(R1de mage)   soto(R1de mage)   bobou(R1de mage)      sittitai   yame</Entry>
+	<Entry File="blackbg4\21.wav" ID="21">naissu…</Entry>
+	<Entry File="blackbg4\22.wav" ID="22">GS2</Entry>
+	<Entry File="blackbg4\23.wav" ID="23">  eki   hotel matome   cs uragiri   dio no tenjisitu   date no osasoi   nigeta cs no saigo   hotel deppatu   yame</Entry>
+	<Entry File="blackbg4\24.wav" ID="24">date chuu to GS2</Entry>
+	<Entry File="blackbg4\25.wav" ID="25">  jet   game1F   game2F   kanransha   hiroba   chokobo   tougijou   mogu   yame</Entry>
+	<Entry File="blackbg4\26.wav" ID="26">ijiru</Entry>
+	<Entry File="blackbg4\27.wav" ID="27">dousuru?   love_para ijiri   okane ippai   okane nasi   G reset   dflname kaeru   GP ippai   member zenin   member yufi vin igai   item iroiro   yame</Entry>
+	<Entry File="blackbg4\28.wav" ID="28">  earith 1ban   tifa 1ban   yufi 1ban   ballet 1ban   nakamiru   yame</Entry>
+	<Entry File="blackbg4\29.wav" ID="29"> Aeris   B    Tifa   B    Yuffie   B    Barret   B    </Entry>
+	<Entry File="blackbg4\30.wav" ID="30">  on   off</Entry>
+	<Entry File="blackbg4\31.wav" ID="31"></Entry>
+	<Entry File="blackbg4\32.wav" ID="32">debug </Entry>
+	<Entry File="blackbg4\33.wav" ID="33">Party1 Party2 Party3</Entry>
+	<Entry File="blackbg4\34.wav" ID="34">Cloud</Entry>
+	<Entry File="blackbg4\35.wav" ID="35">Ballet</Entry>
+	<Entry File="blackbg4\36.wav" ID="36">Tifa</Entry>
+	<Entry File="blackbg4\37.wav" ID="37">Earith</Entry>
+	<Entry File="blackbg4\38.wav" ID="38">Yufi</Entry>
+	<Entry File="blackbg4\39.wav" ID="39">Caitsith</Entry>
+	<Entry File="blackbg4\40.wav" ID="40">Cid</Entry>
+	<Entry File="blackbg4\41.wav" ID="41">Vincent</Entry>
+	<Entry File="blackbg4\42.wav" ID="42">Red13</Entry>
+	<Entry File="blackbg4\43.wav" ID="43">cloudMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\44.wav" ID="44">balletMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\45.wav" ID="45">tifaMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\46.wav" ID="46">earithMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\47.wav" ID="47">yufiMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\48.wav" ID="48">caitsithMMMMMMMM</Entry>
+	<Entry File="blackbg4\49.wav" ID="49">cidMMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\50.wav" ID="50">vincentMMMMMMMMM</Entry>
+	<Entry File="blackbg4\51.wav" ID="51">redWMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\52.wav" ID="52">SN</Entry>
+	<Entry File="blackbg4\53.wav" ID="53">midorikawa</Entry>
+	<Entry File="blackbg4\54.wav" ID="54">genda</Entry>
+	<Entry File="blackbg4\55.wav" ID="55">hayasibara</Entry>
+	<Entry File="blackbg4\56.wav" ID="56">araki</Entry>
+	<Entry File="blackbg4\57.wav" ID="57">kanai</Entry>
+	<Entry File="blackbg4\58.wav" ID="58">wakamoto</Entry>
+	<Entry File="blackbg4\59.wav" ID="59">tanaka</Entry>
+	<Entry File="blackbg4\60.wav" ID="60">okiayu</Entry>
+	<Entry File="blackbg4\61.wav" ID="61">inoue</Entry>
+	<Entry File="blackbg4\62.wav" ID="62">MMMMMM</Entry>
+	<Entry File="blackbg4\63.wav" ID="63">MMMMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\64.wav" ID="64">WWWWWWWWWWWWWWW</Entry>
+	<Entry File="blackbg4\65.wav" ID="65">MMMMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\66.wav" ID="66">WWWWWWWWWWWWWWW</Entry>
+	<Entry File="blackbg4\67.wav" ID="67">MMMMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\68.wav" ID="68">WWWWWWWWWWWWWWW</Entry>
+	<Entry File="blackbg4\69.wav" ID="69">MMMMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\70.wav" ID="70">WWWWWWWWWWWWWWW</Entry>
+	<Entry File="blackbg4\71.wav" ID="71">MMMMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\72.wav" ID="72">corel</Entry>
+	<Entry File="blackbg4\73.wav" ID="73">  hajime   sonchou   dyne kessen   ueniikunone   yame</Entry>
+	<Entry File="blackbg4\74.wav" ID="74">chokobo ijiri</Entry>
+	<Entry File="blackbg4\75.wav" ID="75">  ST check   tukamaeta   yasai to mi ippai   magego bokujou   yaoya   yame</Entry>
+	<Entry File="blackbg4\76.wav" ID="76">  owari   A   B   C   D   E   F   G   H</Entry>
+	<Entry File="blackbg4\77.wav" ID="77">  CHOKO1   chokobo2   CHOKO3   chokobo4   CHOKO5   chokobo6   sakunonaka   yame</Entry>
+	<Entry File="blackbg4\78.wav" ID="78"> TSP   TS      SPP   SP      ST    AC      IT    LOY     CHR   CHCT    SEX   COL     CL    R   </Entry>
+	<Entry File="blackbg4\79.wav" ID="79">IT     LOY    CHR    CHCT      CL     SEX   </Entry>
+	<Entry File="blackbg4\80.wav" ID="80">56     57     58     59    </Entry>
+	<Entry File="blackbg4\81.wav" ID="81">lasdan</Entry>
+	<Entry File="blackbg4\82.wav" ID="82">  LAS3-1   LAS3-2   LAS3-3   LAS4-0   LAS4-1   LAS4-2   LAS4-3   LAS4-4   LAS4-42   ikisaki   dokoitta?   yame</Entry>
+	<Entry File="blackbg4\83.wav" ID="83">cloud   1   2   3</Entry>
+	<Entry File="blackbg4\84.wav" ID="84">tifa   1   2   3</Entry>
+	<Entry File="blackbg4\85.wav" ID="85">ballet   1   2   3</Entry>
+	<Entry File="blackbg4\86.wav" ID="86">red   1   2   3</Entry>
+	<Entry File="blackbg4\87.wav" ID="87">cid   1   2   3</Entry>
+	<Entry File="blackbg4\88.wav" ID="88">yufi   1   2   3</Entry>
+	<Entry File="blackbg4\89.wav" ID="89">vincent   1   2   3</Entry>
+	<Entry File="blackbg4\90.wav" ID="90">caitsith   1   2   3</Entry>
+	<Entry File="blackbg4\91.wav" ID="91">hokora</Entry>
+	<Entry File="blackbg4\92.wav" ID="92">  hokora1   hokora2   hokora3   hokora4   hokora5   hokora6   hokora7   hokora8   yame</Entry>
+	<Entry File="blackbg4\93.wav" ID="93">  ima…   chokobo   jet   yame</Entry>
+	<Entry File="blackbg4\94.wav" ID="94">, "&amp; </Entry>
+	<Entry File="blackbg4\95.wav" ID="95"></Entry>
+	<Entry File="blackbg4\96.wav" ID="96">Tifa   Barret Red XIII   Cid Cait Sith   Yuffie Vincent  Cloud BY BV</Entry>
+	<Entry File="blackbg4\97.wav" ID="97">  NEXT   MENU ON   BATTLE LOCK   BATTLE UNLOCK   MOVIE LOCK   MOVIE UNLOCK   GLOBAL RESET   FULL NAME   NEW START   EXIT</Entry>
+	<Entry File="blackbg4\98.wav" ID="98">  BACK   SOUND RESET   FULL MATERIA   BATTLE999   EXIT</Entry>
+	<Entry File="blackbg4\99.wav" ID="99">MMMMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\100.wav" ID="100">WWWWWWWWWWWWWWW</Entry>
+	<Entry File="blackbg4\101.wav" ID="101">MMMMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\102.wav" ID="102">WWWWWWWWWWWWWWW</Entry>
+	<Entry File="blackbg4\103.wav" ID="103">MMMMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\104.wav" ID="104">WWWWWWWWWWWWWWW</Entry>
+	<Entry File="blackbg4\105.wav" ID="105">MMMMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\106.wav" ID="106">WWWWWWWWWWWWWWW</Entry>
+	<Entry File="blackbg4\107.wav" ID="107">MMMMMMMMMMMMMMM</Entry>
+	<Entry File="blackbg4\108.wav" ID="108">  cloud   earith   tifa   ballet   red13   cid   caitsith   yufi   vincent   naodemonai</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="fship_22\0.wav" ID="0">Rufus “So,I finally found you.”</Entry>
+  <Entry File="fship_22\1.wav" ID="1">Scarlet “Kyaa haa hah.”</Entry>
+  <Entry File="fship_22\2a.wav" ID="2" Part="a">Scarlet “Kyaa haa hah.”</Entry>
+  <Entry File="fship_22\2b.wav" ID="2" Part="b">“haa hah”</Entry>
+  <Entry File="fship_22\2c.wav" ID="2" Part="c">“haa…hah”</Entry>
+  <Entry File="fship_22\2d.wav" ID="2" Part="d">“This is incredible…”</Entry>
+  <Entry File="fship_22\3.wav" ID="3">Heidegger “This is the Promised Land  the President had been searching for!!”</Entry>
+  <Entry File="fship_22\4.wav" ID="4">Rufus “But,I'll be the one who gets it.”</Entry>
+  <Entry File="fship_22\5.wav" ID="5">Rufus “Sorry,old man.”</Entry>
+  <Entry File="fship_22\6.wav" ID="6">Hojo “Heh heh heh…”</Entry>
+  <Entry File="fship_22\7.wav" ID="7">Hojo “That land is no one's.”</Entry>
+  <Entry File="fship_22\8.wav" ID="8">Hojo “It's where the Reunion will take place…  They will all gather here…”</Entry>
+  <Entry File="fship_22\9.wav" ID="9">Hojo “I wonder if we'll see…Sephiroth?”</Entry>
+</VoiceList>

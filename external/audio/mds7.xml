@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds7\28.wav" ID="28">Barret “All right!!  You losers go on ahead!!”</Entry>
+  <Entry File="mds7\29.wav" ID="29">Barret “OK!  Go on ahead.”</Entry>
+  <Entry File="mds7\30a.wav" ID="30" Part="a">Barret “Heh heh…”</Entry>
+  <Entry File="mds7\30b.wav" ID="30" Part="b">“You wanna meet your little baby?” Little baby? Out of my way!</Entry>
+  <Entry File="mds7\31a.wav" ID="31" Part="a">Barret “Heh!  Jus' calm down.”</Entry>
+  <Entry File="mds7\31b.wav" ID="31" Part="b">“Can't have people suspectin' us.”</Entry>
+  <Entry File="mds7\32a.wav" ID="32" Part="a">Barret “Hey!  Don't act like you don't know what I mean!”</Entry>
+  <Entry File="mds7\32b.wav" ID="32" Part="b">“I'm tellin' you…”</Entry>
+  <Entry File="mds7\33.wav" ID="33">Barret “You! Cloud!!  Get off your slow-movin' ass!!”</Entry>
+  <Entry File="mds7\34.wav" ID="34">Barret “The hell're you doin',boy?  The operation's already started!!”</Entry>
+  <Entry File="mds7\43.wav" ID="43">“I'm not opening up.  Go away!!”</Entry>
+  <Entry File="mds7\44a.wav" ID="44" Part="a">“Oh &amp;$#&amp;@!!  What the hell's wrong tonight!!”</Entry>
+  <Entry File="mds7\44b.wav" ID="44" Part="b">“I thought that long blackout   was strange.”</Entry>
+  <Entry File="mds7\44c.wav" ID="44" Part="c">“They say a Mako Reactor was  destroyed above.”</Entry>
+  <Entry File="mds7\44d.wav" ID="44" Part="d">“I was jes sittin' here drinkin',  watchin' the news by myself.”</Entry>
+  <Entry File="mds7\44e.wav" ID="44" Part="e">“'n' all of a sudden  I get kicked outta the &amp;*%$ store.  What's up with that!?”</Entry>
+  <Entry File="mds7\45.wav" ID="45">“Woo…ah geez,I'm blitzed.  I jes love them homemade cocktails.  But they sure do creep up on ya.”</Entry>
+  <Entry File="mds7\46.wav" ID="46">“Did you hear?” Don't care No,what?</Entry>
+  <Entry File="mds7\47.wav" ID="47">“There's a news update.  They say that there was a terrorist explosion  up above,and that this time  it was a Mako Reactor!!”</Entry>
+  <Entry File="mds7\48.wav" ID="48">“You know what this means?” Don't care No,what?</Entry>
+  <Entry File="mds7\49a.wav" ID="49" Part="a">“Ya see,I keep on top of these things,  an' if ya ask me…”</Entry>
+  <Entry File="mds7\49b.wav" ID="49" Part="b">“if you knock out Midgar's power,  then all of its computers and signals are  going to be knocked out,too.”</Entry>
+  <Entry File="mds7\49c.wav" ID="49" Part="c">“Financially there must've been about   a billion gil worth of damage.”</Entry>
+  <Entry File="mds7\49d.wav" ID="49" Part="d">“An' that ain't all!!  A lotta innocent people got killed,too!”</Entry>
+  <Entry File="mds7\49e.wav" ID="49" Part="e">“If the explosion had been in the middle  of the night,that woulda been one thing.  At least the people coulda gone in their sleep.”</Entry>
+  <Entry File="mds7\50.wav" ID="50">“This Mako explosion has really  sent Midgar into a fit.”</Entry>
+  <Entry File="mds7\51.wav" ID="51">“Oh,well excuse ME!”</Entry>
+  <Entry File="mds7\52.wav" ID="52">“Explosions! Explosions!  Oh Man!  AVALANCHE is so cool!”</Entry>
+  <Entry File="mds7\53.wav" ID="53">“Hey!!  Heh heh heh…  Say,you're kinda cute.  Cutie pie…”</Entry>
+  <Entry File="mds7\54.wav" ID="54">“I wasn't even done with my drink.  I didn't even pay my bill…”</Entry>
+  <Entry File="mds7\55a.wav" ID="55" Part="a">“All's quiet!!  Shh,I'm spying now!”</Entry>
+  <Entry File="mds7\55b.wav" ID="55" Part="b">“OH!!  There's something!!  DANGER!!  ALERT!!”</Entry>
+  <Entry File="mds7\56.wav" ID="56">“Did you hear?” 'Bout what? Don't care</Entry>
+  <Entry File="mds7\57a.wav" ID="57" Part="a">“About that little girl named Tifa  and that bar called '7th Heaven'.”</Entry>
+  <Entry File="mds7\57b.wav" ID="57" Part="b">“I'm not only informed,I'm kinda nosey too.  Anyhow,I got the scoop.”</Entry>
+  <Entry File="mds7\57c.wav" ID="57" Part="c">“You wanna hear?” You bet! Don't care</Entry>
+  <Entry File="mds7\58a.wav" ID="58" Part="a">“That Barret and  three of his henchmen  are like this sometimes.”</Entry>
+  <Entry File="mds7\58b.wav" ID="58" Part="b">“Suddenly,they throw out a customer and  start talking trash to him.  It's strange,if you ask me.  And that place always smells like gun powder.”</Entry>
+  <Entry File="mds7\58c.wav" ID="58" Part="c">“It's dangerous,I tell you.  They must be doing terrible things in there.”</Entry>
+  <Entry File="mds7\59.wav" ID="59">“Oh really?  Well,aren't you a cool one!”</Entry>
+  <Entry File="mds7\60.wav" ID="60">“There's a TV in there,but  my cheap aunt won't let me in the house.  Look for yourself.”</Entry>
+  <Entry File="mds7\61a.wav" ID="61" Part="a">“Now that you mention it,  there used to be an outside TV monitor  here in the slums.”</Entry>
+  <Entry File="mds7\61b.wav" ID="61" Part="b">“But that Barret,  busted it up.”</Entry>
+  <Entry File="mds7\61c.wav" ID="61" Part="c">“Shot it up with that  weird machine gun hand of his.  Blam,blam,blam.”</Entry>
+  <Entry File="mds7\61d.wav" ID="61" Part="d">“I think it was when President Shinra was on.”</Entry>
+  <Entry File="mds7\61e.wav" ID="61" Part="e">“He was on again this morning,too,you know.”</Entry>
+  <Entry File="mds7\61f.wav" ID="61" Part="f">“Tifa better  watch out for her TV. ”</Entry>
+  <Entry File="mds7\62a.wav" ID="62" Part="a">“Hey!! Open up!  C'mon baby!!”</Entry>
+  <Entry File="mds7\62b.wav" ID="62" Part="b">“It's me! Johnny!  Mom!!”</Entry>
+  <Entry File="mds7\63.wav" ID="63">“SHHH!!  Wait a minute!!”</Entry>
+  <Entry File="mds7\64.wav" ID="64">Johnny “I thought you were something  a little better than this,  but you're just a punk kid after all.”</Entry>
+  <Entry File="mds7\65a.wav" ID="65" Part="a">“Just what the hell do you think  you're doing  with my little Tifa?”</Entry>
+  <Entry File="mds7\65b.wav" ID="65" Part="b">“And now?” We're just friends. What's it to you?</Entry>
+  <Entry File="mds7\66a.wav" ID="66" Part="a">“But Tifa doesn't think so.”</Entry>
+  <Entry File="mds7\66b.wav" ID="66" Part="b">“Why does she ask you n' not me?”</Entry>
+  <Entry File="mds7\66c.wav" ID="66" Part="c">“If Tifa's in trouble  then I'LL help her.”</Entry>
+  <Entry File="mds7\66d.wav" ID="66" Part="d">“But then I guess not. She's nothing to me.”</Entry>
+  <Entry File="mds7\66e.wav" ID="66" Part="e">“Not those memories beneath  the stars when we were kids  or all the stuff we talked about.”</Entry>
+  <Entry File="mds7\66f.wav" ID="66" Part="f">“About all I got is the sake  that she poured me everyday   I went to the bar.”</Entry>
+  <Entry File="mds7\67a.wav" ID="67" Part="a">“Crap!”</Entry>
+  <Entry File="mds7\67b.wav" ID="67" Part="b">“Hey! You!  Don't think you can just walk outta here  like that!”</Entry>
+  <Entry File="mds7\67c.wav" ID="67" Part="c">“Shhi-! You busted a promise!!  'n' you made Tifa cry!!”</Entry>
+  <Entry File="mds7\68a.wav" ID="68" Part="a">Johnny “Oh yeah!?”</Entry>
+  <Entry File="mds7\68b.wav" ID="68" Part="b">“That may be but you ain't walkin' away  from here!”</Entry>
+  <Entry File="mds7\68c.wav" ID="68" Part="c">“Urgh! You made a promise,didn't ya!?  'n' don' you fergit that Tifa  like an angel.  An angel of this slum!”</Entry>
+  <Entry File="mds7\69a.wav" ID="69" Part="a">Johnny “I'm leaving. Goin' faraway.  But when I come back  I'll be a better man! This is goodbye!”</Entry>
+  <Entry File="mds7\69b.wav" ID="69" Part="b">“Hey! Childhood friend!  You better take  good care of Tifa!”</Entry>
+  <Entry File="mds7\70.wav" ID="70">“Cause,I'll be back!!  Don't make her cry,dammit!!”</Entry>
+  <Entry File="mds7\71.wav" ID="71">“I'll be back,I say!!  'n' don' fergit it!”</Entry>
+  <Entry File="mds7\72a.wav" ID="72" Part="a">“I hope he doesn't get hurt.”</Entry>
+  <Entry File="mds7\72b.wav" ID="72" Part="b">“That worries me the most.”</Entry>
+  <Entry File="mds7\73a.wav" ID="73" Part="a">“Ah…Johnny's gone.  You look a little disappointed.”</Entry>
+  <Entry File="mds7\73b.wav" ID="73" Part="b">“I don't like to say it myself but,  I'm just a lonely guy  when I'm not drinking.”</Entry>
+  <Entry File="mds7\74a.wav" ID="74" Part="a">“Yesterday,everyone in town was  peeking at the two of you  from outside the bar.”</Entry>
+  <Entry File="mds7\74b.wav" ID="74" Part="b">“Tifa's childhood friend.  That's a good one!”</Entry>
+  <Entry File="mds7\75a.wav" ID="75" Part="a">“Listen!  If there isn't anyone to listen,  what's the use of  getting gossip on everyone!?”</Entry>
+  <Entry File="mds7\75b.wav" ID="75" Part="b">“Yeah,and you Mr. I-don't-care!”</Entry>
+  <Entry File="mds7\75c.wav" ID="75" Part="c">“I'll get a little more information that would  pique even your interest.  You wait and see!”</Entry>
+  <Entry File="mds7\76.wav" ID="76">“H,hey!!  Keep your mitts off of Marlene!!”</Entry>
+  <Entry File="mds7\77.wav" ID="77">“Ahh!  Now I ain't got no one to pick on!”</Entry>
+  <Entry File="mds7\78.wav" ID="78">“When it comes down to it…I'm gutless.  I'm still just a no-good kid.”</Entry>
+  <Entry File="mds7\79.wav" ID="79">“We're closed today.  Come back tomorrow.”</Entry>
+  <Entry File="mds7\80.wav" ID="80">“Don't be taken in by the Shinra.  Mako energy will not last forever.  Mako is the life of the Planet   and that life is finite.  The end is coming.  Saviors of the Planet:  AVALANCHE”</Entry>
+  <Entry File="mds7\81.wav" ID="81">Cloud “What crappy handwriting.  And look at all this graffiti!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds7\0.wav" ID="0">Sector 7 Slums</Entry>
+	<Entry File="mds7\1.wav" ID="1" />
+	<Entry File="mds7\2.wav" ID="2" />
+	<Entry File="mds7\3.wav" ID="3" />
+	<Entry File="mds7\4.wav" ID="4" />
+	<Entry File="mds7\5.wav" ID="5" />
+	<Entry File="mds7\6.wav" ID="6" />
+	<Entry File="mds7\7.wav" ID="7" />
+	<Entry File="mds7\8.wav" ID="8" />
+	<Entry File="mds7\9.wav" ID="9" />
+	<Entry File="mds7\10.wav" ID="10" />
+	<Entry File="mds7\11.wav" ID="11" />
+	<Entry File="mds7\12.wav" ID="12" />
+	<Entry File="mds7\13.wav" ID="13" />
+	<Entry File="mds7\14.wav" ID="14" />
+	<Entry File="mds7\15.wav" ID="15" />
+	<Entry File="mds7\16.wav" ID="16" />
+	<Entry File="mds7\17.wav" ID="17" />
+	<Entry File="mds7\18.wav" ID="18" />
+	<Entry File="mds7\19.wav" ID="19" />
+	<Entry File="mds7\20.wav" ID="20" />
+	<Entry File="mds7\21.wav" ID="21" />
+	<Entry File="mds7\22.wav" ID="22" />
+	<Entry File="mds7\23.wav" ID="23" />
+	<Entry File="mds7\24.wav" ID="24" />
+	<Entry File="mds7\25.wav" ID="25" />
+	<Entry File="mds7\26.wav" ID="26" />
+	<Entry File="mds7\27.wav" ID="27" />
+	<Entry File="mds7\35.wav" ID="35" />
+	<Entry File="mds7\36.wav" ID="36" />
+	<Entry File="mds7\37.wav" ID="37" />
+	<Entry File="mds7\38.wav" ID="38" />
+	<Entry File="mds7\39.wav" ID="39" />
+	<Entry File="mds7\40.wav" ID="40" />
+	<Entry File="mds7\41.wav" ID="41" />
+	<Entry File="mds7\42.wav" ID="42" />
+-->
+</VoiceList>

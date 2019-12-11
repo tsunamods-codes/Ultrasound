@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blin61\1.wav" ID="1">“The hell are you?  What're you doin' around here?” Where's Aeris? …</Entry>
+  <Entry File="blin61\2a.wav" ID="2" Part="a">“Aeris?  How did you know that name?  You must be…”</Entry>
+  <Entry File="blin61\2b.wav" ID="2" Part="b">“Aeris,  you mean that kid.  The receptionist? I was  startin' to worry about her,too.”</Entry>
+  <Entry File="blin61\2c.wav" ID="2" Part="c">“And so another rival  appears on the scene,eh?”</Entry>
+  <Entry File="blin61\2d.wav" ID="2" Part="d">“You mean,she's not?  It's someone else?”</Entry>
+  <Entry File="blin61\3a.wav" ID="3" Part="a">“Oh,I see.  So you must be  that whatcha call it…”</Entry>
+  <Entry File="blin61\3b.wav" ID="3" Part="b">“Shinra,Inc. Repair Division!!”</Entry>
+  <Entry File="blin61\3c.wav" ID="3" Part="c">“You know,this building  looks like it's  starting to fall apart.”</Entry>
+  <Entry File="blin61\3d.wav" ID="3" Part="d">“This door was just pushed open.  You ought to fix this right away.”</Entry>
+  <Entry File="blin61\3e.wav" ID="3" Part="e">“Oh yeah,and take a look  on the other floors,too.  Here,take this.”</Entry>
+  <Entry File="blin61\5.wav" ID="5">“This door is stuck wide open.  Better fix this right away.”</Entry>
+  <Entry File="blin61\6a.wav" ID="6" Part="a">“This is the lounge floor.  Above us are the special floors for  the company big wigs.”</Entry>
+  <Entry File="blin61\6b.wav" ID="6" Part="b">“It's tough working under someone.  It wears you out.”</Entry>
+  <Entry File="blin61\7.wav" ID="7">“I thought I heard a ruckus  downstairs a minute ago.  Do you know what that was all about?”</Entry>
+  <Entry File="blin61\8.wav" ID="8">“No idea.  But no need to worry because  everything above the   60th floor is safe.”</Entry>
+  <Entry File="blin61\9a.wav" ID="9" Part="a">“What's keeping her?  Did she forget her keycard?”</Entry>
+  <Entry File="blin61\9b.wav" ID="9" Part="b">“Even employees can't access floors  above the 60th  without a keycard.”</Entry>
+  <Entry File="blin61\10a.wav" ID="10" Part="a">“I don't remember seeing your face before…  You new here?”</Entry>
+  <Entry File="blin61\10b.wav" ID="10" Part="b">“Say,you're cute.  Let me teach you some…things.” Things? Um,I'm kinda in a hurry… </Entry>
+  <Entry File="blin61\11.wav" ID="11">“Oh?  That's too bad…”</Entry>
+  <Entry File="blin61\12a.wav" ID="12" Part="a">“Wipe that stupid look off your face.  I was only going to teach you  how to get to the next floor.”</Entry>
+  <Entry File="blin61\12b.wav" ID="12" Part="b">“The higher ups in the company   use the floors above the 60th floor.  But you can't get there without  a keycard.”</Entry>
+  <Entry File="blin61\12c.wav" ID="12" Part="c">“Get a keycard and you can use  the elevators freely.”</Entry>
+  <Entry File="blin61\13a.wav" ID="13" Part="a">“…voila!  Hear that sound and  the door will open.”</Entry>
+  <Entry File="blin61\13b.wav" ID="13" Part="b">“Just remember there are  different types of cards.  One keycard alone won't  let you go everywhere.”</Entry>
+  <Entry File="blin61\13c.wav" ID="13" Part="c">“For example,</Entry>
+  <Entry File="blin61\13d.wav" ID="13" Part="d">“'Keycard 60' only takes  you to the 60th floor.  'Keycard 65' only takes  you to the 65th floor.”</Entry>
+  <Entry File="blin61\13e.wav" ID="13" Part="e">“It's a security system worthy of  Shinra. After all,they control  everything in Midgar and in the  world for that matter.”</Entry>
+  <Entry File="blin61\13f.wav" ID="13" Part="f">“Oh,I have to go.   Gotta get back to work!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blin61\0.wav" ID="0">Shinra Bldg. 61f.</Entry>
+	<Entry File="blin61\4.wav" ID="4">Received Key Item "Keycard 62"!</Entry>
+-->
+</VoiceList>

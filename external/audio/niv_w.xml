@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="niv_w\1.wav" ID="1">“Welcome.”</Entry>
+  <Entry File="niv_w\2.wav" ID="2">“Hey?  Aren't you…?”</Entry>
+  <Entry File="niv_w\3.wav" ID="3">Cloud “…Have I been here before?  …I don't remember.”</Entry>
+  <Entry File="niv_w\4.wav" ID="4">Barret “Now you're pissin' me off!!  This don't matter,so get on with it!”</Entry>
+  <Entry File="niv_w\5.wav" ID="5">“Oh,oh,you're…”</Entry>
+  <Entry File="niv_w\6a.wav" ID="6" Part="a">“Nice town,huh?”</Entry>
+  <Entry File="niv_w\6b.wav" ID="6" Part="b">“We've been in business here  for a long time…”</Entry>
+  <Entry File="niv_w\7.wav" ID="7">Cloud “…You're lying.”</Entry>
+  <Entry File="niv_w\8a.wav" ID="8" Part="a">“Do you have anything to do  with this town?”</Entry>
+  <Entry File="niv_w\9.wav" ID="9">Cloud “I was here until I was 14,  and I don't remember you.”</Entry>
+  <Entry File="niv_w\10.wav" ID="10">Cloud “…Nothing.”</Entry>
+  <Entry File="niv_w\11.wav" ID="11">“It's not nice to lie!!”</Entry>
+  <Entry File="niv_w\12.wav" ID="12">“Oh yeah?”</Entry>
+  <Entry File="niv_w\13a.wav" ID="13" Part="a">“How can you shop at a time like this?”</Entry>
+  <Entry File="niv_w\13b.wav" ID="13" Part="b">“What? Me,in business?”</Entry>
+  <Entry File="niv_w\13c.wav" ID="13" Part="c">“Don't worry,it's all right.  I get paid by the company.”</Entry>
+  <Entry File="niv_w\13d.wav" ID="13" Part="d">“But my real job is protecting  Nibelheim's secret.”</Entry>
+  <Entry File="niv_w\13e.wav" ID="13" Part="e">“What? Secret?”</Entry>
+  <Entry File="niv_w\13f.wav" ID="13" Part="f">“We don't have a clue.  But it's all right.”</Entry>
+  <Entry File="niv_w\13g.wav" ID="13" Part="g">“It's all over anyway!”</Entry>
+  <Entry File="niv_w\13h.wav" ID="13" Part="h">“Finished,finito,over!!  Even as we speak Meteor…  This is the end!”</Entry>
+  <Entry File="niv_w\14.wav" ID="14">Cloud “A man in a black cape!?”</Entry>
+  <Entry File="niv_w\15.wav" ID="15">Cloud “He has a tattoo of the number'12'.  Mmm? He has something.”</Entry>
+  <Entry File="niv_w\17.wav" ID="17">“Can…you…hear?  The…voice…of…Se…phi…roth?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="niv_w\0.wav" ID="0">Nibelheim Item Store</Entry>
+	<Entry File="niv_w\8b.wav" ID="8" Part="b">How about bein' born and raised here? Nope,guess not</Entry>
+	<Entry File="niv_w\16.wav" ID="16">Received"Elixir"!</Entry>
+-->
+</VoiceList>

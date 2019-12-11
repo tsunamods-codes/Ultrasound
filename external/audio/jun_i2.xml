@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jun_i2\1.wav" ID="1">“Please!  Come in…”</Entry>
+  <Entry File="jun_i2\2.wav" ID="2">“Welcome!”</Entry>
+  <Entry File="jun_i2\3.wav" ID="3">“No charge for a smile…”</Entry>
+  <Entry File="jun_i2\4.wav" ID="4">“Buy a lot,cutie!”</Entry>
+  <Entry File="jun_i2\5.wav" ID="5">“Please go to the counter.”</Entry>
+  <Entry File="jun_i2\6.wav" ID="6">“Thank you very much!”</Entry>
+  <Entry File="jun_i2\7a.wav" ID="7" Part="a">“There're lots of stores in Junon.”</Entry>
+  <Entry File="jun_i2\7b.wav" ID="7" Part="b">“If we don't do this…we can't compete.”</Entry>
+  <Entry File="jun_i2\8.wav" ID="8">“But,what bothers me is that  the girls make more than me.”</Entry>
+  <Entry File="jun_i2\9a.wav" ID="9" Part="a">“I hired more girls after hearing  that the world's coming to an end,  but I wonder if I should have.”</Entry>
+  <Entry File="jun_i2\9b.wav" ID="9" Part="b">“I keep getting more and more in debt.  I've got to get out from under it somehow.  Maybe I'll have Weapon help me.”</Entry>
+  <Entry File="jun_i2\10.wav" ID="10">“Look,why not forget about Meteor and Weapon   for now and do a little impulse shopping!?”</Entry>
+  <Entry File="jun_i2\11.wav" ID="11">“Why don't you surround yourself with young girls   and have some fun…maybe for the last time.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jun_i2\0.wav" ID="0">Materia Store</Entry>
+-->
+</VoiceList>

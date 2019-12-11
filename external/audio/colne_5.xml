@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="colne_5\1a.wav" ID="1" Part="a">Kotch “All right,ladies!”</Entry>
+  <Entry File="colne_5\1b.wav" ID="1" Part="b">“Line up in front  of the Don!”</Entry>
+  <Entry File="colne_5\2.wav" ID="2">Don Corneo “Hmmm!  Good,splendid!”</Entry>
+  <Entry File="colne_5\3.wav" ID="3">Don Corneo “Now,let's see…  Which girl should  I choose?  Hmm---hmm---!”</Entry>
+  <Entry File="colne_5\4.wav" ID="4">Don Corneo “This one?”</Entry>
+  <Entry File="colne_5\5.wav" ID="5">Don Corneo “Or this one?”</Entry>
+  <Entry File="colne_5\6a.wav" ID="6" Part="a">Don Corneo “Woo-hoo,  I've made up my mind!!”</Entry>
+  <Entry File="colne_5\6b.wav" ID="6" Part="b">“My choice for tonight is…”</Entry>
+  <Entry File="colne_5\7.wav" ID="7">Don Corneo “This little beauty!”</Entry>
+  <Entry File="colne_5\8.wav" ID="8">Tifa “Phooey…  Be nice,Don.”</Entry>
+  <Entry File="colne_5\9.wav" ID="9">Don Corneo “This slender little girl!”</Entry>
+  <Entry File="colne_5\10.wav" ID="10">Aeris “Don,you've got  great taste.”</Entry>
+  <Entry File="colne_5\11.wav" ID="11">Don Corneo “This healthy-looking girl!”</Entry>
+  <Entry File="colne_5\12.wav" ID="12">Cloud “Wa,wait a sec!  I mean,uh,please wait a moment!”</Entry>
+  <Entry File="colne_5\13a.wav" ID="13" Part="a">Don Corneo “Woo-hoo!”</Entry>
+  <Entry File="colne_5\13b.wav" ID="13" Part="b">“I love chickies who play  hard-to-get! Yeowza!”</Entry>
+  <Entry File="colne_5\14.wav" ID="14">Don Corneo “You can have the rest!”</Entry>
+  <Entry File="colne_5\15.wav" ID="15">“Yes,sir!  Thank you sir!”</Entry>
+  <Entry File="colne_5\16.wav" ID="16">Don Corneo “Shall we go,my pretty?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="colne_5\0.wav" ID="0">Corneo Hall,2f.</Entry>
+-->
+</VoiceList>

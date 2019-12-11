@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="games\0.wav" ID="0">“Hey you!!  What're you lookin' so down for!?”</Entry>
+  <Entry File="games\1a.wav" ID="1" Part="a">“How 'bout it?  Want me to read your fortune!?  A bright future! A happy future!”</Entry>
+  <Entry File="games\1b.wav" ID="1" Part="b">“Oh,but don't hold it against me  if it doesn't come true!”</Entry>
+  <Entry File="games\2.wav" ID="2">“Oh,so sorry!  I'm a fortune telling machine.  The name's…”</Entry>
+  <Entry File="games\4.wav" ID="4">Cloud “You can only read the future?”</Entry>
+  <Entry File="games\5.wav" ID="5">Cait Sith “You kidding?  I can find missing things,  missing people,anything!”</Entry>
+  <Entry File="games\6.wav" ID="6">Cloud “Then can you tell me where  a man named Sephiroth is?”</Entry>
+  <Entry File="games\7a.wav" ID="7" Part="a">Cait Sith “Sephiroth,right!?”</Entry>
+  <Entry File="games\7b.wav" ID="7" Part="b">“Okay,here goes!!”</Entry>
+  <Entry File="games\8a.wav" ID="8" Part="a">Cloud “…Ordinary luck.  It will be an active fortune.”</Entry>
+  <Entry File="games\8b.wav" ID="8" Part="b">“Give into the good will of others,and  something big'll happen after summer.  …Wait…hold on…”</Entry>
+  <Entry File="games\9.wav" ID="9">Cait Sith “Huh?  Let me try again.”</Entry>
+  <Entry File="games\10.wav" ID="10">Cloud “Be careful of forgetfulness.  Your lucky color is…blue?”</Entry>
+  <Entry File="games\11.wav" ID="11">Cloud “…Forget it.”</Entry>
+  <Entry File="games\12a.wav" ID="12" Part="a">Cait Sith “Wait,wait give me another chance!”</Entry>
+  <Entry File="games\12b.wav" ID="12" Part="b">“Wait! Let me try it again!”</Entry>
+  <Entry File="games\13.wav" ID="13">Cloud “What the?”</Entry>
+  <Entry File="games\14.wav" ID="14">Tifa “What does it say?”</Entry>
+  <Entry File="games\15.wav" ID="15">Aeris “What?”</Entry>
+  <Entry File="games\16.wav" ID="16">Red XIII “Read it out loud,Cloud”</Entry>
+  <Entry File="games\17.wav" ID="17">Yuffie “What is it?  Tell us!”</Entry>
+  <Entry File="games\18.wav" ID="18">Cloud “What you pursue will be yours.  But you will lose something dear.”</Entry>
+  <Entry File="games\19a.wav" ID="19" Part="a">Cait Sith “I don't know if it's good  or bad…”</Entry>
+  <Entry File="games\19b.wav" ID="19" Part="b">“This's the first time I   ever got something like THIS.”</Entry>
+  <Entry File="games\20.wav" ID="20">Cait Sith “Then shall we?”</Entry>
+  <Entry File="games\21.wav" ID="21">Tifa “Excuse me?”</Entry>
+  <Entry File="games\22.wav" ID="22">Aeris “What are you talking about?”</Entry>
+  <Entry File="games\23.wav" ID="23">Red XIII “To where?”</Entry>
+  <Entry File="games\24.wav" ID="24">Yuffie “Huh?”</Entry>
+  <Entry File="games\25a.wav" ID="25" Part="a">Cait Sith “Being a fortune teller,  this is gonna bug me.</Entry>
+  <Entry File="games\25b.wav" ID="25" Part="b">“If I don't see how it turns out,  I'll never be able to relax.  So,I'm going with you!”</Entry>
+  <Entry File="games\26.wav" ID="26">Tifa “Is it all right,Cloud?”</Entry>
+  <Entry File="games\27.wav" ID="27">Aeris “What are we going to do,Cloud?”</Entry>
+  <Entry File="games\28.wav" ID="28">Red XIII “Cloud,it's all right with you?”</Entry>
+  <Entry File="games\29.wav" ID="29">Yuffie “He's weird!  Cloud,don't let him come!”</Entry>
+  <Entry File="games\30.wav" ID="30">Cait Sith “I'm comin' with you no matter WHAT you say!”</Entry>
+  <Entry File="games\31.wav" ID="31">Cloud “H…hey!”</Entry>
+  <Entry File="games\32.wav" ID="32">“Yaaay!!”</Entry>
+  <Entry File="games\33.wav" ID="33">“Eaayyyyyyh!”</Entry>
+  <Entry File="games\34.wav" ID="34">“Come now,no running!”</Entry>
+  <Entry File="games\35.wav" ID="35">“Let's get lotsa GP at Wonder Square  and have some fun!”</Entry>
+  <Entry File="games\36.wav" ID="36">“Now,be careful of Meteor.”</Entry>
+  <Entry File="games\37.wav" ID="37">“Let's get lotsa GP at Wonder Square  and have a blast!”</Entry>
+  <Entry File="games\38.wav" ID="38">“I'll hang in there, even if I'm alone!”</Entry>
+  <Entry File="games\40a.wav" ID="40" Part="a">“They probably told you  at the entrance,but  most of the attractions at  Gold Saucer only take 'GP'.”</Entry>
+  <Entry File="games\40b.wav" ID="40" Part="b">“They don't sell GP.  You can only get 'em from the   Wonder Square games or at the   Chocobo Races.”</Entry>
+  <Entry File="games\41.wav" ID="41">Aeris “There's no time for that!!  Let's hurry and go after Cait Sith!”</Entry>
+  <Entry File="games\42.wav" ID="42">Tifa “There's no time to relax.  Let's hurry and go after Cait Sith!”</Entry>
+  <Entry File="games\43.wav" ID="43">Yuffie “Is there time to be fooling around?  Weren't we goin' after Cait Sith?”</Entry>
+  <Entry File="games\44.wav" ID="44">Barret “What the hell are you doing!?  We gotta get that damn cat!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="games\3.wav" ID="3" />
+	<Entry File="games\39.wav" ID="39">Wonder Square</Entry>
+-->
+</VoiceList>

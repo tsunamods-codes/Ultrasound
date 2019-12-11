@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blin60_1\1.wav" ID="1">“What're you doing here?  Unauthorized personnel  aren't allowed here!!”</Entry>
+  <Entry File="blin60_1\2.wav" ID="2">“Your kind don't belong here!  Go on,get out!”</Entry>
+  <Entry File="blin60_1\3.wav" ID="3">“Hey there!  What do you think you're doing there?”</Entry>
+  <Entry File="blin60_1\4a.wav" ID="4" Part="a">Barret “Look at all them guards  runnin' around.”</Entry>
+  <Entry File="blin60_1\4b.wav" ID="4" Part="b">“Cloud,  you go on ahead and signal us  when it's safe to move.”</Entry>
+  <Entry File="blin60_1\5.wav" ID="5">Tifa “Stay in the shadows!”</Entry>
+  <Entry File="blin60_1\6.wav" ID="6">Barret “When those guards turn around,  MOVE!”</Entry>
+  <Entry File="blin60_1\7.wav" ID="7">Barret “What the hell're ya doin'?  Man,you gotta do it again!”</Entry>
+  <Entry File="blin60_1\8.wav" ID="8">Barret “OK!  We gonna rock!”</Entry>
+  <Entry File="blin60_1\9.wav" ID="9">Tifa “Remember,  we're here to save  Aeris.”</Entry>
+  <Entry File="blin60_1\10.wav" ID="10">Barret “Hell,I know that!”</Entry>
+  <Entry File="blin60_1\11a.wav" ID="11" Part="a">Barret “I shoulda known  it'd turn out like this…”</Entry>
+  <Entry File="blin60_1\11b.wav" ID="11" Part="b">“If I knew it'd be  like this in the first place…”</Entry>
+  <Entry File="blin60_1\12.wav" ID="12">Tifa “Shhh!  Now let's move on.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blin60_1\0.wav" ID="0">Shinra Bldg. 60f.</Entry>
+	<Entry File="blin60_1\13.wav" ID="13">Wait for the soldiers to turn, then push [OK] to signal the others!</Entry>
+-->
+</VoiceList>

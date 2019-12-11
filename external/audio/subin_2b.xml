@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="subin_2b\1.wav" ID="1">“You want the Sub?  Just try an' take it!”</Entry>
+  <Entry File="subin_2b\2.wav" ID="2">“Um…sir!  Maybe we shouldn't piss them off…”</Entry>
+  <Entry File="subin_2b\3.wav" ID="3">Barret “Come on,Cloud!  Follow me!”</Entry>
+  <Entry File="subin_2b\4a.wav" ID="4" Part="a">Barret “Damn,man!!  …What the?”</Entry>
+  <Entry File="subin_2b\4b.wav" ID="4" Part="b">“Hey yo!  Remember I was the leader first,man!”</Entry>
+  <Entry File="subin_2b\5a.wav" ID="5" Part="a">Barret “Yo! We come a long ways  since we got on this train!”</Entry>
+  <Entry File="subin_2b\5b.wav" ID="5" Part="b">“Lotsa things changed!  This and that.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="subin_2b\0.wav" ID="0">Inside Submarine</Entry>
+	<Entry File="subin_2b\6.wav" ID="6">[Save Point] Access the menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="colne_1\1.wav" ID="1">“Hey,you got a  cute one with you!”</Entry>
+  <Entry File="colne_1\2a.wav" ID="2" Part="a">“This is Don Corneo's mansion.  He's a big shot here in Wall Market.”</Entry>
+  <Entry File="colne_1\2b.wav" ID="2" Part="b">“Listen,the Don doesn't like men.  So get the hell outta here.”</Entry>
+  <Entry File="colne_1\3a.wav" ID="3" Part="a">“This is the mansion of Don Corneo,  the most powerful man in Wall Market.”</Entry>
+  <Entry File="colne_1\3b.wav" ID="3" Part="b">“Look,the Don's not into men. So don't   let me catch you around here again…”</Entry>
+  <Entry File="colne_1\4a.wav" ID="4" Part="a">Aeris “Hey,this looks like the Don's mansion.  I'll go take a look.”</Entry>
+  <Entry File="colne_1\4b.wav" ID="4" Part="b">“I'll tell Tifa about you.”</Entry>
+  <Entry File="colne_1\5.wav" ID="5">Cloud “No!! You can't!!”</Entry>
+  <Entry File="colne_1\6.wav" ID="6">Aeris “Why?”</Entry>
+  <Entry File="colne_1\7.wav" ID="7">Cloud “Do you know what kind of  …place this is?”</Entry>
+  <Entry File="colne_1\8.wav" ID="8">Aeris “Then what am I supposed to do?  You want to go in with me?”</Entry>
+  <Entry File="colne_1\9.wav" ID="9">Cloud “Well being a man,that'll be pretty hard.  Besides if I bust in there,  it'll cause too much commotion.”</Entry>
+  <Entry File="colne_1\10.wav" ID="10">Cloud “But,I just can't let you  go in alone…Oh,man…”</Entry>
+  <Entry File="colne_1\11.wav" ID="11">Cloud “First…we need to find out  if Tifa's alright…”</Entry>
+  <Entry File="colne_1\12.wav" ID="12">Cloud “What's so funny,  Aeris?”</Entry>
+  <Entry File="colne_1\13.wav" ID="13">Aeris “Cloud,why don't you  dress up like a girl?  It's the only way.”</Entry>
+  <Entry File="colne_1\14.wav" ID="14">Cloud “WHAT!?”</Entry>
+  <Entry File="colne_1\15.wav" ID="15">Aeris “Just wait. I've got a cute  friend I want to bring.”</Entry>
+  <Entry File="colne_1\16.wav" ID="16">Cloud “Aeris!  I can't…”</Entry>
+  <Entry File="colne_1\17.wav" ID="17">Aeris “You ARE worried about  Tifa,aren't you?  Then come on,hurry!”</Entry>
+  <Entry File="colne_1\18a.wav" ID="18" Part="a">“A friend,huh?  Sounds pretty good to me.”</Entry>
+  <Entry File="colne_1\18b.wav" ID="18" Part="b">“The Don will be happy,too.  Who knows,maybe I can even…heh heh.”</Entry>
+  <Entry File="colne_1\19a.wav" ID="19" Part="a">“Damn!!  Your friend's hot,too!”</Entry>
+  <Entry File="colne_1\19b.wav" ID="19" Part="b">“Come in,come in!!”</Entry>
+  <Entry File="colne_1\20.wav" ID="20">“Two ladies coming through!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="colne_1\0.wav" ID="0">Corneo Hall</Entry>
+-->
+</VoiceList>

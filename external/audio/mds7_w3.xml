@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds7_w3\1.wav" ID="1">“This is a slum,so don't think you can stay  for free.”</Entry>
+  <Entry File="mds7_w3\2a.wav" ID="2" Part="a">“What are you going to do?”</Entry>
+  <Entry File="mds7_w3\2b.wav" ID="2" Part="b">“Doesn't just seeing the bed make you sleepy?” 10 gil no way</Entry>
+  <Entry File="mds7_w3\3a.wav" ID="3" Part="a">“Tough guy,huh!?  You'd better sleep when you can.”</Entry>
+  <Entry File="mds7_w3\3b.wav" ID="3" Part="b">“You'd better save when you can.”</Entry>
+  <Entry File="mds7_w3\3c.wav" ID="3" Part="c">“That's the trick to being tough.  Remember that,old dude.”</Entry>
+  <Entry File="mds7_w3\4.wav" ID="4">“Sweet dreams,pops.”</Entry>
+  <Entry File="mds7_w3\5.wav" ID="5">“Rough times,huh pop?  Not a dime on you?”</Entry>
+  <Entry File="mds7_w3\6.wav" ID="6">Cloud “Hoo…”</Entry>
+  <Entry File="mds7_w3\7.wav" ID="7">“Save Point”  Access the menu  and select “SAVE” to save your game.</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds7_w3\0.wav" ID="0">Sector 7 Slums</Entry>
+-->
+</VoiceList>

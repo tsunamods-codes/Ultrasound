@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="las4_0\1.wav" ID="1">Cloud “This is the center of the Planet?”</Entry>
+  <Entry File="las4_0\2.wav" ID="2">Tifa “Sephiroth is beyond here?'”</Entry>
+  <Entry File="las4_0\3.wav" ID="3">Tifa “Cloud,look.”</Entry>
+  <Entry File="las4_0\7.wav" ID="7">Tifa “This is it.”</Entry>
+  <Entry File="las4_0\8.wav" ID="8">Barret “Here,Cloud.”</Entry>
+  <Entry File="las4_0\12.wav" ID="12">Barret “Alright,this's the last dance!”</Entry>
+  <Entry File="las4_0\13.wav" ID="13">Red XIII “Cloud,I found this…”</Entry>
+  <Entry File="las4_0\16.wav" ID="16">Red XIII “Cloud… “Cloud…  Seems like you got too much Materia.”</Entry>
+  <Entry File="las4_0\18.wav" ID="18">Red XIII “We finally made it here.”</Entry>
+  <Entry File="las4_0\19.wav" ID="19">Cid “Hey,Cloud,  I found this on the way.”</Entry>
+  <Entry File="las4_0\23.wav" ID="23">Cid “Let's just get this over with!”</Entry>
+  <Entry File="las4_0\24.wav" ID="24">Cait Sith “Hey,Cloud,  I found this.”</Entry>
+  <Entry File="las4_0\28.wav" ID="28">Cait Sith “Well,shall we get goin'?”</Entry>
+  <Entry File="las4_0\29.wav" ID="29">Vincent “Hold on to this.”</Entry>
+  <Entry File="las4_0\33.wav" ID="33">Vincent “No,first organize your Materia.  You have too much.”</Entry>
+  <Entry File="las4_0\34.wav" ID="34">Vincent “Hmm…  Being with you all isn't so bad.”</Entry>
+  <Entry File="las4_0\35.wav" ID="35">Yuffie “…  Wh…what?”</Entry>
+  <Entry File="las4_0\36.wav" ID="36">Tifa “By the way Yuffie,  didn't you find something?”</Entry>
+  <Entry File="las4_0\37.wav" ID="37">Barret “Oh yeah,Yuffie,  didn't you find somethin'?”</Entry>
+  <Entry File="las4_0\38.wav" ID="38">Red XIII “By the way Yuffie,  didn't you find something on the way?”</Entry>
+  <Entry File="las4_0\39.wav" ID="39">Cid “Yeah,Yuffie,  didn't you pick up something on the way?”</Entry>
+  <Entry File="las4_0\40.wav" ID="40">Cait Sith “By the way,Yuffie,  didn't you pick up something?”</Entry>
+  <Entry File="las4_0\41.wav" ID="41">Vincent “Yuffie,  just let Cloud have it.”</Entry>
+  <Entry File="las4_0\42.wav" ID="42">Yuffie “Oh,all right.”</Entry>
+  <Entry File="las4_0\43.wav" ID="43">Yuffie “Here,Cloud.”</Entry>
+  <Entry File="las4_0\44.wav" ID="44">Yuffie “But I'm the one who found it,  so you better give it back to me  when you're done with it!”</Entry>
+  <Entry File="las4_0\48.wav" ID="48">Yuffie “Hey!?  But you have lots of Materia!  Then you won't need it.”</Entry>
+  <Entry File="las4_0\50.wav" ID="50">Yuffie “It feels like we made  it as far as we can.”</Entry>
+  <Entry File="las4_0\52.wav" ID="52">Cloud “All right,everyone,let's mosey.”</Entry>
+  <Entry File="las4_0\53a.wav" ID="53" Part="a">Cid “Damn! Again!”</Entry>
+  <Entry File="las4_0\53b.wav" ID="53" Part="b">“Stop sayin' it like a wimp!”</Entry>
+  <Entry File="las4_0\53c.wav" ID="53" Part="c">“Can't you say  'Move out!' or somethin'?”</Entry>
+  <Entry File="las4_0\54.wav" ID="54">Cloud “Move out!!”</Entry>
+  <Entry File="las4_0\55.wav" ID="55">Barret “What?”</Entry>
+  <Entry File="las4_0\56.wav" ID="56">Red XIII “Look at the number…”</Entry>
+  <Entry File="las4_0\57.wav" ID="57">Cid “%#@^! They're comin'  out in full force!”</Entry>
+  <Entry File="las4_0\58.wav" ID="58">Barret “Cloud!  You go first!”</Entry>
+  <Entry File="las4_0\59.wav" ID="59">Cloud “OK,I'm going alone.”</Entry>
+  <Entry File="las4_0\60.wav" ID="60">Barret “Shu'up! It won't  do us no good wit'  everyone back here!”</Entry>
+  <Entry File="las4_0\61a.wav" ID="61" Part="a">Cid “Barret's right.”</Entry>
+  <Entry File="las4_0\61b.wav" ID="61" Part="b">“You take two of us with  you and go first. The rest'll  catch up with ya later.”</Entry>
+  <Entry File="las4_0\62.wav" ID="62">Tifa “Is this like a practice run  before the final battle?”</Entry>
+  <Entry File="las4_0\63.wav" ID="63">Cait Sith “Yeah,a major practice run…”</Entry>
+  <Entry File="las4_0\64.wav" ID="64">Yuffie “I'm fine with that.” (It's probably more fun than  meeting Sephiroth down there.)</Entry>
+  <Entry File="las4_0\65.wav" ID="65">Vincent “Hmm,this might be  fun to pass time.”</Entry>
+  <Entry File="las4_0\66.wav" ID="66">Red XIII “They're coming!  They're already on the floor next to us!”</Entry>
+  <Entry File="las4_0\67.wav" ID="67">Barret “Cloud!  Hurry up and  make up your mind!”</Entry>
+  <Entry File="las4_0\68.wav" ID="68">Cloud “All of you!”</Entry>
+  <Entry File="las4_0\69.wav" ID="69">Cloud “Later!”</Entry>
+  <Entry File="las4_0\70.wav" ID="70">Barret “Yeah,later.”</Entry>
+  <Entry File="las4_0\71.wav" ID="71">Cid “Yup! Later!”</Entry>
+  <Entry File="las4_0\72.wav" ID="72">Tifa “We'll meet up later.”</Entry>
+  <Entry File="las4_0\73.wav" ID="73">Cloud “This is all we could do.”</Entry>
+  <Entry File="las4_0\74.wav" ID="74">Barret “Wait! What about Holy?  What's gonna happen  to the Planet?”</Entry>
+  <Entry File="las4_0\75.wav" ID="75">Cloud “That…I don't know.  Isn't the rest up to the Planet?”</Entry>
+  <Entry File="las4_0\76a.wav" ID="76" Part="a">Tifa “…You're right.”</Entry>
+  <Entry File="las4_0\76b.wav" ID="76" Part="b">“We've done all that we could do.”</Entry>
+  <Entry File="las4_0\77.wav" ID="77">Cloud “All right,everyone.”</Entry>
+  <Entry File="las4_0\78a.wav" ID="78" Part="a">Cloud “We did our best.”</Entry>
+  <Entry File="las4_0\78b.wav" ID="78" Part="b">“That's it.”</Entry>
+  <Entry File="las4_0\79.wav" ID="79">Cloud “Let's go home proud.”</Entry>
+  <Entry File="las4_0\80.wav" ID="80">Tifa “What happened?”</Entry>
+  <Entry File="las4_0\81.wav" ID="81">Cloud “…I feel it…”</Entry>
+  <Entry File="las4_0\82.wav" ID="82">Tifa “What…”</Entry>
+  <Entry File="las4_0\83.wav" ID="83">Cloud “He is still…here.”</Entry>
+  <Entry File="las4_0\84.wav" ID="84">Cloud “Still…”</Entry>
+  <Entry File="las4_0\85.wav" ID="85">Tifa “Cloud!?”</Entry>
+  <Entry File="las4_0\86.wav" ID="86">Cloud “He's…laughing…”</Entry>
+  <Entry File="las4_0\87.wav" ID="87">Tifa “Cloud!”</Entry>
+  <Entry File="las4_0\88.wav" ID="88">“Sephiroth!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="las4_0\0.wav" ID="0">Bottom of Northern Cave</Entry>
+	<Entry File="las4_0\4.wav" ID="4">Received "Megalixir"!</Entry>
+	<Entry File="las4_0\5.wav" ID="5">Received "Hero Drink"!</Entry>
+	<Entry File="las4_0\6.wav" ID="6">Received "Turbo Ether"!</Entry>
+	<Entry File="las4_0\9.wav" ID="9">Received "Guard Source"!</Entry>
+	<Entry File="las4_0\10.wav" ID="10">Received "Vaccine"!</Entry>
+	<Entry File="las4_0\11.wav" ID="11">Received "Remedy"!</Entry>
+	<Entry File="las4_0\14.wav" ID="14">Received "Mind Source"!</Entry>
+	<Entry File="las4_0\15.wav" ID="15">Received "Shield" Materia!</Entry>
+	<Entry File="las4_0\17.wav" ID="17">Received "Speed Source"!</Entry>
+	<Entry File="las4_0\20.wav" ID="20">Received "Speed Source"!</Entry>
+	<Entry File="las4_0\21.wav" ID="21">Received "Imperial Guard"!</Entry>
+	<Entry File="las4_0\22.wav" ID="22">Received "Elixir"!</Entry>
+	<Entry File="las4_0\25.wav" ID="25">Received "Elixir"!</Entry>
+	<Entry File="las4_0\26.wav" ID="26">Received "Remedy"!</Entry>
+	<Entry File="las4_0\27.wav" ID="27">Received "X-Potion"!</Entry>
+	<Entry File="las4_0\30.wav" ID="30">Received "Mythril"!</Entry>
+	<Entry File="las4_0\31.wav" ID="31">Received "Magic Source"!</Entry>
+	<Entry File="las4_0\32.wav" ID="32">Received "MegaAll" Materia!</Entry>
+	<Entry File="las4_0\45.wav" ID="45">Received "Megalixir"!</Entry>
+	<Entry File="las4_0\46.wav" ID="46">Received "W Magic" Materia!</Entry>
+	<Entry File="las4_0\47.wav" ID="47">Received "Counter" Materia!</Entry>
+	<Entry File="las4_0\49.wav" ID="49">Received "Vaccine"!</Entry>
+	<Entry File="las4_0\51.wav" ID="51">Cloud Let's get going (No,not yet…)</Entry>
+	<Entry File="las4_0\89.wav" ID="89">  akaob P$$ -28Bf </Entry>
+	<Entry File="las4_0\90.wav" ID="90">  akaob P$$ -28Bf </Entry>
+	<Entry File="las4_0\91.wav" ID="91">  akaob P$$ -28Bf </Entry>
+-->
+</VoiceList>

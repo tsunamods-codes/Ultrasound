@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="nivl_3\1.wav" ID="1">Tifa “What!?”</Entry>
+  <Entry File="nivl_3\2.wav" ID="2">Tifa “This was all burnt down,wasn't it?”</Entry>
+  <Entry File="nivl_3\3.wav" ID="3">Cloud “…I thought so.”</Entry>
+  <Entry File="nivl_3\4.wav" ID="4">Tifa “Then why…    My house is still here too…”</Entry>
+  <Entry File="nivl_3\5.wav" ID="5">Barret “The hell's goin' on!?    This a dream or somethin'?”</Entry>
+  <Entry File="nivl_3\6.wav" ID="6">Aeris “…Something's strange?”</Entry>
+  <Entry File="nivl_3\7.wav" ID="7">Red XIII “I wonder what's going on…”</Entry>
+  <Entry File="nivl_3\8.wav" ID="8">Cait Sith “Cloud,maybe you  were just dreaming…?”</Entry>
+  <Entry File="nivl_3\9.wav" ID="9">Cid “Hey,it isn't like    what you told me!”</Entry>
+  <Entry File="nivl_3\10.wav" ID="10">Yuffie “What the…?”</Entry>
+  <Entry File="nivl_3\11.wav" ID="11">Barret “You said the whole town burnt down,right?”</Entry>
+  <Entry File="nivl_3\12.wav" ID="12">Aeris “This is Nibelheim,right?    But the town's all here.”</Entry>
+  <Entry File="nivl_3\13.wav" ID="13">Red XIII “This is Nibelheim?    I heard it burnt down.”</Entry>
+  <Entry File="nivl_3\14.wav" ID="14">Cait Sith “The whole town was destroyed by Sephiroth.    At least that's what I heard…”</Entry>
+  <Entry File="nivl_3\15.wav" ID="15">Cid “Didn't you say that your hometown    burned down?”</Entry>
+  <Entry File="nivl_3\16.wav" ID="16">Yuffie “I thought someone said    this town burnt down!”</Entry>
+  <Entry File="nivl_3\17.wav" ID="17">Cloud “…Yeah.”</Entry>
+  <Entry File="nivl_3\18.wav" ID="18">Barret “You tryin' to fool us?”</Entry>
+  <Entry File="nivl_3\19.wav" ID="19">Aeris “Hey,what's going on?”</Entry>
+  <Entry File="nivl_3\20.wav" ID="20">Red XIII “Cloud…    Did you lie to us?”</Entry>
+  <Entry File="nivl_3\21.wav" ID="21">Cait Sith “Cloud,did you make up that story    just to get our support?”</Entry>
+  <Entry File="nivl_3\22.wav" ID="22">Cid “Yo,Cloud.    It's not good to lie.”</Entry>
+  <Entry File="nivl_3\23.wav" ID="23">Yuffie “What happened?”</Entry>
+  <Entry File="nivl_3\24.wav" ID="24">Cloud “I'm not lying!”</Entry>
+  <Entry File="nivl_3\25.wav" ID="25">Cloud “I remember…the intense heat of the flames…”</Entry>
+  <Entry File="nivl_3\26.wav" ID="26">“Wooow…    He's…calling…Sephiroth…    is…calling…”</Entry>
+  <Entry File="nivl_3\28a.wav" ID="28" Part="a">“The…Great…Se…phi…roth…    is…near…"</Entry>
+  <Entry File="nivl_3\28b.wav" ID="28" Part="b">“In…side…inside…the Mansion…    Urrrrrrrgh…the great…Sephi…roth”</Entry>
+  <Entry File="nivl_3\29a.wav" ID="29" Part="a">“Great…Sephi…roth…    …left us…”</Entry>
+  <Entry File="nivl_3\29b.wav" ID="29" Part="b">“Over…mountains…    …gone…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="nivl_3\0.wav" ID="0">Nibelheim</Entry>
+	<Entry File="nivl_3\27.wav" ID="27">Got "Mind Plus!"</Entry>
+-->
+</VoiceList>

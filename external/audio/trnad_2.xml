@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="trnad_2\1.wav" ID="1">Cloud “That's…!!!”</Entry>
+  <Entry File="trnad_2\2.wav" ID="2">Cloud “Rufus is coming here,too?”</Entry>
+  <Entry File="trnad_2\5.wav" ID="5">“You cannot take on any more Materia.  Please discard some Materia.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="trnad_2\0.wav" ID="0">Whirlwind Maze</Entry>
+	<Entry File="trnad_2\3.wav" ID="3">[Save Point]  Access the Menu and select  [SAVE] to save your game.</Entry>
+	<Entry File="trnad_2\4.wav" ID="4">Received "Neo Bahamut" Materia!</Entry>
+-->
+</VoiceList>

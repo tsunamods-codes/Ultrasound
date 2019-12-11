@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ship_2\1a.wav" ID="1" Part="a">Barret “Look,Cloud.  It's Rufus and Heidegger.”</Entry>
+  <Entry File="ship_2\1b.wav" ID="1" Part="b">“They're this close but we can't do  a thing to 'em…”</Entry>
+  <Entry File="ship_2\2a.wav" ID="2" Part="a">Barret “Ummmm…  Gmmmmm…”</Entry>
+  <Entry File="ship_2\2b.wav" ID="2" Part="b">“How can he…  Goin' off laughin' like that?”</Entry>
+  <Entry File="ship_2\2c.wav" ID="2" Part="c">“Because of him,  Biggs,  Wedge,  Jessie…”</Entry>
+  <Entry File="ship_2\2d.wav" ID="2" Part="d">“Ggggggggh…  Ggggh…  Ggggggghhh!!”</Entry>
+  <Entry File="ship_2\3a.wav" ID="3" Part="a">Barret “God!!  I can't take it anymore!”</Entry>
+  <Entry File="ship_2\3b.wav" ID="3" Part="b">“I'm gonna settle  things here and now!”</Entry>
+  <Entry File="ship_2\4a.wav" ID="4" Part="a">“Emergency alert! Reports of a  stowaway found!  Those not on detail,search  the ship. Report when found!”</Entry>
+  <Entry File="ship_2\4b.wav" ID="4" Part="b">“I repeat…  Stowaway sighted on board!  Those not on detail,search the ship.  Report when found!”</Entry>
+  <Entry File="ship_2\5.wav" ID="5">Barret “Damn,did they find us!?”</Entry>
+  <Entry File="ship_2\6.wav" ID="6">Barret “Hmm,I don't think it's us.  Did they find Tifa  and the others!?”</Entry>
+  <Entry File="ship_2\7.wav" ID="7">Barret “Get off your spikey butt and  let's go,Cloud!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ship_2\0.wav" ID="0">Cargo Ship</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blin1\1.wav" ID="1">Receptionist “Excuse me! If you don't have an  appointment,you'll have to…”</Entry>
+  <Entry File="blin1\2a.wav" ID="2" Part="a">Barret “I don't need no appointment…  This is a 'mergency!”</Entry>
+  <Entry File="blin1\2b.wav" ID="2" Part="b">“And anyone who don't wanna get their  face bashed in better git outta the way!!”</Entry>
+  <Entry File="blin1\3.wav" ID="3">“Yaagghh!”</Entry>
+  <Entry File="blin1\4.wav" ID="4">“Who do they think  they are?”</Entry>
+  <Entry File="blin1\5.wav" ID="5">“D,do you think  they're AVALANCHE?”</Entry>
+  <Entry File="blin1\6.wav" ID="6">“Intruders!  Seize them!!”</Entry>
+  <Entry File="blin1\7.wav" ID="7">Barret “Let's go to the top!”</Entry>
+  <Entry File="blin1\8.wav" ID="8">“Battle!!”</Entry>
+  <Entry File="blin1\9.wav" ID="9">Barret “I'll go on ahead!”</Entry>
+  <Entry File="blin1\10a.wav" ID="10" Part="a">Barret “*&amp;^%(*…  We're surrounded!”</Entry>
+  <Entry File="blin1\10b.wav" ID="10" Part="b">“If I was alone this wouldn't be a thing,but  I gotta reputation to protect.”</Entry>
+  <Entry File="blin1\11a.wav" ID="11" Part="a">Aeris “You all get out  while you can.”</Entry>
+  <Entry File="blin1\11b.wav" ID="11" Part="b">“It's not you they're after…  it's me.”</Entry>
+  <Entry File="blin1\12a.wav" ID="12" Part="a">Barret “Yeah,well that ain't happenin'.”</Entry>
+  <Entry File="blin1\12b.wav" ID="12" Part="b">“You got caught up in this over Marlene.  Now,it's my turn to help you!”</Entry>
+  <Entry File="blin1\13.wav" ID="13">Barret “OK,playtime's over  jackasses…”</Entry>
+  <Entry File="blin1\14.wav" ID="14">Aeris “…Thank you,Mr. Barret!”</Entry>
+  <Entry File="blin1\15.wav" ID="15">Barret “Who you callin' Mr. Barret?  That don't sound right!”</Entry>
+  <Entry File="blin1\16a.wav" ID="16" Part="a">Red XIII “Well then…”</Entry>
+  <Entry File="blin1\16b.wav" ID="16" Part="b">“If you are through talking,  may I suggest that we think of  a way to get out of here.”</Entry>
+  <Entry File="blin1\17.wav" ID="17">Barret “Huh? Oh,oh yeah…  You're cold,man.  Just like someone else 'round here I know.”</Entry>
+  <Entry File="blin1\18.wav" ID="18">Red XIII “Did you say something?”</Entry>
+  <Entry File="blin1\19.wav" ID="19">Barret “Notta thing.  So what're we gonna do?”</Entry>
+  <Entry File="blin1\20.wav" ID="20">Tifa “Barret!!”</Entry>
+  <Entry File="blin1\21.wav" ID="21">Barret “Tifa!  Where's Cloud?”</Entry>
+  <Entry File="blin1\22.wav" ID="22">Tifa “Everyone! Over here!”</Entry>
+  <Entry File="blin1\23.wav" ID="23">Barret “Huh?  What's up?  Where's Cloud?”</Entry>
+  <Entry File="blin1\24.wav" ID="24">Tifa “He's coming!  Hurry,Hurry!!”</Entry>
+  <Entry File="blin1\25.wav" ID="25">Aeris “Quickly! We'll  escape this way…”</Entry>
+  <Entry File="blin1\26.wav" ID="26">Cloud “Nope.  Have to find another way up,  I guess…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blin1\0.wav" ID="0">Shinra Bldg. 1f. lobby</Entry>
+	<Entry File="blin1\27.wav" ID="27">the movie continues</Entry>
+	<Entry File="blin1\28.wav" ID="28">[Shinra S-27]</Entry>
+	<Entry File="blin1\29.wav" ID="29">[Shinra PA-86]</Entry>
+	<Entry File="blin1\30.wav" ID="30">[Shinra S-510]</Entry>
+	<Entry File="blin1\31.wav" ID="31">[Shinra SA-37]</Entry>
+	<Entry File="blin1\32a.wav" ID="32" Part="a">Turtle's Paradise Newsletter No. 2</Entry>
+	<Entry File="blin1\32b.wav" ID="32" Part="b">The end of another hard day. Wouldn't you like to sit back with a tall cool one?</Entry>
+	<Entry File="blin1\32c.wav" ID="32" Part="c">You can at the Turtle's Paradise!! Stop in today!</Entry>
+	<Entry File="blin1\32d.wav" ID="32" Part="d">There's nothing like a smooth one after work!</Entry>
+	<Entry File="blin1\33a.wav" ID="33" Part="a">Shinra,Inc. Our slogan is:</Entry>
+	<Entry File="blin1\33b.wav" ID="33" Part="b">Shinra's Future Is  The World's Future!!</Entry>
+	<Entry File="blin1\33c.wav" ID="33" Part="c">Mako Energy For A  Brighter World!!</Entry>
+-->
+</VoiceList>

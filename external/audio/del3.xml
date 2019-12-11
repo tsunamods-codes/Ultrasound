@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="del3\1.wav" ID="1">Aeris “Oh!  Cloud!!”</Entry>
+  <Entry File="del3\2.wav" ID="2">Tifa “Look,look at that!”</Entry>
+  <Entry File="del3\3.wav" ID="3">Cloud “Hm?” Who,Hojo? That girl in the bikini?</Entry>
+  <Entry File="del3\4.wav" ID="4">Cloud “Is that man over there,Hojo?”</Entry>
+  <Entry File="del3\5.wav" ID="5">Tifa “Go over and talk to him.”</Entry>
+  <Entry File="del3\6.wav" ID="6">Cloud “Not a bad view…”</Entry>
+  <Entry File="del3\7a.wav" ID="7" Part="a">Tifa “What're you looking at?”</Entry>
+  <Entry File="del3\7b.wav" ID="7" Part="b">“That man over there. That's Hojo from Shinra.  Get outta here  Go talk to him!”</Entry>
+  <Entry File="del3\8.wav" ID="8">“God!!  What do you want?” I want to talk with him Is that Hojo?</Entry>
+  <Entry File="del3\9a.wav" ID="9" Part="a">“(Hey,who do you think you are?)”</Entry>
+  <Entry File="del3\9b.wav" ID="9" Part="b">“Professor Hojo.  That scary man says  he wants to talk with you.”</Entry>
+  <Entry File="del3\10a.wav" ID="10" Part="a">“(What's his problem?)”</Entry>
+  <Entry File="del3\10b.wav" ID="10" Part="b">“Yes,that's right.  It's the Professor!”</Entry>
+  <Entry File="del3\11.wav" ID="11">“Professor…  someone's here to see you,sir.”</Entry>
+  <Entry File="del3\12.wav" ID="12">Aeris “I have a bad feeling about this.”</Entry>
+  <Entry File="del3\13.wav" ID="13">Hojo “I'm busy right now.”</Entry>
+  <Entry File="del3\14.wav" ID="14">“…But,  Too bad.”</Entry>
+  <Entry File="del3\15.wav" ID="15">Hojo “No,  I remember you all now…”</Entry>
+  <Entry File="del3\16a.wav" ID="16" Part="a">“Heh heh heh…  All right. You sure are loud.”</Entry>
+  <Entry File="del3\16b.wav" ID="16" Part="b">“Long time no see,Cloud.”</Entry>
+  <Entry File="del3\17a.wav" ID="17" Part="a">Hojo “Yes,yes. I remember now.”</Entry>
+  <Entry File="del3\17b.wav" ID="17" Part="b">“It's been a long time,Cloud.”</Entry>
+  <Entry File="del3\18.wav" ID="18">Cloud “Hojo…”</Entry>
+  <Entry File="del3\19.wav" ID="19">Hojo “Sometimes you just gotta do   something like this.”</Entry>
+  <Entry File="del3\20.wav" ID="20">Cloud “What are you doing?”</Entry>
+  <Entry File="del3\21.wav" ID="21">Hojo “It should be obvious,  I'm getting a tan.”</Entry>
+  <Entry File="del3\22.wav" ID="22">Cloud “Answer me!”</Entry>
+  <Entry File="del3\23.wav" ID="23">Hojo “Hmm!  I believe we're both after the same goal.”</Entry>
+  <Entry File="del3\24.wav" ID="24">Cloud “You mean Sephiroth?”</Entry>
+  <Entry File="del3\25.wav" ID="25">Hojo “Did you see him?”</Entry>
+  <Entry File="del3\26.wav" ID="26">Hojo “I see…Ha! Ha!”</Entry>
+  <Entry File="del3\27.wav" ID="27">Cloud “What is it?”</Entry>
+  <Entry File="del3\28a.wav" ID="28" Part="a">Hojo “Nothing. I just remembered  a certain hypothesis…”</Entry>
+  <Entry File="del3\28b.wav" ID="28" Part="b">“Haven't you ever had the feeling  something is calling you?”</Entry>
+  <Entry File="del3\28c.wav" ID="28" Part="c">“Or that you had to visit  some place?”</Entry>
+  <Entry File="del3\29a.wav" ID="29" Part="a">Cloud “I'll go anywhere Sephiroth is at!”</Entry>
+  <Entry File="del3\29b.wav" ID="29" Part="b">“To beat him and put an end to all this!”</Entry>
+  <Entry File="del3\30a.wav" ID="30" Part="a">Hojo “I see…  This could be interesting.”</Entry>
+  <Entry File="del3\30b.wav" ID="30" Part="b">“Were you in SOLDIER? Heh heh heh!  Would you like to be my guinea pig?”</Entry>
+  <Entry File="del3\31.wav" ID="31">Hojo “Oh,now what?  Are you going to draw your sword?”</Entry>
+  <Entry File="del3\32.wav" ID="32">Aeris “Cloud,don't.  If he dies,we won't find out anything!”</Entry>
+  <Entry File="del3\33.wav" ID="33">Tifa “Stop,Cloud!  I know how you feel,but you mustn't.”</Entry>
+  <Entry File="del3\34.wav" ID="34">Barret “Yo,yo!  It's a bad idea to kill him.”</Entry>
+  <Entry File="del3\35.wav" ID="35">Red XIII “…huff…puff…  Stop,Cloud!”</Entry>
+  <Entry File="del3\36.wav" ID="36">Yuffie “Knock it off,Cloud!  Look I don't know,  but he knows a lot of stuff,right?”</Entry>
+  <Entry File="del3\37.wav" ID="37">Hojo “Ha! Ha! Ha!…”</Entry>
+  <Entry File="del3\38.wav" ID="38">Hojo “Say,  aren't you the 'Ancient'? ”</Entry>
+  <Entry File="del3\39.wav" ID="39">Aeris “I'm Aeris.  The least you can do is  remember my name.”</Entry>
+  <Entry File="del3\40.wav" ID="40">Aeris “I want you to tell me something,  Professor Hojo…”</Entry>
+  <Entry File="del3\41.wav" ID="41">Aeris “I know I'm an Ancient.  My mother told me.”</Entry>
+  <Entry File="del3\42.wav" ID="42">Hojo “Your mother?  Oh,you mean Ifalna.  How is she?”</Entry>
+  <Entry File="del3\43.wav" ID="43">Aeris “You didn't know!?  She died.”</Entry>
+  <Entry File="del3\44.wav" ID="44">Hojo “…I see.”</Entry>
+  <Entry File="del3\45a.wav" ID="45" Part="a">Aeris “Professor Hojo?”</Entry>
+  <Entry File="del3\45b.wav" ID="45" Part="b">“Is Jenova an Ancient?  Is Sephiroth an Ancient?  Do we all have the same blood?”</Entry>
+  <Entry File="del3\46.wav" ID="46">Hojo “…”</Entry>
+  <Entry File="del3\47.wav" ID="47">Hojo “…mumble…mumble…head west…”</Entry>
+  <Entry File="del3\48.wav" ID="48">Aeris “He's mumbling slowly…  That must mean he's hiding something!”</Entry>
+  <Entry File="del3\49.wav" ID="49">Tifa “Hey!  Answer us!!”</Entry>
+  <Entry File="del3\50.wav" ID="50">Red XIII “Grrr,Grrr…  …huff…puff…”</Entry>
+  <Entry File="del3\51.wav" ID="51">Cloud “It's no use.  It's no go.”</Entry>
+  <Entry File="del3\52.wav" ID="52">“Professor Hojo is so sweet.  He's going to experiment on me.”</Entry>
+  <Entry File="del3\53.wav" ID="53">“He never takes off his lab coat  even in this heat.  I guess that's the mark of an intellectual.”</Entry>
+  <Entry File="del3\54a.wav" ID="54" Part="a">“I'll interpret Professor Hojo's whispers.”</Entry>
+  <Entry File="del3\54b.wav" ID="54" Part="b">“Head west,past Mt. Corel and keep going…”</Entry>
+  <Entry File="del3\54c.wav" ID="54" Part="c">“Did you get that?  I didn't understand it well,myself.”</Entry>
+  <Entry File="del3\55.wav" ID="55">“I'd be happy to be a guinea pig,  if it's for Professor Hojo!”</Entry>
+  <Entry File="del3\56a.wav" ID="56" Part="a">“Yes,Professor Hojo.  Where?”</Entry>
+  <Entry File="del3\56b.wav" ID="56" Part="b">“It looks like the Professor discovered   or found a solution to something.”</Entry>
+  <Entry File="del3\56c.wav" ID="56" Part="c">“You know,I wonder…  if they headed west for Mt. Corel?”</Entry>
+  <Entry File="del3\57a.wav" ID="57" Part="a">“I'm getting a little sad.”</Entry>
+  <Entry File="del3\57b.wav" ID="57" Part="b">“Professor Hojo looks happy like a child  when he discovers something.  He gets this big smile and then laughs…”</Entry>
+  <Entry File="del3\57c.wav" ID="57" Part="c">“I guess we should chase after him.  A vacation for two  from Mt. Corel to Gold Saucer.”</Entry>
+  <Entry File="del3\58a.wav" ID="58" Part="a">“That's right!!  It totally skipped my mind!”</Entry>
+  <Entry File="del3\58b.wav" ID="58" Part="b">“There was something  I was supposed to tell you.”</Entry>
+  <Entry File="del3\59.wav" ID="59">“That's right!  It's about that!”</Entry>
+  <Entry File="del3\60a.wav" ID="60" Part="a">“It was yesterday.   A man wearing a black cape  came up from the ocean.”</Entry>
+  <Entry File="del3\60b.wav" ID="60" Part="b">“I think he had tickets for the Gold Saucer…  no,that wasn't it…  I wonder if it was all just an illusion?”</Entry>
+  <Entry File="del3\61.wav" ID="61">“Hey!  President Rufus came here yesterday.”</Entry>
+  <Entry File="del3\62a.wav" ID="62" Part="a">“He used to be the President's little boy.  We nicknamed him the little Prez!”</Entry>
+  <Entry File="del3\62b.wav" ID="62" Part="b">“He didn't look much different   than the surfers on the beach.”</Entry>
+  <Entry File="del3\63.wav" ID="63">“heh heh…  All the good ones are gone.”</Entry>
+  <Entry File="del3\64.wav" ID="64">“What about that one?  Shall we make do with her?”</Entry>
+  <Entry File="del3\65.wav" ID="65">“But she's got a guy with her.”</Entry>
+  <Entry File="del3\66.wav" ID="66">“No problem,  I can handle him.”</Entry>
+  <Entry File="del3\67.wav" ID="67">“Right? You thought so,too?”</Entry>
+  <Entry File="del3\68.wav" ID="68">“Geez! What about those two?”</Entry>
+  <Entry File="del3\69.wav" ID="69">“Heh heh…I want the one on the left.”</Entry>
+  <Entry File="del3\70.wav" ID="70">“Well then,  I guess that leaves me  with the one on the right.”</Entry>
+  <Entry File="del3\71.wav" ID="71">“Hey…  heh heh…don't forget to talk to me,too.”</Entry>
+  <Entry File="del3\72a.wav" ID="72" Part="a">“Yipes!!  Help!!”</Entry>
+  <Entry File="del3\72b.wav" ID="72" Part="b">“…breath…breath!  Kind of takes your breath away,don't it!?”</Entry>
+  <Entry File="del3\73a.wav" ID="73" Part="a">“If you're headed for Mt. Corel,  then you'd better buy  some "Soft".”</Entry>
+  <Entry File="del3\73b.wav" ID="73" Part="b">“At least that's what they always say,  don't they?”</Entry>
+  <Entry File="del3\73c.wav" ID="73" Part="c">“Be prepared,and you'll never fear.”</Entry>
+  <Entry File="del3\73d.wav" ID="73" Part="d">“Hey,I'm no idiot. I NEVER count my chickens  before they hatch! Not bad,huh?”</Entry>
+  <Entry File="del3\74a.wav" ID="74" Part="a">“Hmm. Man,I'm draggin' today.  It's all Shinra's fault.”</Entry>
+  <Entry File="del3\74b.wav" ID="74" Part="b">“I really hate Shinra,Inc.!  They're all crooked,those Shinra.”</Entry>
+  <Entry File="del3\74c.wav" ID="74" Part="c">“Hmm…  What a bitter guy  Chill out a bit.”</Entry>
+  <Entry File="del3\75a.wav" ID="75" Part="a">“Eeeew!!  Leave me alone!”</Entry>
+  <Entry File="del3\75b.wav" ID="75" Part="b">“Ublk! …glug…glug…  You're gonna make  me drown!”</Entry>
+  <Entry File="del3\76.wav" ID="76">“Always the same story…  Women never pay any attention to me…”</Entry>
+  <Entry File="del3\77.wav" ID="77">“If this is your idea of flirting…forget it.  I do fine as it is.”</Entry>
+  <Entry File="del3\78.wav" ID="78">“The sea,the wind and the sun.  Don't you just love the outdoors?  It always puts me back on track.”</Entry>
+  <Entry File="del3\79.wav" ID="79">“Hey,good timing.   Would you mind putting lotion on me?” With pleasure Sorry</Entry>
+  <Entry File="del3\80a.wav" ID="80" Part="a">“Uhhhnn…”</Entry>
+  <Entry File="del3\80b.wav" ID="80" Part="b">“Than--kyu!”</Entry>
+  <Entry File="del3\81.wav" ID="81">“Hey,loosen up a bit.”</Entry>
+  <Entry File="del3\82a.wav" ID="82" Part="a">“Eaaggh!!  Leave me alone!”</Entry>
+  <Entry File="del3\82b.wav" ID="82" Part="b">“I'm trying to learn how to swim  before the end of the world.”</Entry>
+  <Entry File="del3\83a.wav" ID="83" Part="a">“Eaaggh!!  Leave me alone!”</Entry>
+  <Entry File="del3\83b.wav" ID="83" Part="b">“I'm trying to learn how to swim  before the end of the world.”</Entry>
+  <Entry File="del3\84.wav" ID="84">“Sitting around waiting for Meteor to come……  Why's it gotta fall on us?”</Entry>
+  <Entry File="del3\85.wav" ID="85">“It's getting closer and closer.  Someone will do something,don't you think?”</Entry>
+  <Entry File="del3\86.wav" ID="86">“The sea breeze,sun and Meteor.  Isn't nature strange?”</Entry>
+  <Entry File="del3\87a.wav" ID="87" Part="a">“I don't care even if it is the end of the world,  I just want to sit here and drink cocktails!”</Entry>
+  <Entry File="del3\87b.wav" ID="87" Part="b">“Ooooh…I think I drank too much.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="del3\0.wav" ID="0">Costa del Sol</Entry>
+-->
+</VoiceList>

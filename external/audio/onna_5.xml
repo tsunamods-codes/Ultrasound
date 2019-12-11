@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="onna_5\1.wav" ID="1">“…wheez…”</Entry>
+  <Entry File="onna_5\2.wav" ID="2">“Phew…”</Entry>
+  <Entry File="onna_5\3.wav" ID="3">“What's wrong,Grandpa?  You keep sighing.”</Entry>
+  <Entry File="onna_5\4.wav" ID="4">“…wheez…puff…  You know,Grandma…”</Entry>
+  <Entry File="onna_5\5.wav" ID="5">“Is this the room?”</Entry>
+  <Entry File="onna_5\6a.wav" ID="6" Part="a">“…whew…  I know our son rented this  for us and all,but…”</Entry>
+  <Entry File="onna_5\6b.wav" ID="6" Part="b">“It's too nice for us.  Big round bed,gorgeous tub,  I just can't get comfortable.”</Entry>
+  <Entry File="onna_5\7a.wav" ID="7" Part="a">“Don't worry about it.  It's a high class neighborhood,  in the Big City.”</Entry>
+  <Entry File="onna_5\7b.wav" ID="7" Part="b">“You keep complainin' and  we'll get in trouble.”</Entry>
+  <Entry File="onna_5\8.wav" ID="8">“Hey Grandma.  What's the name of the company  our son works for?”</Entry>
+  <Entry File="onna_5\9.wav" ID="9">“Oh,Grandpa.  Did you forget again?”</Entry>
+  <Entry File="onna_5\10.wav" ID="10">“…heave…  It's getting worse…”</Entry>
+  <Entry File="onna_5\11.wav" ID="11">“It's Shinra,you know,Shinra,Inc.?  It's the biggest company in the city.”</Entry>
+  <Entry File="onna_5\12.wav" ID="12">“If it's the biggest company,  it must be something.”</Entry>
+  <Entry File="onna_5\13a.wav" ID="13" Part="a">“Yeah.  It IS really something.”</Entry>
+  <Entry File="onna_5\13b.wav" ID="13" Part="b">“He's doing well,and he told me that  he's been promoted to department head.”</Entry>
+  <Entry File="onna_5\14.wav" ID="14">“Oh…thanks to him we're   able to stay in a room like this.”</Entry>
+  <Entry File="onna_5\15.wav" ID="15">“Yeah,I'm really grateful.”</Entry>
+  <Entry File="onna_5\16.wav" ID="16">“Well,you wanna go to sleep?”</Entry>
+  <Entry File="onna_5\17.wav" ID="17">“All right…”</Entry>
+  <Entry File="onna_5\18.wav" ID="18">“Good night.”</Entry>
+  <Entry File="onna_5\19.wav" ID="19">“Yeah,good night.”</Entry>
+  <Entry File="onna_5\20.wav" ID="20">“…snore…snore…”</Entry>
+  <Entry File="onna_5\21.wav" ID="21">“…Heebeebeebee…snore…”</Entry>
+  <Entry File="onna_5\35.wav" ID="35">“Psst…  (Hey,shouldn't we stop him soon?)”</Entry>
+  <Entry File="onna_5\36.wav" ID="36">“…whisper…whisper…  (We have a luncheon  with President Shinra…)”</Entry>
+  <Entry File="onna_5\37.wav" ID="37">“Psst…  (You tell him……)”</Entry>
+  <Entry File="onna_5\38.wav" ID="38">“Psst…  (I can't tell him…)”</Entry>
+  <Entry File="onna_5\39.wav" ID="39">“Psst…  (Come on!! Oh,well…)”</Entry>
+  <Entry File="onna_5\40.wav" ID="40">“Psst…  (I'm so disgusted with the President.)”</Entry>
+  <Entry File="onna_5\41a.wav" ID="41" Part="a">“Psst…  (This happens every time we  come to Midgar on business.)”</Entry>
+  <Entry File="onna_5\41b.wav" ID="41" Part="b">“(We came all the way to Midgar,  just for this?)”</Entry>
+  <Entry File="onna_5\42.wav" ID="42">“Psst…  (What're you complaining about?  You're just holding the lights.  I've gotta wear this heavy armor!)”</Entry>
+  <Entry File="onna_5\43.wav" ID="43">“Psst…  (I know,I know…  but it's all part of the job.)”</Entry>
+  <Entry File="onna_5\44.wav" ID="44">“Psst…  (Oh yeah,did you hear?  The President's wife found out  about this little hobby of his.)”</Entry>
+  <Entry File="onna_5\45.wav" ID="45">“Psst…  (Ha,ha…no way,  I didn't know that.)”</Entry>
+  <Entry File="onna_5\46.wav" ID="46">“Psst…  (Oh,looks like he's done.  Man,I'm glad!!)”</Entry>
+  <Entry File="onna_5\47.wav" ID="47">“Geez!! Mr. President!!  I mean,Your Majesty.”</Entry>
+  <Entry File="onna_5\48.wav" ID="48">“Ohhh…I'm sorry.  Please remove the ancient curse!”</Entry>
+  <Entry File="onna_5\49.wav" ID="49">“Psst…  (Oh man,not again!?)”</Entry>
+  <Entry File="onna_5\50.wav" ID="50">“Psst…  (How many times IS this?)”</Entry>
+  <Entry File="onna_5\51.wav" ID="51">“Psst…  (I don't even know…  whew…the King sure gets into this…)”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="onna_5\0.wav" ID="0">Honey Bee Inn</Entry>
+	<Entry File="onna_5\22.wav" ID="22">…The wind's calm now…</Entry>
+	<Entry File="onna_5\23.wav" ID="23"> It's the curse of the resurrected Satan…  Our beloved Queen does not awaken…</Entry>
+	<Entry File="onna_5\24.wav" ID="24">The time is ripe…</Entry>
+	<Entry File="onna_5\25.wav" ID="25">A legend has been passed on    through generations…</Entry>
+	<Entry File="onna_5\26.wav" ID="26"> …Legend…</Entry>
+	<Entry File="onna_5\27.wav" ID="27">…they sought the Promised Land…</Entry>
+	<Entry File="onna_5\28.wav" ID="28">…one with blue eyes…</Entry>
+	<Entry File="onna_5\29.wav" ID="29">…and a great white sword on his back…</Entry>
+	<Entry File="onna_5\30.wav" ID="30">…will not lead us to the Promised Land…</Entry>
+	<Entry File="onna_5\31.wav" ID="31"> …annihilation…</Entry>
+	<Entry File="onna_5\32.wav" ID="32"> …destruction…</Entry>
+	<Entry File="onna_5\33.wav" ID="33"> …a dark being…</Entry>
+	<Entry File="onna_5\34.wav" ID="34">…will guide you…</Entry>
+-->
+</VoiceList>

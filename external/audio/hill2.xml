@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="hill2\1.wav" ID="1">Cloud “…  It's almost dawn…”</Entry>
+  <Entry File="hill2\2.wav" ID="2">Tifa “H,huh?”</Entry>
+  <Entry File="hill2\3.wav" ID="3">Cloud “Sorry. Did I wake you?  It's almost dawn,Tifa.”</Entry>
+  <Entry File="hill2\4.wav" ID="4">Tifa “Umm…4   G,good morning…Cloud.”</Entry>
+  <Entry File="hill2\5.wav" ID="5">Tifa “Just a little longer…  A little bit longer…”</Entry>
+  <Entry File="hill2\6.wav" ID="6">Tifa “This day will never come again…  So let me have this moment…”</Entry>
+  <Entry File="hill2\7.wav" ID="7">Cloud “Sure…”</Entry>
+  <Entry File="hill2\8.wav" ID="8">Tifa “…”</Entry>
+  <Entry File="hill2\9.wav" ID="9">Cloud “We'd better go.”</Entry>
+  <Entry File="hill2\10.wav" ID="10">Tifa “But,I still…!?”</Entry>
+  <Entry File="hill2\11.wav" ID="11">Cloud “It'll be all right,Tifa.  You said so yourself yesterday.”</Entry>
+  <Entry File="hill2\12.wav" ID="12">Cloud “At least we don't have to  go on alone.”</Entry>
+  <Entry File="hill2\13.wav" ID="13">Tifa “Yes…  That's right!”</Entry>
+  <Entry File="hill2\14.wav" ID="14">Cloud “Okay!  Let's go!”</Entry>
+  <Entry File="hill2\15.wav" ID="15">Cloud “Morning,Tifa.  It's almost dawn…”</Entry>
+  <Entry File="hill2\16.wav" ID="16">Tifa “Mmm…  Good morning,Cloud.”</Entry>
+  <Entry File="hill2\17.wav" ID="17">Cloud “…”</Entry>
+  <Entry File="hill2\18.wav" ID="18">“This might be the last time  we'll ever be together…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="hill2\0.wav" ID="0" />
+-->
+</VoiceList>

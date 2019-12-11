@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jailpb\1.wav" ID="1">“A rookie? Then you gotta buy something.  Yup,that's the rule here.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jailpb\0.wav" ID="0">Prison Pub</Entry>
+-->
+</VoiceList>

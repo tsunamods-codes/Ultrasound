@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="las3_1\0.wav" ID="0">Inside Northern Cave</Entry>
+	<Entry File="las3_1\1.wav" ID="1">Received "X-Potion"!</Entry>
+	<Entry File="las3_1\2.wav" ID="2">Received "Elixir"!</Entry>
+	<Entry File="las3_1\3.wav" ID="3">Received "Remedy"!</Entry>
+	<Entry File="las3_1\4.wav" ID="4">Empty!</Entry>
+	<Entry File="las3_1\5.wav" ID="5">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="las3_1\6.wav" ID="6">Would you like to create a [SAVE POINT] here? Yes No</Entry>
+-->
+</VoiceList>

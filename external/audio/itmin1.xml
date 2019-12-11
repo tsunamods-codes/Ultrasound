@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="itmin1\1a.wav" ID="1" Part="a">“You say you don't know when the stars  are gonna fall from the sky?  Is that for real?”</Entry>
+  <Entry File="itmin1\1b.wav" ID="1" Part="b">“I still don't believe it!  How could this happen?”</Entry>
+  <Entry File="itmin1\2a.wav" ID="2" Part="a">“Ancient Weapon? End of the world?  Malarky!  I'm gonna live to be a hundred!”</Entry>
+  <Entry File="itmin1\2b.wav" ID="2" Part="b">“There's still tons of stuff I gotta do!  This's just the beginning.”</Entry>
+  <Entry File="itmin1\3.wav" ID="3">“And what have Shinra and SOLDIER  done about it? Tell me!  They're useless!!”</Entry>
+  <Entry File="itmin1\4a.wav" ID="4" Part="a">“Actually,I'm a beautiful maid.  I only work in this accessory  store part-time.”</Entry>
+  <Entry File="itmin1\4b.wav" ID="4" Part="b">“Our goods compare  with the best goods anywhere.  So,how about one?”</Entry>
+  <Entry File="itmin1\5.wav" ID="5">“Thank you.  Stop by again.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="itmin1\0.wav" ID="0">Mideel,House1</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="uttmpin2\1.wav" ID="1">Godo “GOOGAH…what do you want?”</Entry>
+  <Entry File="uttmpin2\2.wav" ID="2">Godo “Don't have…GAH…anything much but,you  should be able to…GOO…rest yourselves here.  GOGAH…make yourselves at home.”</Entry>
+  <Entry File="uttmpin2\3.wav" ID="3">Godo “…Yuffie?  …Nope,never heard of her.  …GOOGO…”</Entry>
+  <Entry File="uttmpin2\4.wav" ID="4">Godo “…You again? I said it once,  and I'll say it again,I don't know her.”</Entry>
+  <Entry File="uttmpin2\5.wav" ID="5">Godo “Listen,I said I didn't know her!  There isn't anyone named  Yuffie here in Wutai!”</Entry>
+  <Entry File="uttmpin2\6a.wav" ID="6" Part="a">Godo “…Never seen you around here before…”</Entry>
+  <Entry File="uttmpin2\6b.wav" ID="6" Part="b">“Lately,I've been seeing a lot of Shinra  soldiers around here…You wouldn't  know anything about that,would you?”</Entry>
+  <Entry File="uttmpin2\7a.wav" ID="7" Part="a">Godo “I don't care about   who you are.”</Entry>
+  <Entry File="uttmpin2\7b.wav" ID="7" Part="b">“But,if you're in trouble with the  Shinra,I'm going to have to ask you  to leave.”</Entry>
+  <Entry File="uttmpin2\7c.wav" ID="7" Part="c">“I don't want the Shinra  hanging around here looking over my shoulder.”</Entry>
+  <Entry File="uttmpin2\8.wav" ID="8">“What's with you,you coward?”</Entry>
+  <Entry File="uttmpin2\9.wav" ID="9">Godo “Yuffie!”</Entry>
+  <Entry File="uttmpin2\10a.wav" ID="10" Part="a">Yuffie “You scared of the Shinra?”</Entry>
+  <Entry File="uttmpin2\10b.wav" ID="10" Part="b">“Then why don't you just bow down  and obey them like all  the other towns?”</Entry>
+  <Entry File="uttmpin2\11.wav" ID="11">Yuffie “Those guys are the ones  who are really fighting the Shinra!”</Entry>
+  <Entry File="uttmpin2\12.wav" ID="12">Godo “Shut up!  What would you know about this?”</Entry>
+  <Entry File="uttmpin2\13a.wav" ID="13" Part="a">Yuffie “You got beat once,  so what? That's it?”</Entry>
+  <Entry File="uttmpin2\13b.wav" ID="13" Part="b">“What happened to the mighty  Wutai I used to know?”</Entry>
+  <Entry File="uttmpin2\14a.wav" ID="14" Part="a">Godo “No kid like you's going to  talk to me like that!”</Entry>
+  <Entry File="uttmpin2\14b.wav" ID="14" Part="b">“You keep acting like that!  You ought to be ashamed of yourself!”</Entry>
+  <Entry File="uttmpin2\15.wav" ID="15">Yuffie “That's my style!  And it's my business,not yours!  Don't try and dictate what I should do!”</Entry>
+  <Entry File="uttmpin2\16.wav" ID="16">Godo “Style?  Dictate?”</Entry>
+  <Entry File="uttmpin2\17.wav" ID="17">“Why all those fancy words?  You're a rotten daughter!”</Entry>
+  <Entry File="uttmpin2\18.wav" ID="18">Yuffie “Hmph! You're a sad excuse for a father!!”</Entry>
+  <Entry File="uttmpin2\19a.wav" ID="19" Part="a">Godo “…Take your things and   get out of here now.”</Entry>
+  <Entry File="uttmpin2\19b.wav" ID="19" Part="b">“For the good of Wutai,  we cannot stand up to Shinra.”</Entry>
+  <Entry File="uttmpin2\20.wav" ID="20">Shinra soldier “Now listen up!  They must be in the area!  Find them no matter what!”</Entry>
+  <Entry File="uttmpin2\21.wav" ID="21">“Yes,sir!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="uttmpin2\0.wav" ID="0">Wutai,Main Mtn.</Entry>
+-->
+</VoiceList>

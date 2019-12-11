@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blinst_2\1.wav" ID="1">Barret “Don't know…  why…the hell…  we gotta…climb…”</Entry>
+  <Entry File="blinst_2\2.wav" ID="2">Cloud “…because we don't want to start  a commotion until we've saved  Aeris.”</Entry>
+  <Entry File="blinst_2\3.wav" ID="3">Cloud “If that's possible…”</Entry>
+  <Entry File="blinst_2\4.wav" ID="4">Barret “…heh heh heh.”</Entry>
+  <Entry File="blinst_2\5.wav" ID="5">Cloud “Knock it off. You're giving me the creeps.”</Entry>
+  <Entry File="blinst_2\6.wav" ID="6">Barret “So even you will fight for someone else.  Guess I figured you wrong.”</Entry>
+  <Entry File="blinst_2\7.wav" ID="7">Cloud “Who cares what you figured!”</Entry>
+  <Entry File="blinst_2\8.wav" ID="8">Barret “I'm just sayin'  mebbe I was wrong…”</Entry>
+  <Entry File="blinst_2\9.wav" ID="9">Tifa “heh heh heh……”</Entry>
+  <Entry File="blinst_2\10.wav" ID="10">Cloud “What's that supposed  to mean,Tifa?”</Entry>
+  <Entry File="blinst_2\11.wav" ID="11">Barret “…how much farther do these  stairs go on?”</Entry>
+  <Entry File="blinst_2\12.wav" ID="12">Tifa “Why don't you ask them?”</Entry>
+  <Entry File="blinst_2\13.wav" ID="13">Barret “It's not one of them endless   stairways or somethin',is it?”</Entry>
+  <Entry File="blinst_2\14.wav" ID="14">Tifa “Of course not!!”</Entry>
+  <Entry File="blinst_2\15.wav" ID="15">Barret “Right…couldn't be that…”</Entry>
+  <Entry File="blinst_2\16.wav" ID="16">Barret “Are we there yet?”</Entry>
+  <Entry File="blinst_2\17.wav" ID="17">Tifa “Not yet.”</Entry>
+  <Entry File="blinst_2\18.wav" ID="18">Barret “…there yet?”</Entry>
+  <Entry File="blinst_2\19.wav" ID="19">Tifa “I said not yet!”</Entry>
+  <Entry File="blinst_2\20.wav" ID="20">Barret “Yo…”</Entry>
+  <Entry File="blinst_2\21.wav" ID="21">Tifa “Look,don't even ask!  We're way way way way far  away from being there,OK!?”</Entry>
+  <Entry File="blinst_2\22.wav" ID="22">Barret “Yo…  What floor is this?”</Entry>
+  <Entry File="blinst_2\23.wav" ID="23">Tifa “…I stopped counting.”</Entry>
+  <Entry File="blinst_2\24.wav" ID="24">Barret “Why they gotta build these buildings  so damn tall?”</Entry>
+  <Entry File="blinst_2\25.wav" ID="25">Barret “That Shinra…  They're just no damn good.”</Entry>
+  <Entry File="blinst_2\26.wav" ID="26">Tifa “…”</Entry>
+  <Entry File="blinst_2\27.wav" ID="27">Barret “…huff…  Man,I'm beat…”</Entry>
+  <Entry File="blinst_2\28.wav" ID="28">Barret “Marlene,daddy wanted to   see your face one more time…”</Entry>
+  <Entry File="blinst_2\29.wav" ID="29">Tifa “Would you stop acting like a   retard and climb!?”</Entry>
+  <Entry File="blinst_2\30.wav" ID="30">Tifa “It's just a bit more!”</Entry>
+  <Entry File="blinst_2\31.wav" ID="31">Tifa “…maybe.”</Entry>
+  <Entry File="blinst_2\32.wav" ID="32">Barret “Damn,man!  I've had it! I'm going back!”</Entry>
+  <Entry File="blinst_2\33.wav" ID="33">Tifa “It'll take just as long to go down as  it did to come up.”</Entry>
+  <Entry File="blinst_2\34.wav" ID="34">Barret “…”</Entry>
+  <Entry File="blinst_2\35.wav" ID="35">Tifa “C'mon,Barret.  Pull it together!”</Entry>
+  <Entry File="blinst_2\36a.wav" ID="36" Part="a">Barret “Yeah well,all I know is I'm only  flesh 'n' blood…  'cept for this arm of mine.”</Entry>
+  <Entry File="blinst_2\36b.wav" ID="36" Part="b">“Don't treat me like I'm some  ex-SOLDIER or somethin'…”</Entry>
+  <Entry File="blinst_2\37.wav" ID="37">Tifa “What about me!? I'm human too!  Oh,do what you want,I'm going on!”</Entry>
+  <Entry File="blinst_2\38.wav" ID="38">Tifa “…?”</Entry>
+  <Entry File="blinst_2\39.wav" ID="39">Tifa “Yaah!   Barret!  You go first!”</Entry>
+  <Entry File="blinst_2\40.wav" ID="40">Barret “What're ya ignorant?   …I didn't mean that”</Entry>
+  <Entry File="blinst_2\41.wav" ID="41">Tifa “All right,all right!”</Entry>
+  <Entry File="blinst_2\42.wav" ID="42">Tifa “Cloud,  you go on ahead too!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blinst_2\0.wav" ID="0">Shinra Bldg. Stairs</Entry>
+	<Entry File="blinst_2\43.wav" ID="43">Received "Elixir"!</Entry>
+	<Entry File="blinst_2\44.wav" ID="44">Received "Behemoth Horn"!</Entry>
+-->
+</VoiceList>

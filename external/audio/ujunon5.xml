@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ujunon5\1.wav" ID="1">Cloud “Old man…”</Entry>
+  <Entry File="ujunon5\2.wav" ID="2">Barret “Yo!! Junon airport?”</Entry>
+  <Entry File="ujunon5\3a.wav" ID="3" Part="a">Tifa “Just in time!”</Entry>
+  <Entry File="ujunon5\3b.wav" ID="3" Part="b">“Come on! Let's go to the airport!”</Entry>
+  <Entry File="ujunon5\4.wav" ID="4">Red XIII “Ugh. It's salty!  Let's go to the airport!”</Entry>
+  <Entry File="ujunon5\5a.wav" ID="5" Part="a">Cid “God!! I'm drenched!”</Entry>
+  <Entry File="ujunon5\5b.wav" ID="5" Part="b">“Hurry up! Let's get to the airport!”</Entry>
+  <Entry File="ujunon5\6a.wav" ID="6" Part="a">Yuffie “Phew…  The air up here's great!”</Entry>
+  <Entry File="ujunon5\6b.wav" ID="6" Part="b">“Hey!  Let's go to the airport!”</Entry>
+  <Entry File="ujunon5\7.wav" ID="7">Cait Sith “Let's go to the airport!”</Entry>
+  <Entry File="ujunon5\8.wav" ID="8">“Looks like we made it.   You'll probably head for the airport,right?”</Entry>
+  <Entry File="ujunon5\9a.wav" ID="9" Part="a">Cloud “Hmm…Junon.”</Entry>
+  <Entry File="ujunon5\9b.wav" ID="9" Part="b">“I'd love to get my hands on a submarine  right now.”</Entry>
+  <Entry File="ujunon5\10.wav" ID="10">Barret “Yeah! I could go for that!   Let's go to the submarine dock  under Junon!”</Entry>
+  <Entry File="ujunon5\11a.wav" ID="11" Part="a">Tifa “There should only be a few guards now.”</Entry>
+  <Entry File="ujunon5\11b.wav" ID="11" Part="b">“It might be safe to go to  the submarine dock under Junon.”</Entry>
+  <Entry File="ujunon5\12.wav" ID="12">Red XIII “I would like to ride it!  Let's get one from the submarine dock  beneath Junon!”</Entry>
+  <Entry File="ujunon5\13.wav" ID="13">Cid “You want it? Then you got it!  They're down at the submarine dock  underneath Junon!  You gotta get what you want while you can!”</Entry>
+  <Entry File="ujunon5\14a.wav" ID="14" Part="a">Yuffie “…Yeah!!”</Entry>
+  <Entry File="ujunon5\14b.wav" ID="14" Part="b">“The submarine dock underneath Junon!  I can steal a sub easy enough,  but I can't pilot it!”</Entry>
+  <Entry File="ujunon5\15.wav" ID="15">“Security's pretty light now!  The submarine's at the submarine dock!”</Entry>
+  <Entry File="ujunon5\16.wav" ID="16">Vincent “It should be alright.”</Entry>
+  <Entry File="ujunon5\17.wav" ID="17">Cloud “Let's go…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ujunon5\0.wav" ID="0">Dolphin Shores</Entry>
+-->
+</VoiceList>

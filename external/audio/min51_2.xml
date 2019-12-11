@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="min51_2\1a.wav" ID="1" Part="a">“glug…glug…”</Entry>
+  <Entry File="min51_2\1b.wav" ID="1" Part="b">“Now…no one…    will find it…num…”</Entry>
+  <Entry File="min51_2\1c.wav" ID="1" Part="c">“Top drawer…  and the bottom one…”</Entry>
+  <Entry File="min51_2\2.wav" ID="2">Cloud “…………” Open the top drawer Open the bottom drawer</Entry>
+  <Entry File="min51_2\3a.wav" ID="3" Part="a">Cloud “………….”</Entry>
+  <Entry File="min51_2\3b.wav" ID="3" Part="b">“…….huh?” Open the top drawer Open the bottom drawer Open the hidden drawer between them</Entry>
+  <Entry File="min51_2\4.wav" ID="4">Cloud “Empty…….”</Entry>
+  <Entry File="min51_2\5a.wav" ID="5" Part="a">Cloud “…….?”</Entry>
+  <Entry File="min51_2\5b.wav" ID="5" Part="b">“5 gil.” Take it Leave it</Entry>
+  <Entry File="min51_2\7.wav" ID="7">“sniff…sniff…  …'n' I hid it…so nuthin' like this…  would ever happen…sniff…”</Entry>
+  <Entry File="min51_2\8a.wav" ID="8" Part="a">“Heh heh!  I bought an item with the money  I'd saved.”</Entry>
+  <Entry File="min51_2\8b.wav" ID="8" Part="b">“My dream is to grow up and become  a big time dealer on Wall Market.”</Entry>
+  <Entry File="min51_2\8c.wav" ID="8" Part="c">“I'm feeling pretty good today,  so I'll let you have this!”</Entry>
+  <Entry File="min51_2\11.wav" ID="11">“Oh yeah? Fine! But don't come  crawlin' back here askin' to see    it again,'cause it ain't gonna happen!”</Entry>
+  <Entry File="min51_2\12.wav" ID="12">“My dream is to grow up and become  a big time dealer on Wall Market.”</Entry>
+  <Entry File="min51_2\13.wav" ID="13">“To be a real man you gotta  not fart around,but let  everyone know where you stand  right off!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="min51_2\0.wav" ID="0">House 2f.</Entry>
+	<Entry File="min51_2\6.wav" ID="6">Received "5 gil"!</Entry>
+	<Entry File="min51_2\9.wav" ID="9">Received "Ether"!</Entry>
+	<Entry File="min51_2\10.wav" ID="10">Received "Turbo Ether"!</Entry>
+	<Entry File="min51_2\14a.wav" ID="14" Part="a">Turtle Paradise News No.1</Entry>
+	<Entry File="min51_2\14b.wav" ID="14" Part="b">For delicious wine with a nice zing to it…….</Entry>
+	<Entry File="min51_2\14c.wav" ID="14" Part="c">Stop by the "Turtle's Paradise"!!</Entry>
+-->
+</VoiceList>

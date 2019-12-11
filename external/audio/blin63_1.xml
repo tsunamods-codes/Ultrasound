@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blin63_1\15.wav" ID="15">Cloud “An air-duct…  It doesn't look like  I can climb in here.”</Entry>
+  <Entry File="blin63_1\16.wav" ID="16">Cloud “An air-duct…” Climb in and look around Leave it alone</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blin63_1\0.wav" ID="0">Shinra Bldg. 63f.</Entry>
+	<Entry File="blin63_1\1.wav" ID="1">"…beep…beep…  Open the door?" Yes No</Entry>
+	<Entry File="blin63_1\2a.wav" ID="2" Part="a">"…beep…beep…  …verifying keycard…  ………</Entry>
+	<Entry File="blin63_1\2b.wav" ID="2" Part="b">"Level B employee: verified.  You are permitted to open doors  on this floor up to three times."</Entry>
+	<Entry File="blin63_1\2c.wav" ID="2" Part="c">"blip…  If you receive an item coupon,  remember to exchange it for an item."</Entry>
+	<Entry File="blin63_1\2d.wav" ID="2" Part="d">"…Warning…do not enter the  air conditioning ducts,  they are very dangerous…"</Entry>
+	<Entry File="blin63_1\3.wav" ID="3">"…ga…  …gaga…ga…"</Entry>
+	<Entry File="blin63_1\4.wav" ID="4">"…bing…bing…  Enter command All Clear Coupon Change</Entry>
+	<Entry File="blin63_1\5a.wav" ID="5" Part="a">"You can exchange your coupons  for items. Here are  the items you can have…"</Entry>
+	<Entry File="blin63_1\5b.wav" ID="5" Part="b">"A coupon…'Star Pendant'  B coupon….'Four Slots'  C coupon….'All' Materia"</Entry>
+	<Entry File="blin63_1\5c.wav" ID="5" Part="c">"Please use caution…once you have  exchanged coupons for items you   may not select 'All Clear'."</Entry>
+	<Entry File="blin63_1\5d.wav" ID="5" Part="d">"Exchange coupon?" Yeah…… Naw</Entry>
+	<Entry File="blin63_1\6.wav" ID="6">"………  Coupon exchange complete."</Entry>
+	<Entry File="blin63_1\7a.wav" ID="7" Part="a">"…bing…bing…  Start again from the beginning?"</Entry>
+	<Entry File="blin63_1\7b.wav" ID="7" Part="b">"The information and materials you   received on this floor  will all be cleared."</Entry>
+	<Entry File="blin63_1\7c.wav" ID="7" Part="c">"Clear them?" Yeah… No</Entry>
+	<Entry File="blin63_1\8a.wav" ID="8" Part="a">"………  Cleared."</Entry>
+	<Entry File="blin63_1\8b.wav" ID="8" Part="b">"You are permitted to open  any door on this floor up to three times."</Entry>
+	<Entry File="blin63_1\9a.wav" ID="9" Part="a">"Bi,bing…  You have opened three doors."</Entry>
+	<Entry File="blin63_1\9b.wav" ID="9" Part="b">"If you access the computer,  You can begin  this process one more time."</Entry>
+	<Entry File="blin63_1\10.wav" ID="10">Received "Star Pendant"!</Entry>
+	<Entry File="blin63_1\11.wav" ID="11">Received "Hourglass"!</Entry>
+	<Entry File="blin63_1\12.wav" ID="12">Received "All" Materia!</Entry>
+	<Entry File="blin63_1\13.wav" ID="13">Received "Four Slot"!</Entry>
+	<Entry File="blin63_1\14.wav" ID="14">Received "Glow Lance"!</Entry>
+	<Entry File="blin63_1\17.wav" ID="17">Received Key Item "A Coupon "!</Entry>
+	<Entry File="blin63_1\18.wav" ID="18">Received Key Item "B Coupon "!</Entry>
+	<Entry File="blin63_1\19.wav" ID="19">Received Key Item "C Coupon "!</Entry>
+	<Entry File="blin63_1\20.wav" ID="20">"…beep…beep…  You do not have any coupons."</Entry>
+	<Entry File="blin63_1\21.wav" ID="21">"…beep…beep…  After you have exchanged coupons  you may no longer use 'All Clear'."</Entry>
+	<Entry File="blin63_1\22.wav" ID="22">You cannot take on more materia. Please discard some materia.</Entry>
+	<Entry File="blin63_1\23.wav" ID="23">"Your 'All' Materia was  returned for a C Coupon."</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jtempl\1a.wav" ID="1" Part="a">Aeris “This is…the Temple of the Ancients…”</Entry>
+  <Entry File="jtempl\1b.wav" ID="1" Part="b">“I…I know…  I feel it…  The knowledge of the Ancients…floating…”</Entry>
+  <Entry File="jtempl\2a.wav" ID="2" Part="a">Aeris “You could become one with the Planet,  but you're stopping it  with the strength of will.”</Entry>
+  <Entry File="jtempl\2b.wav" ID="2" Part="b">“For the future?  For us?”</Entry>
+  <Entry File="jtempl\3.wav" ID="3">Cloud “What are you saying?  Do you understand?”</Entry>
+  <Entry File="jtempl\4.wav" ID="4">Aeris “You're uneasy…  But happy?”</Entry>
+  <Entry File="jtempl\5.wav" ID="5">“Because I'm here?  I'm sorry…I don't understand.”</Entry>
+  <Entry File="jtempl\6.wav" ID="6">Aeris “I want to go inside!”</Entry>
+  <Entry File="jtempl\7a.wav" ID="7" Part="a">“Key…stone…”</Entry>
+  <Entry File="jtempl\7b.wav" ID="7" Part="b">“Open…door…of the Temple…”</Entry>
+  <Entry File="jtempl\8.wav" ID="8">“Black…Materia…”</Entry>
+  <Entry File="jtempl\9.wav" ID="9">Aeris “Look…”</Entry>
+  <Entry File="jtempl\10.wav" ID="10">Tifa “Number 9.  Another man with a tattoo.”</Entry>
+  <Entry File="jtempl\11.wav" ID="11">Barret “It says number 9.  He has a tattoo on his neck.”</Entry>
+  <Entry File="jtempl\12.wav" ID="12">Red XIII “He's number 9.  There's a tattoo.”</Entry>
+  <Entry File="jtempl\13.wav" ID="13">Cait Sith “Oh!?  It's a number 9 tattoo.”</Entry>
+  <Entry File="jtempl\14.wav" ID="14">Yuffie “He has a tattoo too!  Ummm,I think it's number 9.”</Entry>
+  <Entry File="jtempl\15.wav" ID="15">Cid “Hey,he's got a tattoo.  It says number 9.”</Entry>
+  <Entry File="jtempl\16.wav" ID="16">Vincent “It's a number 9 tattoo.”</Entry>
+  <Entry File="jtempl\17.wav" ID="17">Aeris “Cait Sith…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jtempl\0.wav" ID="0">Temple of the Ancients</Entry>
+-->
+</VoiceList>

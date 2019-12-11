@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="kuro_6\0.wav" ID="0">Temple of the Ancients</Entry>
+	<Entry File="kuro_6\1.wav" ID="1">Received "Princess Guard"!</Entry>
+	<Entry File="kuro_6\2.wav" ID="2">Received "Trumpet Shell"!</Entry>
+	<Entry File="kuro_6\3.wav" ID="3">Received "Megalixir"!</Entry>
+-->
+</VoiceList>

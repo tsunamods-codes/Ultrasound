@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junin4\1a.wav" ID="1" Part="a">“Only authorized personnel are allowed past  this point!”</Entry>
+  <Entry File="junin4\1b.wav" ID="1" Part="b">“You know too,right?  About Junon Navy's important  classified information.”</Entry>
+  <Entry File="junin4\1c.wav" ID="1" Part="c">“A new submarine has almost been completed  using Shinra's top technology.”</Entry>
+  <Entry File="junin4\2.wav" ID="2">“A new version of submarine.  I'll be sailing on it.  Man,I can't wait!”</Entry>
+  <Entry File="junin4\3.wav" ID="3">“Man…  Keeping watch is so boring  at the Underwater Reactor.”</Entry>
+  <Entry File="junin4\4.wav" ID="4">“OK! Back to work!!  Back to work!!”</Entry>
+  <Entry File="junin4\5.wav" ID="5">“Yawn…I'm sleepy!!”</Entry>
+  <Entry File="junin4\6.wav" ID="6">“For Junon!!”</Entry>
+  <Entry File="junin4\7a.wav" ID="7" Part="a">Cloud “Damn,Shinra dogs!!”</Entry>
+  <Entry File="junin4\7b.wav" ID="7" Part="b">“We'll take that submarine!!  Out of our way!!”</Entry>
+  <Entry File="junin4\8a.wav" ID="8" Part="a">“This is the Junon Submarine Dock!”</Entry>
+  <Entry File="junin4\8b.wav" ID="8" Part="b">“If you want to enter,  please talk to my dog.”</Entry>
+  <Entry File="junin4\9.wav" ID="9">“That's all the instructions you're going to get!  Let's go!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junin4\0.wav" ID="0">Junon Path</Entry>
+-->
+</VoiceList>

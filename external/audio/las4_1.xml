@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="las4_1\2.wav" ID="2">Tifa “Hey,were you thinking of leaving me?”</Entry>
+  <Entry File="las4_1\3.wav" ID="3">Barret “Yo,we're a bit late?”</Entry>
+  <Entry File="las4_1\4.wav" ID="4">Red XIII “Don't leave us,Cloud.”</Entry>
+  <Entry File="las4_1\5.wav" ID="5">Cid “I can't let you guys go by yourselves,  you'll make me worry.”</Entry>
+  <Entry File="las4_1\6.wav" ID="6">Yuffie “I finally got here,so I'm not leaving…”</Entry>
+  <Entry File="las4_1\7.wav" ID="7">Vincent “You sure are hasty.”</Entry>
+  <Entry File="las4_1\8.wav" ID="8">Cait Sith “You're so cruel,Cloud.”</Entry>
+  <Entry File="las4_1\11.wav" ID="11">Cloud “Where's Tifa?”</Entry>
+  <Entry File="las4_1\12.wav" ID="12">Cloud “Where's Barret?”</Entry>
+  <Entry File="las4_1\13.wav" ID="13">Cloud “Where's Cid?”</Entry>
+  <Entry File="las4_1\14.wav" ID="14">Cloud “Where's Red XIII?”</Entry>
+  <Entry File="las4_1\15.wav" ID="15">Cloud “Where's Cait Sith?”</Entry>
+  <Entry File="las4_1\16.wav" ID="16">Cloud “Where's Yuffie?”</Entry>
+  <Entry File="las4_1\17.wav" ID="17">Cloud “Where's Vincent?”</Entry>
+  <Entry File="las4_1\18.wav" ID="18">Cloud “Where're Tifa and the others?”</Entry>
+  <Entry File="las4_1\19.wav" ID="19">Cloud “Where's Barret and the others?”</Entry>
+  <Entry File="las4_1\20.wav" ID="20">Cloud “Where's Cid and the others?”</Entry>
+  <Entry File="las4_1\21.wav" ID="21">Cloud “Where's Red XIII and the others?”</Entry>
+  <Entry File="las4_1\22.wav" ID="22">Cloud “Where's Cait Sith and the others?”</Entry>
+  <Entry File="las4_1\23.wav" ID="23">Cloud “Where's Yuffie and the others?”</Entry>
+  <Entry File="las4_1\24.wav" ID="24">Cloud “Where's Vincent and the others?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="las4_1\0.wav" ID="0">Bottom of Northern Cave</Entry>
+	<Entry File="las4_1\1.wav" ID="1">Received "Luck Source"!</Entry>
+	<Entry File="las4_1\9.wav" ID="9">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="las4_1\10.wav" ID="10">Would you like to create a [SAVE POINT] here? Yes No</Entry>
+-->
+</VoiceList>

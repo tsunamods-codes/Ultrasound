@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="trackin2\0.wav" ID="0">Cloud “Yeah…this is…me.”</Entry>
+  <Entry File="trackin2\1.wav" ID="1">Cloud “Not in SOLDIER,just a common grunt.”</Entry>
+  <Entry File="trackin2\2.wav" ID="2">Cloud “I…never made it as a member of SOLDIER.”</Entry>
+  <Entry File="trackin2\3.wav" ID="3">Cloud “I even left my hometown telling everyone  I was going to join,but…”</Entry>
+  <Entry File="trackin2\4.wav" ID="4">Cloud “I was so embarrassed…  I didn't want to see anybody…”</Entry>
+  <Entry File="trackin2\5.wav" ID="5">Zack “Hey Cloud.  If you're feeling sick,  why don't you take that mask off?”</Entry>
+  <Entry File="trackin2\6.wav" ID="6">Cloud “Yeah…”</Entry>
+  <Entry File="trackin2\7.wav" ID="7">Cloud “I wonder how they make Materia?”</Entry>
+  <Entry File="trackin2\8.wav" ID="8">“You mean you don't know?”</Entry>
+  <Entry File="trackin2\9.wav" ID="9">Cloud “Do you?”</Entry>
+  <Entry File="trackin2\10.wav" ID="10">“…It's the Planet.  It takes years to make.”</Entry>
+  <Entry File="trackin2\11.wav" ID="11">“Lately,it's been Shinra</Entry>
+  <Entry File="trackin2\12.wav" ID="12">Cloud “It sure is raining hard.”</Entry>
+  <Entry File="trackin2\13.wav" ID="13">Cloud “Hey,how are you doing?”</Entry>
+  <Entry File="trackin2\14.wav" ID="14">“I'm all right.”</Entry>
+  <Entry File="trackin2\15a.wav" ID="15" Part="a">Cloud “I wouldn't know…”</Entry>
+  <Entry File="trackin2\15b.wav" ID="15" Part="b">“I've never had motion sickness,”</Entry>
+  <Entry File="trackin2\16.wav" ID="16">Cloud “Everything okay?”</Entry>
+  <Entry File="trackin2\17.wav" ID="17">Sephiroth “Hey.”</Entry>
+  <Entry File="trackin2\18.wav" ID="18">Sephiroth “Settle down.”</Entry>
+  <Entry File="trackin2\19a.wav" ID="19" Part="a">Cloud “They gave me some new Materia.”</Entry>
+  <Entry File="trackin2\19b.wav" ID="19" Part="b">“I can't wait to use it.”</Entry>
+  <Entry File="trackin2\20.wav" ID="20">Sephiroth “…Just like a kid.”</Entry>
+  <Entry File="trackin2\21.wav" ID="21">Cloud “You going to brief us  about this mission?”</Entry>
+  <Entry File="trackin2\22.wav" ID="22">Sephiroth “…This isn't a typical  mission.”</Entry>
+  <Entry File="trackin2\23.wav" ID="23">Cloud “Good!”</Entry>
+  <Entry File="trackin2\24.wav" ID="24">Sephiroth “Why do you say that?”</Entry>
+  <Entry File="trackin2\25a.wav" ID="25" Part="a">Cloud “I joined SOLDIER  so I could be like you.”</Entry>
+  <Entry File="trackin2\25b.wav" ID="25" Part="b">“But by the time I made First Class,  The war was already over.”</Entry>
+  <Entry File="trackin2\25c.wav" ID="25" Part="c">“My big hopes of becoming a hero  like you ended with the war.”</Entry>
+  <Entry File="trackin2\25d.wav" ID="25" Part="d">“That's why I always sign up   whenever there's a big mission.   Kind of a way to prove myself.”</Entry>
+  <Entry File="trackin2\26.wav" ID="26">Cloud “Say,how do you feel,  MISTER Sephiroth?”</Entry>
+  <Entry File="trackin2\27.wav" ID="27">Sephiroth “…I thought you wanted   a briefing?”</Entry>
+  <Entry File="trackin2\28.wav" ID="28">Sephiroth “Our mission is to investigate  an old Mako reactor.”</Entry>
+  <Entry File="trackin2\29a.wav" ID="29" Part="a">Sephiroth “There have been reports of  it malfunctioning,  and producing brutal creatures.”</Entry>
+  <Entry File="trackin2\29b.wav" ID="29" Part="b">“First,we will dispose of those  creatures.  Then,we'll locate the problem  and neutralize it.”</Entry>
+  <Entry File="trackin2\30.wav" ID="30">Cloud “Brutal creatures…?  Where?”</Entry>
+  <Entry File="trackin2\31.wav" ID="31">Sephiroth “The Mako reactor at Nibelheim.”</Entry>
+  <Entry File="trackin2\32.wav" ID="32">Cloud “Nibelheim…”</Entry>
+  <Entry File="trackin2\33.wav" ID="33">Cloud “That's where I'm from.”</Entry>
+  <Entry File="trackin2\34.wav" ID="34">Sephiroth “Hmm…hometown…”</Entry>
+  <Entry File="trackin2\35.wav" ID="35">“Sir…s,something strange  just crashed into our truck!”</Entry>
+  <Entry File="trackin2\36.wav" ID="36">Sephiroth “That would be our monster…”</Entry>
+  <Entry File="trackin2\37.wav" ID="37">Sephiroth “Come on,let's go to work.”</Entry>
+</VoiceList>

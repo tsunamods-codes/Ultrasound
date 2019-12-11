@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds5_4\1.wav" ID="1">Cloud “…”</Entry>
+  <Entry File="mds5_4\2.wav" ID="2">Aeris “Wait…  Wait,I said!”</Entry>
+  <Entry File="mds5_4\3a.wav" ID="3" Part="a">Aeris “Puff…  …wheeze…”</Entry>
+  <Entry File="mds5_4\3b.wav" ID="3" Part="b">“Slow…down…  Don't leave me…”</Entry>
+  <Entry File="mds5_4\4a.wav" ID="4" Part="a">Cloud “Funny…”</Entry>
+  <Entry File="mds5_4\4b.wav" ID="4" Part="b">“I thought you were cut  out to be in SOLDIER.”</Entry>
+  <Entry File="mds5_4\5.wav" ID="5">Aeris “Oh! You're terrible!”</Entry>
+  <Entry File="mds5_4\6.wav" ID="6">Aeris “Hey…Cloud.  Were you…ever in SOLDIER?”</Entry>
+  <Entry File="mds5_4\7.wav" ID="7">Cloud “…I used to be.  How did you guess?”</Entry>
+  <Entry File="mds5_4\8.wav" ID="8">Aeris “…Your eyes.  They have a strange glow…”</Entry>
+  <Entry File="mds5_4\9a.wav" ID="9" Part="a">Cloud “That's the sign of those who  have been infused with Mako…”</Entry>
+  <Entry File="mds5_4\9b.wav" ID="9" Part="b">“A mark of SOLDIER.”</Entry>
+  <Entry File="mds5_4\9c.wav" ID="9" Part="c">“But,how did you know  about that?”</Entry>
+  <Entry File="mds5_4\10.wav" ID="10">Aeris “…Oh,nothing.”</Entry>
+  <Entry File="mds5_4\11.wav" ID="11">Cloud “Nothing?”</Entry>
+  <Entry File="mds5_4\12.wav" ID="12">Aeris “Right,nothing!”</Entry>
+  <Entry File="mds5_4\13.wav" ID="13">Aeris “Come on,let's go!  Bodyguard!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds5_4\0.wav" ID="0">Sector 5 Slum</Entry>
+	<Entry File="mds5_4\14.wav" ID="14">[SAVE POINT] Access the Menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

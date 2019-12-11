@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junonl1\1a.wav" ID="1" Part="a">“Need a heli-taxi?  Only in Junon!”</Entry>
+  <Entry File="junonl1\1b.wav" ID="1" Part="b">“Free  to Air Force personnel!” Sure Nope</Entry>
+  <Entry File="junonl1\2.wav" ID="2">“Roger!!  Hey! Taxi!!”</Entry>
+  <Entry File="junonl1\3a.wav" ID="3" Part="a">“Just holler when you want a ride!”</Entry>
+  <Entry File="junonl1\3b.wav" ID="3" Part="b">“But if you get airsick easily,  maybe you'd better not go.”</Entry>
+  <Entry File="junonl1\4.wav" ID="4">“Where to?” Next sector Outside Junon</Entry>
+  <Entry File="junonl1\5.wav" ID="5">“Right!  The next sector it is!!”</Entry>
+  <Entry File="junonl1\6.wav" ID="6">“Then outside Junon it is!  Take care!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junonl1\0.wav" ID="0">Lower Junon</Entry>
+-->
+</VoiceList>

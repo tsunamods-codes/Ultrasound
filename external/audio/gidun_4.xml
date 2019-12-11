@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="gidun_4\1a.wav" ID="1" Part="a">Bugenhagen “This warrior went through  the cave all alone.”</Entry>
+  <Entry File="gidun_4\1b.wav" ID="1" Part="b">Bugenhagen “Fighting attackers one  after another…”</Entry>
+  <Entry File="gidun_4\2.wav" ID="2">Red XIII “Grandpa…  That warrior…”</Entry>
+  <Entry File="gidun_4\3.wav" ID="3">Bugenhagen “Ho Ho Hoooo…  We're almost there.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="gidun_4\0.wav" ID="0">Cave of the Gi</Entry>
+	<Entry File="gidun_4\4.wav" ID="4">Received "Fairy Ring"!</Entry>
+	<Entry File="gidun_4\5.wav" ID="5">Received "X-Potion"!</Entry>
+	<Entry File="gidun_4\6.wav" ID="6">Received "Turbo Ether"!</Entry>
+-->
+</VoiceList>

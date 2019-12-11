@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="kuro_12\1.wav" ID="1">Cloud “I guess there's no way we can open it…  We'll come back later.”</Entry>
+  <Entry File="kuro_12\2.wav" ID="2">Cloud “It's warm…”</Entry>
+  <Entry File="kuro_12\3.wav" ID="3">Cloud “This isn't good…”</Entry>
+  <Entry File="kuro_12\4.wav" ID="4">Aeris “Cloud…  …behind you.”</Entry>
+  <Entry File="kuro_12\5.wav" ID="5">Cait Sith “Sorry to keep you waiting!!  It's Me!!”</Entry>
+  <Entry File="kuro_12\6.wav" ID="6">Cait Sith “I'll handle the rest!”</Entry>
+  <Entry File="kuro_12\7.wav" ID="7">Cait Sith “Well,everyone…  Take care of yourselves!”</Entry>
+  <Entry File="kuro_12\8.wav" ID="8">Aeris “Cait Sith…”</Entry>
+  <Entry File="kuro_12\9.wav" ID="9">Aeris “Come on,Cloud…  Say something.”</Entry>
+  <Entry File="kuro_12\10.wav" ID="10">Cloud “I'm not good at this.”</Entry>
+  <Entry File="kuro_12\11.wav" ID="11">Cait Sith “Mmm,I understand.  I feel the same too.”</Entry>
+  <Entry File="kuro_12\12.wav" ID="12">Aeris “Why don't you read  our fortunes?”</Entry>
+  <Entry File="kuro_12\13a.wav" ID="13" Part="a">Cait Sith “Say,that's right…   I haven't done it in a while,huh?”</Entry>
+  <Entry File="kuro_12\13b.wav" ID="13" Part="b">“I'm so exited.  Right or wrong,  I'm still the same 'ol me”</Entry>
+  <Entry File="kuro_12\13c.wav" ID="13" Part="c">“Now,what should I predict?”</Entry>
+  <Entry File="kuro_12\14.wav" ID="14">Aeris “Hmm,let's see how compatible  Cloud and I are!”</Entry>
+  <Entry File="kuro_12\15.wav" ID="15">Cait Sith “That'll cost ya.  Exactly one date!”</Entry>
+  <Entry File="kuro_12\16.wav" ID="16">Cait Sith “Here I go!”</Entry>
+  <Entry File="kuro_12\17a.wav" ID="17" Part="a">Cait Sith “This isn't good. I can't say it.”</Entry>
+  <Entry File="kuro_12\17b.wav" ID="17" Part="b">“Poor Tifa.”</Entry>
+  <Entry File="kuro_12\18a.wav" ID="18" Part="a">Aeris “No!  Tell me!”</Entry>
+  <Entry File="kuro_12\18b.wav" ID="18" Part="b">“I promise I won't get mad!”</Entry>
+  <Entry File="kuro_12\19a.wav" ID="19" Part="a">Cait Sith “Is that so?  Then I'll tell you.”</Entry>
+  <Entry File="kuro_12\19b.wav" ID="19" Part="b">“Looks good.  You are perfect for each other!”</Entry>
+  <Entry File="kuro_12\19c.wav" ID="19" Part="c">“Aeris's star and  Cloud's star!  They show a great future!”</Entry>
+  <Entry File="kuro_12\19d.wav" ID="19" Part="d">“Cloud,I'll be your matchmaker,  preacher…  I'll do whatever you want me to!”</Entry>
+  <Entry File="kuro_12\19e.wav" ID="19" Part="e">“You just call me when it all happens!”</Entry>
+  <Entry File="kuro_12\20a.wav" ID="20" Part="a">Cait Sith “Thank you for believing in me,  knowing that I was a spy.”</Entry>
+  <Entry File="kuro_12\20b.wav" ID="20" Part="b">“This is the final,final farewell!”</Entry>
+  <Entry File="kuro_12\21.wav" ID="21">Aeris “Be strong  Cait Sith!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="kuro_12\0.wav" ID="0">Temple of the Ancients</Entry>
+-->
+</VoiceList>

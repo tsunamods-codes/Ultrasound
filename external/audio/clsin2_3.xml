@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="clsin2_3\0.wav" ID="0">Dio “One more to go.”</Entry>
+  <Entry File="clsin2_3\1.wav" ID="1">“Yes”</Entry>
+  <Entry File="clsin2_3\2.wav" ID="2">Cloud “Hey!  Pay attention!!”</Entry>
+  <Entry File="clsin2_3\3.wav" ID="3">Dio “I don't need to hear it.  Pay for your crime below!!”</Entry>
+  <Entry File="clsin2_3\4.wav" ID="4">Dio “Do it!”</Entry>
+</VoiceList>

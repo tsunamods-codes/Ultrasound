@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ncoin3\1.wav" ID="1">“Because of them…ugh  my husband got into that accident…  He used to be such a strong man…”</Entry>
+  <Entry File="ncoin3\2a.wav" ID="2" Part="a">“Is Meteor really going to  crash down on us?”</Entry>
+  <Entry File="ncoin3\2b.wav" ID="2" Part="b">“I'm still too young…  I'll never remarry.”</Entry>
+  <Entry File="ncoin3\3.wav" ID="3">“This memento is  all I have left of my husband…  I'll give it to you  if you'll please stop Meteor…”</Entry>
+  <Entry File="ncoin3\4a.wav" ID="4" Part="a">“How am I supposed to continue living  in a town that lost everything?”</Entry>
+  <Entry File="ncoin3\4b.wav" ID="4" Part="b">“To hell with the Mako reactor!”</Entry>
+  <Entry File="ncoin3\5.wav" ID="5">“The town is in shambles…  and Meteor is coming our way…”</Entry>
+  <Entry File="ncoin3\6.wav" ID="6">“All we have left is  our love for each other.”</Entry>
+  <Entry File="ncoin3\7.wav" ID="7">“I don't want to die,  but who can stop Meteor?”</Entry>
+  <Entry File="ncoin3\8.wav" ID="8">“Yaaay!!  What do you wanna play?”</Entry>
+  <Entry File="ncoin3\9.wav" ID="9">“Hey,what's a Meteor?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ncoin3\0.wav" ID="0">North Corel</Entry>
+	<Entry File="ncoin3\10.wav" ID="10">Received "Catastrophe"!</Entry>
+-->
+</VoiceList>

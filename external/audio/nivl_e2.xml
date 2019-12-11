@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="nivl_e2\0.wav" ID="0">Tifa “From the beginning…OK?”</Entry>
+  <Entry File="nivl_e2\1.wav" ID="1">Tifa “Try and remember,Cloud.”</Entry>
+  <Entry File="nivl_e2\2.wav" ID="2">Tifa “…I was wearing these clothes.”</Entry>
+  <Entry File="nivl_e2\3.wav" ID="3">Tifa “That's you,too.  You were so small then…”</Entry>
+  <Entry File="nivl_e2\4.wav" ID="4">Tifa “…and cute.”</Entry>
+  <Entry File="nivl_e2\5.wav" ID="5">Tifa “Sephiroth once said…”</Entry>
+  <Entry File="nivl_e2\6.wav" ID="6">Tifa “Cloud made up his memories  by listening to my stories…”</Entry>
+  <Entry File="nivl_e2\7.wav" ID="7">Tifa “Did you imagine this sky?  No,you remembered it.”</Entry>
+  <Entry File="nivl_e2\8.wav" ID="8">Tifa “That night the stars were gorgeous.  It was just Cloud and I.  We talked at the well…”</Entry>
+  <Entry File="nivl_e2\9.wav" ID="9">Tifa “He remembered our promise too…”</Entry>
+  <Entry File="nivl_e2\10.wav" ID="10">Tifa “That's why I kept thinking you  were the real Cloud.”</Entry>
+  <Entry File="nivl_e2\11.wav" ID="11">Tifa “I still believe you're  the Cloud from Nibelheim…”</Entry>
+  <Entry File="nivl_e2\12.wav" ID="12">Tifa “But you don't believe in yourself…”</Entry>
+  <Entry File="nivl_e2\13.wav" ID="13">Tifa “These memories aren't enough.”</Entry>
+</VoiceList>

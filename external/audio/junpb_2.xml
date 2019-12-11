@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junpb_2\1a.wav" ID="1" Part="a">“This is a Respectable Inn…  guests only!”</Entry>
+  <Entry File="junpb_2\1b.wav" ID="1" Part="b">“You should absorb all the wisdom  until it is a part of you.”</Entry>
+  <Entry File="junpb_2\2.wav" ID="2">“OK,Mr. Know-it-all,ex-SOLDIER!  Let me revenge…I mean,review!”</Entry>
+  <Entry File="junpb_2\3.wav" ID="3">Cloud “What do you want to review?” ATB Onscreen numbers Change and Defend Escape Gauges Status Elementals Help That's all</Entry>
+  <Entry File="junpb_2\4.wav" ID="4">Cloud “I'm not so low as to take money off  a bunch of low-lifes like you.  I'm just doing this to kill time.”</Entry>
+  <Entry File="junpb_2\5a.wav" ID="5" Part="a">Cloud “ATB means Active Time Battle. It's a   system in which time  continuously runs during battle.”</Entry>
+  <Entry File="junpb_2\5b.wav" ID="5" Part="b">“If the ATB is changed to  [WAIT] in the Config Menu…  Time stops during battle  while you select magic or an item.”</Entry>
+  <Entry File="junpb_2\5c.wav" ID="5" Part="c">“That lets you select your commands carefully.  It's geared especially  for beginners like you.”</Entry>
+  <Entry File="junpb_2\5d.wav" ID="5" Part="d">“In the Config menu,if you change from ATB  to [Recommended]…Time will stop  while magic or item effects are displayed.”</Entry>
+  <Entry File="junpb_2\5e.wav" ID="5" Part="e">“This lets you watch the effects carefully.  Letting you fight at your own pace…  this is the way to go.”</Entry>
+  <Entry File="junpb_2\5f.wav" ID="5" Part="f">“I always use ACTIVE mode,  but choose what you want.  That's all.”</Entry>
+  <Entry File="junpb_2\6a.wav" ID="6" Part="a">Cloud “During a battle,  white numbers that appear on the screen  indicate damage,  and green numbers indicate recovery points.”</Entry>
+  <Entry File="junpb_2\6b.wav" ID="6" Part="b">“Remember that,  if you don't want to be Wiped Out.”</Entry>
+  <Entry File="junpb_2\7a.wav" ID="7" Part="a">Cloud “Change will change your fighting position   to either the front or back row.”</Entry>
+  <Entry File="junpb_2\7b.wav" ID="7" Part="b">“If you select the back row,  the amount of damage  you receive is reduced,  but so is your attacking power.”</Entry>
+  <Entry File="junpb_2\7c.wav" ID="7" Part="c">“[Change] can be selected from the battle menu   by pushing the [left Directional button].”</Entry>
+  <Entry File="junpb_2\7d.wav" ID="7" Part="d">“You can also select [Defend] from battle menu   by pushing the Directional button to the right.”</Entry>
+  <Entry File="junpb_2\7e.wav" ID="7" Part="e">“Defend will reduce your damage by half   until your next turn.”</Entry>
+  <Entry File="junpb_2\7f.wav" ID="7" Part="f">“It's better to use Defend for strong enemies.  Of course,I don't need anything like that.”</Entry>
+  <Entry File="junpb_2\8a.wav" ID="8" Part="a">Cloud “I don't know too much about Escape  during battles since I never do it,  but…someone like you might need it.”</Entry>
+  <Entry File="junpb_2\8b.wav" ID="8" Part="b">“You can escape by holding down  [PAGEUP] and [PAGEDOWN] in battle.”</Entry>
+  <Entry File="junpb_2\9a.wav" ID="9" Part="a">Cloud “It might be hard to understand this next one   since you can't check it right now,  but just listen.”</Entry>
+  <Entry File="junpb_2\9b.wav" ID="9" Part="b">“I'm talking about the Gauges  displayed during battle.”</Entry>
+  <Entry File="junpb_2\9c.wav" ID="9" Part="c">“The Time Gauge shows the time remaining  until your next turn during battle.”</Entry>
+  <Entry File="junpb_2\9d.wav" ID="9" Part="d">“You can enter a command  once the Gauge is full,  but if you don't want to enter a command,  press [MENU]   to skip to the next person.”</Entry>
+  <Entry File="junpb_2\9e.wav" ID="9" Part="e">“This is good  when you want to  make Barret work.”</Entry>
+  <Entry File="junpb_2\9f.wav" ID="9" Part="f">“The Limit Gauge increases  as you receive damage.  When this is full,  you are able to use a Limit Technique.”</Entry>
+  <Entry File="junpb_2\9g.wav" ID="9" Part="g">“The Limit Gauge doesn't reset  after each battle,  so it will build up the more damage  you get in battle.”</Entry>
+  <Entry File="junpb_2\9h.wav" ID="9" Part="h">“The trick is knowing when to use it  instead of using it as soon as  it becomes available.”</Entry>
+  <Entry File="junpb_2\9i.wav" ID="9" Part="i">“You may already know this,  but I'll tell you anyways.  Status has two conditions:  Fury and Sadness.”</Entry>
+  <Entry File="junpb_2\9j.wav" ID="9" Part="j">“Fury speeds up your Limit Gauge,  but decreases your concentration.”</Entry>
+  <Entry File="junpb_2\9k.wav" ID="9" Part="k">“Sadness slows down your Limit Gauge,  but also decreases the damage you receive.  Keep this in mind.”</Entry>
+  <Entry File="junpb_2\9l.wav" ID="9" Part="l">“The Barrier Gauge shows  the time available for special magic effects.”</Entry>
+  <Entry File="junpb_2\9m.wav" ID="9" Part="m">“The top gauge,Barrier,defends against attacks.  And the bottom gauge,Magic Barrier,  defends against magic spells.”</Entry>
+  <Entry File="junpb_2\9n.wav" ID="9" Part="n">“Both reduce the amount of damage by half,  but disappear after several uses.”</Entry>
+  <Entry File="junpb_2\9o.wav" ID="9" Part="o">“Always keep an eye on the Barrier Gauge,  when using Barrier and Magic Barrier spells.”</Entry>
+  <Entry File="junpb_2\9p.wav" ID="9" Part="p">“That's all.  Check them out next  time you're in a battle.”</Entry>
+  <Entry File="junpb_2\10a.wav" ID="10" Part="a">Cloud “If you don't understand what I just told you,  I guess you just have a limited capacity  for information.”</Entry>
+  <Entry File="junpb_2\10b.wav" ID="10" Part="b">“But,relax.  Push [ASSIST] during battle.”</Entry>
+  <Entry File="junpb_2\10c.wav" ID="10" Part="c">“A Help Message should explain   the different commands to you.”</Entry>
+  <Entry File="junpb_2\10d.wav" ID="10" Part="d">“It'll tell you things like the monsters' names.  Even I look at it,sometimes…  so don't be ashamed to use it.”</Entry>
+  <Entry File="junpb_2\11a.wav" ID="11" Part="a">Cloud “Wiped Out…  I've never really seen it,  but someone told me about it once.”</Entry>
+  <Entry File="junpb_2\11b.wav" ID="11" Part="b">“When you get Wiped Out,you can   continue from your last Save Point.  Your Experience points will not change.”</Entry>
+  <Entry File="junpb_2\11c.wav" ID="11" Part="c">“Even wimps like you should be able to  get out of difficult areas  as long as you fight steadily.  You ought to be thankful for this.”</Entry>
+  <Entry File="junpb_2\12a.wav" ID="12" Part="a">Cloud “Status simply means  the status of the characters.”</Entry>
+  <Entry File="junpb_2\12b.wav" ID="12" Part="b">“I don't want to repeat myself too much,  so I'll mention the main points.”</Entry>
+  <Entry File="junpb_2\14a.wav" ID="14" Part="a">Cloud “Phew…I'm tired.”</Entry>
+  <Entry File="junpb_2\14b.wav" ID="14" Part="b">“Changed Status can be changed  with magic and items,so always double  check it when you buy things.”</Entry>
+  <Entry File="junpb_2\15a.wav" ID="15" Part="a">Cloud “Elementals are special Materia that  come with magic and weapons.”</Entry>
+  <Entry File="junpb_2\15b.wav" ID="15" Part="b">“You have to use this  to your advantage in battle.”</Entry>
+  <Entry File="junpb_2\15c.wav" ID="15" Part="c">“Only once you start thinking  in terms of Elementals can you  truly be called an intermediate player.”</Entry>
+  <Entry File="junpb_2\15d.wav" ID="15" Part="d">“Here are some examples.  Remember,they're just examples.   You don't have to memorize them.”</Entry>
+  <Entry File="junpb_2\17a.wav" ID="17" Part="a">Cloud “Using opposite Elementals often is  effective in battle.”</Entry>
+  <Entry File="junpb_2\17b.wav" ID="17" Part="b">“Using the same Elementals  usually increases Defense.”</Entry>
+  <Entry File="junpb_2\17c.wav" ID="17" Part="c">“But,the reverse is also true.  Watch out for it.”</Entry>
+  <Entry File="junpb_2\17d.wav" ID="17" Part="d">“To find out what Elementals an enemy has,  you need Sense Materia.  Once you get it,try it out.”</Entry>
+  <Entry File="junpb_2\18a.wav" ID="18" Part="a">“This is the Beginner's Hall  (Intermediate)!”</Entry>
+  <Entry File="junpb_2\18b.wav" ID="18" Part="b">“Your explanations were so complicated  I couldn't return to the Planet.”</Entry>
+  <Entry File="junpb_2\18c.wav" ID="18" Part="c">“So,I have a right to ask you again.”</Entry>
+  <Entry File="junpb_2\19.wav" ID="19">Cloud “What do you want to know?” How to save? How do I cure party members? Curative Magic Weapons and armor How to apply Materia Effective ways to use Materia Battle formation Checking status Limit Techniques Other You got nothing to teach me!</Entry>
+  <Entry File="junpb_2\20.wav" ID="20">Cloud “For my explanation,I'll need a Potion.”</Entry>
+  <Entry File="junpb_2\21.wav" ID="21">“Man,ex-SOLDIERs sure are cheap.    OK,I'll GIVE you a Potion…”</Entry>
+  <Entry File="junpb_2\22.wav" ID="22">“I don't seem to have any on me.  Why don't you go buy one?”</Entry>
+  <Entry File="junpb_2\23.wav" ID="23">Cloud “Thanks.  I'll take that as my pay.”</Entry>
+  <Entry File="junpb_2\24a.wav" ID="24" Part="a">Cloud “I think you know the basics,  but just in case…”</Entry>
+  <Entry File="junpb_2\24b.wav" ID="24" Part="b">“Do not open the CD drive or   change discs until instructed.”</Entry>
+  <Entry File="junpb_2\24c.wav" ID="24" Part="c">“If you open the drive,  I can't guarantee anything.  That is all.”</Entry>
+  <Entry File="junpb_2\25.wav" ID="25">“OK wise-guy,I'll ask about Materia   just so you can let off some stress.”</Entry>
+  <Entry File="junpb_2\26.wav" ID="26">Cloud “You're right…” Growth Materia Kinds of Materia Combinations of Materia Divisions of Materia   Number of Materia you may carry The rest is a secret</Entry>
+  <Entry File="junpb_2\27a.wav" ID="27" Part="a">Cloud “First off,the main points.”</Entry>
+  <Entry File="junpb_2\27b.wav" ID="27" Part="b">“Some types of Materia,like Magic,  grow as you use them.”</Entry>
+  <Entry File="junpb_2\27c.wav" ID="27" Part="c">“Some,like Summon Magic,  grow from being used   once a battle,to several times per battle.”</Entry>
+  <Entry File="junpb_2\27d.wav" ID="27" Part="d">“Their effectiveness changes,too.  There are all different kinds.”</Entry>
+  <Entry File="junpb_2\27e.wav" ID="27" Part="e">“Some types don't change,but  they must grow in order to be divided.”</Entry>
+  <Entry File="junpb_2\27f.wav" ID="27" Part="f">“…And that's it.  Maybe that sounded too official.”</Entry>
+  <Entry File="junpb_2\28a.wav" ID="28" Part="a">Cloud “Types of Materia…  Here goes!”</Entry>
+  <Entry File="junpb_2\28b.wav" ID="28" Part="b">“[Independent Materia]  enables Abilities.  No linking required.”</Entry>
+  <Entry File="junpb_2\28c.wav" ID="28" Part="c">“[Support Materia] is used  with Command,Magic,  and Summon Materia.”</Entry>
+  <Entry File="junpb_2\28d.wav" ID="28" Part="d">“You must equip them in linked slots or  they won't be any good.”</Entry>
+  <Entry File="junpb_2\28e.wav" ID="28" Part="e">“[Command Materia] lets you use  new commands.”</Entry>
+  <Entry File="junpb_2\28f.wav" ID="28" Part="f">“There are lots of different kinds of Materia,  so you'll never get bored.  One called [Attack] changes itself.”</Entry>
+  <Entry File="junpb_2\28g.wav" ID="28" Part="g">“[Magic Materia] is easy.  You can use Magic,  and as your Level increases,  you'll learn new Magic.”</Entry>
+  <Entry File="junpb_2\28h.wav" ID="28" Part="h">“[Summon Materia]  let's you use Summon Magic.  As your Level increases,  the number of times you can use  it in a single battle increases.”</Entry>
+  <Entry File="junpb_2\28i.wav" ID="28" Part="i">“This's one of my favorites.”</Entry>
+  <Entry File="junpb_2\28j.wav" ID="28" Part="j">“And there you have it,  the five types of Materia.”</Entry>
+  <Entry File="junpb_2\29a.wav" ID="29" Part="a">Cloud “There's no single way to combine Materia.  So here goes the basics.”</Entry>
+  <Entry File="junpb_2\29b.wav" ID="29" Part="b">“Support Materia…  The basic combination is  Magic + All.”</Entry>
+  <Entry File="junpb_2\29c.wav" ID="29" Part="c">“The variety of magic  you can cast will increase   as your Magic Level increases.”</Entry>
+  <Entry File="junpb_2\29d.wav" ID="29" Part="d">“When your All level increases,  so does the number of times  you can use it in a battle.  That about covers it.”</Entry>
+  <Entry File="junpb_2\29e.wav" ID="29" Part="e">“Huh?  Wait a sec…”</Entry>
+  <Entry File="junpb_2\29f.wav" ID="29" Part="f">“You can change between Magic-All and Magic  with [PAGEUP/PAGEDOWN].  I'll bet you've probably already done this.”</Entry>
+  <Entry File="junpb_2\29g.wav" ID="29" Part="g">“One effective combination is  Elemental + Summon Materia.”</Entry>
+  <Entry File="junpb_2\29h.wav" ID="29" Part="h">“If you equip this combination to your weapon,  you can put  Magic and Summon Elementals   on your weapon.”</Entry>
+  <Entry File="junpb_2\29i.wav" ID="29" Part="i">“For example,  if you equip Fire + Elemental to  your sword,  you will end up with  Fire Elemental Sword.”</Entry>
+  <Entry File="junpb_2\29j.wav" ID="29" Part="j">“I'm getting off the subject,…  If you equip Fire + Elemental to your armor,  it will have twice  the resistance to fire damage.”</Entry>
+  <Entry File="junpb_2\29k.wav" ID="29" Part="k">“Now this is important.”</Entry>
+  <Entry File="junpb_2\29l.wav" ID="29" Part="l">“When the Elemental levels  in your armor increase,  so will their effectiveness.   From half damage - no damage - absorb.”</Entry>
+  <Entry File="junpb_2\29m.wav" ID="29" Part="m">“If you combined Elemental and Fire  you could develop Fire absorbing armor.”</Entry>
+  <Entry File="junpb_2\30a.wav" ID="30" Part="a">Cloud “Wait,there's more.  Next is the Added Effect  for Support Materia.”</Entry>
+  <Entry File="junpb_2\30b.wav" ID="30" Part="b">“The Added Effect Materia grafts  the effects of Compound Status  Materia into your weapons and armor.”</Entry>
+  <Entry File="junpb_2\30c.wav" ID="30" Part="c">“For example,equip  Added Effect + Poison to  your weapon and select [Attack].”</Entry>
+  <Entry File="junpb_2\30d.wav" ID="30" Part="d">“Sometimes you'll make a Poison attack.  Of course,it doesn't always work.”</Entry>
+  <Entry File="junpb_2\30e.wav" ID="30" Part="e">“If you don't combine  the Added Effect Materia  with Status Change Materia,like Confusion  or Time,you won't get any effect.”</Entry>
+  <Entry File="junpb_2\30f.wav" ID="30" Part="f">“To learn more about Added Effect,  access the menu and check the Status.”</Entry>
+  <Entry File="junpb_2\30g.wav" ID="30" Part="g">“It's a little hard to get,  but if you take your time,  you'll be all right.”</Entry>
+  <Entry File="junpb_2\31a.wav" ID="31" Part="a">Cloud “Division…  I'm pretty good at this.”</Entry>
+  <Entry File="junpb_2\31b.wav" ID="31" Part="b">“People tell me that my personality is divided.  But I don't think so,  but maybe it is?”</Entry>
+  <Entry File="junpb_2\31c.wav" ID="31" Part="c">“Anyhow…”</Entry>
+  <Entry File="junpb_2\31d.wav" ID="31" Part="d">“Once your Materia reaches  the maximum level,it will divide.”</Entry>
+  <Entry File="junpb_2\31e.wav" ID="31" Part="e">“The original Materia will no longer grow.  Once that happens,  all you can do is use it as it is.”</Entry>
+  <Entry File="junpb_2\31f.wav" ID="31" Part="f">“New Materia always starts out with zero AP,  so you need to raise its levels!”</Entry>
+  <Entry File="junpb_2\31g.wav" ID="31" Part="g">“Of course,once the new Materia  reaches its max,it'll divide.  That's how you increase  your Materia collection.”</Entry>
+  <Entry File="junpb_2\31h.wav" ID="31" Part="h">“Ha,ha…  Right now I feel like  I'm dividing myself.”</Entry>
+  <Entry File="junpb_2\32a.wav" ID="32" Part="a">Cloud “Once Materia starts dividing,  you must be careful.”</Entry>
+  <Entry File="junpb_2\32b.wav" ID="32" Part="b">“There's a limit to how much Materia  you can have.”</Entry>
+  <Entry File="junpb_2\32c.wav" ID="32" Part="c">“Since we're fighting  for the life of the Planet,  it goes against my beliefs  to carry too much Materia.”</Entry>
+  <Entry File="junpb_2\32d.wav" ID="32" Part="d">“Either way,I don't really care  but,I'll leave it up to you.”</Entry>
+  <Entry File="junpb_2\32e.wav" ID="32" Part="e">“That's why,the amount of Materia that  we can have is limited to 200…  only what we can equip.”</Entry>
+  <Entry File="junpb_2\32f.wav" ID="32" Part="f">“When you have too much Materia,  you need to dispose of some.    If you don't,you can't take on  any more.”</Entry>
+  <Entry File="junpb_2\32g.wav" ID="32" Part="g">“So,ditch some Materia before that happens…  Ahem…I mean,  give them back to the Planet.”</Entry>
+  <Entry File="junpb_2\33.wav" ID="33">“OK. Expert!  Enlighten us on Limit Techniques,  why doncha?”</Entry>
+  <Entry File="junpb_2\34.wav" ID="34">Cloud “I don't have too much to say about that…” Developing Limits Extreme Limits That's it</Entry>
+  <Entry File="junpb_2\35a.wav" ID="35" Part="a">Cloud “There are 2 basic ways of building up  your Limit techniques.  First,just use them!”</Entry>
+  <Entry File="junpb_2\35b.wav" ID="35" Part="b">“And second is to finish off  as many enemies as possible!  It sounds easier than it is.”</Entry>
+  <Entry File="junpb_2\35c.wav" ID="35" Part="c">“Everyone knows that when you gain  a new Limit technique,  you need to select it in the menu.”</Entry>
+  <Entry File="junpb_2\35d.wav" ID="35" Part="d">“And you know that you won't be able to use  advanced techniques on each level  if you haven't used the basic ones.”</Entry>
+  <Entry File="junpb_2\35e.wav" ID="35" Part="e">“Since the type and growth  for each limit techniques  is different,that's about all I will say.”</Entry>
+  <Entry File="junpb_2\36a.wav" ID="36" Part="a">Cloud “A long time ago I heard extreme techniques   exist within the Limit techniques.”</Entry>
+  <Entry File="junpb_2\36b.wav" ID="36" Part="b">“But,if that's true you wouldn't be able to   get it in any normal way.  That's about all I know about it.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junpb_2\0.wav" ID="0">Respectable Inn</Entry>
+	<Entry File="junpb_2\13a.wav" ID="13" Part="a">Sleep  Cannot enter command until awakened.</Entry>
+	<Entry File="junpb_2\13b.wav" ID="13" Part="b">Poison  Rapidly decreases HP during battle.</Entry>
+	<Entry File="junpb_2\13c.wav" ID="13" Part="c">Fury  Doubles damage,reduces concentration.  Tranquilizer cures it.</Entry>
+	<Entry File="junpb_2\13d.wav" ID="13" Part="d">Sadness  Reduces damage. Hyper cures it.</Entry>
+	<Entry File="junpb_2\13e.wav" ID="13" Part="e">Petrify  Turns you into stone.  If entire party is petrified,  you'll get Wiped Out.</Entry>
+	<Entry File="junpb_2\13f.wav" ID="13" Part="f">Confusion  You cannot distinguish  between enemy and ally.</Entry>
+	<Entry File="junpb_2\13g.wav" ID="13" Part="g">Silence  You cannot cast any Magic.</Entry>
+	<Entry File="junpb_2\13h.wav" ID="13" Part="h">Paralysis  Time Gauge stops,  you cannot enter commands.</Entry>
+	<Entry File="junpb_2\13i.wav" ID="13" Part="i">Darkness  Reduces attack concentration.</Entry>
+	<Entry File="junpb_2\13j.wav" ID="13" Part="j">Frog  Turns you into a frog. I hate this.</Entry>
+	<Entry File="junpb_2\16a.wav" ID="16" Part="a">Fire  Fire effect. Works best on animals  and water monsters.</Entry>
+	<Entry File="junpb_2\16b.wav" ID="16" Part="b">Ice  Ice effect. Works best on fire monsters  and things that hate the cold.</Entry>
+	<Entry File="junpb_2\16c.wav" ID="16" Part="c">Lightning  Lightning effect.  Works best on mechanical things.</Entry>
+	<Entry File="junpb_2\16d.wav" ID="16" Part="d">Earth  Attacks using the earth's power.  Doesn't work on flying enemies.</Entry>
+	<Entry File="junpb_2\16e.wav" ID="16" Part="e">Poison  Poisons enemies. Doesn't work on  any poison-based enemies.</Entry>
+	<Entry File="junpb_2\16f.wav" ID="16" Part="f">Gravity  Gravity-based attack.  These hurt if they hit.</Entry>
+	<Entry File="junpb_2\16g.wav" ID="16" Part="g">Water  Calls on the earth's water.  Works well on fire monsters.</Entry>
+	<Entry File="junpb_2\16h.wav" ID="16" Part="h">Wind  Calls up the winds.  Works well on flying enemies.</Entry>
+	<Entry File="junpb_2\16i.wav" ID="16" Part="i">Holy  Summons the Planet's power.  Works well on dark monsters.</Entry>
+	<Entry File="junpb_2\37.wav" ID="37">Received "Enemy Skill" Materia!</Entry>
+	<Entry File="junpb_2\38.wav" ID="38"> You cannot take on any more Materia.  Please discard some Materia.</Entry>
+-->
+</VoiceList>

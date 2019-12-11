@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blinele\0.wav" ID="0">Tifa “…What's wrong?”</Entry>
+  <Entry File="blinele\1a.wav" ID="1" Part="a">Cloud “I didn't want to start a ruckus till  we saved Aeris.”</Entry>
+  <Entry File="blinele\1b.wav" ID="1" Part="b">“I should have known  that was impossible though…”</Entry>
+  <Entry File="blinele\2.wav" ID="2">Barret “Heh,heh,heh.”</Entry>
+  <Entry File="blinele\3.wav" ID="3">Cloud “What is it? You're givin' me the willies.”</Entry>
+  <Entry File="blinele\4.wav" ID="4">Barret “So there are times when even you   fight for other people.  I am impressed.”</Entry>
+  <Entry File="blinele\5.wav" ID="5">Cloud “Who cares if you're impressed?”</Entry>
+  <Entry File="blinele\6.wav" ID="6">Barret “Y'know,I ain't so good at sayin' this but…  Sorry…for…lots of things.”</Entry>
+  <Entry File="blinele\7.wav" ID="7">Barret “Wh,what the!?”</Entry>
+  <Entry File="blinele\8.wav" ID="8">Tifa “Look!”</Entry>
+  <Entry File="blinele\9.wav" ID="9">Barret “DA-MN!”</Entry>
+  <Entry File="blinele\10.wav" ID="10">Barret “Just stop it,Cloud!  I don't care where!”</Entry>
+  <Entry File="blinele\11.wav" ID="11">Tifa “What's going on!?”</Entry>
+  <Entry File="blinele\13.wav" ID="13">“Oh man!!”</Entry>
+  <Entry File="blinele\14.wav" ID="14">“No,uh,that's all right.  My mistake.  I'm,uh,not getting on.”</Entry>
+  <Entry File="blinele\15.wav" ID="15">“Oh man!!”</Entry>
+  <Entry File="blinele\16.wav" ID="16">“You…again?  Uh,I'll pass.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blinele\12.wav" ID="12" />
+	<Entry File="blinele\17.wav" ID="17">Elevator</Entry>
+-->
+</VoiceList>

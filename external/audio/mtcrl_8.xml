@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mtcrl_8\0.wav" ID="0">Aeris “How cute!!”</Entry>
+  <Entry File="mtcrl_8\1.wav" ID="1">Aeris “How cute!!”</Entry>
+  <Entry File="mtcrl_8\2.wav" ID="2">Tifa “Oh,cute!!”</Entry>
+  <Entry File="mtcrl_8\3.wav" ID="3">Tifa “Yes!!  …how cute.”</Entry>
+  <Entry File="mtcrl_8\4.wav" ID="4">Yuffie “Yeow!  Lookit that!!”</Entry>
+  <Entry File="mtcrl_8\5.wav" ID="5">Barret “Haaeyy!”</Entry>
+  <Entry File="mtcrl_8\6.wav" ID="6">Red XIII “huff…huff…”</Entry>
+  <Entry File="mtcrl_8\7.wav" ID="7">Cloud “What should we do?” Take the treasure Leave it where it is</Entry>
+  <Entry File="mtcrl_8\8.wav" ID="8">Cloud “Times are tough…  I'm taking the treasure.”</Entry>
+  <Entry File="mtcrl_8\9.wav" ID="9">Cloud “…It's got nothing to do with us.  Just forget about it.”</Entry>
+  <Entry File="mtcrl_8\10.wav" ID="10">Tifa “Right!  That was admirable of you.”</Entry>
+  <Entry File="mtcrl_8\11.wav" ID="11">Tifa “Oh! Cloud!   Your hair looks like a Chocobo!”</Entry>
+  <Entry File="mtcrl_8\12.wav" ID="12">Aeris “Cloud…”</Entry>
+  <Entry File="mtcrl_8\13.wav" ID="13">Yuffie “You kiddin'?”</Entry>
+  <Entry File="mtcrl_8\14.wav" ID="14">Red XIII “Glu…glug…”</Entry>
+  <Entry File="mtcrl_8\15.wav" ID="15">Yuffie “Come to Mommy!!”</Entry>
+  <Entry File="mtcrl_8\16.wav" ID="16">Barret “Haeey!! Baaeby!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mtcrl_8\17.wav" ID="17">Received 10 "Phoenix Down"!</Entry>
+-->
+</VoiceList>

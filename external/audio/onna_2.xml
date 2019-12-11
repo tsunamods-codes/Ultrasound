@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="onna_2\1a.wav" ID="1" Part="a">“Hmm,hmm,hmm…”</Entry>
+  <Entry File="onna_2\1b.wav" ID="1" Part="b">“Ohhh,I just can't seem to lose weight.  Hmm,hmm,hmm…”</Entry>
+  <Entry File="onna_2\2a.wav" ID="2" Part="a">“Sir!!  You can't come in here.”</Entry>
+  <Entry File="onna_2\2b.wav" ID="2" Part="b">“(Yuk…a pervert…)”</Entry>
+  <Entry File="onna_2\3a.wav" ID="3" Part="a">“Oh my!!  (…You're still here?   Oh well,good timing anyway.)”</Entry>
+  <Entry File="onna_2\3b.wav" ID="3" Part="b">“Hey,what do you think about me?” Not interested Whatever…</Entry>
+  <Entry File="onna_2\4.wav" ID="4">“(Of course…)  Oh,I'm so happy.  In what way?” Not interested Whatever…</Entry>
+  <Entry File="onna_2\5.wav" ID="5">“NO WAY!  I'M SO SHOCKED!!”</Entry>
+  <Entry File="onna_2\6.wav" ID="6">“Oh my!! Are you embarrassed?  (Man!! Why are you so moody?)”</Entry>
+  <Entry File="onna_2\7a.wav" ID="7" Part="a">“Hmm,hmm,hmm,hmm…  Hmm,hmm,hmm,hmm…  Hmm,hmm,hmm,hmm…”</Entry>
+  <Entry File="onna_2\7b.wav" ID="7" Part="b">“Phew……  …it's so tiring.”</Entry>
+  <Entry File="onna_2\8a.wav" ID="8" Part="a">“Oh!!”</Entry>
+  <Entry File="onna_2\8b.wav" ID="8" Part="b">“Is something the matter?” Not yet Not really</Entry>
+  <Entry File="onna_2\9.wav" ID="9">“OH!!”</Entry>
+  <Entry File="onna_2\10.wav" ID="10">“Hmph!! Listen you,not that you care,  but you sure know  how to make people mad.”</Entry>
+  <Entry File="onna_2\11a.wav" ID="11" Part="a">“Paste,paste,paste…”</Entry>
+  <Entry File="onna_2\11b.wav" ID="11" Part="b">“(Oh God…here's another one of those guys.   You know,the delicate type.   Just ignore him,just ignore him.)”</Entry>
+  <Entry File="onna_2\12a.wav" ID="12" Part="a">“Fluff,fluff,fluff…”</Entry>
+  <Entry File="onna_2\12b.wav" ID="12" Part="b">“(Hmm!  I guess he doesn't realize his position.  I feel sorry for him.  Just ignore him,just ignore him.)”</Entry>
+  <Entry File="onna_2\13a.wav" ID="13" Part="a">“Pita,pita,pita…”</Entry>
+  <Entry File="onna_2\13b.wav" ID="13" Part="b">“(God,what a pest!  All right,get out of here!  You dog…)”</Entry>
+  <Entry File="onna_2\13c.wav" ID="13" Part="c">“(That's it,I'll name him 'pooch'.)”</Entry>
+  <Entry File="onna_2\14a.wav" ID="14" Part="a">“Mix,mix,mix……”</Entry>
+  <Entry File="onna_2\14b.wav" ID="14" Part="b">“(What should I do?  Is he following me? Really?  What if he follows me home?)”</Entry>
+  <Entry File="onna_2\14c.wav" ID="14" Part="c">“(Poochy'll do it,I'm sure of it…)”</Entry>
+  <Entry File="onna_2\15a.wav" ID="15" Part="a">“Shake,shake,shake…”</Entry>
+  <Entry File="onna_2\15b.wav" ID="15" Part="b">“(You think he's after me? Really?  This guy makes me sick…  And his eyes are weird,too…)”</Entry>
+  <Entry File="onna_2\15c.wav" ID="15" Part="c">“(Yeah,don't hurt these guys' feelings.  Let's at least say 'hi' to him.)”</Entry>
+  <Entry File="onna_2\16a.wav" ID="16" Part="a">“Uhh…  Hel…Hello.”</Entry>
+  <Entry File="onna_2\16b.wav" ID="16" Part="b">“What a nice day,today.” Introduce yourself Say Goodbye</Entry>
+  <Entry File="onna_2\17a.wav" ID="17" Part="a">Cloud “By the way,I haven't introduced   myself yet.”</Entry>
+  <Entry File="onna_2\17b.wav" ID="17" Part="b">“I'm Cloud,a jack of all trades.”</Entry>
+  <Entry File="onna_2\18a.wav" ID="18" Part="a">“Oh,yeah…?   Welcome,Cloud.”</Entry>
+  <Entry File="onna_2\18b.wav" ID="18" Part="b">“(Gross!  Don't get carried away,  remember your name is 'Pooch!')”</Entry>
+  <Entry File="onna_2\19.wav" ID="19">“BYE!!  (Phew…I'm safe now…)”</Entry>
+  <Entry File="onna_2\20.wav" ID="20">“Take care…Cloud.”</Entry>
+  <Entry File="onna_2\21.wav" ID="21">“Uh….  Do you put makeup on?”</Entry>
+  <Entry File="onna_2\22a.wav" ID="22" Part="a">“Eyaaah!”</Entry>
+  <Entry File="onna_2\22b.wav" ID="22" Part="b">“Don't watch!!”</Entry>
+  <Entry File="onna_2\23a.wav" ID="23" Part="a">“Eyaaah!”</Entry>
+  <Entry File="onna_2\23b.wav" ID="23" Part="b">“Don't!”</Entry>
+  <Entry File="onna_2\24.wav" ID="24">“…”</Entry>
+  <Entry File="onna_2\25.wav" ID="25">“…Oh my…”</Entry>
+  <Entry File="onna_2\26a.wav" ID="26" Part="a">Cloud “If I were to dress up like a woman…  Then I've got to really prepare carefully.”</Entry>
+  <Entry File="onna_2\26b.wav" ID="26" Part="b">“I should be able to put makeup on here.” Have them make me up Don't do it</Entry>
+  <Entry File="onna_2\27.wav" ID="27">Cloud “I have a favor to ask of you.  Can you put makeup on me,too?”</Entry>
+  <Entry File="onna_2\28a.wav" ID="28" Part="a">“…Paste,paste,paste…”</Entry>
+  <Entry File="onna_2\28b.wav" ID="28" Part="b">“Oh…my…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="onna_2\0.wav" ID="0">Honey Bee Inn</Entry>
+	<Entry File="onna_2\29.wav" ID="29" />
+	<Entry File="onna_2\30.wav" ID="30" />
+	<Entry File="onna_2\31.wav" ID="31" />
+-->
+</VoiceList>

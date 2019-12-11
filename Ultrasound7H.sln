@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultrasound7H", "Ultrasound 7H\Ultrasound7H\Ultrasound7H.csproj", "{A5A9C5B4-C53D-403A-AEEB-2C81C96C6C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultrasound", "Ultrasound\Ultrasound.csproj", "{8687AE4B-ADFB-49C0-896F-B86BC6D39DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A9C5B4-C53D-403A-AEEB-2C81C96C6C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A9C5B4-C53D-403A-AEEB-2C81C96C6C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A9C5B4-C53D-403A-AEEB-2C81C96C6C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A9C5B4-C53D-403A-AEEB-2C81C96C6C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8687AE4B-ADFB-49C0-896F-B86BC6D39DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8687AE4B-ADFB-49C0-896F-B86BC6D39DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8687AE4B-ADFB-49C0-896F-B86BC6D39DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8687AE4B-ADFB-49C0-896F-B86BC6D39DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52B34C7E-096F-4891-AE16-CA8A8A8415B9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mtcrl_5\0.wav" ID="0">Mt. Corel</Entry>
+	<Entry File="mtcrl_5\1.wav" ID="1">Received "Star Pendant"</Entry>
+	<Entry File="mtcrl_5\2.wav" ID="2">Received "Wizard Staff"!</Entry>
+-->
+</VoiceList>

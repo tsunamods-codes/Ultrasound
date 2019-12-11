@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="nivl_b12\2.wav" ID="2">Zangan “He---y!  Is anyone here?”</Entry>
+  <Entry File="nivl_b12\3.wav" ID="3">Zangan “Give me a hand!”</Entry>
+  <Entry File="nivl_b12\4.wav" ID="4">Zangan “Hey it's you!  You're still sane,right?”</Entry>
+  <Entry File="nivl_b12\5.wav" ID="5">Zangan “Then come over here and help me!”</Entry>
+  <Entry File="nivl_b12\6.wav" ID="6">Zangan “I'll check this house.  You check that one over there!”</Entry>
+  <Entry File="nivl_b12\7.wav" ID="7">Zangan “Hey! What about the other houses?”</Entry>
+  <Entry File="nivl_b12\8.wav" ID="8">“…Sephi…roth”</Entry>
+  <Entry File="nivl_b12\9.wav" ID="9">“…Hey,ummm…  Am I going to die?”</Entry>
+  <Entry File="nivl_b12\10a.wav" ID="10" Part="a">Cloud “Terrible…”</Entry>
+  <Entry File="nivl_b12\10b.wav" ID="10" Part="b">“Sephiroth…  This is too terrible…”</Entry>
+  <Entry File="nivl_b12\11.wav" ID="11">Cloud “What's…next?”</Entry>
+  <Entry File="nivl_b12\12.wav" ID="12">Tifa “Stop it already!!”</Entry>
+  <Entry File="nivl_b12\13.wav" ID="13">Barret “This is bad…  Just like Corel.”</Entry>
+  <Entry File="nivl_b12\14.wav" ID="14">Red XIII “This is terrible…  Did Sephiroth do this?”</Entry>
+  <Entry File="nivl_b12\15.wav" ID="15">Cait Sith “This is insane…”</Entry>
+  <Entry File="nivl_b12\16.wav" ID="16">Yuffie “Wow…   I didn't know it was   THIS bad…”</Entry>
+  <Entry File="nivl_b12\17.wav" ID="17">Vincent “All this happened  while I slept?”</Entry>
+  <Entry File="nivl_b12\18.wav" ID="18">Cid “This is terrible…”</Entry>
+  <Entry File="nivl_b12\19.wav" ID="19">Cloud “…This is what actually  happened five years ago.”</Entry>
+  <Entry File="nivl_b12\20a.wav" ID="20" Part="a">Cloud “But…”</Entry>
+  <Entry File="nivl_b12\20b.wav" ID="20" Part="b">“It's probably not me that  will come out of   the Shinra mansion.”</Entry>
+  <Entry File="nivl_b12\20c.wav" ID="20" Part="c">“He's going to try and show us another  stupid illusion.”</Entry>
+  <Entry File="nivl_b12\21.wav" ID="21">Cloud “See…didn't I tell you?”</Entry>
+  <Entry File="nivl_b12\22.wav" ID="22">Tifa “I don't want to…watch this.  Cloud…Don't watch.”</Entry>
+  <Entry File="nivl_b12\23a.wav" ID="23" Part="a">Cloud “…What's wrong,Tifa?  I told you before,right?”</Entry>
+  <Entry File="nivl_b12\23b.wav" ID="23" Part="b">“As long as we know that it's just an   illusion,there's no need to be scared.”</Entry>
+  <Entry File="nivl_b12\24.wav" ID="24">Cloud “I'm…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="nivl_b12\0.wav" ID="0">Nibelheim</Entry>
+	<Entry File="nivl_b12\1.wav" ID="1">Nibelheim</Entry>
+-->
+</VoiceList>

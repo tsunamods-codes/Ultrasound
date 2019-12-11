@@ -1,0 +1,130 @@
+[MISSING] [ujunon1\42.wav] “What?  It's not time for our shift,yet.  Just relax.”
+[MISSING] [ujunon1\44.wav] Cloud “Uh…yeah…”
+[MISSING] [jundoc1a\1a.wav] “All right,it's time!”
+[MISSING] [jundoc1a\1b.wav] “Ten…HUT!”
+[MISSING] [jundoc1a\2.wav] “President Rufus…has now arrived!”
+[MISSING] [jundoc1a\3a.wav] “This is it!!  Junon Military Reception!”
+[MISSING] [jundoc1a\3b.wav] “Do it right! Do it with enthusiasm!  Ready…!”
+[MISSING] [jundoc1a\6.wav] “[OK]!”
+[MISSING] [jundoc1a\6.wav] “[OK]!”
+[MISSING] [jundoc1a\8.wav] “[SWITCH]!”
+[MISSING] [jundoc1a\11.wav] “Left: Left Face!”
+[MISSING] [jundoc1a\8.wav] “[SWITCH]!”
+[MISSING] [jundoc1a\6.wav] “[OK]!”
+[MISSING] [jundoc1a\6.wav] “[OK]!”
+[MISSING] [jundoc1a\10.wav] “Right: Right Face!”
+[MISSING] [jundoc1a\7.wav] “[MENU]!”
+[MISSING] [jundoc1a\6.wav] “[OK]!”
+[MISSING] [jundoc1a\7.wav] “[MENU]!”
+[MISSING] [jundoc1a\10.wav] “Right: Right Face!”
+[MISSING] [jundoc1a\7.wav] “[MENU]!”
+[MISSING] [jundoc1a\6.wav] “[OK]!”
+[MISSING] [jundoc1a\8.wav] “[SWITCH]!”
+[MISSING] [jundoc1a\10.wav] “Right: Right Face!”
+[MISSING] [jundoc1a\10.wav] “Right: Right Face!”
+[MISSING] [jundoc1a\10.wav] “Right: Right Face!”
+[MISSING] [jundoc1a\8.wav] “[SWITCH]!”
+[MISSING] [jundoc1a\7.wav] “[MENU]!”
+[MISSING] [jundoc1a\11.wav] “Left: Left Face!”
+[MISSING] [jundoc1a\6.wav] “[OK]!”
+[MISSING] [jundoc1a\11.wav] “Left: Left Face!”
+[MISSING] [jundoc1a\11.wav] “Left: Left Face!”
+[MISSING] [jundoc1a\4.wav] “All right!  Now finish strong!!”
+[MISSING] [jundoc1a\5.wav] “SPECIAL!!”
+[MISSING] [jundoc1a\15a.wav] Rufus “Looks like you need more practice.”
+[MISSING] [jundoc1a\15b.wav] “With things looking this bad,  you better get ready for cutbacks.”
+[MISSING] [jundoc1a\17a.wav] Heidegger “Gya haa ha!!  Here's a special bonus for you!!”
+[MISSING] [jundoc1a\17b.wav] “A token of the President's kindness!  Don't forget it!”
+[MISSING] [jundoc1a\21.wav] Rufus “Once the word gets out that Sephiroth's here,  Cloud and his friends  will show up,too.”
+[MISSING] [jundoc1a\22.wav] Heidegger “We'll crush them as soon as we find them!”
+[MISSING] [jundoc1a\23.wav] Rufus “We can't have them get in our way.”
+[MISSING] [jundoc1a\24.wav] Heidegger “Leave it up to me,sir!  Gya haa ha!”
+[MISSING] [jundoc1a\25.wav] Rufus “I thought I told you to stop that stupid laugh.”
+[MISSING] [jundoc1a\26.wav] Heidegger “Gya…”
+[MISSING] [jundoc1a\27.wav] “All right! Dismissed!”
+[MISSING] [jundoc1a\28.wav] “That was close.”
+[MISSING] [jundoc1a\29.wav] “Heidegger's been really edgy lately.”
+[MISSING] [jundoc1a\30.wav] “Because Hojo disappeared,  leaving a letter of resignation.”
+[MISSING] [jundoc1a\31.wav] “Heidegger's been forced to take  over that investigation,too.”
+[MISSING] [jundoc1a\32.wav] “Hey!  I thought you were dismissed!”
+[MISSING] [jundoc1a\33.wav] “We got some cleaning up to do!  Hurry up!”
+[MISSING] [rckt\53.wav] “There's a bunch of Shinra people  here messin' with the rocket…”
+[MISSING] [rckt\54.wav] “Is my rocket…all right?”
+[MISSING] [rcktbas1\64.wav] “Those terrorists are here!”
+[MISSING] [rcktbas1\65.wav] “Don't let them get any further!  Everyone,ATTACK---!”
+[MISSING] [rcktbas1\68.wav] “Urrrgh,you're not going anywhere!"  Uh un,nowhere!”
+[MISSING] [rcktbas1\69.wav] Cid “Goddammit,what the hell do they think  they're gonna do to my rocket!?”
+[MISSING] [rcktbas1\70.wav] Cid “I'm outta here,Cloud!  I'm gonna kick those $^%$# Shinra  right out of my rocket!”
+[MISSING] [rcktbas2\75.wav] Rude “You again?”
+[MISSING] [rcktbas2\76.wav] Rude “We will eliminate everyone who  gets in Shinra's way.”
+[MISSING] [rcktbas2\77.wav] Rude “…They got us.”
+[MISSING] [rcktin2\73.wav] “You…you!  Why are you here?  Rude of the Turks should've been here!!”
+[MISSING] [rcktin2\74.wav] Cloud “Too bad.  Those guys are over there.”
+[MISSING] [rcktin2\75.wav] “Oh man…the Turks,being done in like that…  But,I won't let you through!”
+[MISSING] [rcktin2\76.wav] “Urrrrgh…”
+[MISSING] [rcktin5\78.wav] Cid “Hey!  What the hell're you guys doin'!?”
+[MISSING] [rcktin5\77.wav] “Hey! Just when I thought somethin'  was goin' on,you come back!”
+[MISSING] [rcktin5\79.wav] “Listen to me,Captain.  We're gonna launch this rocket!”
+[MISSING] [rcktin5\80.wav] Cid “Huh?  What are you talkin' 'bout?”
+[MISSING] [rcktin5\81.wav] “We're gonna load a Materia bomb  in this and blow up Meteor.”
+[MISSING] [rcktin5\82.wav] “Our rocket's gonna  save the planet!”
+[MISSING] [rcktin5\83.wav] “Urrrrgh.  Man this is so COOL!!”
+[MISSING] [rcktin5\84.wav] Cloud “Wait a minute!”
+[MISSING] [rcktin5\85.wav] Cid “Shut up!!  Just shut the hell up!”
+[MISSING] [rcktin5\86.wav] Cid “How's the rocket?”
+[MISSING] [rcktin5\87.wav] “It's pretty much OK.”
+[MISSING] [rcktin5\88.wav] “But…”
+[MISSING] [rcktin5\89.wav] “We planned to run it  into Meteor on Auto-Pilot,but  the most important device is broken.”
+[MISSING] [rcktin5\90.wav] Cid “Broken?  How's the repair goin'?”
+[MISSING] [rcktin5\91.wav] “Shera's doin' it…”
+[MISSING] [rcktin5\92.wav] Cid “Oh great!  What a buncha wizards you guys are!  She's gonna take 100 years!”
+[MISSING] [rcktin5\93.wav] Cid “I'll take over,so don't worry  about the Auto-Pilot!”
+[MISSING] [rcktin5\94.wav] Cid “Hey,go ahead!  Go tell everyone!”
+[MISSING] [rcktin5\95.wav] “All right,Captain.  Good luck.”
+[MISSING] [rcktin5\96.wav] Cloud “Hey,Cid!  What're you doing!?”
+[MISSING] [rcktin5\97a.wav] Cloud “There are generations of knowledge  and wisdom inside the Materia.”
+[MISSING] [rcktin5\97b.wav] “We're gonna borrow their powers and  save the Planet from Sephiroth.”
+[MISSING] [rcktin5\97c.wav] “There's no way that  we can lose the Huge Materia.  You understand that,right?”
+[MISSING] [rcktin5\98.wav] Cid “Yeah,I understand.  I understand that Materia is precious,  and I also understand what you're thinking.”
+[MISSING] [rcktin5\99a.wav] Cid “But listen.”
+[MISSING] [rcktin5\99b.wav] “I don't give a rat's ass whether it's  science or magical power.”
+[MISSING] [rcktin5\100.wav] Cid “No,I guess if I had to choose,I'd rather   put my money on the power of science.”
+[MISSING] [rcktin5\101a.wav] Cid “Humans only used to walk  around on the ground  but now they can fly!”
+[MISSING] [rcktin5\101b.wav] “And finally,   we're about to go   into outer space.”
+[MISSING] [rcktin5\102.wav] Cid “Science is a 'Power' created and  developed by humans.  And science just might be  what saves this Planet.”
+[MISSING] [rcktin5\103.wav] Cid “I was able to earn  my living,thanks to science.  So to me,there's nothing greater!”
+[MISSING] [rcktin5\104a.wav] Cid “Now quit your worrying  'bout what Shinra's gonna do!”
+[MISSING] [rcktin5\104b.wav] “I don't want to regret  not having done something later.”
+[MISSING] [rcktin5\105.wav] Cloud “But,Cid…”
+[MISSING] [rcktin5\106.wav] Cid “Shut the hell up!!  I don't wanna hear it!!”
+[MISSING] [rcktin5\107.wav] Cid “Alright,time to get to work!  Anyone who ain't involved,  get the hell outta here!”
+[MISSING] [rcktin5\108.wav] Cid “What the hell?  What the hell happened!?”
+[MISSING] [rcktin5\109.wav] Palmer “Hey-hey!”
+[MISSING] [rcktin5\110.wav] Cid “Palmer!  What the hell did'ya do!?”
+[MISSING] [rcktin5\111.wav] Palmer “They said they finished  repairing the Auto-Pilot.  So,I laun---ched it!”
+[MISSING] [rcktin5\112.wav] Cid “Goddamn Shera!  Why'd she pick today to get fast!”
+[MISSING] [rcktin5\113.wav] Cid “DAMN! Won't even budge!  It's completely locked up!”
+[MISSING] [rcktin5\114.wav] Palmer “Hey-hey-hey!  Almost lift off!”
+[MISSING] [rcktin5\115.wav] Cid “What the!? No countdown!?  It just don't seem the same without it!”
+[MISSING] [rcktin5\116.wav] Palmer “Hey!!!!  Hey-hey!!!  Blast-----off!”
+[MISSING] [rcktin5\132.wav] Cid “I finally made it…  outer space…”
+[MISSING] [rcktin5\130.wav] Cid “Let's see,  how's the course set?”
+[MISSING] [rcktin5\131.wav] Cid “Yup,it's headed for a collision  with Meteor.”
+[MISSING] [rcktin5\117.wav] Barret “Can't we do somethin'?  We can't jus' leave it.”
+[MISSING] [rcktin5\123.wav] Cid “That damn Palmer went outta his way to   lock the Auto-Pilot device.  We might not be able to change course.”
+[MISSING] [rcktin5\124.wav] Cloud “…Is this the end?”
+[MISSING] [rcktin5\125.wav] Cid “Huh? What the hell're you sayin'?  You're still young,  don't give up so easily!”
+[MISSING] [rcktin5\126.wav] Cid “I'm not gonna crash into Meteor.”
+[MISSING] [rcktin5\127.wav] Cid “Just watch.”
+[MISSING] [rcktin5\128.wav] Cid “I keep an escape pod on the rocket  just for emergencies like this.”
+[MISSING] [rcktin5\129.wav] Cid “I deciphered the lock code  on the escape pod.  We'll bail right before  we crash into Meteor.”
+[MISSING] [rcktin5\133a.wav] Barret “Hey  wait a second!”
+[MISSING] [rcktin5\133b.wav] “What's gonna happen to  the Huge Materia?”
+[MISSING] [rcktin5\145.wav] Cid “…”
+[MISSING] [rcktin5\139.wav] Cid “If you want the Materia,  do whatever you want!”
+[MISSING] [rcktin5\146.wav] Cid “The Materia should be there after  you climb that ladder.”
+[MISSING] [rcktin5\140.wav] Cloud “…You sure?”
+[MISSING] [rcktin5\141.wav] Cid “I dunno…”
+[MISSING] [rcktin5\142.wav] Cid “I know what I said a minute ago.”
+[MISSING] [rcktin5\143.wav] Cid “But maybe all that I really wanted was  just to go into outer space.”
+[MISSING] [rcktin5\144.wav] Cid “So,why don't you all do whatever  you think is right?”

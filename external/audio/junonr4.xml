@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junonr4\1.wav" ID="1">“Now!!  !”</Entry>
+  <Entry File="junonr4\2.wav" ID="2">“Just GO!  Then you just nonchalantly  sneak in from the back!  Make sure no one sees you!”</Entry>
+  <Entry File="junonr4\3a.wav" ID="3" Part="a">“Now listen up!  This parade's gonna be broadcast  live on Shinra TV around the world!”</Entry>
+  <Entry File="junonr4\3b.wav" ID="3" Part="b">“If you look bad,the whole Junon army  will look bad.  Remember that and don't screw up!”</Entry>
+  <Entry File="junonr4\3c.wav" ID="3" Part="c">“OK!  Jump in when I give you the sign!”</Entry>
+  <Entry File="junonr4\3d.wav" ID="3" Part="d">“Just sneak in from the back!  Don't mess up the row!”</Entry>
+  <Entry File="junonr4\3e.wav" ID="3" Part="e">“And no matter what you do,don't try   to go in from the front!”</Entry>
+  <Entry File="junonr4\4.wav" ID="4">“All right!!  Start marching!!”</Entry>
+  <Entry File="junonr4\5.wav" ID="5">“Hey!!  Don't run away from me!”</Entry>
+  <Entry File="junonr4\6.wav" ID="6">“Hey!!  Don't play around!”</Entry>
+  <Entry File="junonr4\7.wav" ID="7">“Charge!!”</Entry>
+  <Entry File="junonr4\8.wav" ID="8">“No,what're you doing!?”</Entry>
+  <Entry File="junonr4\10.wav" ID="10">“I'll go first!  Now you watch close   and do as I do,rookie!”</Entry>
+  <Entry File="junonr4\11.wav" ID="11">“Just sneak into the back of the  line when you see an opening.”</Entry>
+  <Entry File="junonr4\12.wav" ID="12">TV Producer “What the hell was that soldier doing?”</Entry>
+  <Entry File="junonr4\13.wav" ID="13">AD “I don't know.”</Entry>
+  <Entry File="junonr4\14.wav" ID="14">“Are the points up?”</Entry>
+  <Entry File="junonr4\15.wav" ID="15">AD “So-so.”</Entry>
+  <Entry File="junonr4\16.wav" ID="16">AD “They just shot up!!”</Entry>
+  <Entry File="junonr4\17.wav" ID="17">AD “This's terrible!  Am…am I fired?”</Entry>
+  <Entry File="junonr4\18a.wav" ID="18" Part="a">“Really.”</Entry>
+  <Entry File="junonr4\18b.wav" ID="18" Part="b">“I want somebody to send that soldier   an expensive gift.”</Entry>
+  <Entry File="junonr4\19a.wav" ID="19" Part="a">“We did it!”</Entry>
+  <Entry File="junonr4\19b.wav" ID="19" Part="b">“Send that soldier something special.”</Entry>
+  <Entry File="junonr4\20a.wav" ID="20" Part="a">“What!?  You're FIRED!!”</Entry>
+  <Entry File="junonr4\20b.wav" ID="20" Part="b">“Send that soldier  a bomb or something!”</Entry>
+  <Entry File="junonr4\25a.wav" ID="25" Part="a">“Hmm…”</Entry>
+  <Entry File="junonr4\25b.wav" ID="25" Part="b">“Better send that soldier something.”</Entry>
+  <Entry File="junonr4\26.wav" ID="26">AD “Well,it's so-so.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junonr4\0.wav" ID="0">Upper Junon</Entry>
+	<Entry File="junonr4\9.wav" ID="9"> Live TV Ratings %</Entry>
+	<Entry File="junonr4\21.wav" ID="21">Received 6 "Ether"</Entry>
+	<Entry File="junonr4\22.wav" ID="22">Received 5000 gil!</Entry>
+	<Entry File="junonr4\23.wav" ID="23">Received "Grenade"!</Entry>
+	<Entry File="junonr4\24.wav" ID="24">Received 6 "Potion"!</Entry>
+-->
+</VoiceList>

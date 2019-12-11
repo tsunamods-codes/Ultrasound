@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="zmind1\1.wav" ID="1">Tifa “…  Where am I?”</Entry>
+  <Entry File="zmind1\2.wav" ID="2">Tifa “Cloud!?”</Entry>
+  <Entry File="zmind1\3.wav" ID="3">Tifa “What is it,Cloud?  What is this?”</Entry>
+  <Entry File="zmind1\4a.wav" ID="4" Part="a">Tifa “You're searching,aren't you  Cloud?”</Entry>
+  <Entry File="zmind1\4b.wav" ID="4" Part="b">“Searching…for yourself…”</Entry>
+  <Entry File="zmind1\5.wav" ID="5">“Is this the inside of your dreams?  Or is it…  your…subconscious?”</Entry>
+  <Entry File="zmind1\6.wav" ID="6">Tifa “I can help,too.  We'll work together to try   and get the real you back!”</Entry>
+  <Entry File="zmind1\7.wav" ID="7">Tifa “But…  Where do we start?”</Entry>
+  <Entry File="zmind1\8.wav" ID="8">Tifa “It connects…  to Nibelheim?”</Entry>
+  <Entry File="zmind1\9.wav" ID="9">Tifa “That's right…It's probably  best to start from there…”</Entry>
+  <Entry File="zmind1\10.wav" ID="10">Tifa “Let's go have a look,Cloud.  I know it's not easy…  I'll be here for you…”</Entry>
+  <Entry File="zmind1\11a.wav" ID="11" Part="a">“The gates of Nibelheim…  Five years ago,Sephiroth  passed through these gates…”</Entry>
+  <Entry File="zmind1\11b.wav" ID="11" Part="b">“And…  That's how it all started…”</Entry>
+  <Entry File="zmind1\12.wav" ID="12">“That starry night at the well…  The promise we made then…  What if that memory was all a lie?”</Entry>
+  <Entry File="zmind1\13a.wav" ID="13" Part="a">“…A sealed up  secret…wish…”</Entry>
+  <Entry File="zmind1\13b.wav" ID="13" Part="b">“Tender feelings…  that no one can ever know…”</Entry>
+  <Entry File="zmind1\14.wav" ID="14">“If I could just get stronger…  Then even Tifa would  have to notice me…”</Entry>
+  <Entry File="zmind1\15.wav" ID="15">Tifa “So that was it?”</Entry>
+  <Entry File="zmind1\16a.wav" ID="16" Part="a">Tifa “Sorry,Cloud.”</Entry>
+  <Entry File="zmind1\16b.wav" ID="16" Part="b">“If I had only remembered  more clearly what happened,  I could have done something sooner…”</Entry>
+  <Entry File="zmind1\17.wav" ID="17">“It's not your fault,Tifa.”</Entry>
+  <Entry File="zmind1\18.wav" ID="18">Tifa “But,I remember back   when we were eight!”</Entry>
+  <Entry File="zmind1\19.wav" ID="19">Tifa “That's it! Now I know!”</Entry>
+  <Entry File="zmind1\20a.wav" ID="20" Part="a">Tifa “You weren't created five  years ago.”</Entry>
+  <Entry File="zmind1\20b.wav" ID="20" Part="b">“My childhood memories  weren't all made up!”</Entry>
+  <Entry File="zmind1\21.wav" ID="21">Tifa “Hang in there Cloud!  Just a little longer!  You've almost found the real you!”</Entry>
+  <Entry File="zmind1\22.wav" ID="22">Tifa “Let's go back to   Nibelheim again!”</Entry>
+  <Entry File="zmind1\23.wav" ID="23">“The truth is right there.  We almost have the answer right in  the palm of our hands.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="zmind1\0.wav" ID="0" />
+-->
+</VoiceList>

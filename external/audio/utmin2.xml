@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="utmin2\1.wav" ID="1">“Well,well. Long time no see.  What have you been up to?  Let's see…what was your name?”</Entry>
+  <Entry File="utmin2\2.wav" ID="2">“No,Gramps!  This isn't anyone you know!  This is just some stranger who  barged into our house!”</Entry>
+  <Entry File="utmin2\3.wav" ID="3">“Oh,how exciting.  You a friend of my grandson's?”</Entry>
+  <Entry File="utmin2\4.wav" ID="4">“No,Gramps!  These guy's are creepy!  They're runnin' all over the place!”</Entry>
+  <Entry File="utmin2\5.wav" ID="5">“Oh,you know lately things have been like that.  You can even see the moon at noon.  Everyone's celebrating.”</Entry>
+  <Entry File="utmin2\6.wav" ID="6">“No,Gramps!  That's a big red planet in the sky!  Everyone's scared of it!!”</Entry>
+  <Entry File="utmin2\7.wav" ID="7">Yuffie “…….”</Entry>
+  <Entry File="utmin2\8.wav" ID="8">“What are we going to do,Gramps?  Some strange-looking girl came in here  a minute ago and I…”</Entry>
+  <Entry File="utmin2\9a.wav" ID="9" Part="a">“Oh no!  More weirdos!”</Entry>
+  <Entry File="utmin2\9b.wav" ID="9" Part="b">“No,these aren't like the one  from a while ago,  but these ones look weird,too!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="utmin2\0.wav" ID="0">Wutai,Old Man's House</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blin3_1\2.wav" ID="2">Aeris “Quickly,  we have to get out of here…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blin3_1\0.wav" ID="0">Shinra Bldg. 3f. Lobby</Entry>
+	<Entry File="blin3_1\1.wav" ID="1">Hardy Datona</Entry>
+-->
+</VoiceList>

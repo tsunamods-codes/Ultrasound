@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="min71\5.wav" ID="5">“Ha,Ha!…… Well,  there's nothin' wrong with that,I'd say.”</Entry>
+  <Entry File="min71\6a.wav" ID="6" Part="a">“Ha!  Ha!……  I wonder if my son's already left?”</Entry>
+  <Entry File="min71\6b.wav" ID="6" Part="b">“When it's just my wife and I here,  you have no idea how lonesome it gets.”</Entry>
+  <Entry File="min71\7a.wav" ID="7" Part="a">“We want him to be happy   and do other things while he's young,  but we can't help but worry…”</Entry>
+  <Entry File="min71\7b.wav" ID="7" Part="b">“I guess we always will.”</Entry>
+  <Entry File="min71\8a.wav" ID="8" Part="a">“By the way……”</Entry>
+  <Entry File="min71\8b.wav" ID="8" Part="b">“Where are you from?”</Entry>
+  <Entry File="min71\9a.wav" ID="9" Part="a">“But if you still have a family,  you outta at least write them.”</Entry>
+  <Entry File="min71\9b.wav" ID="9" Part="b">“You may leave    your home,but  it'll always be there for you.”</Entry>
+  <Entry File="min71\9c.wav" ID="9" Part="c">“At least that's how I see it.”</Entry>
+  <Entry File="min71\10a.wav" ID="10" Part="a">“Hmm…did you say Nibelheim?  Wasn't it in the news a while back?”</Entry>
+  <Entry File="min71\10b.wav" ID="10" Part="b">“Something to do with a reactor accident…”</Entry>
+  <Entry File="min71\10c.wav" ID="10" Part="c">“That was the first major Mako accident,  I remember it was all over the news.”</Entry>
+  <Entry File="min71\11a.wav" ID="11" Part="a">“This might sound rude,but…”</Entry>
+  <Entry File="min71\11b.wav" ID="11" Part="b">“Is your family still living? I forgot about them long ago I'm just an ex-SOLDIER</Entry>
+  <Entry File="min71\12.wav" ID="12">“Well,you really outta go home again.  And if you can't do that,  try and at least remember them sometimes.”</Entry>
+  <Entry File="min71\13a.wav" ID="13" Part="a">“Our boy acted like you,  When he was a kid.”</Entry>
+  <Entry File="min71\13b.wav" ID="13" Part="b">“You seem to be about his age.”</Entry>
+  <Entry File="min71\14a.wav" ID="14" Part="a">“Well,  would you mind leaving us alone?”</Entry>
+  <Entry File="min71\14b.wav" ID="14" Part="b">“I want to enjoy some quiet time   together with my wife.”</Entry>
+  <Entry File="min71\15a.wav" ID="15" Part="a">“He used to give us nothing but headaches  when he was here,but now that  he's gone…we kind of miss him.”</Entry>
+  <Entry File="min71\15b.wav" ID="15" Part="b">“…Strange,isn't it?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="min71\0.wav" ID="0">Johnny's Home</Entry>
+	<Entry File="min71\1.wav" ID="1" />
+	<Entry File="min71\2.wav" ID="2" />
+	<Entry File="min71\3.wav" ID="3" />
+	<Entry File="min71\4.wav" ID="4" />
+	<Entry File="min71\8c.wav" ID="8" Part="c"> A village called Nibelheim Who cares?</Entry>
+	<Entry File="min71\16.wav" ID="16" />
+	<Entry File="min71\17.wav" ID="17" />
+	<Entry File="min71\18.wav" ID="18" />
+	<Entry File="min71\19.wav" ID="19" />
+	<Entry File="min71\20.wav" ID="20" />
+	<Entry File="min71\21.wav" ID="21" />
+	<Entry File="min71\22.wav" ID="22" />
+	<Entry File="min71\23.wav" ID="23" />
+	<Entry File="min71\24.wav" ID="24" />
+	<Entry File="min71\25.wav" ID="25" />
+	<Entry File="min71\26.wav" ID="26" />
+	<Entry File="min71\27.wav" ID="27" />
+	<Entry File="min71\28.wav" ID="28" />
+	<Entry File="min71\29.wav" ID="29" />
+	<Entry File="min71\30.wav" ID="30" />
+-->
+</VoiceList>

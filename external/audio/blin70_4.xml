@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blin70_4\1.wav" ID="1">Rufus “…Reeve.  It's your job to adjust  the reactor's output.”</Entry>
+  <Entry File="blin70_4\2.wav" ID="2">Reeve “I see…”</Entry>
+  <Entry File="blin70_4\3.wav" ID="3">Scarlet “Kya,hah,hah!  Don't worry about adjusting it,Reeve.”</Entry>
+  <Entry File="blin70_4\4.wav" ID="4">“Once you open it up all the way  everything will go full speed!”</Entry>
+  <Entry File="blin70_4\5a.wav" ID="5" Part="a">Heidegger “Gya hah,hah,hah!  The President's sure done it this time!”</Entry>
+  <Entry File="blin70_4\5b.wav" ID="5" Part="b">“The whole idea that Meteor will  disappear if we defeat Sephiroth  is all wrong!”</Entry>
+  <Entry File="blin70_4\6a.wav" ID="6" Part="a">Scarlet “If you remember,Mr. President”</Entry>
+  <Entry File="blin70_4\6b.wav" ID="6" Part="b">“It was my idea to fire   Mako powered shells.”</Entry>
+  <Entry File="blin70_4\7.wav" ID="7">Rufus “Will the shells really reach   the northern border?”</Entry>
+  <Entry File="blin70_4\8.wav" ID="8">Scarlet “Kya,hah hah!”</Entry>
+  <Entry File="blin70_4\9.wav" ID="9">“Of course!”</Entry>
+  <Entry File="blin70_4\10a.wav" ID="10" Part="a">“But Mr. President,  let's not call it a Mako cannon.”</Entry>
+  <Entry File="blin70_4\10b.wav" ID="10" Part="b">“This new weapon is called…”</Entry>
+  <Entry File="blin70_4\11.wav" ID="11">“The Sister Ray!”</Entry>
+  <Entry File="blin70_4\12.wav" ID="12">Heidegger “Gya,ha,ha,Mr. President,  preparations for Sister Ray  are now underway.”</Entry>
+  <Entry File="blin70_4\13a.wav" ID="13" Part="a">Scarlet “Kya,ha,ha!”</Entry>
+  <Entry File="blin70_4\13b.wav" ID="13" Part="b">“Anytime is fine.”</Entry>
+  <Entry File="blin70_4\14.wav" ID="14">Rufus “…Fire.”</Entry>
+  <Entry File="blin70_4\15a.wav" ID="15" Part="a">(operator) “Sir!  Weapon's been defeated!!”</Entry>
+  <Entry File="blin70_4\15b.wav" ID="15" Part="b">“The barrier has disappeared!”</Entry>
+  <Entry File="blin70_4\16.wav" ID="16">(operator) “Sir!  A mass of high density energy  is heading towards Midgar!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blin70_4\0.wav" ID="0">Shinra Building 70f</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jundoc1b\1.wav" ID="1">“Everyday there's no ship coming in,  I always come here  to watch the sun go down.”</Entry>
+  <Entry File="jundoc1b\2a.wav" ID="2" Part="a">“The sun disappears like it's  being swallowed up   by the big horizon.”</Entry>
+  <Entry File="jundoc1b\2b.wav" ID="2" Part="b">“And somewhere out there is  a big unknown continent  with another port city.”</Entry>
+  <Entry File="jundoc1b\2c.wav" ID="2" Part="c">“Twilight always gets me misty…”</Entry>
+  <Entry File="jundoc1b\2d.wav" ID="2" Part="d">“I'm so glad I became a seaman.”</Entry>
+  <Entry File="jundoc1b\3.wav" ID="3">“I haven't had a girlfriend in 18 years.  And I'm a romantic! …geez.”</Entry>
+  <Entry File="jundoc1b\4.wav" ID="4">“Well…I wouldn't have time  for one now anyway  because of Weapon…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jundoc1b\0.wav" ID="0">Junon Dock</Entry>
+-->
+</VoiceList>

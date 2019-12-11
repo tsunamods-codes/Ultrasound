@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="chrin_1b\3.wav" ID="3">Cloud “…Yeah…”</Entry>
+  <Entry File="chrin_1b\5.wav" ID="5">Cloud “…What do you mean by 'back then'?”</Entry>
+  <Entry File="chrin_1b\7.wav" ID="7">Cloud “…What do you mean by 'back then'?  …What about now?”</Entry>
+  <Entry File="chrin_1b\9.wav" ID="9">Cloud “…I'll try.”</Entry>
+  <Entry File="chrin_1b\12.wav" ID="12">Cloud “…I know.”</Entry>
+  <Entry File="chrin_1b\13.wav" ID="13">Cloud “Hey…who are you?”</Entry>
+  <Entry File="chrin_1b\14.wav" ID="14">“Oh! It moved!”</Entry>
+  <Entry File="chrin_1b\15.wav" ID="15">“Whew…  What relief.”</Entry>
+  <Entry File="chrin_1b\16.wav" ID="16">“Hello,hello?”</Entry>
+  <Entry File="chrin_1b\17.wav" ID="17">“Hello,hello!”</Entry>
+  <Entry File="chrin_1b\18.wav" ID="18">“You okay?”</Entry>
+  <Entry File="chrin_1b\19.wav" ID="19">“You just fell from above.  You really gave me a scare.”</Entry>
+  <Entry File="chrin_1b\20.wav" ID="20">“This is a church in   the Sector 5 slums.”</Entry>
+  <Entry File="chrin_1b\21.wav" ID="21">Cloud “…I came crashing down?”</Entry>
+  <Entry File="chrin_1b\22.wav" ID="22">“The roof and the flower bed   must have broken your fall.  You're lucky.”</Entry>
+  <Entry File="chrin_1b\23.wav" ID="23">Cloud “Flower bed…is this yours?”</Entry>
+  <Entry File="chrin_1b\24.wav" ID="24">Cloud “Sorry about that.”</Entry>
+  <Entry File="chrin_1b\25.wav" ID="25">“That's all right.  The flowers here are quite resilient  because this is a sacred place.”</Entry>
+  <Entry File="chrin_1b\26a.wav" ID="26" Part="a">“They say grass and flowers  won't grow in Midgar.”</Entry>
+  <Entry File="chrin_1b\26b.wav" ID="26" Part="b">“But for some reason,they  have no trouble blooming here.”</Entry>
+  <Entry File="chrin_1b\27.wav" ID="27">“I love it here.”</Entry>
+  <Entry File="chrin_1b\28.wav" ID="28">“So,we meet again.”</Entry>
+  <Entry File="chrin_1b\29.wav" ID="29">“Don't you remember me?” Yeah,I remember… Never saw you before</Entry>
+  <Entry File="chrin_1b\30.wav" ID="30">Cloud “Yeah,I remember…”    You were selling flowers    You're the slum drunk</Entry>
+  <Entry File="chrin_1b\31.wav" ID="31">“Oh! I'm so happy!”</Entry>
+  <Entry File="chrin_1b\32.wav" ID="32">“Excuse me,but you're really rude!”</Entry>
+  <Entry File="chrin_1b\33.wav" ID="33">“…I guess you don't remember.  You were walking in a daze.”</Entry>
+  <Entry File="chrin_1b\34.wav" ID="34">“Thanks for buying my flowers.”</Entry>
+  <Entry File="chrin_1b\35.wav" ID="35">“You didn't buy any flowers from me though.”</Entry>
+  <Entry File="chrin_1b\36.wav" ID="36">“But I forgive you,  because you bought flowers from me.”</Entry>
+  <Entry File="chrin_1b\37.wav" ID="37">“I don't remember a thing.”</Entry>
+  <Entry File="chrin_1b\38.wav" ID="38">“Well,that's okay.”</Entry>
+  <Entry File="chrin_1b\39.wav" ID="39">“Say,do you have any Materia?”</Entry>
+  <Entry File="chrin_1b\40.wav" ID="40">“Yes,some.”</Entry>
+  <Entry File="chrin_1b\41.wav" ID="41">Cloud “Nowadays you can find Materia anywhere.”</Entry>
+  <Entry File="chrin_1b\42.wav" ID="42">“But mine is special.  It's good for absolutely nothing.”</Entry>
+  <Entry File="chrin_1b\43.wav" ID="43">Cloud “…good for nothing?  You just don't know how to use it.”</Entry>
+  <Entry File="chrin_1b\44a.wav" ID="44" Part="a">“No,I do…  it just doesn't do anything.”</Entry>
+  <Entry File="chrin_1b\44b.wav" ID="44" Part="b">“I feel safe just having it.  It was my mother's.”</Entry>
+  <Entry File="chrin_1b\45a.wav" ID="45" Part="a">“Say,I feel like talking.  Do you feel up to it?”</Entry>
+  <Entry File="chrin_1b\45b.wav" ID="45" Part="b">“After all,  here we are meeting again.” I don't mind Got nothing to talk about</Entry>
+  <Entry File="chrin_1b\46.wav" ID="46">“Wait here.  I've got to check my flowers.  It'll just be a minute.”</Entry>
+  <Entry File="chrin_1b\47.wav" ID="47">“…Oh,I see.”</Entry>
+  <Entry File="chrin_1b\48.wav" ID="48">“Ahhh. I wonder whose fault that is.  It's not easy to grow them,you know.  Poor flowers.”</Entry>
+  <Entry File="chrin_1b\49.wav" ID="49">“Just a little longer.”</Entry>
+  <Entry File="chrin_1b\50.wav" ID="50">“Oh!”</Entry>
+  <Entry File="chrin_1b\51.wav" ID="51">“Now that you mention it…”</Entry>
+  <Entry File="chrin_1b\52.wav" ID="52">“We don't know each other's names,do we?”</Entry>
+  <Entry File="chrin_1b\53.wav" ID="53">“My name is…”</Entry>
+  <Entry File="chrin_1b\54.wav" ID="54">“I'm Aeris,the flower girl.  Nice to meet you.”</Entry>
+  <Entry File="chrin_1b\55.wav" ID="55">“I'm Aeris,the flower girl.  Nice to meet you.”</Entry>
+  <Entry File="chrin_1b\56a.wav" ID="56" Part="a">Cloud “The name's Cloud.”</Entry>
+  <Entry File="chrin_1b\56b.wav" ID="56" Part="b">“Me?  I do a little bit of everything.”</Entry>
+  <Entry File="chrin_1b\57.wav" ID="57">Aeris “Oh…a jack of all trades.”</Entry>
+  <Entry File="chrin_1b\58.wav" ID="58">Cloud “Yeah,I do whatever's needed.”</Entry>
+  <Entry File="chrin_1b\59.wav" ID="59">Cloud “What's so funny?  What are you laughing at?”</Entry>
+  <Entry File="chrin_1b\60.wav" ID="60">Aeris “Sorry,I just…”</Entry>
+  <Entry File="chrin_1b\61.wav" ID="61">Cloud “Huh?”</Entry>
+  <Entry File="chrin_1b\62.wav" ID="62">Aeris “Cloud!  Don't let it get to you!”</Entry>
+  <Entry File="chrin_1b\63.wav" ID="63">Aeris “Sorry,bad timing on my part.”</Entry>
+  <Entry File="chrin_1b\64.wav" ID="64">Aeris “Say,Cloud.  Have you ever been a bodyguard?”</Entry>
+  <Entry File="chrin_1b\65.wav" ID="65">Cloud “What's that?”</Entry>
+  <Entry File="chrin_1b\66.wav" ID="66">Aeris “You CAN do anything,right?”</Entry>
+  <Entry File="chrin_1b\67.wav" ID="67">Cloud “Yeah,that's right.”</Entry>
+  <Entry File="chrin_1b\68.wav" ID="68">Aeris “Then,get me out of here.  Take me home.”</Entry>
+  <Entry File="chrin_1b\69.wav" ID="69">Cloud “OK…  but it'll cost you.”</Entry>
+  <Entry File="chrin_1b\70.wav" ID="70">Aeris “OK then,let's see…”</Entry>
+  <Entry File="chrin_1b\71.wav" ID="71">Aeris “How about  if I go out with you once?”</Entry>
+  <Entry File="chrin_1b\72.wav" ID="72">“Don't mind me.”</Entry>
+  <Entry File="chrin_1b\73.wav" ID="73">“I'll give you a little more time.”</Entry>
+  <Entry File="chrin_1b\74.wav" ID="74">Reno “Did you see that guy's eyes.”</Entry>
+  <Entry File="chrin_1b\75.wav" ID="75">Reno “They were…Mako eyes.”</Entry>
+  <Entry File="chrin_1b\76.wav" ID="76">Reno “Yeah,all right.  C'mon,get to work.”</Entry>
+  <Entry File="chrin_1b\77.wav" ID="77">Reno “Oh!”</Entry>
+  <Entry File="chrin_1b\78.wav" ID="78">Reno “And don't step on the flowers…”</Entry>
+  <Entry File="chrin_1b\79.wav" ID="79">“You just stepped on them yourself!”</Entry>
+  <Entry File="chrin_1b\80.wav" ID="80">“They're ruined!”</Entry>
+  <Entry File="chrin_1b\81.wav" ID="81">“You're gonna catch holy hell!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="chrin_1b\0.wav" ID="0">church in the slums</Entry>
+	<Entry File="chrin_1b\1.wav" ID="1">Ù…You all right?Ù</Entry>
+	<Entry File="chrin_1b\2.wav" ID="2">Ù…Can you hear me?Ù</Entry>
+	<Entry File="chrin_1b\4.wav" ID="4">ÙBack then… I only got scraped knees…Ù</Entry>
+	<Entry File="chrin_1b\6.wav" ID="6">ÙWhat about now? Can you get up?Ù</Entry>
+	<Entry File="chrin_1b\8.wav" ID="8">Ù…Don't worry about me. Worry about yourself now.Ù</Entry>
+	<Entry File="chrin_1b\10.wav" ID="10">Ù…How about that?Ù</Entry>
+	<Entry File="chrin_1b\11.wav" ID="11">ÙTake it slow now. Little by little……Ù</Entry>
+-->
+</VoiceList>

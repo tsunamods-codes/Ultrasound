@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junmin1\1.wav" ID="1">“Hey,how could they do that!?  Nobody woke me up!”</Entry>
+  <Entry File="junmin1\2.wav" ID="2">“And I can't find the uniform  I left in my locker,either.   I wonder where I forgot it?”</Entry>
+  <Entry File="junmin1\3.wav" ID="3">“Geez! Do you think this is  what they call 'hazing?'”</Entry>
+  <Entry File="junmin1\4.wav" ID="4">“Oh man,  My future in the military  is pretty bleak.”</Entry>
+  <Entry File="junmin1\5a.wav" ID="5" Part="a">“Ever since I was late to that parade,  they've been on my back everyday  with basic training.”</Entry>
+  <Entry File="junmin1\5b.wav" ID="5" Part="b">“I can't handle it anymore!”</Entry>
+  <Entry File="junmin1\6.wav" ID="6">“Hey!!  Stay out of the way!”</Entry>
+  <Entry File="junmin1\7.wav" ID="7">“Hey!  Stop yappin'!”</Entry>
+  <Entry File="junmin1\8a.wav" ID="8" Part="a">“Hmm?  A know-it-all,huh?”</Entry>
+  <Entry File="junmin1\8b.wav" ID="8" Part="b">“All right!!  Come in!!”</Entry>
+  <Entry File="junmin1\9a.wav" ID="9" Part="a">“Hmmm?  No rookies!!”</Entry>
+  <Entry File="junmin1\9b.wav" ID="9" Part="b">“Only veterans can go through!  Come back when you've grown up.”</Entry>
+  <Entry File="junmin1\10.wav" ID="10">“Hmmm?  You have no right to enter!”</Entry>
+  <Entry File="junmin1\11a.wav" ID="11" Part="a">“Hmmm?  Back again,Mr. Know-it-all!?”</Entry>
+  <Entry File="junmin1\11b.wav" ID="11" Part="b">“All right!  You can enter!!”</Entry>
+  <Entry File="junmin1\12a.wav" ID="12" Part="a">“I'm starting to feel like  I can't stop anymore.”</Entry>
+  <Entry File="junmin1\12b.wav" ID="12" Part="b">“I've been had!!   I want to get in a real battle,too!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junmin1\0.wav" ID="0">Barracks</Entry>
+-->
+</VoiceList>

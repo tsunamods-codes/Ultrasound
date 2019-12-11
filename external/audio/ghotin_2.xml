@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ghotin_2\0.wav" ID="0">Tifa “Cloud…”</Entry>
+  <Entry File="ghotin_2\1.wav" ID="1">Cloud “What's wrong?”</Entry>
+  <Entry File="ghotin_2\2.wav" ID="2">Tifa “……”</Entry>
+  <Entry File="ghotin_2\3.wav" ID="3">Tifa “I thought about what I was going to say,  but,it's kinda embarrassing…”</Entry>
+  <Entry File="ghotin_2\4a.wav" ID="4" Part="a">Tifa “Hey,Cloud!”</Entry>
+  <Entry File="ghotin_2\4b.wav" ID="4" Part="b">“Why don't the two of us sneak out of here  and spend some time together?”</Entry>
+  <Entry File="ghotin_2\5.wav" ID="5">Tifa “Come on,let's go!”</Entry>
+  <Entry File="ghotin_2\6.wav" ID="6">Cloud “Hey.”</Entry>
+  <Entry File="ghotin_2\7.wav" ID="7">Aeris “Hee,hee!”</Entry>
+  <Entry File="ghotin_2\8.wav" ID="8">Aeris “Let's go on a date!”</Entry>
+  <Entry File="ghotin_2\9.wav" ID="9">Cloud “What?”</Entry>
+  <Entry File="ghotin_2\10a.wav" ID="10" Part="a">Aeris “A D-A-T-E!  Or haven't you ever gone on one?”</Entry>
+  <Entry File="ghotin_2\11.wav" ID="11">Aeris “Hey…a little touchy,aren't we?”</Entry>
+  <Entry File="ghotin_2\12.wav" ID="12">Aeris “No,just a mixed-up kid…”</Entry>
+  <Entry File="ghotin_2\13.wav" ID="13">Aeris “Oh well.  Come on,let's go!”</Entry>
+  <Entry File="ghotin_2\14.wav" ID="14">Barret “Yo,Cloud.  You still up?”</Entry>
+  <Entry File="ghotin_2\15.wav" ID="15">Barret “Uh,I was jus' thinkin' of goin'  for a walk…”</Entry>
+  <Entry File="ghotin_2\16.wav" ID="16">Cloud “What,just the two of us?”</Entry>
+  <Entry File="ghotin_2\17.wav" ID="17">Barret “What's wrong with that?  Don't gimme no lip!! Just c'mon!”</Entry>
+  <Entry File="ghotin_2\18.wav" ID="18">Yuffie “Cloud you up?”</Entry>
+  <Entry File="ghotin_2\19.wav" ID="19">Yuffie “Would you…keep me company  for a bit.”</Entry>
+  <Entry File="ghotin_2\20.wav" ID="20">Cloud “Huh?  Keep you company where?”</Entry>
+  <Entry File="ghotin_2\21.wav" ID="21">Yuffie “Just come on.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ghotin_2\10b.wav" ID="10" Part="b">Don't take me for a fool Well,not a real one…</Entry>
+	<Entry File="ghotin_2\22.wav" ID="22">Hotel</Entry>
+	<Entry File="ghotin_2\23.wav" ID="23">Received "Elixir"!</Entry>
+-->
+</VoiceList>

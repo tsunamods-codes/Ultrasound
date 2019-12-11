@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blackbge\0.wav" ID="0">Please change the disc.</Entry>
+	<Entry File="blackbge\1.wav" ID="1">Save your game?           Yes           No</Entry>
+	<Entry File="blackbge\2.wav" ID="2">Please insert disc two.</Entry>
+	<Entry File="blackbge\3.wav" ID="3">You still haven't saved your game. Continue playing?</Entry>
+	<Entry File="blackbge\4.wav" ID="4">…over…</Entry>
+	<Entry File="blackbge\5.wav" ID="5">It's all over… …everything…</Entry>
+	<Entry File="blackbge\6.wav" ID="6">Everyone…everything… all finished…</Entry>
+	<Entry File="blackbge\7.wav" ID="7">Now everything will begin anew…with me!!</Entry>
+-->
+</VoiceList>

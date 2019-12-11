@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mtcrl_7\1a.wav" ID="1" Part="a">“Hey!  How'd you ever wind up here?”</Entry>
+  <Entry File="mtcrl_7\1b.wav" ID="1" Part="b">“Look,I'm sorry but,  I can't do a thing for you!”</Entry>
+  <Entry File="mtcrl_7\2a.wav" ID="2" Part="a">“Oh boy!!  Corel sure has gone to pot.  It used to be a famous coal mining town!”</Entry>
+  <Entry File="mtcrl_7\2b.wav" ID="2" Part="b">“They say  there were more jobs than  you could shake a…”</Entry>
+  <Entry File="mtcrl_7\2c.wav" ID="2" Part="c">“Well,you get the picture!”</Entry>
+  <Entry File="mtcrl_7\2d.wav" ID="2" Part="d">“Now,it's nothing but a miserable pit!  Me,my bulldozer…everyone's out of work.”</Entry>
+  <Entry File="mtcrl_7\3.wav" ID="3">“Got no job…I can't even show my face.  'Bout all that's left for me is  just livin' in this hole all day.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mtcrl_7\0.wav" ID="0">Mt. Corel</Entry>
+	<Entry File="mtcrl_7\4.wav" ID="4">Received "Mind Source"!</Entry>
+	<Entry File="mtcrl_7\5.wav" ID="5">Received "Power Source"!</Entry>
+	<Entry File="mtcrl_7\6.wav" ID="6">Received "Tent"!</Entry>
+-->
+</VoiceList>

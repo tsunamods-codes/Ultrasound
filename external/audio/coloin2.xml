@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="coloin2\0.wav" ID="0">Cloud “Did Sephiroth do this!?”</Entry>
+  <Entry File="coloin2\1.wav" ID="1">Cloud “No…it's not him…  They're all shot…  Sephiroth would never use a gun…”</Entry>
+  <Entry File="coloin2\2.wav" ID="2">“Ugh,ugggh.”</Entry>
+  <Entry File="coloin2\3.wav" ID="3">Cloud “Hey,what happened!”</Entry>
+  <Entry File="coloin2\4.wav" ID="4">“Ugh…ugh…a man  with a gun…on his arm…”</Entry>
+  <Entry File="coloin2\5.wav" ID="5">Aeris “It can't be!?”</Entry>
+  <Entry File="coloin2\6.wav" ID="6">Tifa “A gun on his arm!?”</Entry>
+  <Entry File="coloin2\7.wav" ID="7">Red XIII “…did he!?”</Entry>
+  <Entry File="coloin2\8.wav" ID="8">Yuffie “Wow,no way!!”</Entry>
+  <Entry File="coloin2\9.wav" ID="9">“Hold it right there!  And stay quiet!!”</Entry>
+  <Entry File="coloin2\10.wav" ID="10">Dio “Did you guys do this!?”</Entry>
+  <Entry File="coloin2\11.wav" ID="11">Cloud “N…no,it wasn't us!”</Entry>
+  <Entry File="coloin2\12.wav" ID="12">Dio “I must've been wrong…”</Entry>
+  <Entry File="coloin2\13.wav" ID="13">Dio “Stop them!!”</Entry>
+  <Entry File="coloin2\14.wav" ID="14">Cait Sith “Hurry and run,it's gonna get ugly.”</Entry>
+  <Entry File="coloin2\15.wav" ID="15">Cloud “He…hey!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="coloin2\16.wav" ID="16">Arena Lobby</Entry>
+-->
+</VoiceList>

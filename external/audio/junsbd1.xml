@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junsbd1\1.wav" ID="1">Cloud “Shinra dog!!” Ignore it Dognap it!</Entry>
+  <Entry File="junsbd1\2.wav" ID="2">Cloud “Feelin' lonely!?  Better get back to your master.”</Entry>
+  <Entry File="junsbd1\3.wav" ID="3">Cloud “Shinra dog!!  I'm gonna dognap you!!”</Entry>
+  <Entry File="junsbd1\4.wav" ID="4">Cloud “Those attackers won't bother us now.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junsbd1\0.wav" ID="0">Submarine Dock</Entry>
+-->
+</VoiceList>

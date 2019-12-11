@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="zz5\0.wav" ID="0">Materia Cave</Entry>
+	<Entry File="zz5\1.wav" ID="1">Over the course of many years, Mako energy will crystallize into Materia…</Entry>
+	<Entry File="zz5\2.wav" ID="2">Received "Mime" Materia!</Entry>
+	<Entry File="zz5\3.wav" ID="3">You cannot take on any more Materia. Please discard some Materia.</Entry>
+-->
+</VoiceList>

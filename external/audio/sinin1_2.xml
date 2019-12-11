@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="sinin1_2\18.wav" ID="18">“There's no sign of Sephiroth,  but I know I saw him go into this room…”</Entry>
+  <Entry File="sinin1_2\19.wav" ID="19">“Sephiroth seems different.”</Entry>
+  <Entry File="sinin1_2\22.wav" ID="22">“Something is written on the back  of the lid.”   (1)  Right 36</Entry>
+  <Entry File="sinin1_2\23.wav" ID="23">“Something is written on the floor.”   (2)  Left 10</Entry>
+  <Entry File="sinin1_2\24.wav" ID="24">“Something is written on the floor.”   (3)  Right 59</Entry>
+  <Entry File="sinin1_2\25.wav" ID="25">“Something is written on the back  of the lid.”   (4)  Right 97</Entry>
+  <Entry File="sinin1_2\32.wav" ID="32">“Now,the staff will dig here.  The result will be placed  in the treasure box overnight.”</Entry>
+  <Entry File="sinin1_2\33.wav" ID="33">“I sure was scared when Weapon attacked.  It gives me the creeps knowing there's  still two of them left.”</Entry>
+  <Entry File="sinin1_2\34.wav" ID="34">“Oh yeah? Well,I'm ready to fight   mankind's worst enemy  like a real warrior.  It's not everyday you get to fight  in an inter-planetary war.”</Entry>
+  <Entry File="sinin1_2\35a.wav" ID="35" Part="a">“The President is gathering up  all the Huge Materia on the planet.  He wants to shoot it at Meteor  in the rocket.”</Entry>
+  <Entry File="sinin1_2\35b.wav" ID="35" Part="b">“President Rufus is different  from the older generation.  He'll protect the planet with  all of Shinra's  state of the art technology.”</Entry>
+  <Entry File="sinin1_2\36.wav" ID="36">“Protect it? No,I don't think so.  The President isn't the type to do  anything so heroic.   It's all just a game to him,  a question of winning or losing.”</Entry>
+  <Entry File="sinin1_2\37.wav" ID="37">“They've finally started collecting  the Huge Materia   from the Junon Underwater Reactor.”</Entry>
+  <Entry File="sinin1_2\38.wav" ID="38">“After they get it,they'll take it  to the airport and will transport  it to Rocket Town by Gelnika.  Don't let your guard down!”</Entry>
+  <Entry File="sinin1_2\39.wav" ID="39">“Whew…I hope everything goes all right  until we get to Rocket Town.  Then,our mission is nearly complete.”</Entry>
+  <Entry File="sinin1_2\40.wav" ID="40">“Not so fast. We still have one major task…  we still have to transport the stuff…”</Entry>
+  <Entry File="sinin1_2\41.wav" ID="41">“The stuff…”</Entry>
+  <Entry File="sinin1_2\42.wav" ID="42">Cloud “Oh no!  The Huge Materia…”</Entry>
+  <Entry File="sinin1_2\43.wav" ID="43">Cloud “Oh no!  The Huge Materia…”</Entry>
+  <Entry File="sinin1_2\44.wav" ID="44">Barret “Let's go after it!”</Entry>
+  <Entry File="sinin1_2\45.wav" ID="45">Tifa “Can't we go after it?”</Entry>
+  <Entry File="sinin1_2\46.wav" ID="46">Red XIII “Can we get there  before they do?”</Entry>
+  <Entry File="sinin1_2\47.wav" ID="47">Cid “Grrrrgh!  Just barely!  We're goin' after it!”</Entry>
+  <Entry File="sinin1_2\48.wav" ID="48">Vincent “Let's go after it.”</Entry>
+  <Entry File="sinin1_2\49.wav" ID="49">Cait Sith “How 'bout us getting there beforehand  and stealing it back?”</Entry>
+  <Entry File="sinin1_2\50.wav" ID="50">Yuffie “Let's get there before they do  and catch 'em!”</Entry>
+  <Entry File="sinin1_2\51.wav" ID="51">Barret “But where to?”</Entry>
+  <Entry File="sinin1_2\52.wav" ID="52">Tifa “Where are they headed?”</Entry>
+  <Entry File="sinin1_2\53.wav" ID="53">Red XIII “Where's their destination?”</Entry>
+  <Entry File="sinin1_2\54.wav" ID="54">Cid “Where's that thing headed?”</Entry>
+  <Entry File="sinin1_2\55.wav" ID="55">Vincent “Where is their destination…?”</Entry>
+  <Entry File="sinin1_2\56.wav" ID="56">Cait Sith “Where is it flying to?”</Entry>
+  <Entry File="sinin1_2\57.wav" ID="57">Yuffie “Hey,where? Where? Where are they headed?”</Entry>
+  <Entry File="sinin1_2\58.wav" ID="58">Cloud “Rocket Town,of course.”</Entry>
+  <Entry File="sinin1_2\59.wav" ID="59">Cloud “I may be mistaken,but…  Doesn't it feel like we're missing  something?”</Entry>
+  <Entry File="sinin1_2\60.wav" ID="60">“WHOOA--  Weapon's attacking!”</Entry>
+  <Entry File="sinin1_2\61.wav" ID="61">“Run for your lives!!”</Entry>
+  <Entry File="sinin1_2\65.wav" ID="65">“A scratch left by a fingernail inside  the beaker…  'Let's get out of here…'.”</Entry>
+  <Entry File="sinin1_2\67.wav" ID="67">“A scratch left by a fingernail inside  the beaker…  'Feeding Time'…that's our chance…!”</Entry>
+  <Entry File="sinin1_2\68.wav" ID="68">“Escapee Report no. 1  X Month X Day  Two escapees were located  near Midgar.”</Entry>
+  <Entry File="sinin1_2\69.wav" ID="69">“Escapee Report no. 2   Description at the time of capture. A  Former member of SOLDIER/Number(   )     No effect could be detected from     either Mako Radiation Therapy     or Jenova on him. B  Regular/Number (   )     Reaction to Jenova detected.”</Entry>
+  <Entry File="sinin1_2\70.wav" ID="70">“Escapee Report no. 3   Status. A  Shot for resisting. B  Escaped during A's resistance.”</Entry>
+  <Entry File="sinin1_2\71.wav" ID="71">“Escapee Report no. 4   Other  B's whereabouts is currently unknown. But pursuit is unnecessary due to his diminishing consciousness. Awaiting further instructions.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="sinin1_2\0.wav" ID="0">You cannot take on anymore Materia. Please discard some Materia.</Entry>
+	<Entry File="sinin1_2\1.wav" ID="1">   Jump    Stay</Entry>
+	<Entry File="sinin1_2\2.wav" ID="2">Ancient Forest</Entry>
+	<Entry File="sinin1_2\3.wav" ID="3">Bone Village</Entry>
+	<Entry File="sinin1_2\4.wav" ID="4">Mansion,2f.</Entry>
+	<Entry File="sinin1_2\5.wav" ID="5">Mansion,Basement</Entry>
+	<Entry File="sinin1_2\6.wav" ID="6">Mansion,1f.</Entry>
+	<Entry File="sinin1_2\7.wav" ID="7">Airport</Entry>
+	<Entry File="sinin1_2\8.wav" ID="8">Received "Supershot ST"!</Entry>
+	<Entry File="sinin1_2\9.wav" ID="9">Received "Spring Gun Clip"!</Entry>
+	<Entry File="sinin1_2\10.wav" ID="10">Received "Apocalypse"!</Entry>
+	<Entry File="sinin1_2\11.wav" ID="11">Received "Minerva Band"!</Entry>
+	<Entry File="sinin1_2\12.wav" ID="12">Received "Slash-All" Materia!</Entry>
+	<Entry File="sinin1_2\13.wav" ID="13">Received "Typhon" Materia!</Entry>
+	<Entry File="sinin1_2\14.wav" ID="14">Received "Elixir"!</Entry>
+	<Entry File="sinin1_2\15.wav" ID="15">Received "Magic Source"!</Entry>
+	<Entry File="sinin1_2\16.wav" ID="16">Received "Twin Viper"!</Entry>
+	<Entry File="sinin1_2\17.wav" ID="17">  Received "Silver M-phone"!</Entry>
+	<Entry File="sinin1_2\20.wav" ID="20">Do [CANCEL] Re [SWITCH] Mi [MENU] Fa [OK] So [PAGEUP] or [PAGEDOWN] + [CANCEL] La [PAGEUP] or [PAGEDOWN] + [SWITCH] Ti [PAGEUP] or [PAGEDOWN] + [MENU] Do [PAGEUP] or [PAGEDOWN] + [OK] Do Mi So  (C) Directional button Down Do Fa La   (F) Directional button Left Re So Ti   (G) Directional button Up Mi So Do  (C) Directional button Right End  [START]</Entry>
+	<Entry File="sinin1_2\21.wav" ID="21">  [START]  End</Entry>
+	<Entry File="sinin1_2\26.wav" ID="26">Please push [SWITCH] to  set staff in position.</Entry>
+	<Entry File="sinin1_2\27.wav" ID="27">   Order a search (100 gil)    Done</Entry>
+	<Entry File="sinin1_2\28.wav" ID="28">Could not position the staff, due to a lack of funds.</Entry>
+	<Entry File="sinin1_2\29.wav" ID="29">Press [SWITCH] to ignite the bomb for the search.</Entry>
+	<Entry File="sinin1_2\30.wav" ID="30">The staff member will calculate the tremors and dig up the buried item. The dig point is where the staff's line  of vision meets.</Entry>
+	<Entry File="sinin1_2\31.wav" ID="31">Move to the dig point and press [SWITCH] to select. The staff will dig for the item.</Entry>
+	<Entry File="sinin1_2\62.wav" ID="62">Release insects and frogs by pushing [OK].  Insects and frogs react differently differ depending on where you release them,so try many different places.</Entry>
+	<Entry File="sinin1_2\63.wav" ID="63">Push [SWITCH] to give up. You will return to the Entrance.</Entry>
+	<Entry File="sinin1_2\64.wav" ID="64">C project specimen(B)  codeC</Entry>
+	<Entry File="sinin1_2\66.wav" ID="66">C project specimen(A)  codeZ</Entry>
+-->
+</VoiceList>

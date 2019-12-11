@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junonr2\1.wav" ID="1">“Good!  We made it.”</Entry>
+  <Entry File="junonr2\2.wav" ID="2">“Oh!  President Rufus!”</Entry>
+  <Entry File="junonr2\3.wav" ID="3">“Hey!  Line up and shut up!”</Entry>
+  <Entry File="junonr2\4.wav" ID="4">“Don't make a move!”</Entry>
+  <Entry File="junonr2\5.wav" ID="5">“Hey!”</Entry>
+  <Entry File="junonr2\6.wav" ID="6">Rufus “How's the job?”</Entry>
+  <Entry File="junonr2\7.wav" ID="7">Rufus “What happened to the Airship?”</Entry>
+  <Entry File="junonr2\8a.wav" ID="8" Part="a">Heidegger “The long range airship is  still being prepared.”</Entry>
+  <Entry File="junonr2\8b.wav" ID="8" Part="b">“It should be ready in about three more days.  Gya haa haa!”</Entry>
+  <Entry File="junonr2\9.wav" ID="9">Rufus “Even the Air Force's Gelnika?”</Entry>
+  <Entry File="junonr2\10.wav" ID="10">Heidegger “Gya haa haa!”</Entry>
+  <Entry File="junonr2\11a.wav" ID="11" Part="a">Rufus “Stop that stupid horse laugh.”</Entry>
+  <Entry File="junonr2\11b.wav" ID="11" Part="b">“Things are different than   when Father was in charge.”</Entry>
+  <Entry File="junonr2\12.wav" ID="12">Heidegger “Gya…”</Entry>
+  <Entry File="junonr2\13.wav" ID="13">Rufus “Is the ship ready?”</Entry>
+  <Entry File="junonr2\14.wav" ID="14">Heidegger “Yes Sir,  we'll get it ready quickly.”</Entry>
+  <Entry File="junonr2\15.wav" ID="15">“What a disaster.”</Entry>
+  <Entry File="junonr2\16.wav" ID="16">“Heidegger was really irritated…”</Entry>
+  <Entry File="junonr2\17.wav" ID="17">“The man in the Black Cape's been  roaming the city,  but we can't find him.”</Entry>
+  <Entry File="junonr2\18.wav" ID="18">Cloud “Man in a Black Cape?”</Entry>
+  <Entry File="junonr2\19.wav" ID="19">“He showed up two or three days ago,  and killed a few of our soldiers.”</Entry>
+  <Entry File="junonr2\20.wav" ID="20">“He disappeared right after that.  There's a rumor going around that  it was Sephiroth.”</Entry>
+  <Entry File="junonr2\21.wav" ID="21">“Attention!  Dismissed!”</Entry>
+  <Entry File="junonr2\22.wav" ID="22">“Hey! Hey you!  You messing with the army?” Who cares? What if I am?</Entry>
+  <Entry File="junonr2\23a.wav" ID="23" Part="a">“You're too lazy!!  No break for you!!”</Entry>
+  <Entry File="junonr2\23b.wav" ID="23" Part="b">“Get over here!”</Entry>
+  <Entry File="junonr2\24.wav" ID="24">“President Rufus is being  sent off at the port.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junonr2\0.wav" ID="0">Upper Junon</Entry>
+-->
+</VoiceList>

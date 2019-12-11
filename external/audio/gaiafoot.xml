@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="gaiafoot\1.wav" ID="1">Cloud “We'll secure the route.  You come up later.”</Entry>
+  <Entry File="gaiafoot\2.wav" ID="2">Barret “You know,  I've been thinkin'…” What is it? Save it for later</Entry>
+  <Entry File="gaiafoot\3a.wav" ID="3" Part="a">“…Seein' a place like this,  makes you realize how awesome  nature is.”</Entry>
+  <Entry File="gaiafoot\3b.wav" ID="3" Part="b">“But,if anyone ever told me to live here,  I'd tell them to…well,you know…”</Entry>
+  <Entry File="gaiafoot\3c.wav" ID="3" Part="c">“I tell you one thing though,  If I did have to live here  I'd change things around 'n' make it better.”</Entry>
+  <Entry File="gaiafoot\4a.wav" ID="4" Part="a">“I guess Midgar is the total  opposite of this place.”</Entry>
+  <Entry File="gaiafoot\4b.wav" ID="4" Part="b">“When you think of it that way,  the Shinra don't seem so bad…”</Entry>
+  <Entry File="gaiafoot\5.wav" ID="5">“Uuuuuurrrrrgh!!”</Entry>
+  <Entry File="gaiafoot\6.wav" ID="6">“What the hell am I sayin'!?  The Shinra,not bad!?”</Entry>
+  <Entry File="gaiafoot\7a.wav" ID="7" Part="a">Barret “Y'know…standing here like this…”</Entry>
+  <Entry File="gaiafoot\7b.wav" ID="7" Part="b">“Kinda makes you feel like the  Planet's not really with us,y'know?”</Entry>
+  <Entry File="gaiafoot\7c.wav" ID="7" Part="c">“Of course we can't even compete.  I mean…  The Planet don't even notice us humans…”</Entry>
+  <Entry File="gaiafoot\8.wav" ID="8">Tifa “Gotta keep telling myself  this blizzard's okay…brr”</Entry>
+  <Entry File="gaiafoot\9.wav" ID="9">Red XIII “I wonder what's at the top of that cliff?  Well we shall see…”</Entry>
+  <Entry File="gaiafoot\10.wav" ID="10">Yuffie “Brrrr,I can't take this cold!!”</Entry>
+  <Entry File="gaiafoot\11.wav" ID="11">Cid “Damn!  If I was back in the air,  this cliff would be nothing!”</Entry>
+  <Entry File="gaiafoot\12.wav" ID="12">Vincent “I wonder what's on  the other side of that cliff…”</Entry>
+  <Entry File="gaiafoot\13.wav" ID="13">Cait Sith “This is secret info,but…  Rufus's going to arrive here,too.”</Entry>
+  <Entry File="gaiafoot\14.wav" ID="14">“Look we can't go to the cliff!  So just give it up!!”</Entry>
+  <Entry File="gaiafoot\15.wav" ID="15">“Change members?” Yes No</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="gaiafoot\0.wav" ID="0">Base of Gaea's Cliff</Entry>
+-->
+</VoiceList>

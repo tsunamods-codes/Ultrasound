@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="las2_2\29.wav" ID="29">Cloud “The road splits into two.  We'll split into two groups.”</Entry>
+  <Entry File="las2_2\30.wav" ID="30">Cloud “Another fork in the road…”</Entry>
+  <Entry File="las2_2\31.wav" ID="31">Cloud “Well,  which way?”   Left   Right</Entry>
+  <Entry File="las2_2\32.wav" ID="32">Barret “Cloud,  which way you goin'?”   Left   Right</Entry>
+  <Entry File="las2_2\33.wav" ID="33">Tifa “Cloud,  which way should we go?”   Left   Right</Entry>
+  <Entry File="las2_2\34.wav" ID="34">Red XIII “Which way are we going,  Cloud?”   Left   Right</Entry>
+  <Entry File="las2_2\35.wav" ID="35">Yuffie “Cloud,  which way are you goin'?”   Left   Right</Entry>
+  <Entry File="las2_2\36.wav" ID="36">Cait Sith “What do we do now,  Cloud?”   Left   Right</Entry>
+  <Entry File="las2_2\37.wav" ID="37">Vincent “What are you going to do,  Cloud?”   Left   Right</Entry>
+  <Entry File="las2_2\38.wav" ID="38">Cid “Which you gonna choose,  Cloud?”   Left   Right</Entry>
+  <Entry File="las2_2\39.wav" ID="39">Barret “All right,then I'll go…”   Left   Right</Entry>
+  <Entry File="las2_2\40.wav" ID="40">Tifa “Then,I'm going…”   Left   Right</Entry>
+  <Entry File="las2_2\41.wav" ID="41">Red XIII “All right,then I'll go…”   Left   Right</Entry>
+  <Entry File="las2_2\42.wav" ID="42">Yuffie “I'm going…”   Left   Right</Entry>
+  <Entry File="las2_2\43.wav" ID="43">Cait Sith “Then,I'll head…”   Left   Right</Entry>
+  <Entry File="las2_2\44.wav" ID="44">Vincent “Then,I will go…”  Left  Right</Entry>
+  <Entry File="las2_2\45.wav" ID="45">Cid “All right! I'm headin'…”  Left  Right</Entry>
+  <Entry File="las2_2\46.wav" ID="46">Cloud “Well…  which way should I go…?”  Up  Down</Entry>
+  <Entry File="las2_2\47.wav" ID="47">Barret “Cloud  which way you gonna choose?”  Up  Down</Entry>
+  <Entry File="las2_2\48.wav" ID="48">Tifa “Cloud  which way should we go?”  Up  Down</Entry>
+  <Entry File="las2_2\49.wav" ID="49">Red XIII “Which way are we headed,  Cloud?”  Up  Down</Entry>
+  <Entry File="las2_2\50.wav" ID="50">Yuffie “Cloud,  which way you goin'?”  Up  Down</Entry>
+  <Entry File="las2_2\51.wav" ID="51">Cait Sith “Cloud,  what shall we do?”  Up  Down</Entry>
+  <Entry File="las2_2\52.wav" ID="52">Vincent “What now,  Cloud?”  Up  Down</Entry>
+  <Entry File="las2_2\53.wav" ID="53">Cid “Which way you gonna go  Cloud?”  Up  Down</Entry>
+  <Entry File="las2_2\54.wav" ID="54">Barret “All right,I'm goin'…”  Up  Down</Entry>
+  <Entry File="las2_2\55.wav" ID="55">Tifa “Then,I'll go…”  Up  Down</Entry>
+  <Entry File="las2_2\56.wav" ID="56">Red XIII “All right,then I'm going…”  Up  Down</Entry>
+  <Entry File="las2_2\57.wav" ID="57">Yuffie “I'm goin'…”  Up  Down</Entry>
+  <Entry File="las2_2\58.wav" ID="58">Cait Sith “Then,I'll be heading…”  Up  Down</Entry>
+  <Entry File="las2_2\59.wav" ID="59">Vincent “If so,I will go…”  Up  Down</Entry>
+  <Entry File="las2_2\60.wav" ID="60">Cid “All right! I'm heading…”  Up  Down</Entry>
+  <Entry File="las2_2\61a.wav" ID="61" Part="a">Cloud “Now don't any of you die on me.  …”</Entry>
+  <Entry File="las2_2\61b.wav" ID="61" Part="b">“Gotta get through to Sephiroth!”</Entry>
+  <Entry File="las2_2\62.wav" ID="62">Cloud “This will be the end of it!”</Entry>
+  <Entry File="las2_2\63.wav" ID="63">Barret “Well…looks like this  is our last big job!”</Entry>
+  <Entry File="las2_2\64.wav" ID="64">Tifa “Let's all go back alive,okay?”</Entry>
+  <Entry File="las2_2\65.wav" ID="65">Red XIII “All life on this Planet,  indeed the very life of this Planet,  is in our hands…”</Entry>
+  <Entry File="las2_2\66.wav" ID="66">Yuffie “Oh man…  'Materia Hunter Yuffie'  sounds like the last chapter of   'Materia Forever.'”</Entry>
+  <Entry File="las2_2\67.wav" ID="67">Cait Sith “I'm so happy to have met you all,really!   …sniff…”</Entry>
+  <Entry File="las2_2\68.wav" ID="68">Vincent “It's all over now.  With this…”</Entry>
+  <Entry File="las2_2\69.wav" ID="69">Cid “I'll destroy that Sephiroth before   anyone gets to him!”</Entry>
+  <Entry File="las2_2\70.wav" ID="70">Barret “Ain't no way I'm gonna die until   I stick this into that guy.”</Entry>
+  <Entry File="las2_2\71.wav" ID="71">Tifa “After this,we can go home.  All of us…”</Entry>
+  <Entry File="las2_2\72a.wav" ID="72" Part="a">Red XIII “We're not the only ones fighting.”</Entry>
+  <Entry File="las2_2\72b.wav" ID="72" Part="b">“The Planet's fighting too!”</Entry>
+  <Entry File="las2_2\73.wav" ID="73">Yuffie “If I knew THIS was gonna happen,  I'd have bailed out sooner!”</Entry>
+  <Entry File="las2_2\74.wav" ID="74">Cait Sith “There's nothing to worry about.  We're all in this together!”</Entry>
+  <Entry File="las2_2\75.wav" ID="75">Vincent “Let's go…”</Entry>
+  <Entry File="las2_2\76.wav" ID="76">Cid “Sephiroth's probably crapping his pants  right about now…”</Entry>
+  <Entry File="las2_2\77.wav" ID="77">Cloud “Wait!   Sephiroth…”</Entry>
+  <Entry File="las2_2\78.wav" ID="78">Cloud “We'll leave this to Barret.”</Entry>
+  <Entry File="las2_2\79.wav" ID="79">Cloud “We'll leave this to Cid.”</Entry>
+  <Entry File="las2_2\80.wav" ID="80">Cloud “We'll leave this to Red XIII.”</Entry>
+  <Entry File="las2_2\81.wav" ID="81">Cloud “We'll leave this to Cait Sith.”</Entry>
+  <Entry File="las2_2\82.wav" ID="82">Cloud “We'll leave this to Vincent.”</Entry>
+  <Entry File="las2_2\83.wav" ID="83">Cloud “We'll leave this to Yuffie.”</Entry>
+  <Entry File="las2_2\84.wav" ID="84">Cloud “We'll leave this to Tifa.”</Entry>
+  <Entry File="las2_2\85.wav" ID="85">Cloud “We'll try to go down from the other side.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="las2_2\0.wav" ID="0">012345678901234</Entry>
+	<Entry File="las2_2\1.wav" ID="1">Inside Northern Cave</Entry>
+	<Entry File="las2_2\2.wav" ID="2">Inside Northern Cave</Entry>
+	<Entry File="las2_2\3.wav" ID="3">Inside Northern Cave</Entry>
+	<Entry File="las2_2\4.wav" ID="4">Inside Northern Cave</Entry>
+	<Entry File="las2_2\5.wav" ID="5">Inside Northern Cave</Entry>
+	<Entry File="las2_2\6.wav" ID="6">Inside Northern Cave</Entry>
+	<Entry File="las2_2\7.wav" ID="7">Inside Northern Cave</Entry>
+	<Entry File="las2_2\8.wav" ID="8">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="las2_2\9.wav" ID="9">Make a save point here?    Yes   No</Entry>
+	<Entry File="las2_2\10.wav" ID="10">You cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="las2_2\11.wav" ID="11">Received "Shield" Materia!</Entry>
+	<Entry File="las2_2\12.wav" ID="12">Received "Counter" Materia!</Entry>
+	<Entry File="las2_2\13.wav" ID="13">Received "W-Magic" Materia!</Entry>
+	<Entry File="las2_2\14.wav" ID="14">Received "Megalixir"!</Entry>
+	<Entry File="las2_2\15.wav" ID="15">Received "Power Source"!</Entry>
+	<Entry File="las2_2\16.wav" ID="16">Received "Guard Source"!</Entry>
+	<Entry File="las2_2\17.wav" ID="17">Received "Magic Source"!</Entry>
+	<Entry File="las2_2\18.wav" ID="18">Received "Remedy"!</Entry>
+	<Entry File="las2_2\19.wav" ID="19">Received "Hero Drink"!</Entry>
+	<Entry File="las2_2\20.wav" ID="20">Received "Vaccine"!</Entry>
+	<Entry File="las2_2\21.wav" ID="21">Received "Imperial Guard"!</Entry>
+	<Entry File="las2_2\22.wav" ID="22">Received "Mind Source"!</Entry>
+	<Entry File="las2_2\23.wav" ID="23">Received "Hero Drink"!</Entry>
+	<Entry File="las2_2\24.wav" ID="24">Received "X-Potion"!</Entry>
+	<Entry File="las2_2\25.wav" ID="25">Received "Turbo Ether"!</Entry>
+	<Entry File="las2_2\26.wav" ID="26">Received "Elixir"!</Entry>
+	<Entry File="las2_2\27.wav" ID="27">Push [OK] to jump down.</Entry>
+	<Entry File="las2_2\28.wav" ID="28">Push [OK] to jump.</Entry>
+	<Entry File="las2_2\86a.wav" ID="86" Part="a">This is Mog's house. It's in Mog Forest on Mt. Mog.</Entry>
+	<Entry File="las2_2\86b.wav" ID="86" Part="b">The beginning of another day in the life of a Mog.</Entry>
+	<Entry File="las2_2\87.wav" ID="87">This year,Mog is pipapopupo years old.   …that's 28 in human years. He's at that age when he should be looking for a mate.</Entry>
+	<Entry File="las2_2\88.wav" ID="88">But before Mog can become an adult, he first needs to learn how to fly.</Entry>
+	<Entry File="las2_2\89.wav" ID="89">Even though Mog trains hard everyday, He still can't seem to get off the ground.</Entry>
+	<Entry File="las2_2\90a.wav" ID="90" Part="a">Looks like he's still got a long way to go…</Entry>
+	<Entry File="las2_2\90b.wav" ID="90" Part="b">Here's where you come in. Help Mog learn how to fly by  pushing [OK] and feeding him his favorite Kupo nut.</Entry>
+	<Entry File="las2_2\90c.wav" ID="90" Part="c">But don't overfeed him. He won't be able to fly if he's too fat.</Entry>
+	<Entry File="las2_2\91.wav" ID="91">[OK]…Give him a Kupo nut</Entry>
+	<Entry File="las2_2\92.wav" ID="92">Oh? It seems like Mog's decided to take another shot at it.</Entry>
+	<Entry File="las2_2\93.wav" ID="93">All right,Mog,fly! Your future happiness may depend on it.</Entry>
+	<Entry File="las2_2\94.wav" ID="94">Unfortunately,he didn't make it. Poor Mog'll have to wait some time for a bride.</Entry>
+	<Entry File="las2_2\95.wav" ID="95">  CONTINUE PUSH [START]  </Entry>
+	<Entry File="las2_2\96.wav" ID="96">Oh-oh,seems like you don't have enough Gil. Poor Mog,looks like he'll continue to be lonely for a while.</Entry>
+	<Entry File="las2_2\97.wav" ID="97">Poor Mog,seems like he'll be alone for a while.</Entry>
+	<Entry File="las2_2\98.wav" ID="98">He did it!  He's flying! Now,he's finally become a full-fledged Mog.</Entry>
+	<Entry File="las2_2\99.wav" ID="99">Tired but relaxed,our little Mog  turns out the lights early and goes to bed. Good night and sweet dreams…</Entry>
+	<Entry File="las2_2\100.wav" ID="100">Oh? What's this? Here comes a female Mog!</Entry>
+	<Entry File="las2_2\101.wav" ID="101">It seems like he likes her.</Entry>
+	<Entry File="las2_2\102.wav" ID="102">Now,will Mog be able to fly gracefully in front of her? Help him out with a few Kupo nuts.</Entry>
+	<Entry File="las2_2\103.wav" ID="103">He's flying!! Mog was able to do it!</Entry>
+	<Entry File="las2_2\104.wav" ID="104">She must have fallen for his graceful flying form.</Entry>
+	<Entry File="las2_2\105.wav" ID="105">Sometime later…</Entry>
+	<Entry File="las2_2\106.wav" ID="106">Looks like things are going good with his new Mog-friend. Time for a quiet date in the forest.</Entry>
+	<Entry File="las2_2\107.wav" ID="107">Her name is Mag. She is a good-natured Mog.</Entry>
+	<Entry File="las2_2\108.wav" ID="108">Best of luck to the both of you, Mog and Mag. May you have lots and lots of healthy Mogs!</Entry>
+	<Entry File="las2_2\109.wav" ID="109">Uh…no worries there,I guess…</Entry>
+	<Entry File="las2_2\110.wav" ID="110">~FIN~</Entry>
+-->
+</VoiceList>

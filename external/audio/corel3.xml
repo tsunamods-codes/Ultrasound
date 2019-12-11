@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="corel3\0.wav" ID="0">0</Entry>
+	<Entry File="corel3\1.wav" ID="1">It happened when Dyne and I were out of town for a few days.</Entry>
+	<Entry File="corel3\2.wav" ID="2">Corel was burned down by the Shinra troops.</Entry>
+	<Entry File="corel3\3.wav" ID="3">All the townspeople… All my relatives…… Everyone…everything…</Entry>
+-->
+</VoiceList>

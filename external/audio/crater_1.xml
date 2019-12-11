@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="crater_1\1.wav" ID="1">Cloud “An old crater…”</Entry>
+  <Entry File="crater_1\2.wav" ID="2">Cloud “Something fell out of the sky  and crashed down here…”</Entry>
+  <Entry File="crater_1\3.wav" ID="3">Cloud “Leaving a scar on the Planet.”</Entry>
+  <Entry File="crater_1\4a.wav" ID="4" Part="a">Cloud “Sephiroth took that energy and  is trying to use Meteor.”</Entry>
+  <Entry File="crater_1\4b.wav" ID="4" Part="b">“Next time  the wound won't be so small.”</Entry>
+  <Entry File="crater_1\5.wav" ID="5">Barret “So all this energy's gathered here  for the Planet to heal itself?”</Entry>
+  <Entry File="crater_1\6.wav" ID="6">Tifa “So the Planet has gathered all  this energy here to heal itself?”</Entry>
+  <Entry File="crater_1\7a.wav" ID="7" Part="a">Red XIII “The energy of the Planet is  concentrated here.”</Entry>
+  <Entry File="crater_1\7b.wav" ID="7" Part="b">“It is slowly healing  its old wound.”</Entry>
+  <Entry File="crater_1\8.wav" ID="8">Yuffie “Even I know what's going on.  The energy's bein' gathered here  to heal the gash.”</Entry>
+  <Entry File="crater_1\9.wav" ID="9">Cid “Damn,this's somethin'.  It's gathered all that energy  to try an' heal itself.”</Entry>
+  <Entry File="crater_1\10.wav" ID="10">Cait Sith “It's trying to heal its wound  by gathering all that energy here.”</Entry>
+  <Entry File="crater_1\11.wav" ID="11">Vincent “It's amassed a vast amount of energy  to heal itself.”</Entry>
+  <Entry File="crater_1\12.wav" ID="12">“…bback…to…Sep…  …i…roth…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="crater_1\0.wav" ID="0">Crater</Entry>
+-->
+</VoiceList>

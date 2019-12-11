@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mktpb\1.wav" ID="1">“HEY…someone's IN here…  Don't look!”</Entry>
+  <Entry File="mktpb\2.wav" ID="2">“Got any medicine on you?  I'm too hyper…and…ugh.”</Entry>
+  <Entry File="mktpb\3.wav" ID="3">“What…urk…”</Entry>
+  <Entry File="mktpb\5.wav" ID="5">“Huh?  You'll really give me some?  Thanks.”</Entry>
+  <Entry File="mktpb\6.wav" ID="6">“Phew,I feel better now.  This is for your kindness.”</Entry>
+  <Entry File="mktpb\7.wav" ID="7">“What is this?  Oh well.”</Entry>
+  <Entry File="mktpb\8.wav" ID="8">“It didn't do a thing,  but thanks anyways.  Here,this is for your kindness.”</Entry>
+  <Entry File="mktpb\9.wav" ID="9">Aeris “Wasn't there a Pharmacy here?”</Entry>
+  <Entry File="mktpb\13.wav" ID="13">“Hey,could you do somethin' for me?  Someone's been in there all day  and they're not comin' out.  I can't hold it anymore!”</Entry>
+  <Entry File="mktpb\14.wav" ID="14">“Whoops!”</Entry>
+  <Entry File="mktpb\15.wav" ID="15">“Yes? If you want to order,  do it at the counter.”</Entry>
+  <Entry File="mktpb\16.wav" ID="16">“Man,  times are bad.”</Entry>
+  <Entry File="mktpb\17.wav" ID="17">Aeris “Excuse us,are you the father of  the girl at the Clothing Store?”</Entry>
+  <Entry File="mktpb\18.wav" ID="18">“I own the Clothes Shop…  but I ain't your father.”</Entry>
+  <Entry File="mktpb\19.wav" ID="19">Aeris “I didn't say that…”</Entry>
+  <Entry File="mktpb\20.wav" ID="20">Cloud “Make me some clothes.”</Entry>
+  <Entry File="mktpb\21.wav" ID="21">“I don't make men's clothes.  And I don't feel like makin'  anything right now.”</Entry>
+  <Entry File="mktpb\22a.wav" ID="22" Part="a">Aeris “Cloud,    you wait over there for a second.    I'll try and talk to him.”</Entry>
+  <Entry File="mktpb\22b.wav" ID="22" Part="b">“Why don't you go over there  and have something to drink.”</Entry>
+  <Entry File="mktpb\23a.wav" ID="23" Part="a">Aeris “You know,Mister.”</Entry>
+  <Entry File="mktpb\23b.wav" ID="23" Part="b">“He always said that just once,  he'd like to dress up like a girl.”</Entry>
+  <Entry File="mktpb\23c.wav" ID="23" Part="c">“So,that's why I wanted   a cute dress for him…”</Entry>
+  <Entry File="mktpb\24.wav" ID="24">“What!?  A tough lookin' guy like that?”</Entry>
+  <Entry File="mktpb\25.wav" ID="25">Aeris “So,how 'bout it?  Will you make him one?”</Entry>
+  <Entry File="mktpb\26.wav" ID="26">“…might be interesting.  I was gettin' a little bored  just makin' regular clothes.”</Entry>
+  <Entry File="mktpb\27.wav" ID="27">Aeris “Then you'll do it for us?”</Entry>
+  <Entry File="mktpb\28.wav" ID="28">“Yeah,all right.  What kind of dress you want?”</Entry>
+  <Entry File="mktpb\29.wav" ID="29">Aeris “Something…” That feels clean That feels soft</Entry>
+  <Entry File="mktpb\30.wav" ID="30">“hm,hm,hm,and?”</Entry>
+  <Entry File="mktpb\31.wav" ID="31">Aeris “And something…” shiny that shimmers</Entry>
+  <Entry File="mktpb\32.wav" ID="32">“Hmm,got it.  Y'know I got a friend  that has the same taste as him.  I'll go talk to him.”</Entry>
+  <Entry File="mktpb\33.wav" ID="33">“Hey,hold on.  Wait till I get an image in my head.  Gulp…ummm,that's good.”</Entry>
+  <Entry File="mktpb\34.wav" ID="34">“…And then?”</Entry>
+  <Entry File="mktpb\35.wav" ID="35">“Hmm,hmmm,oh really?”</Entry>
+  <Entry File="mktpb\36.wav" ID="36">“Scary,isn't it?  You just never know when the plate  might come crashing down.”</Entry>
+  <Entry File="mktpb\37.wav" ID="37">“Yeah.  I'd like to climb up to the  plate if I could.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mktpb\0.wav" ID="0">Bar</Entry>
+	<Entry File="mktpb\4.wav" ID="4">Give her medicine Don't give her it</Entry>
+	<Entry File="mktpb\10.wav" ID="10">Received Key Item "Cologne"!</Entry>
+	<Entry File="mktpb\11.wav" ID="11">Received Key Item "Flower Cologne"!</Entry>
+	<Entry File="mktpb\12.wav" ID="12">Received Key Item "Sexy Cologne"!</Entry>
+-->
+</VoiceList>

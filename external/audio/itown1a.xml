@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="itown1a\1a.wav" ID="1" Part="a">“Ahoy! Hey ain't you a beaut.  This here's Mideel.  It's a quiet little Hot Springs town.”</Entry>
+  <Entry File="itown1a\1b.wav" ID="1" Part="b">“Just the perfect place  for old folks like us  to live out our lives.”</Entry>
+  <Entry File="itown1a\1c.wav" ID="1" Part="c">“I hear that things ain't so peaceful  on the outside.  But here it's still nice and quiet.”</Entry>
+  <Entry File="itown1a\2a.wav" ID="2" Part="a">“Ahoy! This here's Mideel.  A quiet Hot Springs town…  At least it used to be…”</Entry>
+  <Entry File="itown1a\2b.wav" ID="2" Part="b">“Lately the sea's been in a tizzy.  Lifestream has been mixin' things up  at the bottom of the ocean.”</Entry>
+  <Entry File="itown1a\2c.wav" ID="2" Part="c">“I think the Planet's pretty angry,too.  We've pretty much done whatever we've   wanted to the Planet up till now.”</Entry>
+  <Entry File="itown1a\3a.wav" ID="3" Part="a">“Huh? Never seen you here before.  You from outta town?  How're things on the outside?”</Entry>
+  <Entry File="itown1a\3b.wav" ID="3" Part="b">“Between the earthquakes and Meteor…  It just might be the end of the world  like everyone's been sayin'…”</Entry>
+  <Entry File="itown1a\3c.wav" ID="3" Part="c">“Oh,how depressing!  What a miserable world  this is…”</Entry>
+  <Entry File="itown1a\4a.wav" ID="4" Part="a">“It's bad enough with earthquakes and Meteor,  but on top of all that now the Lifestream has  become active again,too.”</Entry>
+  <Entry File="itown1a\4b.wav" ID="4" Part="b">“I hope it doesn't blow and cause a panic  like it did before.   That was really bad,I tell ya.”</Entry>
+  <Entry File="itown1a\5a.wav" ID="5" Part="a">“Everything must come to an end.  And someday it's gonna be your turn.  The world's gotta end sometime.”</Entry>
+  <Entry File="itown1a\5b.wav" ID="5" Part="b">“Everybody goes sometime or another.  And everyone gets left too.  It's just fate…”</Entry>
+  <Entry File="itown1a\5c.wav" ID="5" Part="c">“It's sad,but there's nothing  that can be done about it.  So that's why I'm prayin'  for all of you.”</Entry>
+  <Entry File="itown1a\6.wav" ID="6">Tifa “What's the matter?  Are you all alone?”</Entry>
+  <Entry File="itown1a\7.wav" ID="7">Tifa “You got lost didn't you?  Separated from someone you love?  Silly thing…”</Entry>
+  <Entry File="itown1a\8.wav" ID="8">“I guess it's been about a week now  since he washed up here on the shore…  Poor pokey-headed young thing…”</Entry>
+  <Entry File="itown1a\9a.wav" ID="9" Part="a">“It was really sad…but weird.  He was holding this really long  sword.”</Entry>
+  <Entry File="itown1a\9b.wav" ID="9" Part="b">“I dunno. The whole thing feels  unlucky to me. But the amazing  thing was those weird blue eyes…”</Entry>
+  <Entry File="itown1a\10.wav" ID="10">Tifa “Wha!?”</Entry>
+  <Entry File="itown1a\11.wav" ID="11">Tifa “Wh…wait a minute!!  What did you just say!?”</Entry>
+  <Entry File="itown1a\12.wav" ID="12">Tifa “Excuse me!  That person you   were just talking about…”</Entry>
+  <Entry File="itown1a\13.wav" ID="13">“Yeah…a villager found him  a little ways down the coast…  It was about a week ago I think.”</Entry>
+  <Entry File="itown1a\14.wav" ID="14">“Poor kid…  He must've drifted from   somewhere pretty far away.”</Entry>
+  <Entry File="itown1a\15.wav" ID="15">Tifa “Cloud!!  It must be!!  It's Cloud!!”</Entry>
+  <Entry File="itown1a\16.wav" ID="16">Barret “You sure!?”</Entry>
+  <Entry File="itown1a\17.wav" ID="17">Barret “Uh…!?  Yo,Tifa!!”</Entry>
+  <Entry File="itown1a\18.wav" ID="18">Red XIII “Over here!”</Entry>
+  <Entry File="itown1a\19.wav" ID="19">Red XIII “Halt!”</Entry>
+  <Entry File="itown1a\20.wav" ID="20">Cid “Heh,good job,Tifa.”</Entry>
+  <Entry File="itown1a\21.wav" ID="21">Yuffie “BINGO!!”</Entry>
+  <Entry File="itown1a\22.wav" ID="22">Yuffie “Oh,HEY!”</Entry>
+  <Entry File="itown1a\23.wav" ID="23">Cait Sith “Jackpot!”</Entry>
+  <Entry File="itown1a\24.wav" ID="24">Cait Sith “Wait up!”</Entry>
+  <Entry File="itown1a\25.wav" ID="25">Vincent “You've found him.”</Entry>
+  <Entry File="itown1a\26.wav" ID="26">Tifa “So where is he?  Is he safe!?  Where is he now?”</Entry>
+  <Entry File="itown1a\27.wav" ID="27">“Yeah…up ahead here…  At the,uh,clinic…”</Entry>
+  <Entry File="itown1a\28a.wav" ID="28" Part="a">Tifa “He's alive!”</Entry>
+  <Entry File="itown1a\28b.wav" ID="28" Part="b">“Cloud…  Cloud's alive!!”</Entry>
+  <Entry File="itown1a\29.wav" ID="29">Tifa “Cloud!!”</Entry>
+  <Entry File="itown1a\30a.wav" ID="30" Part="a">“So how is the boy?  Poor kid.  He sure got the worst of  whatever it was…”</Entry>
+  <Entry File="itown1a\30b.wav" ID="30" Part="b">“Sure hope he gets better soon.  Right now is when he really needs  to hold on and not give up.”</Entry>
+  <Entry File="itown1a\31a.wav" ID="31" Part="a">“It's amazing he recovered.  When they carried him here after they  first discovered him,I thought  for sure he was a goner.”</Entry>
+  <Entry File="itown1a\31b.wav" ID="31" Part="b">“That boy must have one powerful  guardian angel watchin' over him.”</Entry>
+  <Entry File="itown1a\32a.wav" ID="32" Part="a">Tifa “Huh?  What could that be?”</Entry>
+  <Entry File="itown1a\32b.wav" ID="32" Part="b">“There's something stuck deep inside  that looks like a key…  It's hard to get out.”</Entry>
+  <Entry File="itown1a\32c.wav" ID="32" Part="c">“Well,I'll just let it go  for now…”</Entry>
+  <Entry File="itown1a\33.wav" ID="33">Tifa “There's something stuck deep inside  that looks like an old key…”</Entry>
+  <Entry File="itown1a\34a.wav" ID="34" Part="a">Cid “Huh?  The hell's this?”</Entry>
+  <Entry File="itown1a\34b.wav" ID="34" Part="b">“Looks like a key but  it's stuck way down inside,and  I can't get it out.”</Entry>
+  <Entry File="itown1a\34c.wav" ID="34" Part="c">“Well,what the hell?  That's life…”</Entry>
+  <Entry File="itown1a\35.wav" ID="35">Cid “Hey…what's that?  Looks like a key but  it's stuck way down inside and”</Entry>
+  <Entry File="itown1a\36a.wav" ID="36" Part="a">Tifa “I wonder if there's some  way to get this outta here.”</Entry>
+  <Entry File="itown1a\36b.wav" ID="36" Part="b">“If I just move this…  And push that…  Okay! I got it out!”</Entry>
+  <Entry File="itown1a\37a.wav" ID="37" Part="a">Cid “Okay,there's gotta  be a way to get it out.”</Entry>
+  <Entry File="itown1a\37b.wav" ID="37" Part="b">“Maybe if I move this a bit…  and push that over…  HAH! Gotcha!”</Entry>
+  <Entry File="itown1a\39a.wav" ID="39" Part="a">“Gather 'round,gather 'round,this  is a bargain!!”</Entry>
+  <Entry File="itown1a\39b.wav" ID="39" Part="b">“We've got the best armor and weapons,  the likes of which you won't  find anywhere else.”</Entry>
+  <Entry File="itown1a\39c.wav" ID="39" Part="c">“But it's first come,first served,  so get yours now!”</Entry>
+  <Entry File="itown1a\39d.wav" ID="39" Part="d">“Step right up!  You there,don't just  stand around outside.”</Entry>
+  <Entry File="itown1a\39e.wav" ID="39" Part="e">“Go on in! Come on!  Don't be shy,step right up!”</Entry>
+  <Entry File="itown1a\39f.wav" ID="39" Part="f">“I'll never know why he wanted to   open a store in a dead town like this.  What's with him? …sigh…”</Entry>
+  <Entry File="itown1a\40.wav" ID="40">Cid “What's this?”</Entry>
+  <Entry File="itown1a\41.wav" ID="41">Cid “The Lifestream is gushing up  from below the surface of the earth!”</Entry>
+  <Entry File="itown1a\42.wav" ID="42">Cid “Damn,that's…  This is bad!!”</Entry>
+  <Entry File="itown1a\43.wav" ID="43">Tifa “Cid!?  What's wrong?”</Entry>
+  <Entry File="itown1a\44.wav" ID="44">Cid “N,nothin'!!  You and Cloud get inside quick!!”</Entry>
+  <Entry File="itown1a\45.wav" ID="45">Tifa “But I…”</Entry>
+  <Entry File="itown1a\46.wav" ID="46">Cid “Hey,don't worry about a thing.  I ain't about to die that easily.”</Entry>
+  <Entry File="itown1a\47.wav" ID="47">Tifa “Be careful!”</Entry>
+  <Entry File="itown1a\48.wav" ID="48">Cid “Okay,here I go!  Watch this!!”</Entry>
+  <Entry File="itown1a\49.wav" ID="49">“That kid got a green stone from  that Chocobo!  I'm so jealous.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="itown1a\0.wav" ID="0">Mideel</Entry>
+	<Entry File="itown1a\38.wav" ID="38">Received "Beat-up Useless Old Key"!</Entry>
+-->
+</VoiceList>

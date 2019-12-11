@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blackbg2\1.wav" ID="1">“Debug Name&amp;Debug Money”</Entry>
+  <Entry File="blackbg2\2.wav" ID="2">“Default Name&amp;No Money”</Entry>
+  <Entry File="blackbg2\21.wav" ID="21">“7th Street” Welcome Home Before Memory Materia Good Morning Before Battle Cancel After Memory</Entry>
+  <Entry File="blackbg2\23.wav" ID="23">“Working Now”</Entry>
+  <Entry File="blackbg2\26.wav" ID="26">“Honey Bee In” First Time 2nd 3rd After All Cancel</Entry>
+  <Entry File="blackbg2\27.wav" ID="27">“Last train from Midgar” Cargo Train1 Train2 Train3 Train4 Monitor Station1 Station2 StationFlashBack Cancel</Entry>
+  <Entry File="blackbg2\28.wav" ID="28">“Mt. Corel” Mountain Road (Cancel) Vally Up&amp;Down River Hole PiyoPiyo Bridge Railway Ballet's Memory Cancel</Entry>
+  <Entry File="blackbg2\29.wav" ID="29">“Costa del Sol” Town Beach Harbor Debug</Entry>
+  <Entry File="blackbg2\30.wav" ID="30">“Formation” Ballet Tifa Red Yufi Ket Cid Vincent</Entry>
+  <Entry File="blackbg2\31.wav" ID="31">“Temple of the Ancients”(FORMATION) Temple After Collapse Altar Alter2 Temple of the Ancients Shop of the Ancients The Rock The Hole of the Time Tirano Treasure Chase Next Page</Entry>
+  <Entry File="blackbg2\32.wav" ID="32">“Temple of the Ancients2” Mateo Sephiros Hole1 Hole2 Boss Mateo2 Cancel</Entry>
+  <Entry File="blackbg2\34.wav" ID="34">“Formation”(Reset) CLOUD BALLET TIFA EARITH RED CID VINCENT KETCY YUFI TIFA2 CID2 ONLY CLOUD</Entry>
+  <Entry File="blackbg2\35.wav" ID="35">“Submarine”(Cancel) SubmarineDock BridgeRed BridgeBlue SubmarineRed SubmarinBlue Escape MiniGame0 MiniGame1 MiniGame2 MiniGame3 MiniGame4 MiniGame5</Entry>
+  <Entry File="blackbg2\36.wav" ID="36">“JUNONR” JUNONR1 JUNONR2 JUNONR3 PARADE JUNONR-W JUNONR-PUB JUNONR-I JUNONR-M JUNONR-MIN1 JUNON-MIN2 JUNON-MIN3 JUNON-MOVIE</Entry>
+  <Entry File="blackbg2\37.wav" ID="37">“JUNONL” JUNONL1 JUNONL2 JUNONL3 JUNONL-W JUNONL-I1 JUNONL-I2 JUNONL-INN JUNONL-PUB JUNONL-MIN0 JUNONL-MIN1 JUNONL-MIN2</Entry>
+  <Entry File="blackbg2\38.wav" ID="38">“JUNONDOC” JUNONDOC1 JUNONDOC2 ROAD1 (Cancel) ROAD3 ROAD4 ROAD5 ROAD6 ROAD7 ELE1 ELE2 ROOM</Entry>
+  <Entry File="blackbg2\39.wav" ID="39">WorkMan “Everyday My Works are…” Cancel Got The Jyro After The Meteo…TIFA After The Meteo…CID After The Meteo…CLOUD MakoUnderTheSea Hp&amp;Mp 1 No Money MoneyMoneyMoney Got The Keystone</Entry>
+  <Entry File="blackbg2\40.wav" ID="40">“Reset Flag”</Entry>
+  <Entry File="blackbg2\41.wav" ID="41">“Set Normal Party”</Entry>
+  <Entry File="blackbg2\42.wav" ID="42">“Battle Off”</Entry>
+  <Entry File="blackbg2\43.wav" ID="43">“Battle On”</Entry>
+  <Entry File="blackbg2\44.wav" ID="44">“Battle On”</Entry>
+  <Entry File="blackbg2\45.wav" ID="45">“Welcome To FinalFantasy7 English Version”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blackbg2\0.wav" ID="0">[PAGEDOWN]:Reset Flag [TARGET]:  Name&amp;Money Change [PAGEUP]:  Battle On/Off [CAMERA]:  Set Normal Party [ASSIST]:  Help On/Off</Entry>
+	<Entry File="blackbg2\3.wav" ID="3">CLOUD</Entry>
+	<Entry File="blackbg2\4.wav" ID="4">BALLET</Entry>
+	<Entry File="blackbg2\5.wav" ID="5">TIFA</Entry>
+	<Entry File="blackbg2\6.wav" ID="6">EARITH</Entry>
+	<Entry File="blackbg2\7.wav" ID="7">RED13</Entry>
+	<Entry File="blackbg2\8.wav" ID="8">YUFI</Entry>
+	<Entry File="blackbg2\9.wav" ID="9">KETCY</Entry>
+	<Entry File="blackbg2\10.wav" ID="10">CID</Entry>
+	<Entry File="blackbg2\11.wav" ID="11">VINCENT</Entry>
+	<Entry File="blackbg2\12.wav" ID="12" />
+	<Entry File="blackbg2\13.wav" ID="13" />
+	<Entry File="blackbg2\14.wav" ID="14" />
+	<Entry File="blackbg2\15.wav" ID="15" />
+	<Entry File="blackbg2\16.wav" ID="16" />
+	<Entry File="blackbg2\17.wav" ID="17" />
+	<Entry File="blackbg2\18.wav" ID="18" />
+	<Entry File="blackbg2\19.wav" ID="19" />
+	<Entry File="blackbg2\20.wav" ID="20" />
+	<Entry File="blackbg2\22.wav" ID="22" />
+	<Entry File="blackbg2\24.wav" ID="24" />
+	<Entry File="blackbg2\25.wav" ID="25" />
+	<Entry File="blackbg2\33.wav" ID="33" />
+-->
+</VoiceList>

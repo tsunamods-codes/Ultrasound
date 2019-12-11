@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="fship_23\2.wav" ID="2">Cid “Welcome to my airship-the Highwind!”</Entry>
+  <Entry File="fship_23\3.wav" ID="3">Cid “What's wrong!?  You should be more excited than that!”</Entry>
+  <Entry File="fship_23\4.wav" ID="4">Red XIII “Cid…”</Entry>
+  <Entry File="fship_23\5.wav" ID="5">Cid “Yeah…”</Entry>
+  <Entry File="fship_23\6.wav" ID="6">Tifa “Not enough crew.”</Entry>
+  <Entry File="fship_23\7a.wav" ID="7" Part="a">Red XIII “Do you think we aren't strong  enough without Cloud?”</Entry>
+  <Entry File="fship_23\7b.wav" ID="7" Part="b">“Do you think we can't save  the Planet alone?”</Entry>
+  <Entry File="fship_23\8a.wav" ID="8" Part="a">Tifa “Meteor is coming,  and Weapon is on the rampage…”</Entry>
+  <Entry File="fship_23\8b.wav" ID="8" Part="b">“At a time like this,  I don't know what I'm supposed to do.”</Entry>
+  <Entry File="fship_23\9.wav" ID="9">Tifa “No idea at all…”</Entry>
+  <Entry File="fship_23\10a.wav" ID="10" Part="a">Barret “Get a hold of yourself,Tifa!  C'mon,let's think about this!”</Entry>
+  <Entry File="fship_23\10b.wav" ID="10" Part="b">“No way we can get offa   this train we're on!”</Entry>
+  <Entry File="fship_23\11.wav" ID="11">Tifa “If only Cloud was here,  everything would be fine.”</Entry>
+  <Entry File="fship_23\12a.wav" ID="12" Part="a">Tifa “Cloud would…”</Entry>
+  <Entry File="fship_23\12b.wav" ID="12" Part="b">“…stand that cocky little way he  did,and tell us what to do.”</Entry>
+  <Entry File="fship_23\13.wav" ID="13">Tifa “He'd say,'Everything's  under control,Tifa.'”</Entry>
+  <Entry File="fship_23\14.wav" ID="14">Barret “Tifa!  When'd you become such a wimp!”</Entry>
+  <Entry File="fship_23\15a.wav" ID="15" Part="a">Tifa “I'm sorry,Barret.”</Entry>
+  <Entry File="fship_23\15b.wav" ID="15" Part="b">“I'm so depressed,  I'm surprised at myself.”</Entry>
+  <Entry File="fship_23\16.wav" ID="16">Red XIII “And Tifa…the reason why we all  thought it was Cloud  was because…”</Entry>
+  <Entry File="fship_23\17a.wav" ID="17" Part="a">Tifa “I know.”</Entry>
+  <Entry File="fship_23\17b.wav" ID="17" Part="b">“That's why I want to make sure.  That's why I have to see him again.”</Entry>
+  <Entry File="fship_23\18.wav" ID="18">Cid “I want you to know  I didn't dislike him.”</Entry>
+  <Entry File="fship_23\19a.wav" ID="19" Part="a">Cid “I gotta admit he was a strange dude.”</Entry>
+  <Entry File="fship_23\19b.wav" ID="19" Part="b">“Just when you thought he was cool,  he'd do some damn fool thing.”</Entry>
+  <Entry File="fship_23\19c.wav" ID="19" Part="c">“Then when you thought he was smart,  he'd show how stupid he was.”</Entry>
+  <Entry File="fship_23\20a.wav" ID="20" Part="a">Cid “Everything about him from his movements  to his speech were kinda odd.”</Entry>
+  <Entry File="fship_23\20b.wav" ID="20" Part="b">“Knowin' what I do now,  I can see why he was that way.”</Entry>
+  <Entry File="fship_23\20c.wav" ID="20" Part="c">“Well,as long as you stay alive,  you just might see him again someday.  So cheer up,sis.”</Entry>
+  <Entry File="fship_23\21.wav" ID="21">Tifa “…I'll be able to see him someday.”</Entry>
+  <Entry File="fship_23\22.wav" ID="22">Cid “If we can find out where he is,  the Highwind'll get us there in no time.”</Entry>
+  <Entry File="fship_23\23.wav" ID="23">Red XIII “Maybe…”</Entry>
+  <Entry File="fship_23\24.wav" ID="24">Red XIII “Cloud is still stuck deep in  the North Crater,  where the ground cracked  and swallowed him up…”</Entry>
+  <Entry File="fship_23\25.wav" ID="25">Red XIII “Buried in the depths of the underground…”</Entry>
+  <Entry File="fship_23\26.wav" ID="26">Tifa “Deep within the earth…are you  talking about the Lifestream?”</Entry>
+  <Entry File="fship_23\27a.wav" ID="27" Part="a">Red XIII “The Lifestream sometimes gushes  out from cracks in the ocean  floor to the surface.”</Entry>
+  <Entry File="fship_23\27b.wav" ID="27" Part="b">“I heard about such a place.”</Entry>
+  <Entry File="fship_23\28.wav" ID="28">Red XIII “Maybe,just maybe Cloud's…”</Entry>
+  <Entry File="fship_23\29.wav" ID="29">Pilot in training (LV3) “Yaaaaahh!  Don't talk to me right now!”</Entry>
+  <Entry File="fship_23\30.wav" ID="30">“Get a hold of yourself!”</Entry>
+  <Entry File="fship_23\31.wav" ID="31">Pilot in training (LV3) “Waaaaah!  Captain Cid!”</Entry>
+  <Entry File="fship_23\32.wav" ID="32">Cid “Tifa,sorry,but  I've gotta show this moron  how to land the ship.”</Entry>
+  <Entry File="fship_23\33.wav" ID="33">Cid “Don't worry,it'll be done in a minute.”</Entry>
+  <Entry File="fship_23\34a.wav" ID="34" Part="a">Cid “Oh,and Tifa…”</Entry>
+  <Entry File="fship_23\34b.wav" ID="34" Part="b">“No matter what your goal is,  you've got to be prepared.”</Entry>
+  <Entry File="fship_23\34c.wav" ID="34" Part="c">“Go to the Operation room  and get ready.”</Entry>
+  <Entry File="fship_23\35.wav" ID="35">Cid “I put a lot of things for  you in the Operation room,  so go get ready.”</Entry>
+  <Entry File="fship_23\36.wav" ID="36">Cid “OK!  You just signal when you're  ready to fly full speed.”</Entry>
+  <Entry File="fship_23\37.wav" ID="37">Pilot in training (LV4) “Eagggghh! Are we going?”   We're going   We're staying put</Entry>
+  <Entry File="fship_23\38.wav" ID="38">Pilot in training (LV4) “Eagggggh! We're off!”</Entry>
+  <Entry File="fship_23\39.wav" ID="39">Cid “Well,it takes all kinds.”</Entry>
+  <Entry File="fship_23\40.wav" ID="40">Barret “What're we gonna do now!  What can WE do?”</Entry>
+  <Entry File="fship_23\41a.wav" ID="41" Part="a">Barret “Huh?  Ain't there nothin' we can do?”</Entry>
+  <Entry File="fship_23\41b.wav" ID="41" Part="b">“An' don' go tellin' us to  wait for Cloud to get better.”</Entry>
+  <Entry File="fship_23\42.wav" ID="42">Cait Sith “Oh,I've got some news.”</Entry>
+  <Entry File="fship_23\43.wav" ID="43">Barret “Yeah,what!? That you a spy?”</Entry>
+  <Entry File="fship_23\44.wav" ID="44">Cait Sith “Yeah…  I've already told you I was.”</Entry>
+  <Entry File="fship_23\45a.wav" ID="45" Part="a">Cait Sith “Both Gya ha ha and Kya ha ha  are up to something.”</Entry>
+  <Entry File="fship_23\45b.wav" ID="45" Part="b">“Wanna eavesdrop?”</Entry>
+  <Entry File="fship_23\46.wav" ID="46">Barret “Corel!”</Entry>
+  <Entry File="fship_23\47.wav" ID="47">Barret “What else can they do to Corel!?”</Entry>
+  <Entry File="fship_23\48a.wav" ID="48" Part="a">Red XIII “And the Huge Materia…”</Entry>
+  <Entry File="fship_23\48b.wav" ID="48" Part="b">“You mean the Huge Materia,don't you?  I've heard about it.”</Entry>
+  <Entry File="fship_23\48c.wav" ID="48" Part="c">“When our small Materia nears  the larger one,  there should be some reaction.”</Entry>
+  <Entry File="fship_23\48d.wav" ID="48" Part="d">“I'm certain of it.”</Entry>
+  <Entry File="fship_23\48e.wav" ID="48" Part="e">“That's why we're using   the Materia power  in our fight…”</Entry>
+  <Entry File="fship_23\49.wav" ID="49">Barret “Can't let Shinra get a hold of  the Huge Materia!”</Entry>
+  <Entry File="fship_23\50.wav" ID="50">Barret “Besides,when Cloud gets back,  I wanna show him this Huge Materia.  He's gonna be shocked.”</Entry>
+  <Entry File="fship_23\51a.wav" ID="51" Part="a">Cait Sith “So,what are you  saying,Barret?”</Entry>
+  <Entry File="fship_23\51b.wav" ID="51" Part="b">“Even though you're always knocking him,  you really want  Cloud to return.”</Entry>
+  <Entry File="fship_23\52.wav" ID="52">Barret “I ain't sayin' nothin' 'bout nothin'.  So just…shut your face!”</Entry>
+  <Entry File="fship_23\53.wav" ID="53">Barret “Every group's gotta have a leader.”</Entry>
+  <Entry File="fship_23\54a.wav" ID="54" Part="a">Barret “An' that's me!”</Entry>
+  <Entry File="fship_23\54b.wav" ID="54" Part="b">“Or at least I wanna be…  But I ain't cut out to be no leader.”</Entry>
+  <Entry File="fship_23\54c.wav" ID="54" Part="c">“I never knew that till lately.”</Entry>
+  <Entry File="fship_23\55.wav" ID="55">Barret “That's what it is.”</Entry>
+  <Entry File="fship_23\56.wav" ID="56">Cid “…ZZZZ…hmph?”</Entry>
+  <Entry File="fship_23\57.wav" ID="57">Cid “Wha? What's goin' on?”</Entry>
+  <Entry File="fship_23\58.wav" ID="58">Barret “You been chosen to be the new leader.”</Entry>
+  <Entry File="fship_23\59.wav" ID="59">Cid “Pain in the ass. Forget it.”</Entry>
+  <Entry File="fship_23\61.wav" ID="61">Barret “But for us to fight,  we gotta have Highwind,and you.”</Entry>
+  <Entry File="fship_23\62.wav" ID="62">“We need it to save the Planet.  An' who's runnin' this ship? You!”</Entry>
+  <Entry File="fship_23\63.wav" ID="63">“That's why you're our new leader.  Ain't no one else can do it.”</Entry>
+  <Entry File="fship_23\64.wav" ID="64">Cid “Hmm…this ship's gonna save the  Planet,huh? Ain't that gonna be  just a little tough?”</Entry>
+  <Entry File="fship_23\65.wav" ID="65">Cid “Oh man,stab me in the heart.”</Entry>
+  <Entry File="fship_23\66a.wav" ID="66" Part="a">Cid “I'm a man,too!”</Entry>
+  <Entry File="fship_23\66b.wav" ID="66" Part="b">“Okay,I'll do it!  Everyone,follow me!”</Entry>
+  <Entry File="fship_23\67a.wav" ID="67" Part="a">Barret “Alright,now here's the first job.”</Entry>
+  <Entry File="fship_23\67b.wav" ID="67" Part="b">“The Operation Room's waiting for you!”</Entry>
+  <Entry File="fship_23\68.wav" ID="68">Cid “Yeah!!”</Entry>
+  <Entry File="fship_23\69a.wav" ID="69" Part="a">Barret “As soon as we're ready,  we'll head for the Corel reactor.”</Entry>
+  <Entry File="fship_23\69b.wav" ID="69" Part="b">“Hurry,Cid!”</Entry>
+  <Entry File="fship_23\70.wav" ID="70">Pilot in training (LV5) “Eaggggghh!  Congrats' on becoming  our leader,Cap'n!”</Entry>
+  <Entry File="fship_23\71.wav" ID="71">Pilot in training (LV5) “Yaaah! Are we taking off?” Yes No</Entry>
+  <Entry File="fship_23\72.wav" ID="72">Pilot in training (LV5) “Eagggggh! We're taking off now!”</Entry>
+  <Entry File="fship_23\73.wav" ID="73">Cid “Hey…”</Entry>
+  <Entry File="fship_23\74.wav" ID="74">Cid “It's tough being the leader.”</Entry>
+  <Entry File="fship_23\75a.wav" ID="75" Part="a">Cid “Cloud did a great job.  Sheesh…”</Entry>
+  <Entry File="fship_23\75b.wav" ID="75" Part="b">“Shall we go to Mideel  to check on things?”</Entry>
+  <Entry File="fship_23\76.wav" ID="76">Red XIII “I wonder how Cloud's doing.”</Entry>
+  <Entry File="fship_23\77.wav" ID="77">Red XIII “I wonder if Tifa  needs a break…”</Entry>
+  <Entry File="fship_23\78.wav" ID="78">Red XIII “I could look after him instead.”</Entry>
+  <Entry File="fship_23\79a.wav" ID="79" Part="a">Cid “Well,let's see…  What's a good place to head to?”</Entry>
+  <Entry File="fship_23\79b.wav" ID="79" Part="b">“Corel?  Fort Condor?”</Entry>
+  <Entry File="fship_23\80.wav" ID="80">Cid “Where shall we go next?  Shall we head for the Corel reactor?”</Entry>
+  <Entry File="fship_23\81.wav" ID="81">Cid “What's next?  Shall we head for Fort Condor?”</Entry>
+  <Entry File="fship_23\82.wav" ID="82">Pilot in training (LV6) “Yaah! Shall we take off?” Yes No</Entry>
+  <Entry File="fship_23\83.wav" ID="83">Pilot in training (LV6) “Yaah! We're taking off!”</Entry>
+  <Entry File="fship_23\84.wav" ID="84">Barret “What's that sad face for?”</Entry>
+  <Entry File="fship_23\85a.wav" ID="85" Part="a">Barret “What? Does Cloud always  gotta be around?”</Entry>
+  <Entry File="fship_23\85b.wav" ID="85" Part="b">“We did fine without him   in the beginning…”</Entry>
+  <Entry File="fship_23\85c.wav" ID="85" Part="c">“Right? An' what happened to  the tough girl I used to know?  Where'd she go to?”</Entry>
+  <Entry File="fship_23\86a.wav" ID="86" Part="a">Barret “Whenever I think of Cloud,  everything gets all jumbled up.”</Entry>
+  <Entry File="fship_23\86b.wav" ID="86" Part="b">“No matter how powerful Shinra or Hojo is,  I can't believe they can create humans.”</Entry>
+  <Entry File="fship_23\86c.wav" ID="86" Part="c">“But because of them,  we know that Meteor is heading towards us.”</Entry>
+  <Entry File="fship_23\86d.wav" ID="86" Part="d">“Y'know,even if I saw him,  I don't have a damn idea what I'd do.”</Entry>
+  <Entry File="fship_23\87.wav" ID="87">Barret “Yo,Leader-man!  Get your pilot ass up here!”</Entry>
+  <Entry File="fship_23\88.wav" ID="88">Barret “Leader-man? What's next!?”</Entry>
+  <Entry File="fship_23\89.wav" ID="89">Barret “Yo,wanna see what Tifa and   the gang are doing?”</Entry>
+  <Entry File="fship_23\90.wav" ID="90">Red XIII “Cheer up,Tifa…”</Entry>
+  <Entry File="fship_23\91a.wav" ID="91" Part="a">Red XIII “There appears to be a small island  near the Lifestream……”</Entry>
+  <Entry File="fship_23\91b.wav" ID="91" Part="b">“They said the Lifestream sometimes  suddenly gushes out   at the Southern island.”</Entry>
+  <Entry File="fship_23\91c.wav" ID="91" Part="c">“I remember hearing about this from  Seto when I was a child,  but I don't remember much else…”</Entry>
+  <Entry File="fship_23\91d.wav" ID="91" Part="d">“I'm sorry…Tifa.”</Entry>
+  <Entry File="fship_23\92a.wav" ID="92" Part="a">Red XIII “We'll do our best for  Cloud and you.”</Entry>
+  <Entry File="fship_23\92b.wav" ID="92" Part="b">“…And Aeris,too.”</Entry>
+  <Entry File="fship_23\93a.wav" ID="93" Part="a">Red XIII “Cid.”</Entry>
+  <Entry File="fship_23\93b.wav" ID="93" Part="b">“Let's visit Cloud   and Tifa from  time to time.”</Entry>
+  <Entry File="fship_23\94a.wav" ID="94" Part="a">Red XIII “Say Cid.”</Entry>
+  <Entry File="fship_23\94b.wav" ID="94" Part="b">“I wonder how Tifa and  Cloud…are doing.”</Entry>
+  <Entry File="fship_23\95a.wav" ID="95" Part="a">Cait Sith “Tifa.”</Entry>
+  <Entry File="fship_23\95b.wav" ID="95" Part="b">“You saw him slapping Scarlet around?”</Entry>
+  <Entry File="fship_23\95c.wav" ID="95" Part="c">“Yeah,he did a good job,too.  It felt good just watching.”</Entry>
+  <Entry File="fship_23\95d.wav" ID="95" Part="d">“Let's never forget that  spirit,and give it our all!”</Entry>
+  <Entry File="fship_23\96a.wav" ID="96" Part="a">Cait Sith “Tifa,I'll give you  info on Shinra.”</Entry>
+  <Entry File="fship_23\96b.wav" ID="96" Part="b">“Ask me if there's anything  you don't understand.”</Entry>
+  <Entry File="fship_23\97a.wav" ID="97" Part="a">Cait Sith “Everything appears calm  right now at Shinra.”</Entry>
+  <Entry File="fship_23\97b.wav" ID="97" Part="b">“So now's the time to  look for Cloud.”</Entry>
+  <Entry File="fship_23\97c.wav" ID="97" Part="c">“I'm worried about him,too.”</Entry>
+  <Entry File="fship_23\97d.wav" ID="97" Part="d">“I wonder where Cloud is.  Or could he already be…”</Entry>
+  <Entry File="fship_23\98.wav" ID="98">Cait Sith “Tifa…  Do you think it's a good  idea for me to quit Shinra?”</Entry>
+  <Entry File="fship_23\99a.wav" ID="99" Part="a">Cait Sith “Oh,I'm sorry.”</Entry>
+  <Entry File="fship_23\99b.wav" ID="99" Part="b">“Tifa,there's no way  I can quit right now…”</Entry>
+  <Entry File="fship_23\100.wav" ID="100">Cait Sith “Cid,  I'm expecting big things from you”</Entry>
+  <Entry File="fship_23\101a.wav" ID="101" Part="a">Cait Sith “Cid,you're tired,huh?”</Entry>
+  <Entry File="fship_23\101b.wav" ID="101" Part="b">“I'd like to change places with you,but  I'm in charge of information,  so I can't. Sorry.”</Entry>
+  <Entry File="fship_23\102a.wav" ID="102" Part="a">Cait Sith “Hmmn,the Huge Materia is at   Corel,Fort Condor,and…”</Entry>
+  <Entry File="fship_23\102b.wav" ID="102" Part="b">“I'm sure there was another place that had it.  Where was that…?”</Entry>
+  <Entry File="fship_23\103a.wav" ID="103" Part="a">Cait Sith “Shinra's…stopped.”</Entry>
+  <Entry File="fship_23\103b.wav" ID="103" Part="b">“Now we've got to be careful.  I know Heidegger and his gang  are plotting something.”</Entry>
+  <Entry File="fship_23\104.wav" ID="104">Vincent “…So glad you're all  right,Tifa.”</Entry>
+  <Entry File="fship_23\105a.wav" ID="105" Part="a">Vincent “Too much hope is the opposite of despair.”</Entry>
+  <Entry File="fship_23\105b.wav" ID="105" Part="b">“An overpowering love may  consume you in the end.”</Entry>
+  <Entry File="fship_23\106a.wav" ID="106" Part="a">Vincent “Cid…I wish I had your  go-get-them attitude.”</Entry>
+  <Entry File="fship_23\106b.wav" ID="106" Part="b">“It appears my feelings vanished  into thin air ever since  my long slumber….”</Entry>
+  <Entry File="fship_23\107a.wav" ID="107" Part="a">Vincent “…Don't expect me to do anything  other than fight beside you.”</Entry>
+  <Entry File="fship_23\107b.wav" ID="107" Part="b">“I have no words of comfort.”</Entry>
+  <Entry File="fship_23\107c.wav" ID="107" Part="c">“Of course,I don't believe you're   the type who needs the kindness  from others…”</Entry>
+  <Entry File="fship_23\108.wav" ID="108">Vincent “You look really tired,maybe you're ready   to give up being leader?”</Entry>
+  <Entry File="fship_23\109.wav" ID="109">Cid “No use singing the blues,baby.  The best thing to do is to keep movin'.”</Entry>
+  <Entry File="fship_23\110.wav" ID="110">“Whenever anyone talks to me,  I get all nervous and mess things up!”</Entry>
+  <Entry File="fship_23\111.wav" ID="111">Cid “Hey you! What the hell are you doin'!?”</Entry>
+  <Entry File="fship_23\112.wav" ID="112">“Good day,Captain!”</Entry>
+  <Entry File="fship_23\113.wav" ID="113">“All we have to do is just pilot.  They don't have to talk to us.”</Entry>
+  <Entry File="fship_23\114.wav" ID="114">“Looks like you turned out to be the  leader after all,Captain…”</Entry>
+  <Entry File="fship_23\115.wav" ID="115">Pilot in Training (LV7) “Yaaah!  Shall we take off?” Roger Negative</Entry>
+  <Entry File="fship_23\116.wav" ID="116">Pilot in Training (LV7) “Man!  We're taking off!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="fship_23\0.wav" ID="0">Anyhow,   I'm going to the World Map   I'm not goin'</Entry>
+	<Entry File="fship_23\1.wav" ID="1">Highwind</Entry>
+	<Entry File="fship_23\60.wav" ID="60" />
+-->
+</VoiceList>

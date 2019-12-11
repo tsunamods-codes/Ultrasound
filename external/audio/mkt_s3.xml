@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mkt_s3\1.wav" ID="1">“Whoa!”</Entry>
+  <Entry File="mkt_s3\2.wav" ID="2">“Oh,you have a coupon?  Then please select  any one medicine you like.”</Entry>
+  <Entry File="mkt_s3\4.wav" ID="4">“Don't just stand there,  say something!!”</Entry>
+  <Entry File="mkt_s3\8.wav" ID="8">“Here you are.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mkt_s3\0.wav" ID="0">Pharmacy</Entry>
+	<Entry File="mkt_s3\3.wav" ID="3">Disinfectant Deodorant Digestive</Entry>
+	<Entry File="mkt_s3\5.wav" ID="5">Received Key Item "Disinfectant"!</Entry>
+	<Entry File="mkt_s3\6.wav" ID="6">Received Key Item "Deodorant"!</Entry>
+	<Entry File="mkt_s3\7.wav" ID="7">Received Key Item "Digestive"!</Entry>
+-->
+</VoiceList>

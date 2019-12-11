@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="gon_wa1\14.wav" ID="14">“You a traveller? Hey wait,  that glow in your eye…  Are you in SOLDIER?”</Entry>
+  <Entry File="gon_wa1\15.wav" ID="15">“You a traveller? Hey wait,  that glow in your eye…  Are you in SOLDIER?”</Entry>
+  <Entry File="gon_wa1\16.wav" ID="16">“Oh,you're right!  Don't you know anything  about our son?”</Entry>
+  <Entry File="gon_wa1\17.wav" ID="17">“His name is Zack.”</Entry>
+  <Entry File="gon_wa1\18.wav" ID="18">“It's been close to 10 years since  he left for the city,saying that  he didn't want to live in the country…”</Entry>
+  <Entry File="gon_wa1\19.wav" ID="19">“He left saying  he's going to join SOLDIER.  You ever hear of a Zack in SOLDIER?”</Entry>
+  <Entry File="gon_wa1\20.wav" ID="20">Cloud “Hmmm…I don't know.”</Entry>
+  <Entry File="gon_wa1\21.wav" ID="21">Tifa “Zack…”</Entry>
+  <Entry File="gon_wa1\22.wav" ID="22">“Young lady,you know him?”</Entry>
+  <Entry File="gon_wa1\23.wav" ID="23">“I remember he wrote us 6 or 7 years ago  saying that he had a girlfriend.  Could that have been you?”</Entry>
+  <Entry File="gon_wa1\24.wav" ID="24">Tifa “…No,it wasn't.”</Entry>
+  <Entry File="gon_wa1\25.wav" ID="25">Aeris “Zack…”</Entry>
+  <Entry File="gon_wa1\26.wav" ID="26">“Do you know him,young lady?”</Entry>
+  <Entry File="gon_wa1\27.wav" ID="27">Aeris “What a shock…  I didn't know Zack was  from this town.”</Entry>
+  <Entry File="gon_wa1\28.wav" ID="28">Cloud “You know him?”</Entry>
+  <Entry File="gon_wa1\29.wav" ID="29">Aeris “Didn't I tell you?  He was my first love.”</Entry>
+  <Entry File="gon_wa1\30.wav" ID="30">Cloud “…”</Entry>
+  <Entry File="gon_wa1\31.wav" ID="31">Aeris “Zack…  SOLDIER First Class.  Same as Cloud.”</Entry>
+  <Entry File="gon_wa1\32.wav" ID="32">Cloud “Strange,there aren't that  many who make First Class,  but I've never heard of him.”</Entry>
+  <Entry File="gon_wa1\33.wav" ID="33">Aeris “That's all right.  It's all in the past now.  I was just worried  because I heard he's been missing.”</Entry>
+  <Entry File="gon_wa1\34.wav" ID="34">Cloud “Missing?”</Entry>
+  <Entry File="gon_wa1\35.wav" ID="35">Aeris “I think it was five years ago.  He went out on a job,  and never came back.”</Entry>
+  <Entry File="gon_wa1\36.wav" ID="36">Aeris “He loved women,a real lady's man.  He probably found someone else…”</Entry>
+  <Entry File="gon_wa1\37.wav" ID="37">Aeris “Hey? What's wrong?” Poor guy (…jealous…envious…)</Entry>
+  <Entry File="gon_wa1\38.wav" ID="38">Aeris “I don't really mind  that I haven't heard from him.  But I feel for his parents.”</Entry>
+  <Entry File="gon_wa1\39.wav" ID="39">Aeris “Are you…jealous?  Hmm?  Hmmm?  Are you,Cloud?”</Entry>
+  <Entry File="gon_wa1\40.wav" ID="40">Aeris “I'm kidding. I'm sorry.”</Entry>
+  <Entry File="gon_wa1\41.wav" ID="41">Aeris “I was hoping maybe you were…”</Entry>
+  <Entry File="gon_wa1\42.wav" ID="42">Cloud “Aeris…”</Entry>
+  <Entry File="gon_wa1\43.wav" ID="43">Aeris “Let's go,Cloud.”</Entry>
+  <Entry File="gon_wa1\44.wav" ID="44">Tifa “Zack…”</Entry>
+  <Entry File="gon_wa1\45.wav" ID="45">Cloud “Do you know him?”</Entry>
+  <Entry File="gon_wa1\46.wav" ID="46">Tifa “N,no,I don't know him!”</Entry>
+  <Entry File="gon_wa1\47.wav" ID="47">Cloud “Your face tells me differently.”</Entry>
+  <Entry File="gon_wa1\48.wav" ID="48">Tifa “I told you,I don't!”</Entry>
+  <Entry File="gon_wa1\49.wav" ID="49">Cloud “All right.”</Entry>
+  <Entry File="gon_wa1\50.wav" ID="50">Tifa “…”</Entry>
+  <Entry File="gon_wa1\51.wav" ID="51">Tifa “That sounds just like you,  leaving town,and saying  'I'm joining SOLDIER!'.”</Entry>
+  <Entry File="gon_wa1\52.wav" ID="52">Cloud “There were a lot of guys   like that back then.”</Entry>
+  <Entry File="gon_wa1\53a.wav" ID="53" Part="a">Tifa “You must really be something   making it in SOLDIER   out of a group like that.”</Entry>
+  <Entry File="gon_wa1\53b.wav" ID="53" Part="b">“I really respect you…” I just got lucky I worked hard for it</Entry>
+  <Entry File="gon_wa1\54.wav" ID="54">Tifa “Don't be so humble!”</Entry>
+  <Entry File="gon_wa1\55.wav" ID="55">Tifa “Hard work pays off,huh.”</Entry>
+  <Entry File="gon_wa1\56a.wav" ID="56" Part="a">Tifa “You know…”</Entry>
+  <Entry File="gon_wa1\56b.wav" ID="56" Part="b">“I'm as proud of Cloud  joining SOLDIER  as if it were me.”</Entry>
+  <Entry File="gon_wa1\57.wav" ID="57">Tifa “Cloud,  thanks for caring.”</Entry>
+  <Entry File="gon_wa1\58.wav" ID="58">“A reactor explosion three years ago  took my husband…”</Entry>
+  <Entry File="gon_wa1\59a.wav" ID="59" Part="a">“Do people really need  reactors to live?”</Entry>
+  <Entry File="gon_wa1\59b.wav" ID="59" Part="b">“Aren't there more important  things in life?”</Entry>
+  <Entry File="gon_wa1\60.wav" ID="60">“You want something?” Buy weapons? Hear a story? Nothing in particular</Entry>
+  <Entry File="gon_wa1\61.wav" ID="61">“Huh,did you want something?” Buy accessories? Hear a story? Nothing in particular</Entry>
+  <Entry File="gon_wa1\62.wav" ID="62">“Uh,need somethin'?” Need a room? Hear a story? Nothing in particular</Entry>
+  <Entry File="gon_wa1\63.wav" ID="63">“Oh,you here to shop?” Buy items? Hear a story? Nothing in particular</Entry>
+  <Entry File="gon_wa1\64.wav" ID="64">“This is Gongaga Village.  Many people died here in a  Mako reactor explosion.”</Entry>
+  <Entry File="gon_wa1\65.wav" ID="65">“The Shinra people told us  that everyone would be happy  once the reactor was built.  But all it brought us was sadness…”</Entry>
+  <Entry File="gon_wa1\66.wav" ID="66">“…”</Entry>
+  <Entry File="gon_wa1\67.wav" ID="67">“Shinra built the reactor,  without even thinking about  the town's safety.  And,this is the result.”</Entry>
+  <Entry File="gon_wa1\68.wav" ID="68">“One day,a huge explosion.  killed many of the townspeople…”</Entry>
+  <Entry File="gon_wa1\69.wav" ID="69">“It's been a while since the explosion,  but you can still find the  pieces it left all over town.”</Entry>
+  <Entry File="gon_wa1\70.wav" ID="70">“We voted to outlaw the use of  Mako energy and live with nature,  ever since the explosion.”</Entry>
+  <Entry File="gon_wa1\71.wav" ID="71">“People can live without  the Shinra's Mako Reactors.”</Entry>
+  <Entry File="gon_wa1\72.wav" ID="72">“No matter how much I pray,  it won't bring our grandson back…”</Entry>
+  <Entry File="gon_wa1\73.wav" ID="73">“…You don't have enough money.  Come back when you get some.”</Entry>
+  <Entry File="gon_wa1\74.wav" ID="74">“It's 80 Gil a night.” Pay up Don't pay</Entry>
+  <Entry File="gon_wa1\75.wav" ID="75">Party1 “There's something shiny back there…” Don't do anything Reach for it</Entry>
+  <Entry File="gon_wa1\76.wav" ID="76">Party1 “A ruined reactor.”</Entry>
+  <Entry File="gon_wa1\77.wav" ID="77">Cloud “Aeris…”</Entry>
+  <Entry File="gon_wa1\78.wav" ID="78">Cloud “Tifa…  What happened?”</Entry>
+  <Entry File="gon_wa1\79.wav" ID="79">Cloud “What happened to you two?”</Entry>
+  <Entry File="gon_wa1\80a.wav" ID="80" Part="a">Cloud “…Zack.”</Entry>
+  <Entry File="gon_wa1\80b.wav" ID="80" Part="b">“Zack.  I don't know anything  about that man.”</Entry>
+  <Entry File="gon_wa1\80c.wav" ID="80" Part="c">“…But  That name sounds familiar…”</Entry>
+  <Entry File="gon_wa1\80d.wav" ID="80" Part="d">“Why?”</Entry>
+  <Entry File="gon_wa1\81.wav" ID="81">Aeris “That can't…”</Entry>
+  <Entry File="gon_wa1\82.wav" ID="82">“Have you ever met someone  in SOLDIER named Zack?”</Entry>
+  <Entry File="gon_wa1\83.wav" ID="83">“I can't believe he hasn't  contacted us in 10 years…!  …After all,we're his parents.”</Entry>
+  <Entry File="gon_wa1\84.wav" ID="84">“It's 300 Gil a night.” Pay 300 Gil Don't pay</Entry>
+  <Entry File="gon_wa1\85a.wav" ID="85" Part="a">“I am a traveling salesman,  going around the world.”</Entry>
+  <Entry File="gon_wa1\85b.wav" ID="85" Part="b">“I came because I heard that near  this village was Materia strong  enough to shake the earth.”</Entry>
+  <Entry File="gon_wa1\85c.wav" ID="85" Part="c">“Even I get homesick and want  to see my family.”</Entry>
+  <Entry File="gon_wa1\85d.wav" ID="85" Part="d">“I have a favor to ask of you.  Can you get this letter to my lovely wife?”</Entry>
+  <Entry File="gon_wa1\85e.wav" ID="85" Part="e">“Will you do it for me?”    Take the letter Not interested</Entry>
+  <Entry File="gon_wa1\86.wav" ID="86">“My wife lives in Kalm.  I really appreciate this.”</Entry>
+  <Entry File="gon_wa1\87.wav" ID="87">“What's going on  in a world about to end?  Is kindness the first to vanish?”</Entry>
+  <Entry File="gon_wa1\88.wav" ID="88">“They sell the weapons  on the second floor.  Climb up the pole to get there.”</Entry>
+  <Entry File="gon_wa1\89a.wav" ID="89" Part="a">“Lifestream?  Never heard of it.”</Entry>
+  <Entry File="gon_wa1\89b.wav" ID="89" Part="b">“Planet structure?  …Who cares about that?”</Entry>
+  <Entry File="gon_wa1\89c.wav" ID="89" Part="c">“Why don't you go ask  Bugenhagen of Cosmo Canyon  hard questions like that?”</Entry>
+  <Entry File="gon_wa1\90a.wav" ID="90" Part="a">“Seems like the Shinra is planning  something big to destroy Meteor…”</Entry>
+  <Entry File="gon_wa1\90b.wav" ID="90" Part="b">“I heard they're going to do something  with all that Huge Materia  they've been gathering…”</Entry>
+  <Entry File="gon_wa1\90c.wav" ID="90" Part="c">“After what happened with the reactor  you can't trust Shinra.”</Entry>
+  <Entry File="gon_wa1\91.wav" ID="91">“…Everyone's going to die.  Everything's coming to an end.”</Entry>
+  <Entry File="gon_wa1\92a.wav" ID="92" Part="a">“You lost?  When that happens the only ones  you can count on are your friends.”</Entry>
+  <Entry File="gon_wa1\92b.wav" ID="92" Part="b">“The first thing you gotta do  is find your best friend.”</Entry>
+  <Entry File="gon_wa1\93a.wav" ID="93" Part="a">“This reactor's useless,  but I hear there's still Huge Materia  at the Corel,Fort Condor,  and the Junon reactors.”</Entry>
+  <Entry File="gon_wa1\93b.wav" ID="93" Part="b">“Shinra's gathering all the Materia  from those places…  But for what?”</Entry>
+  <Entry File="gon_wa1\94.wav" ID="94">“Shinra's tried a lot of things,  but it's only HUMAN.  It's fate that Meteor will  kill the people.”</Entry>
+  <Entry File="gon_wa1\95.wav" ID="95">“Tell me,young man.”</Entry>
+  <Entry File="gon_wa1\96.wav" ID="96">“Can't we be happy without  having to sacrifice anything?”</Entry>
+  <Entry File="gon_wa1\97.wav" ID="97">“Can't time pass  without unhappiness?”</Entry>
+  <Entry File="gon_wa1\98.wav" ID="98">Red XIII “Hey,Cloud.  How did the Turks know to  wait and ambush us here?”</Entry>
+  <Entry File="gon_wa1\99.wav" ID="99">Red XIII “…You'd think someone told  the Shinra about us?”</Entry>
+  <Entry File="gon_wa1\100.wav" ID="100">Cloud “…Is someone there?”</Entry>
+  <Entry File="gon_wa1\101.wav" ID="101">Reno “Hey,Rude.  Who do you like?”</Entry>
+  <Entry File="gon_wa1\102.wav" ID="102">Reno “What are you getting so  embarrassed about?  Come on? Who do you like?”</Entry>
+  <Entry File="gon_wa1\103.wav" ID="103">Rude “…Tifa.”</Entry>
+  <Entry File="gon_wa1\104.wav" ID="104">Reno “Hmm…”</Entry>
+  <Entry File="gon_wa1\105.wav" ID="105">Reno “That's a tough one.”</Entry>
+  <Entry File="gon_wa1\106.wav" ID="106">Reno “But,poor Elena.  She…you…”</Entry>
+  <Entry File="gon_wa1\107.wav" ID="107">Rude “No,she likes Tseng.”</Entry>
+  <Entry File="gon_wa1\108.wav" ID="108">Reno “I never knew that!  But Tseng likes that Ancient…”</Entry>
+  <Entry File="gon_wa1\109.wav" ID="109">Cloud “What are they talking about?”</Entry>
+  <Entry File="gon_wa1\110a.wav" ID="110" Part="a">Elena “It's so stupid!”</Entry>
+  <Entry File="gon_wa1\110b.wav" ID="110" Part="b">“They always talk about who  they like or don't like.  But Tseng is different.”</Entry>
+  <Entry File="gon_wa1\111.wav" ID="111">Elena “Ah! Oh no!”</Entry>
+  <Entry File="gon_wa1\112.wav" ID="112">Elena “They're here!  They're really here!”</Entry>
+  <Entry File="gon_wa1\113.wav" ID="113">Reno “Hmm…  Then it's time…”</Entry>
+  <Entry File="gon_wa1\114.wav" ID="114">Reno “Rude…don't go easy on them  even the girls.”</Entry>
+  <Entry File="gon_wa1\115.wav" ID="115">Rude “…Don't worry,I'll do my job.”</Entry>
+  <Entry File="gon_wa1\116.wav" ID="116">Elena “Then,we're counting on you.  I'll report to Tseng!”</Entry>
+  <Entry File="gon_wa1\117.wav" ID="117">Reno “It's been a while.”</Entry>
+  <Entry File="gon_wa1\118.wav" ID="118">Reno “Payback time for what you did in Sector 7.” Sector 7? Out of our way</Entry>
+  <Entry File="gon_wa1\119.wav" ID="119">Reno “That's sad.”</Entry>
+  <Entry File="gon_wa1\120.wav" ID="120">Reno “I don't like being taken for a fool.”</Entry>
+  <Entry File="gon_wa1\121.wav" ID="121">Tifa “Hey,something seems wrong,  Like they knew we were coming.”</Entry>
+  <Entry File="gon_wa1\122.wav" ID="122">Aeris “…How could they know  we were coming here.”</Entry>
+  <Entry File="gon_wa1\123.wav" ID="123">Barret “I don't like it.  How'd they find out  where we were?”</Entry>
+  <Entry File="gon_wa1\124.wav" ID="124">Red XIII “Interesting…  They were definitely  waiting for us.”</Entry>
+  <Entry File="gon_wa1\125.wav" ID="125">Yuffie “I don't like this!  It's like the whole world knows  where we're going.”</Entry>
+  <Entry File="gon_wa1\126.wav" ID="126">Cait Sith “How'd they know that we were here?”</Entry>
+  <Entry File="gon_wa1\127.wav" ID="127">Vincent “How did they know that  we were here?”</Entry>
+  <Entry File="gon_wa1\128.wav" ID="128">Cloud “They followed us…  But there weren't any signs of it.  Then,that means…”</Entry>
+  <Entry File="gon_wa1\129.wav" ID="129">Tifa “A spy? No way.”</Entry>
+  <Entry File="gon_wa1\130.wav" ID="130">Aeris “That there's a Shinra spy…”</Entry>
+  <Entry File="gon_wa1\131.wav" ID="131">Barret “A spy,maybe?  No,no way.”</Entry>
+  <Entry File="gon_wa1\132.wav" ID="132">Red XIII “…someone's been informing them.”</Entry>
+  <Entry File="gon_wa1\133.wav" ID="133">Yuffie “Maybe it's someone  in this group?”</Entry>
+  <Entry File="gon_wa1\134a.wav" ID="134" Part="a">Cait Sith “You don't think there's a spy,  do you Cloud?”</Entry>
+  <Entry File="gon_wa1\134b.wav" ID="134" Part="b">“I hate this.  Now everyone's gonna blame me  because I'm new.”</Entry>
+  <Entry File="gon_wa1\135.wav" ID="135">Vincent “It means there's a Shinra spy…”</Entry>
+  <Entry File="gon_wa1\136.wav" ID="136">Cloud “I don't even want to think  about there being a spy…”</Entry>
+  <Entry File="gon_wa1\137.wav" ID="137">Cloud “I trust everyone.”</Entry>
+  <Entry File="gon_wa1\138.wav" ID="138">Rude “That's as far as you go.”</Entry>
+  <Entry File="gon_wa1\139.wav" ID="139">Cid “Man,looks like  they've taken a short cut.”</Entry>
+  <Entry File="gon_wa1\140.wav" ID="140">Cid “And a couple of Shinra dogs  are here too!”</Entry>
+  <Entry File="gon_wa1\141.wav" ID="141">Barret “The Shinra build reactors to make money.  And this is what happens.”</Entry>
+  <Entry File="gon_wa1\142a.wav" ID="142" Part="a">Barret “You saw that village.  It's always the powerless that  suffer from tyrants like Shinra.”</Entry>
+  <Entry File="gon_wa1\142b.wav" ID="142" Part="b">“The one's with the power control those  without it.  That's just the way of the world now.”</Entry>
+  <Entry File="gon_wa1\142c.wav" ID="142" Part="c">“But I can't let 'em do that.  That's why I formed AVALANCHE to fight 'em.”</Entry>
+  <Entry File="gon_wa1\143a.wav" ID="143" Part="a">Barret “…Yo,Cloud  You still gonna fight with us,right?”</Entry>
+  <Entry File="gon_wa1\143b.wav" ID="143" Part="b">“We need you,man." You got it Not interested</Entry>
+  <Entry File="gon_wa1\144.wav" ID="144">Barret “Thanks,man.”</Entry>
+  <Entry File="gon_wa1\145a.wav" ID="145" Part="a">Barret “…!!”</Entry>
+  <Entry File="gon_wa1\145b.wav" ID="145" Part="b"> “!!”</Entry>
+  <Entry File="gon_wa1\145c.wav" ID="145" Part="c">“I never shoulda  believed you.”</Entry>
+  <Entry File="gon_wa1\146a.wav" ID="146" Part="a">Scarlet “This reactor's a failure.”</Entry>
+  <Entry File="gon_wa1\146b.wav" ID="146" Part="b">“What I'm looking for is  big,large,Huge Materia.  You seen any?”</Entry>
+  <Entry File="gon_wa1\147.wav" ID="147">Tseng “…No I haven't seen it.  I'll get on it right away.”</Entry>
+  <Entry File="gon_wa1\148.wav" ID="148">Scarlet “Please.  We could make the ultimate weapon  if we only had some.”</Entry>
+  <Entry File="gon_wa1\149.wav" ID="149">Tseng “I just can't wait.”</Entry>
+  <Entry File="gon_wa1\150.wav" ID="150">Scarlet “With Hojo gone,  the Weapon Development's   been getting a bigger budget.”</Entry>
+  <Entry File="gon_wa1\151.wav" ID="151">Tseng “I envy them.”</Entry>
+  <Entry File="gon_wa1\152.wav" ID="152">Scarlet “But,even if we make  the perfect weapon,could that  stupid Heidegger even use it?”</Entry>
+  <Entry File="gon_wa1\153.wav" ID="153">Tseng “…”</Entry>
+  <Entry File="gon_wa1\154.wav" ID="154">Scarlet “Oh…sorry!  I forgot Heidegger was your boss!  Ha ha ha!”</Entry>
+  <Entry File="gon_wa1\155.wav" ID="155">Scarlet “Let's go!”</Entry>
+  <Entry File="gon_wa1\156a.wav" ID="156" Part="a">Cloud “…Big,large,Huge Materia?”</Entry>
+  <Entry File="gon_wa1\156b.wav" ID="156" Part="b">“An ultimate weapon?  The perfect weapon?”</Entry>
+  <Entry File="gon_wa1\156c.wav" ID="156" Part="c">“Just what are  the Shinra up to?”</Entry>
+  <Entry File="gon_wa1\157.wav" ID="157">Cloud “It's Scarlet,  Head of Shinra Weapon Development.”</Entry>
+  <Entry File="gon_wa1\158a.wav" ID="158" Part="a">Scarlet “Hmph!  This isn't any good either.”</Entry>
+  <Entry File="gon_wa1\158b.wav" ID="158" Part="b">“You only get junky Materia  from junky reactors.”</Entry>
+  <Entry File="gon_wa1\159a.wav" ID="159" Part="a">Barret “You look like you was havin'  a nightmare.”</Entry>
+  <Entry File="gon_wa1\159b.wav" ID="159" Part="b">“How are you feeling?” I seem to be OK Not good Don't really know</Entry>
+  <Entry File="gon_wa1\160.wav" ID="160">Barret “That's good.  Man,I didn't know  what was gonna happen.”</Entry>
+  <Entry File="gon_wa1\161.wav" ID="161">Barret “Oh…  Better keep it to yourself.”</Entry>
+  <Entry File="gon_wa1\162.wav" ID="162">Barret “I guess that's right.  Well,don't worry  too much about it.”</Entry>
+  <Entry File="gon_wa1\163.wav" ID="163">Tifa “You know,Cloud.  Aeris is gone.”</Entry>
+  <Entry File="gon_wa1\164.wav" ID="164">Barret “Everyone's out looking  for Aeris.”</Entry>
+  <Entry File="gon_wa1\165.wav" ID="165">Cloud “…The City of the Ancients.  Aeris is headed there.”</Entry>
+  <Entry File="gon_wa1\166.wav" ID="166">Barret “By herself!?  Why did she go by herself!?”</Entry>
+  <Entry File="gon_wa1\167.wav" ID="167">Barret “Hey,we're goin' too.”</Entry>
+  <Entry File="gon_wa1\168.wav" ID="168">Cloud “Only the Ancients,only Aeris   can save us from Meteor…”</Entry>
+  <Entry File="gon_wa1\169.wav" ID="169">Tifa “Then we must go.  What'll we do if something  happens to Aeris?  If Sephiroth finds her,  she's in trouble.”</Entry>
+  <Entry File="gon_wa1\170.wav" ID="170">Cloud “Sephiroth…already knows.”</Entry>
+  <Entry File="gon_wa1\171.wav" ID="171">Barret “Hey!  Why are you still  sittin' around?”</Entry>
+  <Entry File="gon_wa1\172.wav" ID="172">Tifa “Let's go,Cloud.”</Entry>
+  <Entry File="gon_wa1\173.wav" ID="173">Cloud “No.”</Entry>
+  <Entry File="gon_wa1\174.wav" ID="174">Cloud “I might lose it again.”</Entry>
+  <Entry File="gon_wa1\175.wav" ID="175">Cloud “If Sephiroth comes near me  I might…”</Entry>
+  <Entry File="gon_wa1\176.wav" ID="176">Barret “Yeah,godammit!  It's because of you that Sephiroth  got the Black Materia  in the first place.  It's your damn fault!”</Entry>
+  <Entry File="gon_wa1\177.wav" ID="177">Cloud “My fault?”</Entry>
+  <Entry File="gon_wa1\178.wav" ID="178">Barret “I know you got problems…  Hell,we all do.  But you don't even  understand yourself.”</Entry>
+  <Entry File="gon_wa1\179.wav" ID="179">Barret “But you gotta understand that  there ain't no gettin' offa  this train we're on,  till we get to the end of the line.”</Entry>
+  <Entry File="gon_wa1\180.wav" ID="180">Tifa “Cloud,we came this far…  Aren't you going to settle up   with Sephiroth?”</Entry>
+  <Entry File="gon_wa1\181a.wav" ID="181" Part="a">Barret “Goddamn jackass,  that's what you are…”</Entry>
+  <Entry File="gon_wa1\181b.wav" ID="181" Part="b">“Just think about it…  How many people in this world  do ya think  really understand themselves?”</Entry>
+  <Entry File="gon_wa1\181c.wav" ID="181" Part="c">“People get depressed in life  because they don't know what's up.”</Entry>
+  <Entry File="gon_wa1\181d.wav" ID="181" Part="d">“But,they go on living.  They don't run away…  That's just how it is.”</Entry>
+  <Entry File="gon_wa1\182.wav" ID="182">Tifa “Cloud…you'll come with us,right?  I believe in you.”</Entry>
+  <Entry File="gon_wa1\183a.wav" ID="183" Part="a">Cloud “No…”</Entry>
+  <Entry File="gon_wa1\183b.wav" ID="183" Part="b">“I'm afraid.”</Entry>
+  <Entry File="gon_wa1\183c.wav" ID="183" Part="c">“If this keeps up,  I may go crazy!”</Entry>
+  <Entry File="gon_wa1\183d.wav" ID="183" Part="d">“I'm afraid…”</Entry>
+  <Entry File="gon_wa1\184a.wav" ID="184" Part="a">Cloud “What…am I supposed to do?”</Entry>
+  <Entry File="gon_wa1\184b.wav" ID="184" Part="b">“Just pull out of here?”</Entry>
+  <Entry File="gon_wa1\184c.wav" ID="184" Part="c">“To where?”</Entry>
+  <Entry File="gon_wa1\185a.wav" ID="185" Part="a">Barret “Wait a minute,Tifa.  give him a little time.”</Entry>
+  <Entry File="gon_wa1\185b.wav" ID="185" Part="b">“He has to decide this  on his own.”</Entry>
+  <Entry File="gon_wa1\186.wav" ID="186">Tifa “Cloud…”</Entry>
+  <Entry File="gon_wa1\187.wav" ID="187">Barret “You believe in Cloud…  right?”</Entry>
+  <Entry File="gon_wa1\188a.wav" ID="188" Part="a">“You awake?”</Entry>
+  <Entry File="gon_wa1\188b.wav" ID="188" Part="b">“Those people were so worried  that they stayed by your side  until you woke up.”</Entry>
+  <Entry File="gon_wa1\188c.wav" ID="188" Part="c">“You sure do have good friends.”</Entry>
+  <Entry File="gon_wa1\189.wav" ID="189">Barret “Hey,how are you?”</Entry>
+  <Entry File="gon_wa1\190.wav" ID="190">Tifa “Cloud…”</Entry>
+  <Entry File="gon_wa1\191a.wav" ID="191" Part="a">Barret “I just wanna know,  which is it gonna be?”</Entry>
+  <Entry File="gon_wa1\191b.wav" ID="191" Part="b">“You wanna find out about yourself?  Or are you afraid to find out?”</Entry>
+  <Entry File="gon_wa1\191c.wav" ID="191" Part="c">“Either way,if you stay around here  all you're gonna  do is worry about it.”</Entry>
+  <Entry File="gon_wa1\191d.wav" ID="191" Part="d">“Even if you do go nuts again when  you see Sephiroth…  If it happens,it happens.”</Entry>
+  <Entry File="gon_wa1\191e.wav" ID="191" Part="e">“I'll go upside  your spikey head  and bring you back to normal!”</Entry>
+  <Entry File="gon_wa1\192.wav" ID="192">Tifa “Cloud,it'll be all right.  We're all with you.”</Entry>
+  <Entry File="gon_wa1\193.wav" ID="193">Cloud “But…”</Entry>
+  <Entry File="gon_wa1\194.wav" ID="194">Barret “If it happens,it happens.  Don't worry 'bout it.”</Entry>
+  <Entry File="gon_wa1\195.wav" ID="195">Cloud “…You're…right.  He's right,isn't he?”</Entry>
+  <Entry File="gon_wa1\196.wav" ID="196">Tifa “Come on,  let's go and find Aeris.”</Entry>
+  <Entry File="gon_wa1\197.wav" ID="197">Cloud “…I'm afraid to find out the truth.  But…why?”</Entry>
+  <Entry File="gon_wa1\198.wav" ID="198">Reno “This is just part of the job.  Don't take it personally.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="gon_wa1\0.wav" ID="0">Gongaga Village</Entry>
+	<Entry File="gon_wa1\1.wav" ID="1">Jungle</Entry>
+	<Entry File="gon_wa1\2.wav" ID="2">Meltdown Reactor</Entry>
+	<Entry File="gon_wa1\3.wav" ID="3">Weapons Store</Entry>
+	<Entry File="gon_wa1\4.wav" ID="4">Item Store</Entry>
+	<Entry File="gon_wa1\5.wav" ID="5">Inn</Entry>
+	<Entry File="gon_wa1\6.wav" ID="6">Inn</Entry>
+	<Entry File="gon_wa1\7.wav" ID="7">Zack's Home</Entry>
+	<Entry File="gon_wa1\8.wav" ID="8">Mayor's Home</Entry>
+	<Entry File="gon_wa1\9.wav" ID="9">Received "Titan" Materia!</Entry>
+	<Entry File="gon_wa1\10.wav" ID="10">Cannot take on anymore Materia. Please discard some Materia.</Entry>
+	<Entry File="gon_wa1\11.wav" ID="11">Received "Deathblow" Materia!</Entry>
+	<Entry File="gon_wa1\12.wav" ID="12">Received "X-Potion"!</Entry>
+	<Entry File="gon_wa1\13.wav" ID="13">Received "White M-phone"!</Entry>
+-->
+</VoiceList>

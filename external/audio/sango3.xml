@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="sango3\8a.wav" ID="8" Part="a">Cait Sith “Heidegger is going after you all.”</Entry>
+  <Entry File="sango3\8b.wav" ID="8" Part="b">“That's why it's dangerous out there.  Let's go underground!”</Entry>
+  <Entry File="sango3\9.wav" ID="9">Cait Sith “This way!”</Entry>
+  <Entry File="sango3\10.wav" ID="10">Cloud “Alright,let's go!”</Entry>
+  <Entry File="sango3\11.wav" ID="11">Tifa “What's wrong?  Are you still looking for something?”</Entry>
+  <Entry File="sango3\12.wav" ID="12">Cid “What's wrong?  You're blowing us off!”</Entry>
+  <Entry File="sango3\13.wav" ID="13">Barret “Wassup,Mr. Monster?  What're you lookin' at?”</Entry>
+  <Entry File="sango3\14.wav" ID="14">Red XIII “Something's wrong…”</Entry>
+  <Entry File="sango3\15.wav" ID="15">Cait Sith “What's going on?”</Entry>
+  <Entry File="sango3\16.wav" ID="16">Vincent “Doesn't look like it's after us.  Something else…”</Entry>
+  <Entry File="sango3\17.wav" ID="17">Yuffie “Huh? It's looking somewhere else.  Doesn't it want to fight us?”</Entry>
+  <Entry File="sango3\18.wav" ID="18">Cloud “No,it's…feeling something.  …Yeah,it senses murder.”</Entry>
+  <Entry File="sango3\19.wav" ID="19">Tifa “Let's go to the Airship!”</Entry>
+  <Entry File="sango3\20.wav" ID="20">Cid “To my ship!”</Entry>
+  <Entry File="sango3\21.wav" ID="21">Barret “Let's go back to the Highwind!”</Entry>
+  <Entry File="sango3\22.wav" ID="22">Red XIII “Let's watch from the Airship!”</Entry>
+  <Entry File="sango3\23.wav" ID="23">Cait Sith “Let's go back to the Airship.”</Entry>
+  <Entry File="sango3\24.wav" ID="24">Vincent “We should go back to the ship now.”</Entry>
+  <Entry File="sango3\25.wav" ID="25">Yuffie “OK,can we GO now!?”</Entry>
+  <Entry File="sango3\26a.wav" ID="26" Part="a">Cait Sith “Oh no!    We gotta get outta here!”</Entry>
+  <Entry File="sango3\26b.wav" ID="26" Part="b">“Something big…  I'm talkin' REALLY BIG's comin'!”</Entry>
+  <Entry File="sango3\27a.wav" ID="27" Part="a">Cait Sith “Oh no!  Let's hurry out of here!”</Entry>
+  <Entry File="sango3\27b.wav" ID="27" Part="b">“Something big…  I'm talkin' REALLY BIG's comin'!”</Entry>
+  <Entry File="sango3\28.wav" ID="28">Bugenhagen “This is…”</Entry>
+  <Entry File="sango3\29.wav" ID="29">Bugenhagen “Yes…exactly…”</Entry>
+  <Entry File="sango3\30.wav" ID="30">Cloud “Are you getting something?”</Entry>
+  <Entry File="sango3\31.wav" ID="31">Bugenhagen “…Give me a moment.”</Entry>
+  <Entry File="sango3\32.wav" ID="32">Bugenhagen “The knowledge of the Ancients swirling around  here is telling me one thing.”</Entry>
+  <Entry File="sango3\33.wav" ID="33">Bugenhagen “The Planet's in a crisis…”</Entry>
+  <Entry File="sango3\34a.wav" ID="34" Part="a">Bugenhagen “A crisis beyond human power or endless time.”</Entry>
+  <Entry File="sango3\34b.wav" ID="34" Part="b">“It says,when the time comes,  we must search for 'Holy'.”</Entry>
+  <Entry File="sango3\35.wav" ID="35">Cloud “Holy?”</Entry>
+  <Entry File="sango3\36.wav" ID="36">Bugenhagen “Holy…the ultimate White Magic.  Magic that might stand against Meteor.  Perhaps our last hope to save  the Planet from Meteor.”</Entry>
+  <Entry File="sango3\37.wav" ID="37">Bugenhagen “If a soul seeking Holy reaches the Planet,  it will appear.”</Entry>
+  <Entry File="sango3\38a.wav" ID="38" Part="a">Bugenhagen “Ho Ho Hooo.”</Entry>
+  <Entry File="sango3\38b.wav" ID="38" Part="b">“Meteor,Weapon,  everything will disappear.”</Entry>
+  <Entry File="sango3\39.wav" ID="39">Bugenhagen “Perhaps,even ourselves.”</Entry>
+  <Entry File="sango3\40.wav" ID="40">Cloud “Even us!?”</Entry>
+  <Entry File="sango3\41.wav" ID="41">Bugenhagen “It is up to the Planet to decide.”</Entry>
+  <Entry File="sango3\42a.wav" ID="42" Part="a">Bugenhagen “What is best for the Planet.  What is bad for the Planet.”</Entry>
+  <Entry File="sango3\42b.wav" ID="42" Part="b">“All that is bad will disappear.  That is all.”</Entry>
+  <Entry File="sango3\43a.wav" ID="43" Part="a">Bugenhagen “Ho Ho Hooo.”</Entry>
+  <Entry File="sango3\43b.wav" ID="43" Part="b">“I wonder which we humans are?”</Entry>
+  <Entry File="sango3\44.wav" ID="44">Cloud “Search for Holy…  How do we do it?”</Entry>
+  <Entry File="sango3\45a.wav" ID="45" Part="a">Bugenhagen “Speak to the Planet.”</Entry>
+  <Entry File="sango3\45b.wav" ID="45" Part="b">“Get the White Materia… This  will bond the Planet to humans.”</Entry>
+  <Entry File="sango3\46a.wav" ID="46" Part="a">“Then speak to the Planet.”</Entry>
+  <Entry File="sango3\46b.wav" ID="46" Part="b">“If our wish reaches the Planet,  the White Materia will begin to glow  a pale green.”</Entry>
+  <Entry File="sango3\47.wav" ID="47">Cloud “…This is the end.”</Entry>
+  <Entry File="sango3\48.wav" ID="48">Cloud “Aeris had the White Materia…”</Entry>
+  <Entry File="sango3\49.wav" ID="49">Cloud “But when Aeris died,it fell from  the altar…”</Entry>
+  <Entry File="sango3\50.wav" ID="50">Cloud “That's why…this is the end.”</Entry>
+  <Entry File="sango3\51.wav" ID="51">Bugenhagen “Ho Ho Hooo!”</Entry>
+  <Entry File="sango3\52.wav" ID="52">Bugenhagen “Ho Ho Hooo!”</Entry>
+  <Entry File="sango3\53.wav" ID="53">Bugenhagen “Ho Ho Hooo!”</Entry>
+  <Entry File="sango3\54.wav" ID="54">Bugenhagen “Look at this!”</Entry>
+  <Entry File="sango3\55.wav" ID="55">Cloud “!?”</Entry>
+  <Entry File="sango3\56a.wav" ID="56" Part="a">Bugenhagen “Ho Ho Hooo…  the key…”</Entry>
+  <Entry File="sango3\56b.wav" ID="56" Part="b">“It is written about the key here…”</Entry>
+  <Entry File="sango3\57.wav" ID="57">Bugenhagen “Ancients' writing.”</Entry>
+  <Entry File="sango3\58.wav" ID="58">Cloud “Can you read it?”</Entry>
+  <Entry File="sango3\59.wav" ID="59">Barret “Damn,dude,you're really somethin'”</Entry>
+  <Entry File="sango3\60.wav" ID="60">Tifa “You're really something,Bugenhagen!!”</Entry>
+  <Entry File="sango3\61.wav" ID="61">Red XIII “Wow,grandpa!”</Entry>
+  <Entry File="sango3\62.wav" ID="62">Cait Sith “Wow!”</Entry>
+  <Entry File="sango3\63.wav" ID="63">Cid “Way to go,gramps!  You're not just another old coot!”</Entry>
+  <Entry File="sango3\64.wav" ID="64">Vincent “I never expected to find a person who could  read and understand this difficult  writing nowadays.”</Entry>
+  <Entry File="sango3\65.wav" ID="65">Yuffie “Really?”</Entry>
+  <Entry File="sango3\66.wav" ID="66">Bugenhagen “It's all Greek to me!!”</Entry>
+  <Entry File="sango3\67.wav" ID="67">Cloud “This's no time for jokes…”</Entry>
+  <Entry File="sango3\68.wav" ID="68">Bugenhagen “I'm not an Ancient.  I can't read this thing!”</Entry>
+  <Entry File="sango3\69.wav" ID="69">Bugenhagen “I may be old,but my eyes aren't  completely bad yet.   Look closely below the writing.”</Entry>
+  <Entry File="sango3\70.wav" ID="70">Cloud “There's something written in chalk…  …(even sunlight can't reach)…(Key)”</Entry>
+  <Entry File="sango3\71.wav" ID="71">Bugenhagen “It was probably written by a scientist  who's been here…  He probably used all his energy  to make out these two words.”</Entry>
+  <Entry File="sango3\72.wav" ID="72">Cloud “So this note points to where the key is?”</Entry>
+  <Entry File="sango3\73.wav" ID="73">Cloud “Key…?  To what?”</Entry>
+  <Entry File="sango3\74a.wav" ID="74" Part="a">Bugenhagen “I don't know…  But,it probably has something to   do with our riddle.”</Entry>
+  <Entry File="sango3\74b.wav" ID="74" Part="b">“The riddle…then it must have something  to do with Aeris.”</Entry>
+  <Entry File="sango3\75.wav" ID="75">Cloud “There's a note written in chalk…  …(key)…(in the Music Box)”</Entry>
+  <Entry File="sango3\76.wav" ID="76">Cloud “What does it mean?”</Entry>
+  <Entry File="sango3\77.wav" ID="77">Bugenhagen “That Music Box over there.  We'll put the key in it.”</Entry>
+  <Entry File="sango3\78a.wav" ID="78" Part="a">Bugenhagen “Probably…”</Entry>
+  <Entry File="sango3\78b.wav" ID="78" Part="b">“Use these words as clues  and go find the key.”</Entry>
+  <Entry File="sango3\78c.wav" ID="78" Part="c">“I'll continue to figure out   the Ancients' writing.”</Entry>
+  <Entry File="sango3\79.wav" ID="79">Cloud “A place (Even sunlight won't reach) is   where the (key) is,right?”</Entry>
+  <Entry File="sango3\80a.wav" ID="80" Part="a">Bugenhagen “When you find the key,or when you can't  go any further,come back here.”</Entry>
+  <Entry File="sango3\80b.wav" ID="80" Part="b">“Maybe I'll understand more from the writing  and get some new information for you.”</Entry>
+  <Entry File="sango3\81.wav" ID="81">Bugenhagen “Remember,a place (even sunlight can't  reach) is where the (key) is…”</Entry>
+  <Entry File="sango3\82.wav" ID="82">Bugenhagen “(even sunlight can't reach)…  Hmm…if we're above ground,  the sunlight reaches everywhere…  Then it's probably not above ground…”</Entry>
+  <Entry File="sango3\83.wav" ID="83">Bugenhagen “A place where sunlight doesn't reach…  Right,it must be underwater!”</Entry>
+  <Entry File="sango3\84.wav" ID="84">Cloud “Underwater?  There's…no way…  We need a submarine…”</Entry>
+  <Entry File="sango3\85.wav" ID="85">Cloud “Wait.  Submarine…I think there's one  at Junon Port.”</Entry>
+  <Entry File="sango3\86.wav" ID="86">Bugenhagen “Oh! You've found it!”</Entry>
+  <Entry File="sango3\87a.wav" ID="87" Part="a">Bugenhagen “I'll go use the key.  You all wait here.”</Entry>
+  <Entry File="sango3\87b.wav" ID="87" Part="b">“And watch closely what happens.”</Entry>
+  <Entry File="sango3\88.wav" ID="88">Bugenhagen “Now,go inside.  Hope may be inside…  Or…”</Entry>
+  <Entry File="sango3\89a.wav" ID="89" Part="a">Bugenhagen “This was just a screen to project an image!”</Entry>
+  <Entry File="sango3\89b.wav" ID="89" Part="b">“Look!  Look at the image  projected on the screen of the water!”</Entry>
+  <Entry File="sango3\90.wav" ID="90">Cloud “…It's glowing.”</Entry>
+  <Entry File="sango3\91.wav" ID="91">Bugenhagen “Ho Ho Hooo!!  It's pale green!!”</Entry>
+  <Entry File="sango3\92a.wav" ID="92" Part="a">Cloud “…Aeris.  Aeris has already prayed  for Holy.”</Entry>
+  <Entry File="sango3\92b.wav" ID="92" Part="b">“…After I gave up the Black Materia  to Sephiroth…  Aeris's words came into  my dreams…”</Entry>
+  <Entry File="sango3\92c.wav" ID="92" Part="c">“She said,she was the only one who could  stop Sephiroth…  And to do that,there was a secret here…”</Entry>
+  <Entry File="sango3\92d.wav" ID="92" Part="d">“That was Holy…  That's why,she had the White Materia.  Aeris knew about here…  and what she had to do.”</Entry>
+  <Entry File="sango3\92e.wav" ID="92" Part="e">“Aeris has left us great hope.  But,it cost her life…  her future…”</Entry>
+  <Entry File="sango3\93a.wav" ID="93" Part="a">Cloud “I'm sorry…Aeris.  I should have figured this out sooner.”</Entry>
+  <Entry File="sango3\93b.wav" ID="93" Part="b">“…You left without saying a word…  It was all so sudden,I couldn't think…”</Entry>
+  <Entry File="sango3\93c.wav" ID="93" Part="c">“That's why it took so long for me to find out…  But,Aeris…I understand now.”</Entry>
+  <Entry File="sango3\93d.wav" ID="93" Part="d">“Aeris…  I'll do the rest.”</Entry>
+  <Entry File="sango3\94.wav" ID="94">Tifa “You mean,WE…”</Entry>
+  <Entry File="sango3\95.wav" ID="95">Barret “That's 'WE'!”</Entry>
+  <Entry File="sango3\96.wav" ID="96">Red XIII “WE'LL take care of it.”</Entry>
+  <Entry File="sango3\97.wav" ID="97">Cid “You &amp;^$#%^!  It's WE! WE!”</Entry>
+  <Entry File="sango3\98.wav" ID="98">Cait Sith “It's WE! Isn't it WE?”</Entry>
+  <Entry File="sango3\99.wav" ID="99">Vincent “I? …you mean WE.”</Entry>
+  <Entry File="sango3\100.wav" ID="100">Yuffie “Not I,dorkus!  WE!”</Entry>
+  <Entry File="sango3\101.wav" ID="101">Tifa “What Aeris left us…  We shouldn't waste.”</Entry>
+  <Entry File="sango3\102.wav" ID="102">Barret “The thing  Aeris left for us…  We gotta take care of it.”</Entry>
+  <Entry File="sango3\103.wav" ID="103">Red XIII “We can't waste what  Aeris left for us.”</Entry>
+  <Entry File="sango3\104.wav" ID="104">Cid “The flower girl gave us a big chance…  It'd be sad if we didn't finish it!”</Entry>
+  <Entry File="sango3\105.wav" ID="105">Cait Sith “What Aeris left us…  We mustn't let go to waste…”</Entry>
+  <Entry File="sango3\106.wav" ID="106">Vincent “The hope she left us…  We must make stronger…”</Entry>
+  <Entry File="sango3\107.wav" ID="107">Yuffie “We've gotta take a chance on  the hope she left us!”</Entry>
+  <Entry File="sango3\108.wav" ID="108">Cloud “Thank you…Aeris.”</Entry>
+  <Entry File="sango3\109a.wav" ID="109" Part="a">Cloud “Aeris's voice has already reached  the Planet.  Just look at the glow of  the White Materia.”</Entry>
+  <Entry File="sango3\109b.wav" ID="109" Part="b">“But…how about Holy?  How come Holy isn't moving?”</Entry>
+  <Entry File="sango3\110.wav" ID="110">Cloud “Why?”</Entry>
+  <Entry File="sango3\111.wav" ID="111">Bugenhagen “Something's getting in its way.”</Entry>
+  <Entry File="sango3\112a.wav" ID="112" Part="a">Cloud “…Him…”</Entry>
+  <Entry File="sango3\112b.wav" ID="112" Part="b">“He's the only one that could do it.”</Entry>
+  <Entry File="sango3\113.wav" ID="113">Cloud “…Sephiroth.  Where are you?”</Entry>
+  <Entry File="sango3\114.wav" ID="114">Cait Sith “H…Hey!”</Entry>
+  <Entry File="sango3\115.wav" ID="115">Cloud “What the?”</Entry>
+  <Entry File="sango3\116.wav" ID="116">Cait Sith “…whisper…whisper…  (sorry   I was a little surprised).”</Entry>
+  <Entry File="sango3\117.wav" ID="117">Cloud “What happened?”</Entry>
+  <Entry File="sango3\118.wav" ID="118">Cait Sith “You remember when the Junon Cannon  disappeared?  Actually,Rufus moved it.”</Entry>
+  <Entry File="sango3\119.wav" ID="119">Cait Sith “You remember when the Junon Cannon  disappeared?  Actually,Rufus moved it.”</Entry>
+  <Entry File="sango3\120.wav" ID="120">Cloud “Moved it? That big thing?  Where? Why?”</Entry>
+  <Entry File="sango3\121.wav" ID="121">Cait Sith “Rufus wants to destroy Sephiroth with it.”</Entry>
+  <Entry File="sango3\122a.wav" ID="122" Part="a">Cait Sith “That cannon operates on Huge Materia.   But the Huge Materia has already  been used in the Rocket Plan.”</Entry>
+  <Entry File="sango3\122b.wav" ID="122" Part="b">“So since the cannon's useless right now,  he decided to move it.”</Entry>
+  <Entry File="sango3\123.wav" ID="123">Cait Sith “To a place where Materia…  no,where Mako is gathered…”</Entry>
+  <Entry File="sango3\124.wav" ID="124">Cloud “And,where is that!?”</Entry>
+  <Entry File="sango3\125.wav" ID="125">Cloud “It's similar.”</Entry>
+  <Entry File="sango3\126.wav" ID="126">Cloud “I didn't notice it the last time I came.”</Entry>
+  <Entry File="sango3\127.wav" ID="127">Cloud “This place…is similar to the inside  of the Lifestream.”</Entry>
+  <Entry File="sango3\128.wav" ID="128">Cloud “…All the different noise.”</Entry>
+  <Entry File="sango3\129.wav" ID="129">Cloud “…The noise doesn't go through your ears   but directly into your head.”</Entry>
+  <Entry File="sango3\130.wav" ID="130">Cloud “It seems to mean something…  but I can't quite get it.  I hate not knowing what it is.”</Entry>
+  <Entry File="sango3\131.wav" ID="131">Cloud “That's what this is similar to.”</Entry>
+  <Entry File="sango3\132.wav" ID="132">Tifa “Now that you mention it…”</Entry>
+  <Entry File="sango3\133.wav" ID="133">Cid “Now that you mention it…”</Entry>
+  <Entry File="sango3\134.wav" ID="134">Barret “Now that you mention it…”</Entry>
+  <Entry File="sango3\135.wav" ID="135">Red XIII “Now that you mention it…”</Entry>
+  <Entry File="sango3\136.wav" ID="136">Cait Sith “Now that you mention it…”</Entry>
+  <Entry File="sango3\137.wav" ID="137">Yuffie “Now that you mention it…”</Entry>
+  <Entry File="sango3\138.wav" ID="138">Vincent “Now that you mention it…”</Entry>
+  <Entry File="sango3\139.wav" ID="139">Tifa “My head feels like it's getting crushed.”</Entry>
+  <Entry File="sango3\140.wav" ID="140">Cid “My head feels like it's gettin' crushed!”</Entry>
+  <Entry File="sango3\141.wav" ID="141">Barret “My head feels like it's gettin' crushed.”</Entry>
+  <Entry File="sango3\142.wav" ID="142">Red XIII “My head feels like it's getting crushed.”</Entry>
+  <Entry File="sango3\143.wav" ID="143">Cait Sith “My head,it's about to be crushed.”</Entry>
+  <Entry File="sango3\144.wav" ID="144">Yuffie “My head's about to pop.”</Entry>
+  <Entry File="sango3\145.wav" ID="145">Vincent “My head is about to be crushed.”</Entry>
+  <Entry File="sango3\146.wav" ID="146">Cloud “So Aeris came here,too…  She stood in this exact spot…”</Entry>
+  <Entry File="sango3\147a.wav" ID="147" Part="a">Cloud “Hmm…  Aeris didn't have to come here.”</Entry>
+  <Entry File="sango3\147b.wav" ID="147" Part="b">“She was able to find out all the  information here.”</Entry>
+  <Entry File="sango3\147c.wav" ID="147" Part="c">“What Aeris needed was that  altar…and only that.”</Entry>
+  <Entry File="sango3\148.wav" ID="148">Cloud “Aeris… “Aeris…  What were you planning to do?”</Entry>
+  <Entry File="sango3\149.wav" ID="149">Cloud “What…are we supposed to do?”</Entry>
+  <Entry File="sango3\151.wav" ID="151">Aeris “Cloud,can you hear me?”</Entry>
+  <Entry File="sango3\152.wav" ID="152">Cloud “Yeah,I hear you.  Sorry for what happened.”</Entry>
+  <Entry File="sango3\153.wav" ID="153">Aeris “Don't worry about it.”</Entry>
+  <Entry File="sango3\154.wav" ID="154">Cloud “…I can't help it…”</Entry>
+  <Entry File="sango3\155.wav" ID="155">Aeris “Oh…”</Entry>
+  <Entry File="sango3\156.wav" ID="156">Aeris “Then,why don't you REALLY worry about it?”</Entry>
+  <Entry File="sango3\157.wav" ID="157">Aeris “And let me handle Sephiroth.”</Entry>
+  <Entry File="sango3\158.wav" ID="158">Aeris “And Cloud,  you take care of yourself.”</Entry>
+  <Entry File="sango3\159.wav" ID="159">Aeris “So you don't have a breakdown,okay?”</Entry>
+  <Entry File="sango3\160.wav" ID="160">Cloud “What is this place?”</Entry>
+  <Entry File="sango3\161.wav" ID="161">Aeris “This forest leads to the City of the Ancients…  and is called the Sleeping Forest.”</Entry>
+  <Entry File="sango3\162a.wav" ID="162" Part="a">Aeris “It's only a matter of time before Sephiroth  uses Meteor.”</Entry>
+  <Entry File="sango3\162b.wav" ID="162" Part="b">“That's why I'm going to protect it.  Only a survivor of the Cetra,  like me,can do it.”</Entry>
+  <Entry File="sango3\163.wav" ID="163">Aeris “The secret is just up here.”</Entry>
+  <Entry File="sango3\164.wav" ID="164">Aeris “At least it should be.  …I feel it.  It feels like I'm being led by something.”</Entry>
+  <Entry File="sango3\165.wav" ID="165">Aeris “Then,I'll be going now.  I'll come back when it's all over.”</Entry>
+  <Entry File="sango3\166.wav" ID="166">Cloud “Aeris?”</Entry>
+  <Entry File="sango3\167.wav" ID="167">Sephiroth “Hmm…  So she's going to interfere?  She'll be a difficult one,don't you think?”</Entry>
+  <Entry File="sango3\168.wav" ID="168">Sephiroth “We must stop that girl soon.”</Entry>
+  <Entry File="sango3\169.wav" ID="169">Tifa “…Cloud.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="sango3\0.wav" ID="0">You cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="sango3\1.wav" ID="1">8th Street</Entry>
+	<Entry File="sango3\2.wav" ID="2">Sleeping Forest</Entry>
+	<Entry File="sango3\3.wav" ID="3">Bone Village</Entry>
+	<Entry File="sango3\4.wav" ID="4">Forgotten City</Entry>
+	<Entry File="sango3\5.wav" ID="5">Received "Aurora Armlet"!</Entry>
+	<Entry File="sango3\6.wav" ID="6">Received "Viper Halberd"!</Entry>
+	<Entry File="sango3\7.wav" ID="7">  Received "Kujata" Materia!</Entry>
+	<Entry File="sango3\150.wav" ID="150">The Sleeping Forest awoke…</Entry>
+	<Entry File="sango3\170.wav" ID="170" />
+	<Entry File="sango3\171.wav" ID="171" />
+-->
+</VoiceList>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="corelin\1.wav" ID="1">Village Headman “What are we going to do?  The only one opposed  to this is Dyne…”</Entry>
+  <Entry File="corelin\2.wav" ID="2">Dyne “I am definitely against it,no matter what.  There's nothing to talk about if you're  thinking of throwing away our coal!”</Entry>
+  <Entry File="corelin\3a.wav" ID="3" Part="a">Dyne “The coal's been ours for generations.  Our fathers,and theirs before them,  risked their lives for it.”</Entry>
+  <Entry File="corelin\3b.wav" ID="3" Part="b">“We have no right to throw it all  away so easily!”</Entry>
+  <Entry File="corelin\4.wav" ID="4">Barret “But listen,Dyne.  No one uses coal nowadays.  It's the sign of the times.”</Entry>
+  <Entry File="corelin\5a.wav" ID="5" Part="a">Scarlet “Right,everything is Mako,now.”</Entry>
+  <Entry File="corelin\5b.wav" ID="5" Part="b">“It'll be all right,Dyne.  Shinra,Inc. will guarantee your  livelihood once the Mako Reactor  is completed.”</Entry>
+  <Entry File="corelin\6.wav" ID="6">Barret “Listen,Dyne.  I don't want my wife,Myrna,  to suffer anymore.”</Entry>
+  <Entry File="corelin\7a.wav" ID="7" Part="a">Dyne “I know how you feel!  I feel the same way too,damn it!”</Entry>
+  <Entry File="corelin\7b.wav" ID="7" Part="b">“But even so,  I won't give away our coal mines!”</Entry>
+  <Entry File="corelin\8.wav" ID="8">Village Headman “Dyne…you've got to understand.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="corelin\0.wav" ID="0">0</Entry>
+	<Entry File="corelin\9.wav" ID="9">That's how the Corel Reactor was built…and completed.</Entry>
+	<Entry File="corelin\10.wav" ID="10">We all thought it would bring us an easier life.</Entry>
+-->
+</VoiceList>

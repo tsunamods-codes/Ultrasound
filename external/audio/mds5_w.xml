@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds5_w\1.wav" ID="1">“Taking care of yourself is the  law of the slums. But to do that,  first you need weapons,right?”</Entry>
+  <Entry File="mds5_w\2a.wav" ID="2" Part="a">“You never know what's going to happen  in this crazy world.”</Entry>
+  <Entry File="mds5_w\2b.wav" ID="2" Part="b">“So you'd better have a weapon  you can depend on! Am I right?”</Entry>
+  <Entry File="mds5_w\3a.wav" ID="3" Part="a">“I don't know crap about crap!  But I do know one thing.”</Entry>
+  <Entry File="mds5_w\3b.wav" ID="3" Part="b">“People are always gonna  need a good strong weapon!”</Entry>
+  <Entry File="mds5_w\4a.wav" ID="4" Part="a">“Huh? You want weapons?  That's too damn bad…”</Entry>
+  <Entry File="mds5_w\4b.wav" ID="4" Part="b">“I ain't got no weapons to sell ya!  And the reason is…”</Entry>
+  <Entry File="mds5_w\4c.wav" ID="4" Part="c">“…the weapon store's over that way.”</Entry>
+  <Entry File="mds5_w\5.wav" ID="5">“…sure is loud outside.  Wonder what's happening.”</Entry>
+  <Entry File="mds5_w\6a.wav" ID="6" Part="a">“Toot toot!  Next stop…Midgar  Midgar.”</Entry>
+  <Entry File="mds5_w\6b.wav" ID="6" Part="b">“Any passengers getting off at Midgar  should please ring.”</Entry>
+  <Entry File="mds5_w\6c.wav" ID="6" Part="c">“You know,Midgar's supposed to be  sparkly 'n'  springy 'n'  sleeky.”</Entry>
+  <Entry File="mds5_w\6d.wav" ID="6" Part="d">“Oh yeah.  Someday,I'm goin' there.”</Entry>
+  <Entry File="mds5_w\7a.wav" ID="7" Part="a">“Meteor's getting closer.  You can hear it rumbling.”</Entry>
+  <Entry File="mds5_w\7b.wav" ID="7" Part="b">“We don't do something about it  and pretty soon it'll be…ker-blam!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds5_w\0.wav" ID="0">Weapon Store</Entry>
+-->
+</VoiceList>

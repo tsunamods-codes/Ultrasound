@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blackbg7\0.wav" ID="0">DEBUG</Entry>
+	<Entry File="blackbg7\1.wav" ID="1">DEBUG</Entry>
+	<Entry File="blackbg7\2.wav" ID="2">Organaize Party ? Yes No</Entry>
+	<Entry File="blackbg7\3.wav" ID="3">First char    Cloud    Tifa    Cid</Entry>
+	<Entry File="blackbg7\4.wav" ID="4">Second char    Ballet    Tifa    Aerith    Red13    Yufi    Ketcy    Vincent    Cid    No one</Entry>
+	<Entry File="blackbg7\5.wav" ID="5">Third char    Ballet    Tifa    Aerith    Red13    Yufi    Ketcy    Vincent    Cid    No one</Entry>
+	<Entry File="blackbg7\6.wav" ID="6">   MRKT1    MRKT2(After)    MRKT2(Before)    Cancel</Entry>
+	<Entry File="blackbg7\7.wav" ID="7">Train Grave    MDS7ST2    MDS7ST1    Cancel</Entry>
+	<Entry File="blackbg7\8.wav" ID="8">Music Mode</Entry>
+	<Entry File="blackbg7\9.wav" ID="9">Map Check Do not use !!  Yes  No</Entry>
+	<Entry File="blackbg7\10.wav" ID="10">Aho</Entry>
+	<Entry File="blackbg7\11.wav" ID="11">Baka</Entry>
+	<Entry File="blackbg7\12.wav" ID="12">Equip Item clear ? Yes No</Entry>
+	<Entry File="blackbg7\13.wav" ID="13">Climb Wire After 7th Plate falling  WCRIMB1(with Battery)  WCRIMB1(without Battery)  WCRIMB2  WCRIMB1  Cancel</Entry>
+	<Entry File="blackbg7\14.wav" ID="14">     HYOU3 HYOU13-1(After) HYOU13-1(Before) HYOU5-2 Cancel</Entry>
+	<Entry File="blackbg7\15.wav" ID="15"> movie look plus cancel</Entry>
+	<Entry File="blackbg7\16.wav" ID="16">CONDOR1          </Entry>
+	<Entry File="blackbg7\17.wav" ID="17">    cancel</Entry>
+	<Entry File="blackbg7\18.wav" ID="18">cloud</Entry>
+	<Entry File="blackbg7\19.wav" ID="19">ballet</Entry>
+	<Entry File="blackbg7\20.wav" ID="20">tifa</Entry>
+	<Entry File="blackbg7\21.wav" ID="21">aerith</Entry>
+	<Entry File="blackbg7\22.wav" ID="22">red13</Entry>
+	<Entry File="blackbg7\23.wav" ID="23">yufi</Entry>
+	<Entry File="blackbg7\24.wav" ID="24">ketcy</Entry>
+	<Entry File="blackbg7\25.wav" ID="25">vincent</Entry>
+	<Entry File="blackbg7\26.wav" ID="26">cid</Entry>
+	<Entry File="blackbg7\27.wav" ID="27"></Entry>
+	<Entry File="blackbg7\28.wav" ID="28"></Entry>
+	<Entry File="blackbg7\29.wav" ID="29"></Entry>
+	<Entry File="blackbg7\30.wav" ID="30"></Entry>
+	<Entry File="blackbg7\31.wav" ID="31"></Entry>
+	<Entry File="blackbg7\32.wav" ID="32"></Entry>
+	<Entry File="blackbg7\33.wav" ID="33">Man Be Girl cancel</Entry>
+	<Entry File="blackbg7\34.wav" ID="34"></Entry>
+	<Entry File="blackbg7\35.wav" ID="35">1 2 3 4 5 6 last cancel</Entry>
+	<Entry File="blackbg7\36.wav" ID="36">1 2 3 last0-3 cancel</Entry>
+-->
+</VoiceList>

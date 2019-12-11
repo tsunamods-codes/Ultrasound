@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mkt_mens\1.wav" ID="1">“Oh dear.  I've gained weight again.”</Entry>
+  <Entry File="mkt_mens\2.wav" ID="2">“Join the club.”</Entry>
+  <Entry File="mkt_mens\3.wav" ID="3">“Try it with us.”</Entry>
+  <Entry File="mkt_mens\4a.wav" ID="4" Part="a">“More strength.”</Entry>
+  <Entry File="mkt_mens\4b.wav" ID="4" Part="b">“I bet you could climb all the way  up to the upper plate  if you used that pipe.”</Entry>
+  <Entry File="mkt_mens\4c.wav" ID="4" Part="c">“Don't you know?  The old man at the Weapon shop  can tell you more about it.”</Entry>
+  <Entry File="mkt_mens\5.wav" ID="5">“These days,  you've got to have strength.  Come on,you should work out.”</Entry>
+  <Entry File="mkt_mens\6.wav" ID="6">“All right…1,2,3.  Squats are all in the rhythm.”</Entry>
+  <Entry File="mkt_mens\7.wav" ID="7">“I'm doing my best,  bro'!”</Entry>
+  <Entry File="mkt_mens\8.wav" ID="8">“How's…  this!?”</Entry>
+  <Entry File="mkt_mens\9.wav" ID="9">“Are you the one  who wants to be cute?”</Entry>
+  <Entry File="mkt_mens\10.wav" ID="10">Cloud “Cute?”</Entry>
+  <Entry File="mkt_mens\11a.wav" ID="11" Part="a">Aeris “Right.”</Entry>
+  <Entry File="mkt_mens\11b.wav" ID="11" Part="b">“And about the wig…”</Entry>
+  <Entry File="mkt_mens\12.wav" ID="12">“Yeah,I heard.  But it'll cost ya.”</Entry>
+  <Entry File="mkt_mens\13a.wav" ID="13" Part="a">“Urrrrgh!!!”</Entry>
+  <Entry File="mkt_mens\13b.wav" ID="13" Part="b">“Big Bro!! The only way  you're gonna get cuter is  if you can beat Big Bro!!”</Entry>
+  <Entry File="mkt_mens\14.wav" ID="14">“That's right!”</Entry>
+  <Entry File="mkt_mens\15.wav" ID="15">“So,you've got to  compete with us!”</Entry>
+  <Entry File="mkt_mens\16.wav" ID="16">“You're right.  Let's do squats.”</Entry>
+  <Entry File="mkt_mens\17.wav" ID="17">“All right!  We'll beat you  out of this gym!”</Entry>
+  <Entry File="mkt_mens\18.wav" ID="18">Cloud “Are you…”</Entry>
+  <Entry File="mkt_mens\19.wav" ID="19">Aeris “THE beautiful Bro?”</Entry>
+  <Entry File="mkt_mens\20.wav" ID="20">“What? You didn't know?  Always running around here   sayin' Big Bro' this,  Big Bro' that…”</Entry>
+  <Entry File="mkt_mens\21.wav" ID="21">“Never mind that,  come over here.”</Entry>
+  <Entry File="mkt_mens\22.wav" ID="22">“No,I'll explain the rules.”</Entry>
+  <Entry File="mkt_mens\23a.wav" ID="23" Part="a">“From the ready position,  push [SWITCH] to squat,  push [CANCEL] to get up,and  push [OK] to go back  to the ready position.”</Entry>
+  <Entry File="mkt_mens\23b.wav" ID="23" Part="b">“So it's [SWITCH],   [CANCEL],   [OK]  in that order.”</Entry>
+  <Entry File="mkt_mens\24.wav" ID="24">“Got it?” Don't have it Got it</Entry>
+  <Entry File="mkt_mens\25.wav" ID="25">“Then I'll explain it again.”</Entry>
+  <Entry File="mkt_mens\26.wav" ID="26">“Whoever has the most squats  after 30 seconds gets the wig.”</Entry>
+  <Entry File="mkt_mens\27a.wav" ID="27" Part="a">“I'm not going to lose.”</Entry>
+  <Entry File="mkt_mens\27b.wav" ID="27" Part="b">“Big Bro's wig is MINE!!”</Entry>
+  <Entry File="mkt_mens\28.wav" ID="28">“Just be quiet…”</Entry>
+  <Entry File="mkt_mens\29.wav" ID="29">“It's not fair for you to start right away,  So,you want some practice?” A little Don't need to practice</Entry>
+  <Entry File="mkt_mens\30.wav" ID="30">“Then,start practicing!”</Entry>
+  <Entry File="mkt_mens\31.wav" ID="31">“You had  squats”.</Entry>
+  <Entry File="mkt_mens\32.wav" ID="32">“Now let's begin the real thing.  Start!”</Entry>
+  <Entry File="mkt_mens\33.wav" ID="33">“He had  squats  and you had  squats.”</Entry>
+  <Entry File="mkt_mens\34.wav" ID="34">“Sorry  You lose.”</Entry>
+  <Entry File="mkt_mens\35.wav" ID="35">“Oh,a tie.”</Entry>
+  <Entry File="mkt_mens\36.wav" ID="36">“Congratulations,you win.”</Entry>
+  <Entry File="mkt_mens\37.wav" ID="37">“Since the old man from  the clothing store asked me,  I can't keep it from you,so…”</Entry>
+  <Entry File="mkt_mens\38.wav" ID="38">“Oh,now where did I put it?”</Entry>
+  <Entry File="mkt_mens\39.wav" ID="39">“All right then.”</Entry>
+  <Entry File="mkt_mens\40.wav" ID="40">“Here,take this.”</Entry>
+  <Entry File="mkt_mens\41.wav" ID="41">“Stupid!  What kinda place is  that to hide it in!?”</Entry>
+  <Entry File="mkt_mens\42.wav" ID="42">“Uuuuhh,  Bro's fists of  steel cut to the bone!”</Entry>
+  <Entry File="mkt_mens\43.wav" ID="43">“Sorry…you should still be able  to use it if you disinfect it first.”</Entry>
+  <Entry File="mkt_mens\45.wav" ID="45">“Good job.  Here's a hand-me-down.”</Entry>
+  <Entry File="mkt_mens\46.wav" ID="46">“Hey,Bro  I…I was supposed to get that.”</Entry>
+  <Entry File="mkt_mens\47.wav" ID="47">“Shut up!  You have no room to talk,  tying with a beginner like him!!”</Entry>
+  <Entry File="mkt_mens\49.wav" ID="49">“You're really something.  Okay,I'm a man of my word,  here you are.”</Entry>
+  <Entry File="mkt_mens\50.wav" ID="50">“Big Bro  I'm so mad  I'm so so so---mad!”</Entry>
+  <Entry File="mkt_mens\51.wav" ID="51">“Shut up!  Don't cry,  just because you lost!”</Entry>
+  <Entry File="mkt_mens\54.wav" ID="54">“Take care of it.”</Entry>
+  <Entry File="mkt_mens\55.wav" ID="55">“Big Bro…  Get a hold of yourself.”</Entry>
+  <Entry File="mkt_mens\56.wav" ID="56">“Hmm,pretty good.”</Entry>
+  <Entry File="mkt_mens\57.wav" ID="57">“Ehhhh,so so.”</Entry>
+  <Entry File="mkt_mens\58.wav" ID="58">“Ummm,not quite there.”</Entry>
+  <Entry File="mkt_mens\59.wav" ID="59">“So? How's it?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mkt_mens\0.wav" ID="0">Men's Hall</Entry>
+	<Entry File="mkt_mens\44.wav" ID="44">Received Key Item "Wig"!</Entry>
+	<Entry File="mkt_mens\48.wav" ID="48">Received Key Item "Dyed Wig"!</Entry>
+	<Entry File="mkt_mens\52.wav" ID="52">Received Key Item "Blonde Wig"!</Entry>
+	<Entry File="mkt_mens\53.wav" ID="53" />
+-->
+</VoiceList>

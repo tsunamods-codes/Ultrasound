@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="uttmpin3\1.wav" ID="1">Shinra soldier “There he is!  It's Corneo!  Don't let him get away!”</Entry>
+  <Entry File="uttmpin3\2.wav" ID="2">Shinra soldier “Attaaaack!”</Entry>
+  <Entry File="uttmpin3\3.wav" ID="3">“Num,num…”</Entry>
+  <Entry File="uttmpin3\4.wav" ID="4">“Help me.  Help me.  Help me…”</Entry>
+  <Entry File="uttmpin3\5.wav" ID="5">“Num,num…  I hope Meteor doesn't   fall anywhere around here…”</Entry>
+  <Entry File="uttmpin3\6.wav" ID="6">“Oh,Great Da-chao…  Please grant us your strength…”</Entry>
+  <Entry File="uttmpin3\7.wav" ID="7">“He's in the pagoda next to Lord Godo.  Lord Godo says we're stuck…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="uttmpin3\0.wav" ID="0">Wutai,Main Mtn.</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mkt_s2\1.wav" ID="1">“Welcome!  Sit wherever you like!”</Entry>
+  <Entry File="mkt_s2\2.wav" ID="2">“Yes,what will you have?”</Entry>
+  <Entry File="mkt_s2\3.wav" ID="3">Cloud “Hmm…” Korean B.B.Q. Plate Sushi Plate Today's Special</Entry>
+  <Entry File="mkt_s2\4.wav" ID="4">“One Korean B.B.Q. Plate.”</Entry>
+  <Entry File="mkt_s2\5.wav" ID="5">“One Sushi Plate.”</Entry>
+  <Entry File="mkt_s2\6.wav" ID="6">“One Today's Special.”</Entry>
+  <Entry File="mkt_s2\7.wav" ID="7">“Comin' up!”</Entry>
+  <Entry File="mkt_s2\8.wav" ID="8">“In this store,you pay first.  It'll be 70 Gil.”</Entry>
+  <Entry File="mkt_s2\9.wav" ID="9">“Thank you.  Just a second.”</Entry>
+  <Entry File="mkt_s2\10a.wav" ID="10" Part="a">“Hey! Cancel that last order!”</Entry>
+  <Entry File="mkt_s2\10b.wav" ID="10" Part="b">“Excuse me!    You can't come in here and    order things without any money.    Come again…when you have money.”</Entry>
+  <Entry File="mkt_s2\11.wav" ID="11">“There you go.  Enjoy.”</Entry>
+  <Entry File="mkt_s2\12a.wav" ID="12" Part="a">“Thank you.  Here's an item coupon  for the Pharmacy.”</Entry>
+  <Entry File="mkt_s2\12b.wav" ID="12" Part="b">“You can exchange it  for one item there.”</Entry>
+  <Entry File="mkt_s2\12c.wav" ID="12" Part="c">“That's our last coupon  for now.  Watch for our NEXT promotion!”</Entry>
+  <Entry File="mkt_s2\13.wav" ID="13">“Keep out of the kitchen!”</Entry>
+  <Entry File="mkt_s2\14.wav" ID="14">“Have a seat over here.” Sit down Don't sit down</Entry>
+  <Entry File="mkt_s2\17.wav" ID="17">“Thank you very much!”</Entry>
+  <Entry File="mkt_s2\18.wav" ID="18">“Umf…grunt…smack…  Don't sneak up on me like that!”</Entry>
+  <Entry File="mkt_s2\19.wav" ID="19">“I'm gonna get another  Pharmacy Coupon today.”</Entry>
+  <Entry File="mkt_s2\20.wav" ID="20">“I always get the Special.”</Entry>
+  <Entry File="mkt_s2\21.wav" ID="21">“It's thanks to the Don   that we can eat like this.”</Entry>
+  <Entry File="mkt_s2\22.wav" ID="22">“…umf…scarf…glub…”</Entry>
+  <Entry File="mkt_s2\23.wav" ID="23">“Sorry!  But we're completely full!   Please come again!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mkt_s2\0.wav" ID="0">Diner</Entry>
+	<Entry File="mkt_s2\15.wav" ID="15">Received Key Item "Pharmacy Coupon"!</Entry>
+	<Entry File="mkt_s2\16.wav" ID="16">Cloud No comment It was all right I've had better dog food</Entry>
+-->
+</VoiceList>

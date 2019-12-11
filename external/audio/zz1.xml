@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="zz1\1.wav" ID="1">“…zzzz…zzzz…”</Entry>
+  <Entry File="zz1\2a.wav" ID="2" Part="a">“What're you groping  around for?“</Entry>
+  <Entry File="zz1\2b.wav" ID="2" Part="b">“…“</Entry>
+  <Entry File="zz1\2c.wav" ID="2" Part="c">“…zzzzz…zzz…”</Entry>
+  <Entry File="zz1\3.wav" ID="3">“Who're you?”</Entry>
+  <Entry File="zz1\4.wav" ID="4">“Hmph. I guess it was fate  that I woke  up and met you  here!”</Entry>
+  <Entry File="zz1\7.wav" ID="7">“Come on.  You already escaped   times.  …zzz…zzzzzzz…”</Entry>
+  <Entry File="zz1\8.wav" ID="8">“You've already fought   times…  …zzzzz…zzzzzzzz…”</Entry>
+  <Entry File="zz1\9.wav" ID="9">“Large Materia  needs high level Materia…  …zzzzzz….zzzzzzz…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="zz1\0.wav" ID="0">Old man's house</Entry>
+	<Entry File="zz1\5.wav" ID="5">Received "Mythril"!!</Entry>
+	<Entry File="zz1\6.wav" ID="6">Received "Bolt Ring"!!</Entry>
+-->
+</VoiceList>

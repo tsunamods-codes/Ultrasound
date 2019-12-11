@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jundoc1a\1a.wav" ID="1" Part="a">“All right,it's time!”</Entry>
+  <Entry File="jundoc1a\1b.wav" ID="1" Part="b">“Ten…HUT!”</Entry>
+  <Entry File="jundoc1a\2.wav" ID="2">“President Rufus…has now arrived!”</Entry>
+  <Entry File="jundoc1a\3a.wav" ID="3" Part="a">“This is it!!  Junon Military Reception!”</Entry>
+  <Entry File="jundoc1a\3b.wav" ID="3" Part="b">“Do it right! Do it with enthusiasm!  Ready…!”</Entry>
+  <Entry File="jundoc1a\4.wav" ID="4">“All right!  Now finish strong!!”</Entry>
+  <Entry File="jundoc1a\5.wav" ID="5">“SPECIAL!!”</Entry>
+  <Entry File="jundoc1a\6.wav" ID="6">“[OK]!”</Entry>
+  <Entry File="jundoc1a\7.wav" ID="7">“[MENU]!”</Entry>
+  <Entry File="jundoc1a\8.wav" ID="8">“[SWITCH]!”</Entry>
+  <Entry File="jundoc1a\9.wav" ID="9">“[CANCEL]!”</Entry>
+  <Entry File="jundoc1a\10.wav" ID="10">“Right: Right Face!”</Entry>
+  <Entry File="jundoc1a\11.wav" ID="11">“Left: Left Face!”</Entry>
+  <Entry File="jundoc1a\14.wav" ID="14">Rufus “Very entertaining.  Keep up the good work.”</Entry>
+  <Entry File="jundoc1a\15a.wav" ID="15" Part="a">Rufus “Looks like you need more practice.”</Entry>
+  <Entry File="jundoc1a\15b.wav" ID="15" Part="b">“With things looking this bad,  you better get ready for cutbacks.”</Entry>
+  <Entry File="jundoc1a\16a.wav" ID="16" Part="a">Rufus “Well done.”</Entry>
+  <Entry File="jundoc1a\16b.wav" ID="16" Part="b">“Keep up the good work for Shinra,Inc.”</Entry>
+  <Entry File="jundoc1a\17a.wav" ID="17" Part="a">Heidegger “Gya haa ha!!  Here's a special bonus for you!!”</Entry>
+  <Entry File="jundoc1a\17b.wav" ID="17" Part="b">“A token of the President's kindness!  Don't forget it!”</Entry>
+  <Entry File="jundoc1a\21.wav" ID="21">Rufus “Once the word gets out that Sephiroth's here,  Cloud and his friends  will show up,too.”</Entry>
+  <Entry File="jundoc1a\22.wav" ID="22">Heidegger “We'll crush them as soon as we find them!”</Entry>
+  <Entry File="jundoc1a\23.wav" ID="23">Rufus “We can't have them get in our way.”</Entry>
+  <Entry File="jundoc1a\24.wav" ID="24">Heidegger “Leave it up to me,sir!  Gya haa ha!”</Entry>
+  <Entry File="jundoc1a\25.wav" ID="25">Rufus “I thought I told you to stop that stupid laugh.”</Entry>
+  <Entry File="jundoc1a\26.wav" ID="26">Heidegger “Gya…”</Entry>
+  <Entry File="jundoc1a\27.wav" ID="27">“All right! Dismissed!”</Entry>
+  <Entry File="jundoc1a\28.wav" ID="28">“That was close.”</Entry>
+  <Entry File="jundoc1a\29.wav" ID="29">“Heidegger's been really edgy lately.”</Entry>
+  <Entry File="jundoc1a\30.wav" ID="30">“Because Hojo disappeared,  leaving a letter of resignation.”</Entry>
+  <Entry File="jundoc1a\31.wav" ID="31">“Heidegger's been forced to take  over that investigation,too.”</Entry>
+  <Entry File="jundoc1a\32.wav" ID="32">“Hey!  I thought you were dismissed!”</Entry>
+  <Entry File="jundoc1a\33.wav" ID="33">“We got some cleaning up to do!  Hurry up!”</Entry>
+  <Entry File="jundoc1a\34.wav" ID="34">Red XIII “Hey,hurry.  You're the last one.”</Entry>
+  <Entry File="jundoc1a\35.wav" ID="35">Cloud “How did you get here?”</Entry>
+  <Entry File="jundoc1a\36a.wav" ID="36" Part="a">Red XIII “A dolphin gave me a ride.”</Entry>
+  <Entry File="jundoc1a\36b.wav" ID="36" Part="b">“Priscilla remembered it  after you climbed the pole.  But don't be mad at her.”</Entry>
+  <Entry File="jundoc1a\37.wav" ID="37">Cloud “We'll cross the ocean,to the new continent.”</Entry>
+  <Entry File="jundoc1a\38.wav" ID="38">“…even if we are wearing Shinra's uniforms…”</Entry>
+  <Entry File="jundoc1a\39a.wav" ID="39" Part="a">“Lately the economy  seems to be improving.  Must be the 'Rufus' effect.”</Entry>
+  <Entry File="jundoc1a\39b.wav" ID="39" Part="b">“Cargo ships are always coming  and going from Costa del Sol.”</Entry>
+  <Entry File="jundoc1a\39c.wav" ID="39" Part="c">“I'll forget you're being  stowaways,if you  help with the cargo.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jundoc1a\0.wav" ID="0">Junon Dock</Entry>
+	<Entry File="jundoc1a\12.wav" ID="12"></Entry>
+	<Entry File="jundoc1a\13.wav" ID="13"> President's Mood Gauge </Entry>
+	<Entry File="jundoc1a\18.wav" ID="18">Received "Force Stealer"!</Entry>
+	<Entry File="jundoc1a\19.wav" ID="19">Received "HP Plus" Materia!</Entry>
+	<Entry File="jundoc1a\20.wav" ID="20">Received "Silver Glasses"!</Entry>
+-->
+</VoiceList>

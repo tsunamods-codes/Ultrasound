@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="sbwy4_3\7.wav" ID="7">“You're the AVALANCHE!”</Entry>
+  <Entry File="sbwy4_3\8.wav" ID="8">Cloud “Those light beams are  the Shinra's security sensors.  We can't go any further.”</Entry>
+  <Entry File="sbwy4_3\9.wav" ID="9">Cloud “Shinra security guards are there.  …We've got to turn back.”</Entry>
+  <Entry File="sbwy4_3\10.wav" ID="10">   “A terrorist attack!”  </Entry>
+  <Entry File="sbwy4_3\11.wav" ID="11">  “AVALANCHE is attacking!” </Entry>
+  <Entry File="sbwy4_3\12.wav" ID="12">    “Intruders!”   </Entry>
+  <Entry File="sbwy4_3\13.wav" ID="13">“More security's coming.  It's dangerous to stay here.” Run Stay here</Entry>
+  <Entry File="sbwy4_3\14a.wav" ID="14" Part="a">Barret “That's one damn tiny hole.  You tellin' me to squeeze into  that to get under the Plate? No way!”</Entry>
+  <Entry File="sbwy4_3\14b.wav" ID="14" Part="b">“Yo,Cloud,what're we gonna do?” Look inside Go down Don't go</Entry>
+  <Entry File="sbwy4_3\15a.wav" ID="15" Part="a">Barret “Don't be wastin' time.  Never know when the Shinra'll find us.”</Entry>
+  <Entry File="sbwy4_3\15b.wav" ID="15" Part="b">“Cloud,you jus' gotta go.” Go down Don't go</Entry>
+  <Entry File="sbwy4_3\16.wav" ID="16">Barret “But,damn man,  that thing gives me the chills.”</Entry>
+  <Entry File="sbwy4_3\17.wav" ID="17">Barret “Whaddya mean we're not goin' in?  There ain't no other way of gettin'  to the Sector 5 reactor  'cept through here.”</Entry>
+  <Entry File="sbwy4_3\18.wav" ID="18">Tifa “…Doesn't seem to be anything that'll  get us stuck in this duct.”</Entry>
+  <Entry File="sbwy4_3\19.wav" ID="19">Cloud “After coming this far,  only an amateur'd   get caught by a security sensor.”</Entry>
+  <Entry File="sbwy4_3\20.wav" ID="20">Cloud “Yeah. If we go down this duct,we   won't be able to come back.”</Entry>
+  <Entry File="sbwy4_3\21.wav" ID="21">Barret “Good,so far everything's going as planned.”</Entry>
+  <Entry File="sbwy4_3\22.wav" ID="22">Barret “That was close.  I thought we were gonna get caught…”</Entry>
+  <Entry File="sbwy4_3\23.wav" ID="23">Barret “Oh man……  We were forced to get this far out.”</Entry>
+  <Entry File="sbwy4_3\24.wav" ID="24">Barret “Don't let your guard down till  we get to the Sector 5 reactor.”</Entry>
+  <Entry File="sbwy4_3\25.wav" ID="25">Barret “They probably don't know  we sneaked in yet.  We'll be at the reactor in no time.”</Entry>
+  <Entry File="sbwy4_3\26.wav" ID="26">Barret “We can't just go back now.  We've gotta go on.”</Entry>
+  <Entry File="sbwy4_3\27.wav" ID="27">Barret “Biggs,Wedge and Jessie  got everything ready for us.  So MOVE it.”</Entry>
+  <Entry File="sbwy4_3\28.wav" ID="28">Barret “Biggs,Wedge,and Jessie did good.  Now,it's our turn!”</Entry>
+  <Entry File="sbwy4_3\29.wav" ID="29">Jessie “I'm sorry.”</Entry>
+  <Entry File="sbwy4_3\30.wav" ID="30">Wedge “Cloud,this way.  The reactor's up this ladder.”</Entry>
+  <Entry File="sbwy4_3\31a.wav" ID="31" Part="a">Biggs “We're gonna pull out now.  We'll meet up at the hideout.”</Entry>
+  <Entry File="sbwy4_3\31b.wav" ID="31" Part="b">“Cloud,we're countin' on you  to blow the reactor!”</Entry>
+  <Entry File="sbwy4_3\32a.wav" ID="32" Part="a">Jessie “Next time,  I'll give you something better.”</Entry>
+  <Entry File="sbwy4_3\32b.wav" ID="32" Part="b">“I'll be back at the hideout  in my research room workin' on it.”</Entry>
+  <Entry File="sbwy4_3\33a.wav" ID="33" Part="a">Jessie “The ID scan problem on the train  was all my fault.”</Entry>
+  <Entry File="sbwy4_3\33b.wav" ID="33" Part="b">“I modified your ID card…  And that's what did it…”</Entry>
+  <Entry File="sbwy4_3\33c.wav" ID="33" Part="c">“I did my best…  But I failed.”</Entry>
+  <Entry File="sbwy4_3\34.wav" ID="34">Barret “The reactor's just down  this tunnel!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="sbwy4_3\0.wav" ID="0">Winding Tunnel</Entry>
+	<Entry File="sbwy4_3\1.wav" ID="1">4th Street Plate Int.</Entry>
+	<Entry File="sbwy4_3\2.wav" ID="2">Lower Sector 4 Plate</Entry>
+	<Entry File="sbwy4_3\3.wav" ID="3">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="sbwy4_3\4.wav" ID="4">Received "Potion"!</Entry>
+	<Entry File="sbwy4_3\5.wav" ID="5">Received "Tent"!</Entry>
+	<Entry File="sbwy4_3\6.wav" ID="6">Received "Ether"!</Entry>
+-->
+</VoiceList>

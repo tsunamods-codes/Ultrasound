@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="md8_3\0.wav" ID="0">“Just what the hell's going on!?”</Entry>
+  <Entry File="md8_3\2a.wav" ID="2" Part="a">“Wonder what that is on the wall over there.  Let's see…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="md8_3\1.wav" ID="1">A paper hung on the wall</Entry>
+	<Entry File="md8_3\2b.wav" ID="2" Part="b"> Don't be fooled by Shinra!  Mako energy doesn't last forever!  Mako is the Planet's life source!  The end is in sight!</Entry>
+	<Entry File="md8_3\2c.wav" ID="2" Part="c">  Protectors of the Planet: AVALANCHE</Entry>
+	<Entry File="md8_3\3.wav" ID="3">Received "Potion"!</Entry>
+	<Entry File="md8_3\4.wav" ID="4">Sector 8</Entry>
+-->
+</VoiceList>

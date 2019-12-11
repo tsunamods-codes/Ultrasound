@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds5_i\1.wav" ID="1">“Hmmm,…  …hmph…we only trade items  for gil here.”</Entry>
+  <Entry File="mds5_i\2.wav" ID="2">“Hmmm,…  …hmph…we only trade items  for gil here.  No matter what.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds5_i\0.wav" ID="0">Item Store</Entry>
+-->
+</VoiceList>

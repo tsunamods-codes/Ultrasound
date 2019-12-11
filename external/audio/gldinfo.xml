@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="gldinfo\0.wav" ID="0">Info Board</Entry>
+	<Entry File="gldinfo\1.wav" ID="1">"Event Square"  An entertaining show awaits you.</Entry>
+	<Entry File="gldinfo\2.wav" ID="2">"Chocobo Square"  Chocobo Racing takes you into  the world of Virtual Reality!  Wark! Wark!</Entry>
+	<Entry File="gldinfo\3.wav" ID="3">"Battle Square"  Go to the limits in heated battles!  Try your hand at the  special Gold Attack!!</Entry>
+	<Entry File="gldinfo\4.wav" ID="4">"Round Square"  Take a tour of the Park  and see the beautiful night  scenery of Gold Saucer…</Entry>
+	<Entry File="gldinfo\5.wav" ID="5">"Speed Square"  A Shooting Roller Coaster is  waiting to take you into the world  of excitement.</Entry>
+	<Entry File="gldinfo\6.wav" ID="6">"Wonder Square"  A number of Games await you here.  Collect GP at Wonder Square  and play some more!</Entry>
+	<Entry File="gldinfo\7.wav" ID="7">"Ghost Square"  Please come and stay at the hotel…  Ha ha ha…”</Entry>
+	<Entry File="gldinfo\8.wav" ID="8">"Now in: Gold Gate"  Let's try all of the Attractions!</Entry>
+	<Entry File="gldinfo\9a.wav" ID="9" Part="a">     Welcome to Gold Saucer!</Entry>
+	<Entry File="gldinfo\9b.wav" ID="9" Part="b">Many attractions await you here at Gold Saucer.</Entry>
+	<Entry File="gldinfo\9c.wav" ID="9" Part="c">You will be moved and excited, thrilled and terrified! Led from one zone to another…</Entry>
+	<Entry File="gldinfo\9d.wav" ID="9" Part="d">unlike anything you've ever experienced! Make your memories…today.    Dio</Entry>
+-->
+</VoiceList>

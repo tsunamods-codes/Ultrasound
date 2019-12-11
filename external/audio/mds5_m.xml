@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds5_m\1a.wav" ID="1" Part="a">“I don't care if it's scrap metal  or Materia. We can get anything  here in the slums.”</Entry>
+  <Entry File="mds5_m\1b.wav" ID="1" Part="b">“Got a lot of good Materia here.  Why don't you look it over?”</Entry>
+  <Entry File="mds5_m\2a.wav" ID="2" Part="a">“You could live several lives  in a place like this,”</Entry>
+  <Entry File="mds5_m\2b.wav" ID="2" Part="b">“and it still wouldn't be enough!”</Entry>
+  <Entry File="mds5_m\2c.wav" ID="2" Part="c">“Well,how about some Materia? I gotta    make some money and get out of here!”</Entry>
+  <Entry File="mds5_m\3a.wav" ID="3" Part="a">“And I just got together enough money   to get out of this place…”</Entry>
+  <Entry File="mds5_m\3b.wav" ID="3" Part="b">“Now it doesn't matter where I go!  Ho,ho,ho…”</Entry>
+  <Entry File="mds5_m\4a.wav" ID="4" Part="a">“Hey!”</Entry>
+  <Entry File="mds5_m\4b.wav" ID="4" Part="b">“Hey,didn't your mother ever teach  you not to barge into houses  and open up people's freezers?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds5_m\0.wav" ID="0">Materia store</Entry>
+-->
+</VoiceList>

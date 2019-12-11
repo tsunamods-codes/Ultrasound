@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blackbgk\0.wav" ID="0">Dark city fourth street</Entry>
+	<Entry File="blackbgk\1.wav" ID="1">Cloudster</Entry>
+	<Entry File="blackbgk\2.wav" ID="2">Barretalator</Entry>
+	<Entry File="blackbgk\3.wav" ID="3">Tifalonia</Entry>
+	<Entry File="blackbgk\4.wav" ID="4">Princess Aeris</Entry>
+	<Entry File="blackbgk\5.wav" ID="5">Little Yuffie</Entry>
+	<Entry File="blackbgk\6.wav" ID="6">Cait Sithers</Entry>
+	<Entry File="blackbgk\7.wav" ID="7">Ol' Cid</Entry>
+	<Entry File="blackbgk\8.wav" ID="8">Vincent</Entry>
+	<Entry File="blackbgk\9.wav" ID="9">  For those in a hurry   For those with a little time</Entry>
+	<Entry File="blackbgk\10.wav" ID="10">Where to?   To Mideel by the sea!   To Mideel Clinic!   To the Mideel Talk Event!   To the Clinic Attack Event!   To the Lifestream!   To the Mindzone!   To the Spirit World!   To Spirit World2!   To Spirit World3!   To the Spirit World again!   Last time to the Spirit World!   To Mideel after it fell!   Hold it,I need a break!</Entry>
+	<Entry File="blackbgk\11.wav" ID="11">We're working hard making the deep Û. Wait a little longer.</Entry>
+	<Entry File="blackbgk\12.wav" ID="12">nyuk,nyuk,nyuk… Welcome to Kato's room.</Entry>
+	<Entry File="blackbgk\13a.wav" ID="13" Part="a">That doesn't really matter  all that much,babushika.</Entry>
+	<Entry File="blackbgk\13b.wav" ID="13" Part="b">Get ready,caped crusader,Nya-ha,ha…… Don't think you'll get away so easy.</Entry>
+	<Entry File="blackbgk\14.wav" ID="14">Now on to a fascinating new world… Let's go!! You won't regret it.</Entry>
+	<Entry File="blackbgk\15.wav" ID="15">Hello there,wanna be-hero. You ready for your journey?</Entry>
+	<Entry File="blackbgk\16.wav" ID="16">How about it? Have you made up your mind? Mind boggling adventures await   you.</Entry>
+	<Entry File="blackbgk\17.wav" ID="17">So? Where to?   To Mideel!   To Mideel Clinic!   To the Mideel Talk Event!   To the Attack Event!   To the Lifestream!   To the Mindzone!   To the Spirit World!   To Spirit World2!   To Spirit World3!   To the Spirit World again!   To Mideel after it fell!   To Hades!</Entry>
+	<Entry File="blackbgk\18.wav" ID="18">To Mideel,right? Okay! Then,let's go.</Entry>
+	<Entry File="blackbgk\19.wav" ID="19">Hang in there!</Entry>
+	<Entry File="blackbgk\20.wav" ID="20">Sorry. I'm still not ready.</Entry>
+	<Entry File="blackbgk\21.wav" ID="21">But I'll be up and ready to go in a minute. Wait just a minute!</Entry>
+	<Entry File="blackbgk\22.wav" ID="22">Silly… Didn't anyone tell you? This IS Hades.</Entry>
+	<Entry File="blackbgk\23.wav" ID="23">Who're you going with?   I'm starting over   Cloud   Aeris   Tifa   Barret   Yuffie   Red XIII   Cait Sith   Cid   Vincent</Entry>
+	<Entry File="blackbgk\24.wav" ID="24">Take down a flag?   Mideel   Tifa   Materia   To the dark hill   To the light hill</Entry>
+	<Entry File="blackbgk\25a.wav" ID="25" Part="a">Huh? You're not thinking of… stepping on me are you?</Entry>
+	<Entry File="blackbgk\25b.wav" ID="25" Part="b">I may be a floor but that  don't give you the right!!</Entry>
+	<Entry File="blackbgk\26.wav" ID="26">Eyaaaah!! OWW,OWW,OWW…… YEOOWWW……!!</Entry>
+-->
+</VoiceList>

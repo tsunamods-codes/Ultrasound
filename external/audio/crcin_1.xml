@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="crcin_1\0.wav" ID="0">“Welcome to Chocobo Racing.”</Entry>
+  <Entry File="crcin_1\1.wav" ID="1">“I'm sorry,but  this is for authorized  personnel only.”</Entry>
+  <Entry File="crcin_1\2.wav" ID="2">“Go---!!  Do it----!!  That's it----!!”</Entry>
+  <Entry File="crcin_1\3.wav" ID="3">“I…I lost…”</Entry>
+  <Entry File="crcin_1\4.wav" ID="4">“Yeahh!  This is why I can't seem to quit.”</Entry>
+  <Entry File="crcin_1\5.wav" ID="5">“You can only buy up to 3 tickets  Think before you buy.  For example,you could select half of the  Chocobos and buy 3 boxes.”</Entry>
+  <Entry File="crcin_1\7a.wav" ID="7" Part="a">“A box is buying 3 combinations of   2 Chocobos.”</Entry>
+  <Entry File="crcin_1\7b.wav" ID="7" Part="b">“For example,if you select Chocobo 1,3,and 5,  you can purchase combinations,such as  1 - 3,1 - 5,3 - 5.”</Entry>
+  <Entry File="crcin_1\7c.wav" ID="7" Part="c">“You can also play the limited wheel   by selecting a Chocobo.”</Entry>
+  <Entry File="crcin_1\9a.wav" ID="9" Part="a">“Playing a 'Limited wheel' means  you select a Chocobo and use  it in all of your combinations.”</Entry>
+  <Entry File="crcin_1\9b.wav" ID="9" Part="b">“For example,  if you have Chocobo 1,then you buy  1 - 2,1 - 3,1 - 4.”</Entry>
+  <Entry File="crcin_1\9c.wav" ID="9" Part="c">“No matter how you make your bet,  you win some and you lose some.  It all comes down to skill and luck.”</Entry>
+  <Entry File="crcin_1\10.wav" ID="10">“Hey,see that Chocobo  on the odds sheet?”</Entry>
+  <Entry File="crcin_1\11.wav" ID="11">“That's how you can find out about  a Chocobo's condition.”</Entry>
+  <Entry File="crcin_1\12.wav" ID="12">“Hmm…  If you find out which are  the strongest,then it's easy,right?”</Entry>
+  <Entry File="crcin_1\13a.wav" ID="13" Part="a">“Well,not as easy as you think.  It's not just a matter of  the Chocobo's strength,”</Entry>
+  <Entry File="crcin_1\13b.wav" ID="13" Part="b">“but it also depends  on the jockey and   the Chocobo's personality.”</Entry>
+  <Entry File="crcin_1\13c.wav" ID="13" Part="c">“If these are bad,the Chocobo may use  too much stamina.”</Entry>
+  <Entry File="crcin_1\14.wav" ID="14">“One usually buys tickets for the  B and C rank races,right?” Rank? Not interested</Entry>
+  <Entry File="crcin_1\15.wav" ID="15">“Oh,that's right.”</Entry>
+  <Entry File="crcin_1\16.wav" ID="16">“In other words,the 'rank' is  the Chocobo's 'strength'.  A is highest and C the lowest.”</Entry>
+  <Entry File="crcin_1\17a.wav" ID="17" Part="a">“You can buy A rank tickets if you become  a freelance Chocobo jockey.”</Entry>
+  <Entry File="crcin_1\17b.wav" ID="17" Part="b">“Of course,the higher the rank,  the better your item ticket.  Hey,maybe I'll become a Chocobo jockey!?”</Entry>
+  <Entry File="crcin_1\19.wav" ID="19">“You can become one if you own a Chocobo   …and have some connections.  But Chocobo's are pretty hard to catch  and I don't have any connections.”</Entry>
+  <Entry File="crcin_1\20.wav" ID="20">“What?”</Entry>
+  <Entry File="crcin_1\21.wav" ID="21">“What?”</Entry>
+  <Entry File="crcin_1\22.wav" ID="22">“Sir,you can't do that!”</Entry>
+  <Entry File="crcin_1\24a.wav" ID="24" Part="a">“Welcome  Please purchase your Chocobo  tickets here.”</Entry>
+  <Entry File="crcin_1\24b.wav" ID="24" Part="b">“If your ticket is a winner,  you will receive an item ticket   good for items on the panel.”</Entry>
+  <Entry File="crcin_1\24c.wav" ID="24" Part="c">“Your item ticket may be exchanged for   an item or GP at the exchange counter   to the right of the entrance.”</Entry>
+  <Entry File="crcin_1\25.wav" ID="25">“Welcome.  Would you like to buy some Chocobo tickets?” Yeah Explain it to me Not interested</Entry>
+  <Entry File="crcin_1\26.wav" ID="26">“Registration fees are 200 gil.  Is that all right?” Yeahhh! No way! Ask how to buy</Entry>
+  <Entry File="crcin_1\27.wav" ID="27">“Thank you!  1 BET is  gil.  This is the next race.”</Entry>
+  <Entry File="crcin_1\28.wav" ID="28">“Which rank would  you like?”</Entry>
+  <Entry File="crcin_1\29.wav" ID="29">“You're a Chocobo jockey,right?  Which rank will you ride in?”</Entry>
+  <Entry File="crcin_1\30.wav" ID="30">Cloud “I lost…”</Entry>
+  <Entry File="crcin_1\34a.wav" ID="34" Part="a">“This Chocobo Race is run on  a virtual course.”</Entry>
+  <Entry File="crcin_1\34b.wav" ID="34" Part="b">“The natural scenery you see in  the race doesn't really exist.”</Entry>
+  <Entry File="crcin_1\34c.wav" ID="34" Part="c">“You pick which Chocobo  will finish first and second here,”</Entry>
+  <Entry File="crcin_1\34d.wav" ID="34" Part="d">“And then buy the appropriate tickets.”</Entry>
+  <Entry File="crcin_1\34e.wav" ID="34" Part="e">“And if the ticket you purchased is a winner,  you'll receive a ticket for an item that   will be listed on the panel.”</Entry>
+  <Entry File="crcin_1\34f.wav" ID="34" Part="f">“You can exchange your tickets for  items or GP at the Exchange Counter   to the right of the entrance.”</Entry>
+  <Entry File="crcin_1\35a.wav" ID="35" Part="a">“You are allowed a maximum of 3 bets  per Chocobo ticket.”</Entry>
+  <Entry File="crcin_1\35b.wav" ID="35" Part="b">“Use the Directional keys to move  the cursor on the panel and select  with [OK].”</Entry>
+  <Entry File="crcin_1\35c.wav" ID="35" Part="c">“Press [OK] to cancel,  while the cursor is  still on the panel.”</Entry>
+  <Entry File="crcin_1\35d.wav" ID="35" Part="d">“With [PAGEUP] and [PAGEDOWN],  you can change the Chocobo data  shown on the right.”</Entry>
+  <Entry File="crcin_1\35e.wav" ID="35" Part="e">“This data is helpful when you   make your pick.”</Entry>
+  <Entry File="crcin_1\35f.wav" ID="35" Part="f">“After you've made your  selections,press   [START] to start the race.”</Entry>
+  <Entry File="crcin_1\36.wav" ID="36">“You do not  have enough gil…”</Entry>
+  <Entry File="crcin_1\37.wav" ID="37">“It should come in pretty soon…”</Entry>
+  <Entry File="crcin_1\38.wav" ID="38">Cloud “I won!”</Entry>
+  <Entry File="crcin_1\39.wav" ID="39">“You may exchange your ticket  for an item or GP.” Item please I want GP</Entry>
+  <Entry File="crcin_1\40.wav" ID="40">“Your item ticket will be  GP.   Is that all right?” Yeah,gimme GP No,I'll take the item</Entry>
+  <Entry File="crcin_1\42.wav" ID="42">“You cannot take on any more Materia.  Please discard some Materia.”</Entry>
+  <Entry File="crcin_1\67.wav" ID="67">Cloud “I lost…”</Entry>
+  <Entry File="crcin_1\68.wav" ID="68">Cloud “I won!!”</Entry>
+  <Entry File="crcin_1\69.wav" ID="69">“I'm sorry  We can't play yet…”</Entry>
+  <Entry File="crcin_1\70.wav" ID="70">Ester “Do you want to ride?”</Entry>
+  <Entry File="crcin_1\71.wav" ID="71">Ester “Hey,long time no see…  How have you been?”</Entry>
+  <Entry File="crcin_1\72a.wav" ID="72" Part="a">Ester “There's a lot going on  in the world outside.”</Entry>
+  <Entry File="crcin_1\72b.wav" ID="72" Part="b">“It's little lonely around here,  but you can't keep a jockey  from doing what he loves.”</Entry>
+  <Entry File="crcin_1\73.wav" ID="73">Ester “How 'bout it,you want to ride again?  You have your own Chocobo,right?”</Entry>
+  <Entry File="crcin_1\74a.wav" ID="74" Part="a">“Yeahh,  but jockeys can't buy tickets.”</Entry>
+  <Entry File="crcin_1\74b.wav" ID="74" Part="b">“If you win,you'll get an item  ticket,so try it!”</Entry>
+  <Entry File="crcin_1\76.wav" ID="76">Ester “Hmm,it seems that no  Chocobos can be registered…”</Entry>
+  <Entry File="crcin_1\77.wav" ID="77">Cloud “Which one?”</Entry>
+  <Entry File="crcin_1\78.wav" ID="78">Ester “Congratulations! You're first!”</Entry>
+  <Entry File="crcin_1\79.wav" ID="79">Ester “And your Chocobo moved up a rank.”</Entry>
+  <Entry File="crcin_1\80.wav" ID="80">Ester “From the next race,  that Chocobo will be in B rank.”</Entry>
+  <Entry File="crcin_1\81.wav" ID="81">Ester “From the next race,  that Chocobo will be in A rank.”</Entry>
+  <Entry File="crcin_1\82.wav" ID="82">Ester “Wow!  From the next race,  that Chocobo will be in S rank.”</Entry>
+  <Entry File="crcin_1\83a.wav" ID="83" Part="a">Ester “Wow,that's great.”</Entry>
+  <Entry File="crcin_1\83b.wav" ID="83" Part="b">“Looks like you don't have any rivals in  the A rank anymore.”</Entry>
+  <Entry File="crcin_1\83c.wav" ID="83" Part="c">“But you know,  there's a rank that's  full of those Chocobos.”</Entry>
+  <Entry File="crcin_1\83d.wav" ID="83" Part="d">“Ahem!!  From the next race,  that Chocobo is…”</Entry>
+  <Entry File="crcin_1\83e.wav" ID="83" Part="e">“S rank!  Joe's usually in that group,too.  So good luck.”</Entry>
+  <Entry File="crcin_1\84a.wav" ID="84" Part="a">Ester “Amazing…”</Entry>
+  <Entry File="crcin_1\84b.wav" ID="84" Part="b">“This is the winningest   jockey in S rank  ever since Joe.”</Entry>
+  <Entry File="crcin_1\84c.wav" ID="84" Part="c">“Good job.   Here's a little something  from me!”</Entry>
+  <Entry File="crcin_1\87.wav" ID="87">Ester “I'll register  this C rank Chocobo.”</Entry>
+  <Entry File="crcin_1\88.wav" ID="88">Ester “Then I'll register  this B rank Chocobo.”</Entry>
+  <Entry File="crcin_1\89.wav" ID="89">Ester “Then I'll register  this A rank Chocobo.”</Entry>
+  <Entry File="crcin_1\90.wav" ID="90">Ester “Then I'll register  this S rank Chocobo.”</Entry>
+  <Entry File="crcin_1\92.wav" ID="92">Ester “Which do you want,the long course   or the short one?”</Entry>
+  <Entry File="crcin_1\94.wav" ID="94">Ester “Good Luck!  Take care!”</Entry>
+  <Entry File="crcin_1\95.wav" ID="95">Tifa “Hey,Cloud.  Let me ride once in a while.”</Entry>
+  <Entry File="crcin_1\96.wav" ID="96">Cid “Hey,Cloud.  Let me hop on sometime.”</Entry>
+  <Entry File="crcin_1\98a.wav" ID="98" Part="a">Ester “Oh,you forgot?  It's all right.  Ahem!”</Entry>
+  <Entry File="crcin_1\98b.wav" ID="98" Part="b">“First use [ASSIST]  to choose either AUTO or MANUAL.”</Entry>
+  <Entry File="crcin_1\98c.wav" ID="98" Part="c">“This lets you control the Chocobo  yourself or let it run on its own.”</Entry>
+  <Entry File="crcin_1\98d.wav" ID="98" Part="d">“But it's pretty hard to make the   Chocobo run the way you want it to.  If the Chocobo doesn't like you,  it won't listen.”</Entry>
+  <Entry File="crcin_1\98e.wav" ID="98" Part="e">“Then,you're stuck…”</Entry>
+  <Entry File="crcin_1\98f.wav" ID="98" Part="f">“But,most of the Chocobos  I have are mellow  and you should be able to  handle them.”</Entry>
+  <Entry File="crcin_1\98g.wav" ID="98" Part="g">“When you're riding,  use [SWITCH] to Speed Up  and [CANCEL]to Slow Down.”</Entry>
+  <Entry File="crcin_1\98h.wav" ID="98" Part="h">“If you go faster than  the Chocobo can handle,it will  quickly lose its stamina.”</Entry>
+  <Entry File="crcin_1\98i.wav" ID="98" Part="i">“Use the Directional button to  move the Chocobo left and right,  use [OK]  to get a boost of speed.”</Entry>
+  <Entry File="crcin_1\98j.wav" ID="98" Part="j">“But this makes your stamina  run out faster.”</Entry>
+  <Entry File="crcin_1\98k.wav" ID="98" Part="k">“Some Chocobos are bad-tempered  and can't pace themselves.  They'll lose their  stamina quickly.”</Entry>
+  <Entry File="crcin_1\98l.wav" ID="98" Part="l">“Those Chocobos should be  set on Manual  to slow them down.”</Entry>
+  <Entry File="crcin_1\98m.wav" ID="98" Part="m">“Finally,some advice  for the restless,once  the first and second Chocobo  cross the goal line,”</Entry>
+  <Entry File="crcin_1\98n.wav" ID="98" Part="n">“Push [START]  to end the race.”</Entry>
+  <Entry File="crcin_1\99a.wav" ID="99" Part="a">“AUTOMATIC”</Entry>
+  <Entry File="crcin_1\99b.wav" ID="99" Part="b">“SEQUENCE”</Entry>
+  <Entry File="crcin_1\100a.wav" ID="100" Part="a">“MANUAL”</Entry>
+  <Entry File="crcin_1\100b.wav" ID="100" Part="b">“OPERATION”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="crcin_1\6.wav" ID="6">Boxes? Not interested</Entry>
+	<Entry File="crcin_1\8.wav" ID="8">Limited wheel? Not interested</Entry>
+	<Entry File="crcin_1\18.wav" ID="18">How DO you become one? Not interested</Entry>
+	<Entry File="crcin_1\23.wav" ID="23">Ticket Office</Entry>
+	<Entry File="crcin_1\31.wav" ID="31">C(1BET  100 gil) B(1BET  200 gil) Quit</Entry>
+	<Entry File="crcin_1\32.wav" ID="32">C(1BET  100 gil) B(1BET  200 gil) A(1BET  300 gil) Forget it</Entry>
+	<Entry File="crcin_1\33.wav" ID="33">C(1BET  100 gil) B(1BET  200 gil) A(1BET  300 gil) S(1BET  500 gil) Never mind</Entry>
+	<Entry File="crcin_1\41.wav" ID="41">Received  GP!!</Entry>
+	<Entry File="crcin_1\43.wav" ID="43">Received "Sprint Shoes"!</Entry>
+	<Entry File="crcin_1\44.wav" ID="44">Received "Counter Attack" Materia!!</Entry>
+	<Entry File="crcin_1\45.wav" ID="45">Received "Magic Counter" Materia!!</Entry>
+	<Entry File="crcin_1\46.wav" ID="46">Received "Precious Watch"!!</Entry>
+	<Entry File="crcin_1\47.wav" ID="47">Received "Ether"!!</Entry>
+	<Entry File="crcin_1\48.wav" ID="48">Received "Hero Drink"!!</Entry>
+	<Entry File="crcin_1\49.wav" ID="49">Received "Bolt Plume"!!</Entry>
+	<Entry File="crcin_1\50.wav" ID="50">Received "Elixir"!!</Entry>
+	<Entry File="crcin_1\51.wav" ID="51">Received "Fire Fang"!!</Entry>
+	<Entry File="crcin_1\52.wav" ID="52">Received "Antarctic Wind"!!</Entry>
+	<Entry File="crcin_1\53.wav" ID="53">Received "Potion"!!</Entry>
+	<Entry File="crcin_1\54.wav" ID="54">Received "Phoenix Down"!!</Entry>
+	<Entry File="crcin_1\55.wav" ID="55">Received "Hyper"!!</Entry>
+	<Entry File="crcin_1\56.wav" ID="56">Received "Tranquilizer"!!</Entry>
+	<Entry File="crcin_1\57.wav" ID="57">Received "Cat's Bell"!!</Entry>
+	<Entry File="crcin_1\58.wav" ID="58">Received "Enemy Away" Materia!!</Entry>
+	<Entry File="crcin_1\59.wav" ID="59">Received "Sneak Attack" Materia!!</Entry>
+	<Entry File="crcin_1\60.wav" ID="60">Received "Chocobracelet"!!</Entry>
+	<Entry File="crcin_1\61.wav" ID="61">Received "Swift Bolt"!!</Entry>
+	<Entry File="crcin_1\62.wav" ID="62">Received "Fire Veil"!!</Entry>
+	<Entry File="crcin_1\63.wav" ID="63">Received "Megalixir"!!</Entry>
+	<Entry File="crcin_1\64.wav" ID="64">Received "Turbo Ether"!!</Entry>
+	<Entry File="crcin_1\65.wav" ID="65">Received "Hi-Potion"!!</Entry>
+	<Entry File="crcin_1\66.wav" ID="66">Received "Ice Crystal"!!</Entry>
+	<Entry File="crcin_1\75.wav" ID="75">Let me register Tell me how to ride it Don't do it</Entry>
+	<Entry File="crcin_1\85.wav" ID="85">Received "Exp Plus" Materia!!</Entry>
+	<Entry File="crcin_1\86.wav" ID="86">,@#&amp;  ,F#&amp;  ,L#&amp;  ,R#&amp;  ,X#&amp;  ,^#&amp;  Never mind</Entry>
+	<Entry File="crcin_1\91.wav" ID="91">Yeah I changed my mind,don't do it</Entry>
+	<Entry File="crcin_1\93.wav" ID="93">Short Long</Entry>
+	<Entry File="crcin_1\97.wav" ID="97">Sure Nope</Entry>
+-->
+</VoiceList>

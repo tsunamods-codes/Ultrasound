@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="nivinn_2\1.wav" ID="1">Sephiroth “…”</Entry>
+  <Entry File="nivinn_2\2a.wav" ID="2" Part="a">Sephiroth “…We have an early start tomorrow.  You should get some sleep soon.”</Entry>
+  <Entry File="nivinn_2\3.wav" ID="3">Sephiroth “…I'm not going to wake you up tomorrow.”</Entry>
+  <Entry File="nivinn_2\4.wav" ID="4">Cloud “What are you looking at?”</Entry>
+  <Entry File="nivinn_2\5.wav" ID="5">Sephiroth “…This scenery…  I feel like I know this place.”</Entry>
+  <Entry File="nivinn_2\6a.wav" ID="6" Part="a">Sephiroth “I've hired a guide to the Mako reactor.”</Entry>
+  <Entry File="nivinn_2\6b.wav" ID="6" Part="b">“I've heard she's young,  I hope we can rely on her…”</Entry>
+  <Entry File="nivinn_2\7.wav" ID="7">Cloud “It was the morning after that,   right Tifa?”</Entry>
+  <Entry File="nivinn_2\8.wav" ID="8">Tifa “Yes,right…”</Entry>
+  <Entry File="nivinn_2\9.wav" ID="9">“We're short one bed…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="nivinn_2\0.wav" ID="0">Nibelheim Inn</Entry>
+	<Entry File="nivinn_2\2b.wav" ID="2" Part="b">It's still early. Yeah,let's get some sleep.</Entry>
+-->
+</VoiceList>

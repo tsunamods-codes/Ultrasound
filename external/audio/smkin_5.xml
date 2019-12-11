@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="smkin_5\29.wav" ID="29">“Who goes there!?”</Entry>
+  <Entry File="smkin_5\30.wav" ID="30">“C'mon newcomer.  Follow me.”</Entry>
+  <Entry File="smkin_5\31.wav" ID="31">Biggs “Wow! You used to be in SOLDIER all right!  …Not everyday ya find one  in a group like AVALANCHE.”</Entry>
+  <Entry File="smkin_5\32.wav" ID="32">Jessie “SOLDIER? Aren't they the enemy?”</Entry>
+  <Entry File="smkin_5\33.wav" ID="33">Jessie “What's he doing with us in AVALANCHE?”</Entry>
+  <Entry File="smkin_5\34a.wav" ID="34" Part="a">Biggs “He WAS in SOLDIER,Jessie.”</Entry>
+  <Entry File="smkin_5\34b.wav" ID="34" Part="b">“But he quit,and is with us now.”</Entry>
+  <Entry File="smkin_5\35.wav" ID="35">Biggs “I didn't catch your name…”</Entry>
+  <Entry File="smkin_5\36.wav" ID="36">Cloud “…Cloud.”</Entry>
+  <Entry File="smkin_5\37.wav" ID="37">Biggs “Cloud,eh? I'm…”</Entry>
+  <Entry File="smkin_5\38.wav" ID="38">Cloud “I don't care what your names are.  Once this job's over…I'm outta here.”</Entry>
+  <Entry File="smkin_5\39.wav" ID="39">“The hell you all doin'!?  I thought I told you never to move  in a group!”</Entry>
+  <Entry File="smkin_5\40.wav" ID="40">“Our target's the North Mako Reactor.  We'll meet on the bridge in front of it.”</Entry>
+  <Entry File="smkin_5\41.wav" ID="41">“Ex-SOLDIER,huh?  I don't trust ya!”</Entry>
+  <Entry File="smkin_5\42.wav" ID="42">Barret “Press the Directional buttons while  pressing [CANCEL]  to run.”</Entry>
+  <Entry File="smkin_5\43.wav" ID="43">Wedge “I'll secure our escape passage.  You concentrate on the mission,  Cloud.”</Entry>
+  <Entry File="smkin_5\44.wav" ID="44">Wedge “Geez,we're really gonna blow  this huge furnace up?  This'll be somethin' to see!”</Entry>
+  <Entry File="smkin_5\46.wav" ID="46">Jessie “Push that button over there!”</Entry>
+  <Entry File="smkin_5\47.wav" ID="47">Barret “Now let's go into the reactor!  From here on out,you stick with me.”</Entry>
+  <Entry File="smkin_5\48.wav" ID="48">“Leave this to me!”</Entry>
+  <Entry File="smkin_5\49.wav" ID="49">“Don't mess up SOLDIER-boy!”</Entry>
+  <Entry File="smkin_5\50.wav" ID="50">“Bring Barret back alive!”</Entry>
+  <Entry File="smkin_5\51.wav" ID="51">Barret “Yo! This your first time in a reactor?”</Entry>
+  <Entry File="smkin_5\52.wav" ID="52">Cloud “No. After all,I did work for Shinra,y'know.”</Entry>
+  <Entry File="smkin_5\53.wav" ID="53">Barret “The planet's full of Mako energy.  People here use it every day.”</Entry>
+  <Entry File="smkin_5\54.wav" ID="54">Barret “It's the life blood of this planet.  But Shinra keeps suckin' the blood out  with these weird machines.”</Entry>
+  <Entry File="smkin_5\55.wav" ID="55">Cloud “I'm not here for a lecture.  Let's just do it.”</Entry>
+  <Entry File="smkin_5\56.wav" ID="56">Barret “Alright! You come with me  from now on.”</Entry>
+  <Entry File="smkin_5\57.wav" ID="57">Barret “Little by little the reactors are  draining out all the life.  And that'll be that.”</Entry>
+  <Entry File="smkin_5\58.wav" ID="58">Barret “The planet's dyin',Cloud!”</Entry>
+  <Entry File="smkin_5\59.wav" ID="59">Cloud “It's not my problem.”</Entry>
+  <Entry File="smkin_5\60.wav" ID="60">Cloud “The only thing I care about is finishin' this job  before security and the Roboguards come.”</Entry>
+  <Entry File="smkin_5\61.wav" ID="61">Barret “…”</Entry>
+  <Entry File="smkin_5\62.wav" ID="62">Jessie “Code deciphered”</Entry>
+  <Entry File="smkin_5\63.wav" ID="63">Biggs “Code deciphered”</Entry>
+  <Entry File="smkin_5\66.wav" ID="66">Cloud “You all right?”</Entry>
+  <Entry File="smkin_5\67.wav" ID="67">Jessie “My leg got stuck.”</Entry>
+  <Entry File="smkin_5\68.wav" ID="68">Jessie “Thanks!”</Entry>
+  <Entry File="smkin_5\69.wav" ID="69">Biggs “I just let my guard down for a minute…  And someone got behind me…”</Entry>
+  <Entry File="smkin_5\70.wav" ID="70">Jessie “Biggs and I got the code for this door.”</Entry>
+  <Entry File="smkin_5\71.wav" ID="71">Biggs “Think how many of our people risked their  lives,just for this code…”</Entry>
+  <Entry File="smkin_5\72.wav" ID="72">Jessie “Push the [OK] button in front of a ladder  to grab on to it.  Then use the [Directional button]  to climb up and down.”</Entry>
+  <Entry File="smkin_5\73.wav" ID="73">Jessie “There you go!”</Entry>
+  <Entry File="smkin_5\74.wav" ID="74">Biggs “Let's go!”</Entry>
+  <Entry File="smkin_5\75.wav" ID="75">Jessie “Alright,be careful.”</Entry>
+  <Entry File="smkin_5\76.wav" ID="76">Biggs “Jessie still isn't back yet!”</Entry>
+  <Entry File="smkin_5\77.wav" ID="77">Barret “When we blow this place,it ain't gonna  be nothin' more than a hunka junk.”</Entry>
+  <Entry File="smkin_5\78.wav" ID="78">Barret “Cloud,you set the bomb.”</Entry>
+  <Entry File="smkin_5\79.wav" ID="79">Cloud “Shouldn't you do it?”</Entry>
+  <Entry File="smkin_5\80.wav" ID="80">Barret “Jus' do it!  I gotta watch to make sure  you don't pull nothin'.”</Entry>
+  <Entry File="smkin_5\81.wav" ID="81">Cloud “Fine,be my guest.”</Entry>
+  <Entry File="smkin_5\83.wav" ID="83">Barret “What's wrong?”</Entry>
+  <Entry File="smkin_5\84.wav" ID="84">Cloud “Huh?”</Entry>
+  <Entry File="smkin_5\85.wav" ID="85">Barret “What's wrong,Cloud?    Hurry it up!”</Entry>
+  <Entry File="smkin_5\86.wav" ID="86">Cloud “…Yeah,sorry.”</Entry>
+  <Entry File="smkin_5\87.wav" ID="87">Barret “Heads up,here it comes!”</Entry>
+  <Entry File="smkin_5\88.wav" ID="88">Cloud “The alarm!”</Entry>
+  <Entry File="smkin_5\89.wav" ID="89">Cloud “Come on,let's get outta here!”</Entry>
+  <Entry File="smkin_5\90.wav" ID="90">Cloud “This is…  Materia…”</Entry>
+  <Entry File="smkin_5\101.wav" ID="101">Barret “Damn man,get a hold of yourself!”</Entry>
+  <Entry File="smkin_5\102.wav" ID="102">Tifa “You all right?”</Entry>
+  <Entry File="smkin_5\103.wav" ID="103">Cloud “…Tifa.”</Entry>
+  <Entry File="smkin_5\104.wav" ID="104">Tifa “Mmm?”</Entry>
+  <Entry File="smkin_5\105.wav" ID="105">Cloud “No…forget…  Come on,let's hurry!”</Entry>
+  <Entry File="smkin_5\106.wav" ID="106">Cloud “I know. You're  my chaperone,right?”</Entry>
+  <Entry File="smkin_5\107.wav" ID="107">Barret “Damn straight.”</Entry>
+  <Entry File="smkin_5\108.wav" ID="108">Barret “Tifa's old friend…  That ain't good enough.”</Entry>
+  <Entry File="smkin_5\109.wav" ID="109">Tifa “Let's hurry,Cloud.”</Entry>
+  <Entry File="smkin_5\110.wav" ID="110">Barret “Alright,let's go.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="smkin_5\0.wav" ID="0">Platform</Entry>
+	<Entry File="smkin_5\1.wav" ID="1">Sector 1 Station</Entry>
+	<Entry File="smkin_5\2.wav" ID="2">Sector 1</Entry>
+	<Entry File="smkin_5\3.wav" ID="3">No.1 Reactor</Entry>
+	<Entry File="smkin_5\4.wav" ID="4">No.5 Reactor</Entry>
+	<Entry File="smkin_5\5.wav" ID="5">Received "Restore" Materia!</Entry>
+	<Entry File="smkin_5\6.wav" ID="6">Received "Potion"!</Entry>
+	<Entry File="smkin_5\7.wav" ID="7">Received "Phoenix Down"!</Entry>
+	<Entry File="smkin_5\8.wav" ID="8">Received "All" Materia!</Entry>
+	<Entry File="smkin_5\9.wav" ID="9"> Cloud  Barret  Aeris  Tifa  Red XIII  cid  Cait Sith  Vincent  Yuffie  Take Cloud Out</Entry>
+	<Entry File="smkin_5\10.wav" ID="10"> Cancel  Aeris  Tifa  Barret  Red XIII  cid  Cait Sith  Yuffie  Vincent  Cloud Lock  Change Party Members</Entry>
+	<Entry File="smkin_5\11.wav" ID="11"> Red XIII </Entry>
+	<Entry File="smkin_5\12.wav" ID="12"> Barret  Yuffie </Entry>
+	<Entry File="smkin_5\13.wav" ID="13"> ()  ()</Entry>
+	<Entry File="smkin_5\14.wav" ID="14"> ()  ()  ()  ()  ()  ()  ()  ()  ()</Entry>
+	<Entry File="smkin_5\15.wav" ID="15"> 1  2  3  4  5</Entry>
+	<Entry File="smkin_5\16.wav" ID="16"> Barret'Red XIII  Barret'Aeris  Barret'Tifa  Red XIII'Aeris  Red XIII'Tifa  Aeris'Tifa</Entry>
+	<Entry File="smkin_5\17.wav" ID="17">opening(*) feel wind gate1 open T road(escape) 1reactor(5reactor) junon(yufi,R1gaiheki) ()</Entry>
+	<Entry File="smkin_5\18.wav" ID="18">past jenova(egg) join vincent shinra house vincent(present) shinra under(awake) nivl reactor nivl reactor out(with tifa) nivl mt entrance(past) Materia cave new event sininb34 new event sininb35 new midgal nivgate ()</Entry>
+	<Entry File="smkin_5\19.wav" ID="19">para 66F 67F(*) 68F 68F2 70F elevetr ()</Entry>
+	<Entry File="smkin_5\20.wav" ID="20">plate down meeting caught dead president app rufaus after heli</Entry>
+	<Entry File="smkin_5\21.wav" ID="21">7 pillar kolneo under high way 5 out airport(gelnica) after fire cefiros jairo sky jairo sea junon cannon junon medical ()</Entry>
+	<Entry File="smkin_5\22.wav" ID="22">1F 59F 60F 61F 62F 63F 64F 65F 66F 69F</Entry>
+	<Entry File="smkin_5\23.wav" ID="23">cancel bone after arma san dun sleep forest ancent forest lost lake water pray Aeris dead rocket(first) bone first bone luna los in</Entry>
+	<Entry File="smkin_5\24.wav" ID="24" />
+	<Entry File="smkin_5\25.wav" ID="25"></Entry>
+	<Entry File="smkin_5\26.wav" ID="26">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="smkin_5\27.wav" ID="27" />
+	<Entry File="smkin_5\28.wav" ID="28">white white boogen(key) white boogen(no key) before after white2 junonn in2</Entry>
+	<Entry File="smkin_5\45.wav" ID="45">Switch On.</Entry>
+	<Entry File="smkin_5\64.wav" ID="64">Can't decipher code without Biggs</Entry>
+	<Entry File="smkin_5\65.wav" ID="65">Can't decipher code without Jessie</Entry>
+	<Entry File="smkin_5\82.wav" ID="82"> Watch out!   This isn't just a reactor!!</Entry>
+	<Entry File="smkin_5\91.wav" ID="91">Ten minutes to detonation!</Entry>
+	<Entry File="smkin_5\92.wav" ID="92">Two minutes remaining</Entry>
+	<Entry File="smkin_5\93.wav" ID="93">One minute remaining</Entry>
+	<Entry File="smkin_5\94.wav" ID="94">Thirty seconds remaining</Entry>
+	<Entry File="smkin_5\95.wav" ID="95">Ten seconds remaining</Entry>
+	<Entry File="smkin_5\96.wav" ID="96">Five seconds remaining</Entry>
+	<Entry File="smkin_5\97.wav" ID="97">Four seconds remaining</Entry>
+	<Entry File="smkin_5\98.wav" ID="98">Three seconds remaining</Entry>
+	<Entry File="smkin_5\99.wav" ID="99">Two seconds remaining</Entry>
+	<Entry File="smkin_5\100.wav" ID="100">One second remaining</Entry>
+	<Entry File="smkin_5\111.wav" ID="111">Am I…human?</Entry>
+	<Entry File="smkin_5\112.wav" ID="112">I didn't really understand what Sephiroth meant then.</Entry>
+	<Entry File="smkin_5\113.wav" ID="113">I was even more surprised that Shinra was producing monsters.</Entry>
+-->
+</VoiceList>

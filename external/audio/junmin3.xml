@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junmin3\1a.wav" ID="1" Part="a">“Mmm?  I'm not going to the parade.”</Entry>
+  <Entry File="junmin3\1b.wav" ID="1" Part="b">“The road to becoming SOLDIER   First Class is very difficult.”</Entry>
+  <Entry File="junmin3\2a.wav" ID="2" Part="a">“Don't mind me.”</Entry>
+  <Entry File="junmin3\2b.wav" ID="2" Part="b">“As a man with promise and future,  I don't have any time to fool around  like the rest of you.”</Entry>
+  <Entry File="junmin3\3a.wav" ID="3" Part="a">“Ugh…My eyes are tired…  No,I've got  to really buckle down!”</Entry>
+  <Entry File="junmin3\3b.wav" ID="3" Part="b">“At least until I become SOLDIER First Class.”</Entry>
+  <Entry File="junmin3\4.wav" ID="4">“…grrrrgh…grrrgh…”</Entry>
+  <Entry File="junmin3\5.wav" ID="5">“…zzzz…”</Entry>
+  <Entry File="junmin3\6a.wav" ID="6" Part="a">“Most of my rivals died  in the attack on Weapon.”</Entry>
+  <Entry File="junmin3\6b.wav" ID="6" Part="b">“Oh,of course,I was here,studying.”</Entry>
+  <Entry File="junmin3\6c.wav" ID="6" Part="c">“That coveted green officer's uniform  is almost in my reach.”</Entry>
+  <Entry File="junmin3\7a.wav" ID="7" Part="a">“Then I'll be on the newspapers as a  plain clothed First Class officer  in SOLDIER…”</Entry>
+  <Entry File="junmin3\7b.wav" ID="7" Part="b">“Then make a triumphant return to my homeland!!  Tons of fan letters…  My future's peachy!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junmin3\0.wav" ID="0">Barracks</Entry>
+	<Entry File="junmin3\8.wav" ID="8">Received "Power Source"!</Entry>
+	<Entry File="junmin3\9.wav" ID="9">Received "Guard Source"!</Entry>
+-->
+</VoiceList>

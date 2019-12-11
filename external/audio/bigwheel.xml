@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="bigwheel\0.wav" ID="0">“Sorry it's out of order.”</Entry>
+  <Entry File="bigwheel\1.wav" ID="1">Tifa “Cloud  I really had fun tonight.”</Entry>
+  <Entry File="bigwheel\2.wav" ID="2">Cloud “By the way,  what did you want to say a minute ago?”</Entry>
+  <Entry File="bigwheel\3.wav" ID="3">Tifa “N,nothing!”</Entry>
+  <Entry File="bigwheel\4.wav" ID="4">Tifa “Nothing…”</Entry>
+  <Entry File="bigwheel\5.wav" ID="5">Cloud “?”</Entry>
+  <Entry File="bigwheel\6.wav" ID="6">Tifa “Oh,look at the time.  We should be getting back.”</Entry>
+  <Entry File="bigwheel\7.wav" ID="7">Aeris “I had fun tonight.  Let's do it again.”</Entry>
+  <Entry File="bigwheel\8.wav" ID="8">Aeris “Don't you like being with me?” No,I don't That's not it</Entry>
+  <Entry File="bigwheel\9.wav" ID="9">Aeris “Oh,don't tease me like that!”</Entry>
+  <Entry File="bigwheel\10a.wav" ID="10" Part="a">Aeris “I'm glad.”</Entry>
+  <Entry File="bigwheel\10b.wav" ID="10" Part="b">“Next time we come,  let's take our time   and go on more rides.”</Entry>
+  <Entry File="bigwheel\11.wav" ID="11">Aeris “Oh,look at the time.  We'd better get going.”</Entry>
+  <Entry File="bigwheel\12.wav" ID="12">Barret “Oh man  I'm beat.  Let's head back.”</Entry>
+  <Entry File="bigwheel\13.wav" ID="13">Yuffie “I should sleep  really well tonight.”</Entry>
+  <Entry File="bigwheel\14.wav" ID="14">Yuffie “Thanks…  for coming with me.”</Entry>
+  <Entry File="bigwheel\15.wav" ID="15">Cloud “Yeah.”</Entry>
+  <Entry File="bigwheel\16.wav" ID="16">Yuffie “You wanna go back,  Cloud?”</Entry>
+  <Entry File="bigwheel\17.wav" ID="17">Cloud “Who should I ride with?” Party2 Party3</Entry>
+  <Entry File="bigwheel\18a.wav" ID="18" Part="a">“Welcome.  This attraction is 3 GP.</Entry>
+  <Entry File="bigwheel\18b.wav" ID="18" Part="b">“Shall you be riding this evening?” Yes,I shall No,I shan't</Entry>
+  <Entry File="bigwheel\19.wav" ID="19">“Um,I'm very sorry,but  you do not have enough GP.”</Entry>
+  <Entry File="bigwheel\20.wav" ID="20">“Would this be your  first time riding with us?” Yes,it would No,it would not</Entry>
+  <Entry File="bigwheel\21a.wav" ID="21" Part="a">“You will be able to see  all of Gold Saucer  park on this ride.</Entry>
+  <Entry File="bigwheel\22.wav" ID="22">“Is that right?”</Entry>
+  <Entry File="bigwheel\23.wav" ID="23">“This attraction can only  accommodate 2 passengers,so one  of you please wait over there.”</Entry>
+  <Entry File="bigwheel\24.wav" ID="24">“Enjoy the sights  of Gold Saucer.”</Entry>
+  <Entry File="bigwheel\26.wav" ID="26">Aeris “Two,please.”</Entry>
+  <Entry File="bigwheel\27.wav" ID="27">Tifa “Two,please.”</Entry>
+  <Entry File="bigwheel\28.wav" ID="28">Yuffie “Two.”</Entry>
+  <Entry File="bigwheel\29.wav" ID="29">Barret “Hey! You gotta be kiddin'!  Just us two?  …ok,that's cool,I guess…”</Entry>
+  <Entry File="bigwheel\30.wav" ID="30">Barret “Yo. Two.”</Entry>
+  <Entry File="bigwheel\31.wav" ID="31">“Here you are,two tickets.”</Entry>
+  <Entry File="bigwheel\32.wav" ID="32">Aeris “We don't have time for this!  We've got to go after Cait Sith.”</Entry>
+  <Entry File="bigwheel\33.wav" ID="33">Tifa “There's no time for this.  Let's hurry after Cait Sith!”</Entry>
+  <Entry File="bigwheel\34.wav" ID="34">Yuffie “Should we be doing this?  I thought we were after Cait Sith?”</Entry>
+  <Entry File="bigwheel\35.wav" ID="35">Barret “The hell you doin'!?  We gotta go after Cait Sith!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="bigwheel\21b.wav" ID="21" Part="b">So please just sit back and  enjoy a lovely view you  won't see anywhere else.”</Entry>
+	<Entry File="bigwheel\25.wav" ID="25" />
+	<Entry File="bigwheel\36.wav" ID="36">Round Square</Entry>
+	<Entry File="bigwheel\37.wav" ID="37">Current GP   GP</Entry>
+-->
+</VoiceList>

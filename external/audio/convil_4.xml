@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="convil_4\0.wav" ID="0">top of the mountain</Entry>
+	<Entry File="convil_4\1.wav" ID="1">Received "Phoenix" Materia!</Entry>
+	<Entry File="convil_4\2.wav" ID="2">Cannot take on anymore Materia. Please discard some Materia.</Entry>
+-->
+</VoiceList>

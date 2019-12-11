@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="sichi\1.wav" ID="1">Cloud “Did Sephiroth…  do this?”</Entry>
+  <Entry File="sichi\2.wav" ID="2">Tifa “Amazing…”</Entry>
+  <Entry File="sichi\3.wav" ID="3">Aeris “Our enemy is someone that  could do this?”</Entry>
+  <Entry File="sichi\4.wav" ID="4">Barret “This Sephiroth guy's  pretty strong,I'd say.”</Entry>
+  <Entry File="sichi\5.wav" ID="5">Red XIII “It's a power that we should respect…”</Entry>
+  <Entry File="sichi\6.wav" ID="6">Yuffie “Geeeeez,Louise!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="sichi\0.wav" ID="0">Marshes</Entry>
+-->
+</VoiceList>

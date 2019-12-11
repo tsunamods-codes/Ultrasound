@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ncoin1\1a.wav" ID="1" Part="a">“Grandpa used to be  a Coal Train engineer.”</Entry>
+  <Entry File="ncoin1\1b.wav" ID="1" Part="b">“He still can't kick  his old habits from then.”</Entry>
+  <Entry File="ncoin1\2.wav" ID="2">“Seeing that train got Grandpa more excited  than I've seen him for some time.”</Entry>
+  <Entry File="ncoin1\3a.wav" ID="3" Part="a">“As long as we stay here,  Grandpa won't be able  to forget about trains.”</Entry>
+  <Entry File="ncoin1\3b.wav" ID="3" Part="b">“Maybe we should start fresh,  and move to  Southern Isle of Mideel?”</Entry>
+  <Entry File="ncoin1\4.wav" ID="4">“With Meteor coming,  I guess it doesn't matter…”</Entry>
+  <Entry File="ncoin1\5.wav" ID="5">“The next train's coming in soon.”</Entry>
+  <Entry File="ncoin1\6.wav" ID="6">“What the?  Watch out for the train!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ncoin1\0.wav" ID="0">North Corel</Entry>
+	<Entry File="ncoin1\7.wav" ID="7">Received "Ether"!</Entry>
+-->
+</VoiceList>

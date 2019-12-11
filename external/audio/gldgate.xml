@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="gldgate\0.wav" ID="0">Aeris “Wow!  Let's have fun!”</Entry>
+  <Entry File="gldgate\1.wav" ID="1">Aeris “I know this isn't the right time  to do this.”</Entry>
+  <Entry File="gldgate\2.wav" ID="2">Aeris “Hey,Barret,cheer up!”</Entry>
+  <Entry File="gldgate\3.wav" ID="3">Barret “…I ain't in a cheery mood.  So jus' leave me alone.”</Entry>
+  <Entry File="gldgate\4.wav" ID="4">Aeris “Really?  That's too bad.”</Entry>
+  <Entry File="gldgate\5.wav" ID="5">Aeris “Let's go!”</Entry>
+  <Entry File="gldgate\6.wav" ID="6">Tifa “…whisper…whisper…  (Wasn't that a little harsh,   Aeris!?)”</Entry>
+  <Entry File="gldgate\7.wav" ID="7">Aeris “…whisper…whisper…  (Just act normal when this happens)”</Entry>
+  <Entry File="gldgate\8.wav" ID="8">Tifa “…whisper…  (You think so…?)”</Entry>
+  <Entry File="gldgate\9.wav" ID="9">Aeris “Of course!”</Entry>
+  <Entry File="gldgate\10.wav" ID="10">Aeris “We're gonna go play…”</Entry>
+  <Entry File="gldgate\11a.wav" ID="11" Part="a">Barret “So PLAY!  …mess around all you want!”</Entry>
+  <Entry File="gldgate\11b.wav" ID="11" Part="b">“Don't forget we're after Sephiroth!”</Entry>
+  <Entry File="gldgate\12.wav" ID="12">Aeris “…I think he's mad.”</Entry>
+  <Entry File="gldgate\13.wav" ID="13">Tifa “He'll be fine.  He seems to be doing  a little better now.”</Entry>
+  <Entry File="gldgate\14.wav" ID="14">Aeris “Then,shall we!?”</Entry>
+  <Entry File="gldgate\15a.wav" ID="15" Part="a">Tifa “We'd better be careful,  Sephiroth might be around.”</Entry>
+  <Entry File="gldgate\16a.wav" ID="16" Part="a">Aeris “I wish we could just forget  everything and have fun!”</Entry>
+  <Entry File="gldgate\17a.wav" ID="17" Part="a">Red XIII “…You want to go with me?”</Entry>
+  <Entry File="gldgate\18a.wav" ID="18" Part="a">Yuffie “With me!?”</Entry>
+  <Entry File="gldgate\19.wav" ID="19">Tifa “Cloud!”</Entry>
+  <Entry File="gldgate\20.wav" ID="20">Aeris “Cloud!”</Entry>
+  <Entry File="gldgate\21.wav" ID="21">Yuffie “Cloud!”</Entry>
+  <Entry File="gldgate\22.wav" ID="22">Red XIII “Cloud!”</Entry>
+  <Entry File="gldgate\23.wav" ID="23">Tifa “I'll go with you.”</Entry>
+  <Entry File="gldgate\24.wav" ID="24">Aeris “Don't go alone,go with me!”</Entry>
+  <Entry File="gldgate\25.wav" ID="25">Yuffie “Let's go together,Cloud!”</Entry>
+  <Entry File="gldgate\26.wav" ID="26">Red XIII “Don't go by yourself…”</Entry>
+  <Entry File="gldgate\27.wav" ID="27">Aeris “Hey?  What's Cait Sith doing?”</Entry>
+  <Entry File="gldgate\28.wav" ID="28">Tifa “That's…Cait Sith.  He's acting strange.”</Entry>
+  <Entry File="gldgate\29.wav" ID="29">Barret “…it's Cait Sith.  What's he doin' so quietly?”</Entry>
+  <Entry File="gldgate\30.wav" ID="30">Yuffie “Hey,isn't that Cait Sith?  What's he doing?”</Entry>
+  <Entry File="gldgate\31.wav" ID="31">Cloud “!!”</Entry>
+  <Entry File="gldgate\32.wav" ID="32">Cloud “Is that the…Keystone?”</Entry>
+  <Entry File="gldgate\33.wav" ID="33">Cloud “Hey! Cait Sith!”</Entry>
+  <Entry File="gldgate\34.wav" ID="34">Cait Sith “Oh oh!”</Entry>
+  <Entry File="gldgate\35.wav" ID="35">Aeris “Come on,let's go.”</Entry>
+  <Entry File="gldgate\36.wav" ID="36">Tifa “Come on,let's go.”</Entry>
+  <Entry File="gldgate\37.wav" ID="37">Yuffie “Cloud,let's go.”</Entry>
+  <Entry File="gldgate\38.wav" ID="38">Barret “Cloud,wanna take a peek?”</Entry>
+  <Entry File="gldgate\47.wav" ID="47">“Uh…  It's not time for the Event yet…”</Entry>
+  <Entry File="gldgate\50a.wav" ID="50" Part="a">“Tonight's Enchantment Night!  All the attractions are free.”</Entry>
+  <Entry File="gldgate\50b.wav" ID="50" Part="b">“How 'bout it you two? There's  going to be an entertaining show  in Event Square!”</Entry>
+  <Entry File="gldgate\51.wav" ID="51">Aeris “Oh,that was fun.  Hey,let's go on the Gondola.”</Entry>
+  <Entry File="gldgate\52.wav" ID="52">Tifa “Hmm,that was funny.  Hey,let's go on the Gondola next.”</Entry>
+  <Entry File="gldgate\53.wav" ID="53">Yuffie “I didn't get it. Cloud,  let's go on the Gondola next.”</Entry>
+  <Entry File="gldgate\54.wav" ID="54">Barret “Let's go somewhere  where we can talk,in private.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="gldgate\15b.wav" ID="15" Part="b">Go together Don't go together</Entry>
+	<Entry File="gldgate\16b.wav" ID="16" Part="b">Go together Don't go together</Entry>
+	<Entry File="gldgate\17b.wav" ID="17" Part="b">Go together Don't go together</Entry>
+	<Entry File="gldgate\18b.wav" ID="18" Part="b">Go together Don't go together</Entry>
+	<Entry File="gldgate\39.wav" ID="39">Speed Square Chocobo Square Event Square</Entry>
+	<Entry File="gldgate\40.wav" ID="40">Speed Square Event Square</Entry>
+	<Entry File="gldgate\41.wav" ID="41">Chocobo Square Event Square</Entry>
+	<Entry File="gldgate\42.wav" ID="42">Event Square</Entry>
+	<Entry File="gldgate\43.wav" ID="43">Speed Square Chocobo Square Round Square</Entry>
+	<Entry File="gldgate\44.wav" ID="44">Speed Square Round Square</Entry>
+	<Entry File="gldgate\45.wav" ID="45">Chocobo Square Round Square</Entry>
+	<Entry File="gldgate\46.wav" ID="46">Round Square</Entry>
+	<Entry File="gldgate\48.wav" ID="48">Chocobo Square Speed Square Battle Square Wonder Square Round Square</Entry>
+	<Entry File="gldgate\49.wav" ID="49">Terminal Floor</Entry>
+-->
+</VoiceList>

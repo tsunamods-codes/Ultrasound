@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="cosmin6\0.wav" ID="0">Shildra Inn</Entry>
+	<Entry File="cosmin6\1.wav" ID="1">Received "Elixir"!</Entry>
+-->
+</VoiceList>

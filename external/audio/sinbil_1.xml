@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="sinbil_1\1.wav" ID="1">Barret “Hey,you oughta know  this building well.”</Entry>
+  <Entry File="sinbil_1\2.wav" ID="2">Tifa “What's wrong?”</Entry>
+  <Entry File="sinbil_1\3a.wav" ID="3" Part="a">Cloud “…Not really,  now that I think about it,”</Entry>
+  <Entry File="sinbil_1\3b.wav" ID="3" Part="b">“this's the first time I've ever been  to the Headquarters.”</Entry>
+  <Entry File="sinbil_1\4a.wav" ID="4" Part="a">Barret “I heard about this place before.”</Entry>
+  <Entry File="sinbil_1\4b.wav" ID="4" Part="b">“Every floor above the 60th is  special and not easy to get to  even for employees.”</Entry>
+  <Entry File="sinbil_1\4c.wav" ID="4" Part="c">“Must be where they  took Aeris.”</Entry>
+  <Entry File="sinbil_1\4d.wav" ID="4" Part="d">“The security's pretty light now.  Alright,let's go!!”</Entry>
+  <Entry File="sinbil_1\5.wav" ID="5">Tifa “Wait a second!  You're not thinking of just going  right through the main entrance,are you?”</Entry>
+  <Entry File="sinbil_1\6.wav" ID="6">Barret “Well what else does it look like!?  I'm gonna kick some Shinra butt and…”</Entry>
+  <Entry File="sinbil_1\7.wav" ID="7">Tifa “That's not going to work!  We've got to find another way…”</Entry>
+  <Entry File="sinbil_1\8.wav" ID="8">Barret “Ain't gonna be no other way!  If we keep wastin' time like this,  Aeris'll…”</Entry>
+  <Entry File="sinbil_1\9a.wav" ID="9" Part="a">Tifa “I know that!  But if we get caught here…”</Entry>
+  <Entry File="sinbil_1\9b.wav" ID="9" Part="b">“Hey,Cloud.  …What should we do?” Let's bust on in! Let's sneak in quietly</Entry>
+  <Entry File="sinbil_1\10.wav" ID="10">Barret “That's more like it!  C'mon,let's go!!”</Entry>
+  <Entry File="sinbil_1\11.wav" ID="11">Tifa “See? Let's be careful and find a   different route!”</Entry>
+  <Entry File="sinbil_1\12.wav" ID="12">Cait Sith “No,no!  The Sister Ray's not this way!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="sinbil_1\0.wav" ID="0">Shinra Bldg.</Entry>
+	<Entry File="sinbil_1\13.wav" ID="13">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

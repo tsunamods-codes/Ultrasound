@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ithos\1.wav" ID="1">Tifa “Cloud!?”</Entry>
+  <Entry File="ithos\2.wav" ID="2">Doctor “Hey! You barged in here  like Meteor was crashing  down or something.”</Entry>
+  <Entry File="ithos\3.wav" ID="3">Tifa “I'm sorry…but I heard a friend  of mine was here…”</Entry>
+  <Entry File="ithos\4.wav" ID="4">Doctor “A friend?”</Entry>
+  <Entry File="ithos\5a.wav" ID="5" Part="a">Doctor “Oh…that young fellow!?”</Entry>
+  <Entry File="ithos\5b.wav" ID="5" Part="b">“Don't worry.  He's next door.  But his condition isn't good.”</Entry>
+  <Entry File="ithos\6.wav" ID="6">Tifa “Here?”</Entry>
+  <Entry File="ithos\7.wav" ID="7">Tifa “Over here.”</Entry>
+  <Entry File="ithos\8.wav" ID="8">Tifa “Cloud!?”</Entry>
+  <Entry File="ithos\9.wav" ID="9">Tifa “Oh…Cloud!!  I'm so glad you're safe!?”</Entry>
+  <Entry File="ithos\10.wav" ID="10">Tifa “…!?”</Entry>
+  <Entry File="ithos\11.wav" ID="11">Tifa “Cloud?”</Entry>
+  <Entry File="ithos\12.wav" ID="12">Cloud “Uh…aaa…?”</Entry>
+  <Entry File="ithos\13.wav" ID="13">Tifa “Wh…what's wrong…  Cloud?”</Entry>
+  <Entry File="ithos\14.wav" ID="14">Cloud “Aaa..gurk..”</Entry>
+  <Entry File="ithos\15.wav" ID="15">Tifa “Cloud!  What happened to you?”</Entry>
+  <Entry File="ithos\16a.wav" ID="16" Part="a">Doctor “Mako poisoning…  Quite an advanced case.”</Entry>
+  <Entry File="ithos\16b.wav" ID="16" Part="b">“It appears this young man's been  exposed to high levels of Mako energy  for an extended period of time.”</Entry>
+  <Entry File="ithos\16c.wav" ID="16" Part="c">“He probably has no idea  who or where he is now…”</Entry>
+  <Entry File="ithos\16d.wav" ID="16" Part="d">“Poor fellow,  he can't even speak.  He's literally miles away from us.”</Entry>
+  <Entry File="ithos\16e.wav" ID="16" Part="e">“Some place far away where no one's  ever been…  All alone…”</Entry>
+  <Entry File="ithos\17.wav" ID="17">Tifa “Doctor!!”</Entry>
+  <Entry File="ithos\18.wav" ID="18">Barret “This's bad…”</Entry>
+  <Entry File="ithos\19.wav" ID="19">Red XIII “How horrible…”</Entry>
+  <Entry File="ithos\20.wav" ID="20">Cait Sith “That's terrible…”</Entry>
+  <Entry File="ithos\21.wav" ID="21">Cid “Damn,that's evil.”</Entry>
+  <Entry File="ithos\22.wav" ID="22">Yuffie “You lyin' or what!?”</Entry>
+  <Entry File="ithos\23.wav" ID="23">Vincent “…”</Entry>
+  <Entry File="ithos\24.wav" ID="24">Tifa “Cloud…”</Entry>
+  <Entry File="ithos\25.wav" ID="25">Doctor “Ahem! Let's excuse ourselves.”</Entry>
+  <Entry File="ithos\26.wav" ID="26">Doctor “Listen,would you all mind…  waiting outside?”</Entry>
+  <Entry File="ithos\27.wav" ID="27">Barret “…”</Entry>
+  <Entry File="ithos\28.wav" ID="28">Tifa “Why?  What do you want me to do?”</Entry>
+  <Entry File="ithos\29a.wav" ID="29" Part="a">Tifa “Please,Cloud…  Talk to me…”</Entry>
+  <Entry File="ithos\29b.wav" ID="29" Part="b">“Tell me you see me,  that you can hear me…  Tell me,please…”</Entry>
+  <Entry File="ithos\30a.wav" ID="30" Part="a">Tifa “I made it this far believing in  the memories we shared.”</Entry>
+  <Entry File="ithos\30b.wav" ID="30" Part="b">“This isn't happening!  It's too cruel!”</Entry>
+  <Entry File="ithos\31.wav" ID="31">Tifa “Oh,Cloud!  I…”</Entry>
+  <Entry File="ithos\32.wav" ID="32">Tifa “I don't care about anything else,  only Cloud…”</Entry>
+  <Entry File="ithos\33.wav" ID="33">Tifa “I…want to be by his side…”</Entry>
+  <Entry File="ithos\34a.wav" ID="34" Part="a">Barret “Yeah,that's probably best…”</Entry>
+  <Entry File="ithos\34b.wav" ID="34" Part="b">“For Cloud…  and you…”</Entry>
+  <Entry File="ithos\35.wav" ID="35">Red XIII “Yes,that's best!”</Entry>
+  <Entry File="ithos\36.wav" ID="36">Cid “Yeah. Right.  Hang in there,Tifa.”</Entry>
+  <Entry File="ithos\37.wav" ID="37">Yuffie “Then you gotta do it.  You gotta be true to yourself.”</Entry>
+  <Entry File="ithos\38.wav" ID="38">Cait Sith “If Tifa were my nurse,  I'd switch places with  Cloudany day!</Entry>
+  <Entry File="ithos\39.wav" ID="39">Vincent “Do what you wish.”</Entry>
+  <Entry File="ithos\40.wav" ID="40">Tifa “I'm sorry,everyone…  Especially now…”</Entry>
+  <Entry File="ithos\41.wav" ID="41">Barret “Why you apologizin'?  We'll come back again an' check on ya.”</Entry>
+  <Entry File="ithos\42.wav" ID="42">Barret “You take care now,Tifa.  And take care of Cloud.”</Entry>
+  <Entry File="ithos\43.wav" ID="43">Cid “Don't worry.  I'll stop by again.”</Entry>
+  <Entry File="ithos\44.wav" ID="44">Cid “You hang in there,Tifa.  Take care of Cloud.”</Entry>
+  <Entry File="ithos\45.wav" ID="45">Red XIII “That's all right.  We'll be by again.”</Entry>
+  <Entry File="ithos\46.wav" ID="46">Red XIII “Do your best,Tifa.  Take care of Cloud.”</Entry>
+  <Entry File="ithos\47.wav" ID="47">Yuffie “No big,no big.  I'll pop in again later.”</Entry>
+  <Entry File="ithos\48.wav" ID="48">Yuffie “Look after Cloud.  Take care,Tifa.”</Entry>
+  <Entry File="ithos\49.wav" ID="49">Cait Sith “What're you talkin' about?  We'll stop in again.”</Entry>
+  <Entry File="ithos\50.wav" ID="50">Cait Sith “Hope Cloud gets better soon.”</Entry>
+  <Entry File="ithos\51.wav" ID="51">Vincent “Don't worry.  We'll return and check on him later.”</Entry>
+  <Entry File="ithos\52.wav" ID="52">Vincent “Take care of him.”</Entry>
+  <Entry File="ithos\53.wav" ID="53">Tifa “Right…”</Entry>
+  <Entry File="ithos\54a.wav" ID="54" Part="a">Barret “Oh,and uh,Tifa…  I don't like askin' this but…”</Entry>
+  <Entry File="ithos\54b.wav" ID="54" Part="b">“Are you sure he's really your friend?  And not Sephiroth's shadow?”</Entry>
+  <Entry File="ithos\55.wav" ID="55">Tifa “Huh!?  Well…that is…”</Entry>
+  <Entry File="ithos\56.wav" ID="56">Tifa “No,I'm sure of it!”</Entry>
+  <Entry File="ithos\57.wav" ID="57">Barret “Yeah?  OK,then…  Sorry for askin'.”</Entry>
+  <Entry File="ithos\58.wav" ID="58">Barret “We gotta get back to the  Highwind.”</Entry>
+  <Entry File="ithos\59.wav" ID="59">Cid “Now,we gotta be headin' back to  the Highwind.”</Entry>
+  <Entry File="ithos\60.wav" ID="60">Red XIII “We should be getting  back to the Highwind.”</Entry>
+  <Entry File="ithos\61.wav" ID="61">Yuffie “Hey,shouldn't we be gettin'  back to the Highwind?”</Entry>
+  <Entry File="ithos\62.wav" ID="62">Cait Sith “Well,I guess we'd better  go back to the Highwind.”</Entry>
+  <Entry File="ithos\63.wav" ID="63">Vincent “Very well then,we should  return to the Highwind.”</Entry>
+  <Entry File="ithos\64a.wav" ID="64" Part="a">“She's always there  right by his side.  She must really love him.”</Entry>
+  <Entry File="ithos\64b.wav" ID="64" Part="b">“Even at a time like this  you should never give up hope.  You've got to be strong like her.”</Entry>
+  <Entry File="ithos\65.wav" ID="65">“Sometimes he mumbles  about numbers…  I wonder what it means?”</Entry>
+  <Entry File="ithos\66a.wav" ID="66" Part="a">“She's finally beginning to  look a little tired…  I hope she's all right.”</Entry>
+  <Entry File="ithos\66b.wav" ID="66" Part="b">“No change in his condition,  yet she stays right by his side.  It must be tough on her.”</Entry>
+  <Entry File="ithos\66c.wav" ID="66" Part="c">“If she keeps this up  she's going to get sick…”</Entry>
+  <Entry File="ithos\67a.wav" ID="67" Part="a">Doctor “I'm sorry…  But your friend's condition  remains unchanged…”</Entry>
+  <Entry File="ithos\67b.wav" ID="67" Part="b">“You'll have to be patient and wait this out.  These things take time.  Just like fine wine,time is of the essence.”</Entry>
+  <Entry File="ithos\68a.wav" ID="68" Part="a">Cloud “A billion mirror fragments…  small…light…”</Entry>
+  <Entry File="ithos\68b.wav" ID="68" Part="b">“taken…angel's…  singing voices…  …Xeno…gears…”</Entry>
+  <Entry File="ithos\69a.wav" ID="69" Part="a">Cloud “uh…a….aah…”</Entry>
+  <Entry File="ithos\69b.wav" ID="69" Part="b">“…what…  What number….am I?”</Entry>
+  <Entry File="ithos\70a.wav" ID="70" Part="a">Tifa “Cloud…  I don't understand a word.”</Entry>
+  <Entry File="ithos\70b.wav" ID="70" Part="b">“I'm such a fool……  I thought I could do   something to help…”</Entry>
+  <Entry File="ithos\71a.wav" ID="71" Part="a">Tifa “…It's no use…I don't understand  a thing,Cloud.”</Entry>
+  <Entry File="ithos\71b.wav" ID="71" Part="b">“What should I do?  What if you never recover  for the rest of your life?”</Entry>
+  <Entry File="ithos\72.wav" ID="72">Tifa “Eyaaah!?”</Entry>
+  <Entry File="ithos\73.wav" ID="73">Tifa “Oh no…  It's…”</Entry>
+  <Entry File="ithos\74.wav" ID="74">Cloud “…coming….  They're…coming…!!”</Entry>
+  <Entry File="ithos\75.wav" ID="75">Cid “What did you say,Cloud!?”</Entry>
+  <Entry File="ithos\76.wav" ID="76">Cid “Damn.  What the hell's goin' on!?”</Entry>
+  <Entry File="ithos\77.wav" ID="77">Doctor “This is bad!!  This one's big!”</Entry>
+  <Entry File="ithos\78.wav" ID="78">“Eyaaah!  I hate earthquakes!!”</Entry>
+  <Entry File="ithos\79.wav" ID="79">Tifa “Oh god…  The tremors are getting worse.”</Entry>
+  <Entry File="ithos\80.wav" ID="80">Tifa “Wait a minute,Cloud.”</Entry>
+  <Entry File="ithos\81.wav" ID="81">Tifa “Doctor! Shouldn't we move  him somewhere?”</Entry>
+  <Entry File="ithos\82.wav" ID="82">Doctor “Hmm…It might be safer  to move to an open area.”</Entry>
+  <Entry File="ithos\83a.wav" ID="83" Part="a">Tifa “Don't you worry about  a thing,Cloud…”</Entry>
+  <Entry File="ithos\83b.wav" ID="83" Part="b">“I'll see to it that you get  somewhere safe!”</Entry>
+  <Entry File="ithos\84.wav" ID="84">Doctor “No! The structure can't take it!! *   Hurry!”</Entry>
+  <Entry File="ithos\85.wav" ID="85">Tifa “Yes!”</Entry>
+  <Entry File="ithos\86.wav" ID="86">Tifa “Ready Cloud?  We're leaving now!!”</Entry>
+  <Entry File="ithos\87.wav" ID="87">“Well anyhow…  Hey,you all look terrible.  Why don't you get some rest?”</Entry>
+  <Entry File="ithos\88.wav" ID="88">“OK! Perfect!  Well then,take care.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ithos\0.wav" ID="0">Mideel,Clinic</Entry>
+-->
+</VoiceList>

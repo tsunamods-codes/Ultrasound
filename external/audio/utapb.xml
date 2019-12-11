@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="utapb\1.wav" ID="1">Elena “Yy,you!?  How did you get here?”</Entry>
+  <Entry File="utapb\2a.wav" ID="2" Part="a">“Never mind that.  I guess it's fate  that brought us together.”</Entry>
+  <Entry File="utapb\2b.wav" ID="2" Part="b">“Get ready to die!!”</Entry>
+  <Entry File="utapb\3.wav" ID="3">Reno “Elena,you talk too much.”</Entry>
+  <Entry File="utapb\4.wav" ID="4">Elena “Ww,what?”</Entry>
+  <Entry File="utapb\5.wav" ID="5">Reno “What are we doing way out here  in the middle of nowhere?”</Entry>
+  <Entry File="utapb\6.wav" ID="6">Elena “We're taking a vacation and  resting up from our work.”</Entry>
+  <Entry File="utapb\7.wav" ID="7">Reno “Now our vacation is  ruined.”</Entry>
+  <Entry File="utapb\8.wav" ID="8">Elena “B,but…”</Entry>
+  <Entry File="utapb\9.wav" ID="9">Rude “Even the booze tastes bad now.”</Entry>
+  <Entry File="utapb\10.wav" ID="10">Elena “…Sorry…”</Entry>
+  <Entry File="utapb\11a.wav" ID="11" Part="a">Reno “Drink,Rude!  How long have we been a team?”</Entry>
+  <Entry File="utapb\11b.wav" ID="11" Part="b">“Being a Turk's been hard at times,  but all in all,I'm glad I did it.”</Entry>
+  <Entry File="utapb\11c.wav" ID="11" Part="c">“After all,I got to meet a bunch  of wing nuts like you.”</Entry>
+  <Entry File="utapb\12.wav" ID="12">Rude “To the Turks…  To Reno…cheers!”</Entry>
+  <Entry File="utapb\13a.wav" ID="13" Part="a">Elena “Hmm,you're lucky all right.  Now get out of my sight!”</Entry>
+  <Entry File="utapb\13b.wav" ID="13" Part="b">“The next time we meet  I won't be so nice.”</Entry>
+  <Entry File="utapb\14a.wav" ID="14" Part="a">“Hey,hey,welcome!  You on a trip?  Well,just relax and make yourself at home.”</Entry>
+  <Entry File="utapb\14b.wav" ID="14" Part="b">“Nowadays,Wutai's just able to get by  thanks to the tourists.”</Entry>
+  <Entry File="utapb\15.wav" ID="15">“Seems like the town got really lively   since you arrived.  Did anything happen?”</Entry>
+  <Entry File="utapb\16a.wav" ID="16" Part="a">“First the ground started shaking,  then that large star…”</Entry>
+  <Entry File="utapb\16b.wav" ID="16" Part="b">“Y,you think…    It's all over?”</Entry>
+  <Entry File="utapb\17a.wav" ID="17" Part="a">“Hey.  You think the store feels gloomy?”</Entry>
+  <Entry File="utapb\17b.wav" ID="17" Part="b">“Let's just say that I  like things quiet.”</Entry>
+  <Entry File="utapb\18a.wav" ID="18" Part="a">“It's been really loud and busy  outside.”</Entry>
+  <Entry File="utapb\18b.wav" ID="18" Part="b">“Someone outside must  be up to something bad…”</Entry>
+  <Entry File="utapb\19a.wav" ID="19" Part="a">“Hey.  Things look pretty sad around here.”</Entry>
+  <Entry File="utapb\19b.wav" ID="19" Part="b">“With things the way they are  in the world I guess there's  nothing I can do about it.”</Entry>
+  <Entry File="utapb\19c.wav" ID="19" Part="c">“Running around like a fool won't help  matters any. So,we all might as well  sit back and have a beer…”</Entry>
+  <Entry File="utapb\20a.wav" ID="20" Part="a">Shinra soldier “So our reports were right!   He IS here on vacation!”</Entry>
+  <Entry File="utapb\20b.wav" ID="20" Part="b">“We've finally found him!  Get the Turks here for back-up!”</Entry>
+  <Entry File="utapb\21.wav" ID="21">Reno “…What a drag.”</Entry>
+  <Entry File="utapb\22.wav" ID="22">Shinra soldier “Ww,what was that?”</Entry>
+  <Entry File="utapb\23.wav" ID="23">Reno “We're off duty now  and can't save your butts.”</Entry>
+  <Entry File="utapb\24.wav" ID="24">Shinra soldier “We know you're off duty,  but…”</Entry>
+  <Entry File="utapb\25.wav" ID="25">“If you knew,then don't bother us!  Lookin' at you is makin' me sober.”</Entry>
+  <Entry File="utapb\26.wav" ID="26">Shinra soldier “But you all have orders from  headquarters to look for him too!”</Entry>
+  <Entry File="utapb\27.wav" ID="27">“All right,fine!  We'll get him without any  help from the Turks,just you see!”</Entry>
+  <Entry File="utapb\28.wav" ID="28">Shinra soldier “And don't think that headquarters  isn't going to hear about this!!”</Entry>
+  <Entry File="utapb\29a.wav" ID="29" Part="a">Elena “Reno,do you think that was  really such a good idea!?”</Entry>
+  <Entry File="utapb\29b.wav" ID="29" Part="b">“I mean is that the way a professional,  a Turk,would act!?”</Entry>
+  <Entry File="utapb\30a.wav" ID="30" Part="a">Reno “Elena.   Don't misunderstand.”</Entry>
+  <Entry File="utapb\30b.wav" ID="30" Part="b">“Those who sacrifice themselves  for their job aren't pros…  …just fools.”</Entry>
+  <Entry File="utapb\31.wav" ID="31">Elena “Rude?”</Entry>
+  <Entry File="utapb\32.wav" ID="32">Rude “…”</Entry>
+  <Entry File="utapb\33.wav" ID="33">Elena “Well,I don't buy that!  Goodbye!!”</Entry>
+  <Entry File="utapb\34.wav" ID="34">Reno “Relax.  She's not a child.  Let her have her way.”</Entry>
+  <Entry File="utapb\35a.wav" ID="35" Part="a">Reno “…  It's just that we're off duty!”</Entry>
+  <Entry File="utapb\35b.wav" ID="35" Part="b">“I don't feel like drinking with you.  And don't talk to me.”</Entry>
+  <Entry File="utapb\36a.wav" ID="36" Part="a">“Hey.  Did you hear?  There used to be a Water God  here in Wutai.”</Entry>
+  <Entry File="utapb\36b.wav" ID="36" Part="b">“They say the Water God was a   huge snake!”</Entry>
+  <Entry File="utapb\36c.wav" ID="36" Part="c">“Now we live in a world filled with Mako.  Not many people would believe  in something like that now.”</Entry>
+  <Entry File="utapb\36d.wav" ID="36" Part="d">“But some in the world,  and here in Wutai,  still believe.”</Entry>
+  <Entry File="utapb\36e.wav" ID="36" Part="e">“Believe in the scales of the Water God  and in Materia that has its power in it.”</Entry>
+  <Entry File="utapb\38.wav" ID="38">Please come again to “Turtle's Paradise“! We're looking forward to seeing you!</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="utapb\0.wav" ID="0">Bar [Turtle Paradise]</Entry>
+	<Entry File="utapb\37a.wav" ID="37" Part="a">Congrats! You have just found all six flyers for the "Turtle's Paradise"!</Entry>
+	<Entry File="utapb\37b.wav" ID="37" Part="b">How wonderful! Now here is your prize, just as we promised!!</Entry>
+	<Entry File="utapb\39.wav" ID="39">Received "Megalixir"!</Entry>
+	<Entry File="utapb\40.wav" ID="40">Received "Power Source"!</Entry>
+	<Entry File="utapb\41.wav" ID="41">Received "Guard Source"!</Entry>
+	<Entry File="utapb\42.wav" ID="42">Received "Magic Source"!</Entry>
+	<Entry File="utapb\43.wav" ID="43">Received "Mind Source"!</Entry>
+	<Entry File="utapb\44.wav" ID="44">Received "Speed Source"!</Entry>
+	<Entry File="utapb\45.wav" ID="45">Received "Luck Source"!</Entry>
+-->
+</VoiceList>

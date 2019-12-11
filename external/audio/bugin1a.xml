@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="bugin1a\1a.wav" ID="1" Part="a">Bugenhagen “Ho Ho Hoooo.  It looks like you have them all together.  Then let's begin.”</Entry>
+  <Entry File="bugin1a\1b.wav" ID="1" Part="b">“I'll stand there.”</Entry>
+  <Entry File="bugin1a\2a.wav" ID="2" Part="a">Bugenhagen “The story of the planets…  and those who lived with them…”</Entry>
+  <Entry File="bugin1a\2b.wav" ID="2" Part="b">“If you want to know more,  then you must listen to  the words of the elders.”</Entry>
+  <Entry File="bugin1a\3a.wav" ID="3" Part="a">Bugenhagen “Nanaki?  His father a coward?”</Entry>
+  <Entry File="bugin1a\3b.wav" ID="3" Part="b">“So that's it…Nanaki's been  thinking that all this time…”</Entry>
+  <Entry File="bugin1a\4a.wav" ID="4" Part="a">Bugenhagen “Ho Ho Hoooo.   You people.”</Entry>
+  <Entry File="bugin1a\4b.wav" ID="4" Part="b">“Where is Nanaki?  I hope he wasn't a burden.”</Entry>
+  <Entry File="bugin1a\5a.wav" ID="5" Part="a">“Ho Ho Hoooo. I'm glad  you're back,Nanaki.”</Entry>
+  <Entry File="bugin1a\5b.wav" ID="5" Part="b">“I hate to trouble you,  but please look after Nanaki.”</Entry>
+  <Entry File="bugin1a\6.wav" ID="6">Bugenhagen “Ho Ho Hoooo. That's a machine  only I can use.”</Entry>
+  <Entry File="bugin1a\7a.wav" ID="7" Part="a">Bugenhagen “Ho Ho Hoooo.”</Entry>
+  <Entry File="bugin1a\7b.wav" ID="7" Part="b">“…no time for humming now.  The Planet is nearing  imminent death.”</Entry>
+  <Entry File="bugin1a\7c.wav" ID="7" Part="c">“But is this perhaps,what the  Planet wanted? Did the Planet  actually want to end like this?”</Entry>
+  <Entry File="bugin1a\7d.wav" ID="7" Part="d">“I don't believe so.  Were it not so,you people would still  have much to do.”</Entry>
+  <Entry File="bugin1a\7e.wav" ID="7" Part="e">“And myself,too.  Come back whenever you are  in need of my knowledge.”</Entry>
+  <Entry File="bugin1a\8a.wav" ID="8" Part="a">Bugenhagen “Ho Ho Hoooo.”</Entry>
+  <Entry File="bugin1a\8b.wav" ID="8" Part="b">“…no time for humming now.  The Planet is nearing  imminent death.”</Entry>
+  <Entry File="bugin1a\8c.wav" ID="8" Part="c">“Where is Cloud?  Wasn't he with you?”</Entry>
+  <Entry File="bugin1a\9.wav" ID="9">Tifa “That's why we're here…  Cloud…  Cloud has…”</Entry>
+  <Entry File="bugin1a\10a.wav" ID="10" Part="a">Bugenhagen “I see…  Cloud has…”</Entry>
+  <Entry File="bugin1a\10b.wav" ID="10" Part="b">“It's true that there are several  places on the planet where  the Lifestream is gathered.”</Entry>
+  <Entry File="bugin1a\10c.wav" ID="10" Part="c">“But most of those places are  below the surface where  humans cannot reach them.”</Entry>
+  <Entry File="bugin1a\10d.wav" ID="10" Part="d">“There's only one place  An island in the Southern Sea… “What did you say?  I haven't left here in years…  No good. I can't remember.”</Entry>
+  <Entry File="bugin1a\11a.wav" ID="11" Part="a">Bugenhagen “In the Southern Seas I think  there was an island where  the Lifestream is.”</Entry>
+  <Entry File="bugin1a\11b.wav" ID="11" Part="b">“But even if you find  Cloud there…”</Entry>
+  <Entry File="bugin1a\11c.wav" ID="11" Part="c">“The Lifestream is a mass of  spiritual energy,”</Entry>
+  <Entry File="bugin1a\11d.wav" ID="11" Part="d">“and one person alone   couldn't stand against  such an incredible spiritual current…”</Entry>
+  <Entry File="bugin1a\12a.wav" ID="12" Part="a">Bugenhagen “Listening to you and Nanaki speak  has made me feel young again.”</Entry>
+  <Entry File="bugin1a\12b.wav" ID="12" Part="b">“Ho Ho Hoooo.   Might sound a little sarcastic.”</Entry>
+  <Entry File="bugin1a\13.wav" ID="13">Bugenhagen “Ho Ho Hoooo.   If you ever are in need of my wisdom,  you are always welcome here.”</Entry>
+  <Entry File="bugin1a\14.wav" ID="14">Cloud “Yeah,that's why we came.”</Entry>
+  <Entry File="bugin1a\15a.wav" ID="15" Part="a">Bugenhagen “What to do? Have you lost your way?  When that happens,we each have to   take a good long look at ourselves.”</Entry>
+  <Entry File="bugin1a\15b.wav" ID="15" Part="b">“There's always something in the deepest  reaches of our hearts.”</Entry>
+  <Entry File="bugin1a\15c.wav" ID="15" Part="c">“Something buried,  or something forgotten.”</Entry>
+  <Entry File="bugin1a\16.wav" ID="16">“Remember it…  Whatever that is,must certainly be   what you are all looking for…”</Entry>
+  <Entry File="bugin1a\17.wav" ID="17">Cloud “That's easy enough to say…  But,I can't remember a thing.”</Entry>
+  <Entry File="bugin1a\18.wav" ID="18">Bugenhagen “It must be there.  Look harder!”</Entry>
+  <Entry File="bugin1a\19.wav" ID="19">Barret “This ain't no good with just us!  Cloud,we gotta  get some others in here.”</Entry>
+  <Entry File="bugin1a\20.wav" ID="20">Tifa “…no good. Cloud,  let's have the others come.”</Entry>
+  <Entry File="bugin1a\21.wav" ID="21">Red XIII “nghh…no good. We alone cannot do it.  We need to have the others here.”</Entry>
+  <Entry File="bugin1a\22.wav" ID="22">Cid “Ahh,no good.  Cloud you call  the others in here too!”</Entry>
+  <Entry File="bugin1a\23.wav" ID="23">Yuffie “You expect me to do that?  Let the others do it!”</Entry>
+  <Entry File="bugin1a\24.wav" ID="24">Cait Sith “How about it,Cloud?  Shouldn't we have the others come?”</Entry>
+  <Entry File="bugin1a\25.wav" ID="25">Vincent “I don't know,  Cloud.  I think we should have everyone here.”</Entry>
+  <Entry File="bugin1a\26.wav" ID="26">Bugenhagen “Do you see it?   What is it that you are searching for?”</Entry>
+  <Entry File="bugin1a\27.wav" ID="27">Cait Sith “Nope. Not a thing.  Naw. Can't come up with a thing.”</Entry>
+  <Entry File="bugin1a\28.wav" ID="28">Yuffie “Me either! I don't get any of this!”</Entry>
+  <Entry File="bugin1a\29a.wav" ID="29" Part="a">Cloud “I remember  Aeris a lot.”</Entry>
+  <Entry File="bugin1a\29b.wav" ID="29" Part="b">“No…not that.  You haven't remembered.  You haven't forgotten.  That's not it…”</Entry>
+  <Entry File="bugin1a\29c.wav" ID="29" Part="c">“How would you say…  Aeris was right  there all along. Right by our side.”</Entry>
+  <Entry File="bugin1a\29d.wav" ID="29" Part="d">“She was so close,we couldn't see her.  What Aeris did…  The words she left behind…”</Entry>
+  <Entry File="bugin1a\30.wav" ID="30">Tifa “That reminds me…  I was the same.”</Entry>
+  <Entry File="bugin1a\31.wav" ID="31">Red XIII “…as was I.”</Entry>
+  <Entry File="bugin1a\32.wav" ID="32">Barret “Me too…”</Entry>
+  <Entry File="bugin1a\33.wav" ID="33">Cloud “She said she was the only one who  could stop Sephiroth's Meteor.”</Entry>
+  <Entry File="bugin1a\34.wav" ID="34">Tifa “But Aeris  is gone.”</Entry>
+  <Entry File="bugin1a\35.wav" ID="35">Red XIII “Is it impossible for us to carry on…  what Aeris tried to accomplish?”</Entry>
+  <Entry File="bugin1a\36.wav" ID="36">Barret “We ain't no Ancients,  if that's what ya mean.”</Entry>
+  <Entry File="bugin1a\37.wav" ID="37">Cid “What? Did that girl  go off to that place?”</Entry>
+  <Entry File="bugin1a\38.wav" ID="38">Cloud “That's it!!”</Entry>
+  <Entry File="bugin1a\39.wav" ID="39">Cid “What's it?”</Entry>
+  <Entry File="bugin1a\40.wav" ID="40">Cloud “Of course,Cid!”</Entry>
+  <Entry File="bugin1a\41a.wav" ID="41" Part="a">Cloud “We don't know about it.”</Entry>
+  <Entry File="bugin1a\41b.wav" ID="41" Part="b">“What did  Aeris know?”</Entry>
+  <Entry File="bugin1a\41c.wav" ID="41" Part="c">“Why did she face Sephiroth  without running away?”</Entry>
+  <Entry File="bugin1a\42.wav" ID="42">Red XIII “I see…  She returned there once again,correct?”</Entry>
+  <Entry File="bugin1a\43.wav" ID="43">Bugenhagen “Hmmm.  Perhaps I'll have you take me there.”</Entry>
+  <Entry File="bugin1a\44.wav" ID="44">Red XIII “You're going too?”</Entry>
+  <Entry File="bugin1a\45a.wav" ID="45" Part="a">Bugenhagen “What's so surprising   about that?”</Entry>
+  <Entry File="bugin1a\45b.wav" ID="45" Part="b">“Even I like to get out from time to time  and see the outside world.  I wonder what did it?  I haven't felt like this in ages.”</Entry>
+  <Entry File="bugin1a\46.wav" ID="46">Red XIII “It must be the planet.  The planet is calling you!”</Entry>
+  <Entry File="bugin1a\47.wav" ID="47">Cid “Yeah,hoo boy,the planet calling…alright.”</Entry>
+  <Entry File="bugin1a\48.wav" ID="48">Bugenhagen “Ho Ho Hoooo.  Then let's go.”</Entry>
+  <Entry File="bugin1a\49a.wav" ID="49" Part="a">Cloud “Oh yeah,Bugenhagen.  I have one more thing I want to ask you.”</Entry>
+  <Entry File="bugin1a\49b.wav" ID="49" Part="b">“We're carrying around Huge Materia.  This is pretty delicate stuff and we would  like to keep it in a safe place…”</Entry>
+  <Entry File="bugin1a\50.wav" ID="50">Bugenhagen “Ho Ho Hoooo.  Then we'll put it upstairs.  Now,shall we be on our way?”</Entry>
+  <Entry File="bugin1a\51.wav" ID="51">Bugenhagen “I'll teach you how to work the machine.  Watch carefully now.  You just pull here…”</Entry>
+  <Entry File="bugin1a\52a.wav" ID="52" Part="a">Bugenhagen “You are using Shinra Materia,  as a weapon?”</Entry>
+  <Entry File="bugin1a\52b.wav" ID="52" Part="b">“Materia is highly dense spiritual energy.  A shred of the Planet's life.  It should not be used as a weapon.”</Entry>
+  <Entry File="bugin1a\52c.wav" ID="52" Part="c">“We must stop using it…  or the Planet will be weakened.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="bugin1a\0.wav" ID="0">Observatory</Entry>
+-->
+</VoiceList>

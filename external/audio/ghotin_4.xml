@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ghotin_4\0.wav" ID="0">Cait Sith “We don't usually get the chance to be  together like this,huh?”</Entry>
+  <Entry File="ghotin_4\1a.wav" ID="1" Part="a">Cait Sith “Cloud,how 'bout it?  Can you tell me what's happened so far?”</Entry>
+  <Entry File="ghotin_4\1b.wav" ID="1" Part="b">“I don't really know what's goin' on because   I wasn't here in the beginning.”</Entry>
+  <Entry File="ghotin_4\2.wav" ID="2">Cid “Yeah! I'm for that!”</Entry>
+  <Entry File="ghotin_4\3.wav" ID="3">Vincent “Good idea.”</Entry>
+  <Entry File="ghotin_4\4.wav" ID="4">Barret “I been here since the beginnin',  an' I still don't know what  the hell's goin' on either.”</Entry>
+  <Entry File="ghotin_4\5.wav" ID="5">Barret “Cloud,the hell's goin' on?  C'mon,tell us!”</Entry>
+  <Entry File="ghotin_4\7.wav" ID="7">Cid “All we have to do now is sleep!  You're still young!  What're you complaining about?”</Entry>
+  <Entry File="ghotin_4\8.wav" ID="8">Cloud “Phew…”</Entry>
+  <Entry File="ghotin_4\9a.wav" ID="9" Part="a">Cloud “We are going after Sephiroth.”</Entry>
+  <Entry File="ghotin_4\9b.wav" ID="9" Part="b">“Sephiroth must be in search of   the Promised Land.”</Entry>
+  <Entry File="ghotin_4\10.wav" ID="10">Cid “The Promised Land?”</Entry>
+  <Entry File="ghotin_4\11a.wav" ID="11" Part="a">Cloud “A land full of Mako energy.  …Or at least that's  what the Shinra believe.”</Entry>
+  <Entry File="ghotin_4\11b.wav" ID="11" Part="b">“I don't know  if it actually exists.”</Entry>
+  <Entry File="ghotin_4\12.wav" ID="12">Aeris “The Cetras will return to the Promised Land.  A land that promises boundless happiness.”</Entry>
+  <Entry File="ghotin_4\13.wav" ID="13">Barret “Cetra? That some kinda disease?”</Entry>
+  <Entry File="ghotin_4\14a.wav" ID="14" Part="a">Aeris “That's what the Ancients  call themselves.”</Entry>
+  <Entry File="ghotin_4\14b.wav" ID="14" Part="b">“Hey,didn't you  listen to the elders   at Cosmo Canyon?”</Entry>
+  <Entry File="ghotin_4\15.wav" ID="15">Aeris “…You don't 'know' where the  Promised Land of the Ancients is.”</Entry>
+  <Entry File="ghotin_4\16.wav" ID="16">Aeris “You search and travel,until you feel it.  Then you just know  that you've found it.”</Entry>
+  <Entry File="ghotin_4\17.wav" ID="17">Cloud “Aeris…can you feel it too?”</Entry>
+  <Entry File="ghotin_4\18.wav" ID="18">Aeris “I think so.”</Entry>
+  <Entry File="ghotin_4\19.wav" ID="19">Tifa “So Sephiroth is traveling the world   because he's searching for the Promised Land?  Is that it?”</Entry>
+  <Entry File="ghotin_4\20.wav" ID="20">Aeris “He's searching for that,  and one other thing.”</Entry>
+  <Entry File="ghotin_4\21.wav" ID="21">Cloud “The Black Materia?”</Entry>
+  <Entry File="ghotin_4\22.wav" ID="22">Cait Sith “I heard from Dio  that a man in a black cape  was lookin' for the Black Materia.”</Entry>
+  <Entry File="ghotin_4\23.wav" ID="23">Tifa “I've never heard of Black Materia…”</Entry>
+  <Entry File="ghotin_4\24.wav" ID="24">Tifa “How many men with black capes   and number tattoos are there?”</Entry>
+  <Entry File="ghotin_4\25.wav" ID="25">Red XIII “…You know,of course,  my tattoo is number 13.”</Entry>
+  <Entry File="ghotin_4\26.wav" ID="26">Cloud “How did you get that tattoo?”</Entry>
+  <Entry File="ghotin_4\27.wav" ID="27">Red XIII “…Hojo put it on me.  The rest are just war scars,  but the number was done by Hojo.”</Entry>
+  <Entry File="ghotin_4\28.wav" ID="28">Tifa “So there are at least 13!?”</Entry>
+  <Entry File="ghotin_4\29.wav" ID="29">Aeris “You know…”</Entry>
+  <Entry File="ghotin_4\30a.wav" ID="30" Part="a">Aeris “I think Hojo did something to   those men in the black capes.”</Entry>
+  <Entry File="ghotin_4\30b.wav" ID="30" Part="b">“But I don't know what  it has to do with Sephiroth though…”</Entry>
+  <Entry File="ghotin_4\31.wav" ID="31">Aeris “That's why I think we should just  go after Sephiroth himself.”</Entry>
+  <Entry File="ghotin_4\32.wav" ID="32">Barret “Yeah,me too!  It's all just too damn confusin'.”</Entry>
+  <Entry File="ghotin_4\33.wav" ID="33">Aeris “And…”</Entry>
+  <Entry File="ghotin_4\34.wav" ID="34">Aeris “I'm sorry,forget it!”</Entry>
+  <Entry File="ghotin_4\35.wav" ID="35">Aeris “I think I'm tired.  I'm going to bed now.”</Entry>
+  <Entry File="ghotin_4\36.wav" ID="36">Cait Sith “What was that,  all of a sudden!?”</Entry>
+  <Entry File="ghotin_4\37.wav" ID="37">Yuffie “What!? That's it?  I'm goin' to bed!”</Entry>
+  <Entry File="ghotin_4\38.wav" ID="38">Cait Sith “Is that all?  How 'bout the Black Materia?”</Entry>
+  <Entry File="ghotin_4\39.wav" ID="39">Cloud “You wouldn't understand even if I told you.”</Entry>
+  <Entry File="ghotin_4\40.wav" ID="40">Barret “Now all we gotta do is take action!  We're startin' tomorrow!!”</Entry>
+  <Entry File="ghotin_4\41.wav" ID="41">Red XIII “Cloud…”</Entry>
+  <Entry File="ghotin_4\42.wav" ID="42">Red XIII “I'm number 13.  Am I going to go mad too?”</Entry>
+  <Entry File="ghotin_4\43.wav" ID="43">Tifa “I don't know what Hojo did to you,  but you've been all right so far,right?”</Entry>
+  <Entry File="ghotin_4\44.wav" ID="44">Red XIII “But…”</Entry>
+  <Entry File="ghotin_4\45.wav" ID="45">Tifa “Be strong.”</Entry>
+  <Entry File="ghotin_4\46.wav" ID="46">Red XIII “But,I…”</Entry>
+  <Entry File="ghotin_4\47.wav" ID="47">Tifa “Stop it,Red XIII!  Be strong!”</Entry>
+  <Entry File="ghotin_4\48.wav" ID="48">Cloud “Tifa?”</Entry>
+  <Entry File="ghotin_4\49.wav" ID="49">Tifa “You're not the only one who's worried!”</Entry>
+  <Entry File="ghotin_4\50.wav" ID="50">Cait Sith “I don't know what's goin' on,  but we're in a bad situation…”</Entry>
+  <Entry File="ghotin_4\51.wav" ID="51">Vincent “Hey Cid,  let's go back to our rooms.”</Entry>
+  <Entry File="ghotin_4\52.wav" ID="52">Cid “…zzzz…zzzz…”</Entry>
+  <Entry File="ghotin_4\53.wav" ID="53">Cait Sith “What took you so long,  Cloud?”</Entry>
+  <Entry File="ghotin_4\54.wav" ID="54">Cait Sith “Oh yeah,about the Temple of the Ancients.   I think if we take the Tiny Bronco   east towards the sea,   we should be able to find it.”</Entry>
+  <Entry File="ghotin_4\55.wav" ID="55">Cait Sith “Well then,shall we get goin'?  Who's gonna go?”</Entry>
+  <Entry File="ghotin_4\56.wav" ID="56">Aeris “I want to go!  I'm going for sure!”</Entry>
+  <Entry File="ghotin_4\57.wav" ID="57">Cait Sith “Then see you later.”</Entry>
+  <Entry File="ghotin_4\59.wav" ID="59">Barret “Yo!  I'm goin' too,Cloud!  Gotta keep movin'!!”</Entry>
+  <Entry File="ghotin_4\60.wav" ID="60">Cait Sith “The Temple of the Ancients is to the east.  Shall we go?”</Entry>
+  <Entry File="ghotin_4\61.wav" ID="61">Tifa “You know…no,forget it.  Let's go.”</Entry>
+  <Entry File="ghotin_4\62.wav" ID="62">Yuffie “I'm startin' to get nervous.”</Entry>
+  <Entry File="ghotin_4\63.wav" ID="63">Cid “I don't care what's goin' on.  Let's just go!”</Entry>
+  <Entry File="ghotin_4\64.wav" ID="64">Vincent “The Temple of the Ancients…  This might be pretty interesting…”</Entry>
+  <Entry File="ghotin_4\65.wav" ID="65">Red XIII “I'm so excited,my tail's starting to tingle.  Let's go,Cloud!”</Entry>
+  <Entry File="ghotin_4\67e.wav" ID="67" Part="e">Stop in the “Turtle's Paradise”!</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ghotin_4\6.wav" ID="6">I'm tired… All right,I'll give it a shot…</Entry>
+	<Entry File="ghotin_4\58.wav" ID="58" />
+	<Entry File="ghotin_4\66.wav" ID="66">Hotel Lobby</Entry>
+	<Entry File="ghotin_4\67a.wav" ID="67" Part="a">[Turtle's Paradise] No. 3</Entry>
+	<Entry File="ghotin_4\67b.wav" ID="67" Part="b">Forget the bad times with a nice drink…</Entry>
+	<Entry File="ghotin_4\67c.wav" ID="67" Part="c">Only thing missing in Gold Saucer is……</Entry>
+	<Entry File="ghotin_4\67d.wav" ID="67" Part="d">A pub with good drinks and a great atmosphere!</Entry>
+-->
+</VoiceList>

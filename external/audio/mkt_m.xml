@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mkt_m\1.wav" ID="1">“…We're closed now.”</Entry>
+  <Entry File="mkt_m\2.wav" ID="2">“How was it?”</Entry>
+  <Entry File="mkt_m\3.wav" ID="3">Cloud “Not yet.”</Entry>
+  <Entry File="mkt_m\4.wav" ID="4">“Hmm,I'm countin' on you.”</Entry>
+  <Entry File="mkt_m\5.wav" ID="5">“I'm sorry,we're sold out  and I've got nothing for you.”</Entry>
+  <Entry File="mkt_m\6.wav" ID="6">“Hey man.  Got a minute?   I need to talk…man to man.”</Entry>
+  <Entry File="mkt_m\7.wav" ID="7">Cloud “…” What is it? Not interested</Entry>
+  <Entry File="mkt_m\8.wav" ID="8">“Sorry about that.  Just forget it.”</Entry>
+  <Entry File="mkt_m\9a.wav" ID="9" Part="a">“Really!   I really appreciate it.”</Entry>
+  <Entry File="mkt_m\9b.wav" ID="9" Part="b">“I'm sorry,but young lady…  Would you turn the other way,  for a second?”</Entry>
+  <Entry File="mkt_m\10.wav" ID="10">Aeris “Why?”</Entry>
+  <Entry File="mkt_m\11.wav" ID="11">Cloud “…Aeris.”</Entry>
+  <Entry File="mkt_m\12.wav" ID="12">Aeris “Gosh!”</Entry>
+  <Entry File="mkt_m\13a.wav" ID="13" Part="a">“I'm sorry,lady.”</Entry>
+  <Entry File="mkt_m\13b.wav" ID="13" Part="b">“Now here's the thing.  Do you know that vending machine  in the Inn?”</Entry>
+  <Entry File="mkt_m\13c.wav" ID="13" Part="c">“I'm itchin' to know  what they're selling in it.  I just can't ask a girl to go get it.”</Entry>
+  <Entry File="mkt_m\13d.wav" ID="13" Part="d">“What? Why don't I buy it myself?  Well to tell you the truth,  I got in a fight with the guy at the Inn  and can't go there anymore.  Come on,so how 'bout it?”</Entry>
+  <Entry File="mkt_m\14.wav" ID="14">Cloud “…” I'll go Not interested</Entry>
+  <Entry File="mkt_m\15.wav" ID="15">Aeris “Finished?”</Entry>
+  <Entry File="mkt_m\16.wav" ID="16">“Good,thanks.  I'll be waitin' here  when you're done.”</Entry>
+  <Entry File="mkt_m\17.wav" ID="17">Cloud “I got it.”</Entry>
+  <Entry File="mkt_m\18.wav" ID="18">“Oh,really!!  Hey!”</Entry>
+  <Entry File="mkt_m\19.wav" ID="19">Aeris “Geez.”</Entry>
+  <Entry File="mkt_m\20.wav" ID="20">“And,what was it?”</Entry>
+  <Entry File="mkt_m\21.wav" ID="21">“A protein drink set.   That jerk. I'm gonna do so much  more business than him,  his head'll spin.”</Entry>
+  <Entry File="mkt_m\22.wav" ID="22">“A Stamina Drink Set.  That jerk. I'm gonna do so much  more business than him,  his head'll spin.”</Entry>
+  <Entry File="mkt_m\23.wav" ID="23">“A Muscle Relaxing Cream Set.  That jerk. I'm gonna do so much  more business than him,  his head'll spin.”</Entry>
+  <Entry File="mkt_m\24.wav" ID="24">“Thanks,bud.  I'm motivated now.  Take this,it's not much…”</Entry>
+  <Entry File="mkt_m\28.wav" ID="28">“Let's do some shoppin'.”</Entry>
+  <Entry File="mkt_m\29.wav" ID="29">“Good luck.”</Entry>
+  <Entry File="mkt_m\30.wav" ID="30">“Come by again.  I'll still be here  doin' business.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mkt_m\0.wav" ID="0">Materia Store</Entry>
+	<Entry File="mkt_m\25.wav" ID="25">Received Key Item "Diamond Tiara"!</Entry>
+	<Entry File="mkt_m\26.wav" ID="26">Received Key Item "Ruby Tiara"!</Entry>
+	<Entry File="mkt_m\27.wav" ID="27">Received Key Item "Glass Tiara"!</Entry>
+-->
+</VoiceList>

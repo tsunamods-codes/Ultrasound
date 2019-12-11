@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="zz3\3.wav" ID="3">“Ho ho.  It's unusual for people to   come to such an out of the way place…”</Entry>
+  <Entry File="zz3\4.wav" ID="4">“I can't remember how long it's   been since my last guest.”</Entry>
+  <Entry File="zz3\5.wav" ID="5">Cloud “Who are you?”</Entry>
+  <Entry File="zz3\6.wav" ID="6">Tifa “Who are you?”</Entry>
+  <Entry File="zz3\7.wav" ID="7">Cid “Who are you?”</Entry>
+  <Entry File="zz3\8.wav" ID="8">“Me?  I'm…”</Entry>
+  <Entry File="zz3\9.wav" ID="9">“I don't know.”</Entry>
+  <Entry File="zz3\10.wav" ID="10">Cloud “You don't know who  you are?”</Entry>
+  <Entry File="zz3\11.wav" ID="11">Tifa “Wha?  You don't know who you are?”</Entry>
+  <Entry File="zz3\12.wav" ID="12">Cid “Huh? You're sayin' you don't even  know who you are?”</Entry>
+  <Entry File="zz3\13a.wav" ID="13" Part="a">“Been a while since  I gave it any thought…”</Entry>
+  <Entry File="zz3\13b.wav" ID="13" Part="b">“What was it they used to call me?”</Entry>
+  <Entry File="zz3\14a.wav" ID="14" Part="a">“Oh yeah!!  They used to call me the 'Chocobo Sage'.  That's right!!”</Entry>
+  <Entry File="zz3\14b.wav" ID="14" Part="b">“Right,that was it,  The Chocobo Sage!!”</Entry>
+  <Entry File="zz3\18.wav" ID="18">Chocobo Sage “Now what can I do for you?”</Entry>
+  <Entry File="zz3\21.wav" ID="21">Chocobo Sage “That Chocobo?  Well that one is…”</Entry>
+  <Entry File="zz3\22.wav" ID="22">Chocobo Sage “Let's see now,  I don't quite remember…”</Entry>
+  <Entry File="zz3\23a.wav" ID="23" Part="a">Chocobo Sage “I remember now!  That's the one they call…”</Entry>
+  <Entry File="zz3\23b.wav" ID="23" Part="b">“It's a Mountain Chocobo.  And like the name says,  he can cross any mountain.”</Entry>
+  <Entry File="zz3\23c.wav" ID="23" Part="c">“There is another one that  can cross rivers,too.  They call him a 'River Chocobo'.”</Entry>
+  <Entry File="zz3\24.wav" ID="24">Cloud “Where can we catch one?”</Entry>
+  <Entry File="zz3\25.wav" ID="25">Tifa “Where can we find one?”</Entry>
+  <Entry File="zz3\26.wav" ID="26">Cid “Where can I get one of those  Whatdyacallem Chocobos?”</Entry>
+  <Entry File="zz3\27.wav" ID="27">Chocobo Sage “There aren't any around now.”</Entry>
+  <Entry File="zz3\28.wav" ID="28">Cloud “…  That's one right there,isn't it?”</Entry>
+  <Entry File="zz3\29.wav" ID="29">Tifa “What about that one    right there?”</Entry>
+  <Entry File="zz3\30.wav" ID="30">Cid “What're you flappin' about?  There's one right there!”</Entry>
+  <Entry File="zz3\31.wav" ID="31">Chocobo Sage “Wha?  I wonder what he's doing there?”</Entry>
+  <Entry File="zz3\32.wav" ID="32">Chocobo Sage “Can't remember for the life of me…”</Entry>
+  <Entry File="zz3\33a.wav" ID="33" Part="a">Chocobo Sage “Oh,oh yeah!  That Chocobo…”</Entry>
+  <Entry File="zz3\33b.wav" ID="33" Part="b">“…was bred from a  'Great Chocobo' and a  'Good Chocobo'.”</Entry>
+  <Entry File="zz3\33c.wav" ID="33" Part="c">“If you give them "Carob Nuts"  during breeding,there's a chance  you'll get one of these Chocobos.”</Entry>
+  <Entry File="zz3\34a.wav" ID="34" Part="a">Cloud “So where's this Chocobo?”</Entry>
+  <Entry File="zz3\34b.wav" ID="34" Part="b">“So where can I get some  of these 'Carob Nuts'?”</Entry>
+  <Entry File="zz3\35a.wav" ID="35" Part="a">Tifa “So where can I  find those Chocobos?”</Entry>
+  <Entry File="zz3\35b.wav" ID="35" Part="b">“…And what about those 'Carob Nuts'?</Entry>
+  <Entry File="zz3\36a.wav" ID="36" Part="a">Cid “So where is this Chocobo?”</Entry>
+  <Entry File="zz3\36b.wav" ID="36" Part="b">“And what about  those nut things?”</Entry>
+  <Entry File="zz3\37a.wav" ID="37" Part="a">Chocobo Sage “Huh? Where?  Where was that?”</Entry>
+  <Entry File="zz3\37b.wav" ID="37" Part="b">“And what was  that nut?”</Entry>
+  <Entry File="zz3\38a.wav" ID="38" Part="a">Chocobo Sage “Oh,OK. I remember!  That Chocobo…”</Entry>
+  <Entry File="zz3\38b.wav" ID="38" Part="b">“…Is on an island southeast of here,  In a place called Mideel  surrounded by greenery.”</Entry>
+  <Entry File="zz3\38c.wav" ID="38" Part="c">“You should be able to catch one  just west of Mideel. And some  'Carob Nuts',too.”</Entry>
+  <Entry File="zz3\38d.wav" ID="38" Part="d">“There used to be some monsters  just south of here that  had them. Or you might…”</Entry>
+  <Entry File="zz3\39.wav" ID="39">“…  Funny…I forgot  What I was saying just now.”</Entry>
+  <Entry File="zz3\40a.wav" ID="40" Part="a">Chocobo Sage “Oh right!”</Entry>
+  <Entry File="zz3\40b.wav" ID="40" Part="b">“It was about the Mountain Chocobo  and the River Chocobo  I told you about.”</Entry>
+  <Entry File="zz3\40c.wav" ID="40" Part="c">“When you mate these two   together…”</Entry>
+  <Entry File="zz3\40d.wav" ID="40" Part="d">“…You get one that can  cross rivers AND mountains.”</Entry>
+  <Entry File="zz3\41.wav" ID="41">“And…  And…uh,what was I saying?”</Entry>
+  <Entry File="zz3\42a.wav" ID="42" Part="a">Chocobo Sage “Oh,yeah!  And also…”</Entry>
+  <Entry File="zz3\42b.wav" ID="42" Part="b">“There's one that  can cross oceans,too!”</Entry>
+  <Entry File="zz3\43a.wav" ID="43" Part="a">Cloud “You probably  don't remember but…”</Entry>
+  <Entry File="zz3\43b.wav" ID="43" Part="b">“How can I get one of  those Chocobos?”</Entry>
+  <Entry File="zz3\44.wav" ID="44">Tifa “You probably forgot  already but… “How can I get one of  those Chocobos?”</Entry>
+  <Entry File="zz3\45b.wav" ID="45" Part="b">“Where can I get one  of those Chocobos?”</Entry>
+  <Entry File="zz3\46.wav" ID="46">Chocobo Sage “Hey,don't talk like that!  To get an Ocean-crossing Chocobo,you just…”</Entry>
+  <Entry File="zz3\47.wav" ID="47">Chocobo Sage “Let's see now…  …Nope. Don't remember a thing.”</Entry>
+  <Entry File="zz3\48a.wav" ID="48" Part="a">Chocobo Sage “Oh,I remember!  The Ocean-crossing Chocobo is…”</Entry>
+  <Entry File="zz3\48b.wav" ID="48" Part="b">“The Mountain-and-River-crossing  Chocobo is…uh…  Oh,what was I saying?”</Entry>
+  <Entry File="zz3\49a.wav" ID="49" Part="a">Chocobo Sage “Right,right! I remember! You take  the Mountain-and-River-crossing Chocobo…”</Entry>
+  <Entry File="zz3\49b.wav" ID="49" Part="b">“Mate it with a 'Wonderful Chocobo'  you can catch right around here…  And you'll get…”</Entry>
+  <Entry File="zz3\50a.wav" ID="50" Part="a">Chocobo Sage “Oh,right!  You'll need a…”</Entry>
+  <Entry File="zz3\50b.wav" ID="50" Part="b">“'Zeio Nut'.  Now let me see,  as I remember,the Zeio Nut…”</Entry>
+  <Entry File="zz3\50c.wav" ID="50" Part="c">“Where was it you could  find those things?”</Entry>
+  <Entry File="zz3\51a.wav" ID="51" Part="a">Chocobo Sage “Oh yeah!  Zeio Nuts…”</Entry>
+  <Entry File="zz3\51b.wav" ID="51" Part="b">“Are the favorite of goblins.  There's a small island east of here  where the goblins have a bunch of them.”</Entry>
+  <Entry File="zz3\52a.wav" ID="52" Part="a">Chocobo Sage “I think…”</Entry>
+  <Entry File="zz3\52b.wav" ID="52" Part="b">“…that's all  I'm gonna remember.”</Entry>
+  <Entry File="zz3\53a.wav" ID="53" Part="a">Chocobo Sage “Oh!”</Entry>
+  <Entry File="zz3\53b.wav" ID="53" Part="b">“That's it…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="zz3\0.wav" ID="0">Mystery House</Entry>
+	<Entry File="zz3\1.wav" ID="1">Chocobo Sage's House</Entry>
+	<Entry File="zz3\2.wav" ID="2">Wark!</Entry>
+	<Entry File="zz3\15.wav" ID="15">Cloud (No one would forget that)</Entry>
+	<Entry File="zz3\16.wav" ID="16">Tifa (Who would forget that?)</Entry>
+	<Entry File="zz3\17.wav" ID="17">Cid (The hell's wrong with this guy?)</Entry>
+	<Entry File="zz3\19.wav" ID="19">Sell me something? What about that Chocobo? Nothing</Entry>
+	<Entry File="zz3\20.wav" ID="20">Sell me something? You remember anything? Nothing</Entry>
+	<Entry File="zz3\45a.wav" ID="45" Part="a">Cid Great! I know you  probably already forgot but,”</Entry>
+	<Entry File="zz3\54.wav" ID="54">You cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="zz3\55.wav" ID="55">Received "Enemy Skill" Materia!</Entry>
+-->
+</VoiceList>

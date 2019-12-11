@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jtmpin1\1.wav" ID="1">Aeris “Hey! It's Tseng!”</Entry>
+  <Entry File="jtmpin1\2.wav" ID="2">Cloud “Tseng? Of the Turks!?”</Entry>
+  <Entry File="jtmpin1\3.wav" ID="3">Tseng “Oh,I've been tricked.”</Entry>
+  <Entry File="jtmpin1\4.wav" ID="4">Tseng “It's not the Promised Land…  Sephiroth's searching for…”</Entry>
+  <Entry File="jtmpin1\5.wav" ID="5">Cloud “Sephiroth?  He's inside!?”</Entry>
+  <Entry File="jtmpin1\6.wav" ID="6">Tseng “Look…  for yourself…”</Entry>
+  <Entry File="jtmpin1\7a.wav" ID="7" Part="a">Tseng “Damn…”</Entry>
+  <Entry File="jtmpin1\7b.wav" ID="7" Part="b">“Letting Aeris go was the start…  of my…bad luck…”</Entry>
+  <Entry File="jtmpin1\7c.wav" ID="7" Part="c">“The President…  was wrong…”</Entry>
+  <Entry File="jtmpin1\8a.wav" ID="8" Part="a">Aeris “You're wrong.”</Entry>
+  <Entry File="jtmpin1\8b.wav" ID="8" Part="b">“The Promised Land isn't like  what you imagined.”</Entry>
+  <Entry File="jtmpin1\9a.wav" ID="9" Part="a">Aeris “And,I'm not going to help.”</Entry>
+  <Entry File="jtmpin1\9b.wav" ID="9" Part="b">“Either way,there was no way   Shinra could have won.”</Entry>
+  <Entry File="jtmpin1\10.wav" ID="10">Tseng “…Pretty harsh.  Sounds like something…  you'd say.”</Entry>
+  <Entry File="jtmpin1\11.wav" ID="11">Tseng “The Keystone…  Place it…on…the altar…”</Entry>
+  <Entry File="jtmpin1\13.wav" ID="13">Cloud “You crying?”</Entry>
+  <Entry File="jtmpin1\14a.wav" ID="14" Part="a">Aeris “…Tseng's with our enemy,the Turks,  but I've known him since we were little…”</Entry>
+  <Entry File="jtmpin1\14b.wav" ID="14" Part="b">“There's not a lot of people I can say that about.  In fact,there are probably only a handful  of people in the world who really know me.”</Entry>
+  <Entry File="jtmpin1\15.wav" ID="15">Tseng “I am…still alive…”</Entry>
+  <Entry File="jtmpin1\16.wav" ID="16">Cloud “Let's put the Keystone in.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jtmpin1\0.wav" ID="0">Temple of the Ancients</Entry>
+	<Entry File="jtmpin1\12.wav" ID="12">Received Key Item "Keystone"!</Entry>
+-->
+</VoiceList>

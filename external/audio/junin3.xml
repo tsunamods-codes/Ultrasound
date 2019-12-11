@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junin3\1a.wav" ID="1" Part="a">“What is it?  The elevator's out of order  for an inspection.”</Entry>
+  <Entry File="junin3\1b.wav" ID="1" Part="b">“You know,right under us  is a Submarine Dock  and the Underwater Mako Reactor.”</Entry>
+  <Entry File="junin3\2a.wav" ID="2" Part="a">“Mako energy puts a lot of wear and tear     on the machinery.”</Entry>
+  <Entry File="junin3\2b.wav" ID="2" Part="b">“A lot of problems can pop up.  So it's necessary for close inspections   and maintenance.”</Entry>
+  <Entry File="junin3\3.wav" ID="3">“Hey!! Civilian!!  Stay out of our training!!”</Entry>
+  <Entry File="junin3\4.wav" ID="4">“Go around them!   And stay out of their way!!”</Entry>
+  <Entry File="junin3\5.wav" ID="5">“All right!!  Let's see how hard you trained!”</Entry>
+  <Entry File="junin3\6.wav" ID="6">“Attention! Charge!!”</Entry>
+  <Entry File="junin3\7.wav" ID="7">“He…hey!!  That's the Underwater Reactor!!  Come back!!”</Entry>
+  <Entry File="junin3\8a.wav" ID="8" Part="a">“Our forces are in the process of gathering  the Huge Materia from the Corel and the   Fort Condor Reactors!”</Entry>
+  <Entry File="junin3\8b.wav" ID="8" Part="b">“Once these two missions are completed,  the Underwater Reactor will be   our next target!”</Entry>
+  <Entry File="junin3\8c.wav" ID="8" Part="c">“Till then,we do nothing but train,train,train!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junin3\0.wav" ID="0">Junon Path</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blackbgj\1.wav" ID="1">Tifa “Wh,where am I?*   What's happening? I…”</Entry>
+  <Entry File="blackbgj\2.wav" ID="2">Tifa “Where's Cloud?  Cloud,where are you!?”</Entry>
+  <Entry File="blackbgj\3.wav" ID="3">Tifa “Huh…what?  Who…?”</Entry>
+  <Entry File="blackbgj\4.wav" ID="4">Tifa “Who is it?  I can't hear…”</Entry>
+  <Entry File="blackbgj\5.wav" ID="5">Tifa “Wait a minute!  I know nothing about that!”</Entry>
+  <Entry File="blackbgj\6.wav" ID="6">Tifa “No! It's not me!  I'd never do anything like that!!”</Entry>
+  <Entry File="blackbgj\7.wav" ID="7">Tifa “No! Stop it!!  Stay back!”</Entry>
+  <Entry File="blackbgj\8.wav" ID="8">Tifa “Somebody…help!  Please!!”</Entry>
+  <Entry File="blackbgj\9.wav" ID="9">Tifa “Cloud,help me!!”</Entry>
+  <Entry File="blackbgj\10.wav" ID="10">Tifa “Eyaaaaghh!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blackbgj\0.wav" ID="0" />
+-->
+</VoiceList>

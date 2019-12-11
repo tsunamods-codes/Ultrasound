@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="zmind3\0.wav" ID="0">“A promise under a starry sky…    But what if that was just a    memory Tifa imagined?”</Entry>
+  <Entry File="zmind3\1.wav" ID="1">“A promise under a starry sky…    But what if that was just a    memory Tifa imagined?”</Entry>
+  <Entry File="zmind3\2a.wav" ID="2" Part="a">“…A sealed up  secret…wish…”</Entry>
+  <Entry File="zmind3\2b.wav" ID="2" Part="b">“Tender memories…  no one can ever know.”</Entry>
+  <Entry File="zmind3\3.wav" ID="3">“You mean that member of SOLDIER who came   with Sephiroth to Nibelheim   wasn't Cloud?”</Entry>
+  <Entry File="zmind3\4.wav" ID="4">Tifa “Cloud,what about   your other memories?”</Entry>
+  <Entry File="zmind3\5a.wav" ID="5" Part="a">Tifa “No,not memories.”</Entry>
+  <Entry File="zmind3\5b.wav" ID="5" Part="b">“A memory is something that is  consciously recalled,right?”</Entry>
+  <Entry File="zmind3\5c.wav" ID="5" Part="c">“That's why sometimes it can be  mistaken or wrong.”</Entry>
+  <Entry File="zmind3\6a.wav" ID="6" Part="a">Tifa “It's different from a memory  locked deep within your heart.”</Entry>
+  <Entry File="zmind3\6b.wav" ID="6" Part="b">“That's why it must be a fake.  If he could recall up that memory…”</Entry>
+  <Entry File="zmind3\7.wav" ID="7">Tifa “That's it! What about some memory  that has to do with me?”</Entry>
+  <Entry File="zmind3\8a.wav" ID="8" Part="a">Tifa “If I say something,you can't remember it.”</Entry>
+  <Entry File="zmind3\8b.wav" ID="8" Part="b">“But if you say something,  and I remember it,too…  Then we'll know that's a memory.”</Entry>
+  <Entry File="zmind3\9.wav" ID="9">Tifa “Talk to me.  About anything,  some important memory to you…”</Entry>
+  <Entry File="zmind3\10a.wav" ID="10" Part="a">Tifa “Now that you mention it,why did you  want to join SOLDIER in the first place?”</Entry>
+  <Entry File="zmind3\10b.wav" ID="10" Part="b">“I always thought it was a  sudden decision.”</Entry>
+  <Entry File="zmind3\11.wav" ID="11">“…I was devastated.  …I wanted to be noticed.”</Entry>
+  <Entry File="zmind3\12a.wav" ID="12" Part="a">“…I was devastated.  …I wanted to be noticed.”</Entry>
+  <Entry File="zmind3\12b.wav" ID="12" Part="b">“I thought if I got stronger  someone would notice.”</Entry>
+  <Entry File="zmind3\13.wav" ID="13">Tifa “Someone to notice you?  …Who?”</Entry>
+  <Entry File="zmind3\14.wav" ID="14">“Who?  You know who!*   …You,that's who.”</Entry>
+  <Entry File="zmind3\15.wav" ID="15">“You…”</Entry>
+  <Entry File="zmind3\16.wav" ID="16">Tifa “Me? Why!?”</Entry>
+  <Entry File="zmind3\17.wav" ID="17">“Tifa…Did you forget…  about those days?”</Entry>
+  <Entry File="zmind3\18.wav" ID="18">Tifa “Look…I…”</Entry>
+  <Entry File="zmind3\19.wav" ID="19">Tifa “I'm sorry…  But what are you talking about?”</Entry>
+  <Entry File="zmind3\20.wav" ID="20">“No…it's all right.  You were having a hard time back then.”</Entry>
+  <Entry File="zmind3\21.wav" ID="21">“You were so busy with your own things,  it's only natural  you don't remember me then.”</Entry>
+  <Entry File="zmind3\22.wav" ID="22">Tifa “'Then'?”</Entry>
+  <Entry File="zmind3\23.wav" ID="23">“It's important to me…  I hate to say it,but  it's a very important memory.”</Entry>
+  <Entry File="zmind3\24.wav" ID="24">“Do you want to see it?”</Entry>
+  <Entry File="zmind3\25.wav" ID="25">Tifa “Oh…wait!”</Entry>
+  <Entry File="zmind3\26.wav" ID="26">“Come on,hurry.”</Entry>
+  <Entry File="zmind3\27a.wav" ID="27" Part="a">“Do you know where this window  goes to,Tifa?”</Entry>
+  <Entry File="zmind3\27b.wav" ID="27" Part="b">“Fine…I'll go.”</Entry>
+  <Entry File="zmind3\28.wav" ID="28">Tifa “Cloud.”</Entry>
+  <Entry File="zmind3\29.wav" ID="29">“Then…this is goodbye,Tifa.4   Until we meet again…”</Entry>
+  <Entry File="zmind3\30.wav" ID="30">Tifa “…!?”</Entry>
+  <Entry File="zmind3\31.wav" ID="31">Cloud “Uh…* Ah,uh…”</Entry>
+  <Entry File="zmind3\32.wav" ID="32">Tifa “Cloud!!”</Entry>
+  <Entry File="zmind3\33.wav" ID="33">Cloud “Uh…% Tifa…”</Entry>
+  <Entry File="zmind3\34.wav" ID="34">Tifa “Oh,Cloud!  It's really you,isn't it?”</Entry>
+  <Entry File="zmind3\35.wav" ID="35">Cloud “Yeah…Tifa…  We finally…meet again…”</Entry>
+  <Entry File="zmind3\36.wav" ID="36">Tifa “You stupid jerk!!  You had us all worried sick!!”</Entry>
+  <Entry File="zmind3\37.wav" ID="37">Cloud “Krgh!”</Entry>
+  <Entry File="zmind3\38.wav" ID="38">Tifa “Cloud!?  Are you all right!?”</Entry>
+  <Entry File="zmind3\39.wav" ID="39">Cloud “V,voice…their…”</Entry>
+  <Entry File="zmind3\40.wav" ID="40">Tifa “I see. We're…  in the Lifestream,aren't we?”</Entry>
+  <Entry File="zmind3\41a.wav" ID="41" Part="a">Tifa “Everyone's waiting.”</Entry>
+  <Entry File="zmind3\41b.wav" ID="41" Part="b">“Let's go back,Cloud.  Back to everyone…”</Entry>
+  <Entry File="zmind3\42.wav" ID="42">Cloud “Yeah,I guess so…  Come on,Tifa.  Let's go home…”</Entry>
+</VoiceList>

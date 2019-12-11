@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mtnvl5\13.wav" ID="13">President Shinra “How are the preparations going?”</Entry>
+  <Entry File="mtnvl5\14.wav" ID="14">Heidegger “Gya,ha,ha!!  Smoothly,very smoothly!  I assigned the Turks to this.”</Entry>
+  <Entry File="mtnvl5\15.wav" ID="15">Reeve “President!!  Are we really going to do this?  Simply destroy a group  with only a few members?”</Entry>
+  <Entry File="mtnvl5\16.wav" ID="16">President Shinra “What's the problem,Reeve? You want out?”</Entry>
+  <Entry File="mtnvl5\17a.wav" ID="17" Part="a">Reeve “…No.”</Entry>
+  <Entry File="mtnvl5\17b.wav" ID="17" Part="b">“But,as head of the Urban Development  Department,  I have been involved in the building  and running of Midgar. That's why…”</Entry>
+  <Entry File="mtnvl5\18.wav" ID="18">Heidegger “Reeve,flush your personal problems  with the rest of your crap!”</Entry>
+  <Entry File="mtnvl5\19.wav" ID="19">Reeve “The Mayor's against this anyway…”</Entry>
+  <Entry File="mtnvl5\20a.wav" ID="20" Part="a">Heidegger “Mayor?”</Entry>
+  <Entry File="mtnvl5\20b.wav" ID="20" Part="b">“He just sits in this building all day   feeding his face!  You still call that a Mayor?”</Entry>
+  <Entry File="mtnvl5\21.wav" ID="21">Heidegger “Now if you'll excuse me sir!”</Entry>
+  <Entry File="mtnvl5\22.wav" ID="22">President Shinra “You're tired.  Why don't you take a couple of days  off and go somewhere.”</Entry>
+  <Entry File="mtnvl5\23.wav" ID="23">President Shinra “We'll destroy Sector 7  and report that AVALANCHE did it.  Then we'll send in the rescue  operation,care of Shinra,Inc….  Heh,heh,heh…this is perfect.”</Entry>
+  <Entry File="mtnvl5\24.wav" ID="24">Heidegger “Gya,haaa,haa!”</Entry>
+  <Entry File="mtnvl5\25.wav" ID="25">Cloud “They got you,too?”</Entry>
+  <Entry File="mtnvl5\26.wav" ID="26">Cloud “Where is Aeris!?”</Entry>
+  <Entry File="mtnvl5\27.wav" ID="27">President Shinra “In a safe place.”</Entry>
+  <Entry File="mtnvl5\28.wav" ID="28">President Shinra “She's the last  surviving Ancient…”</Entry>
+  <Entry File="mtnvl5\29.wav" ID="29">President Shinra “Don't you know?  They called themselves the Cetra and lived   thousands of years ago.   Now they are just a forgotten page in history.”</Entry>
+  <Entry File="mtnvl5\30.wav" ID="30">Red XIII “Cetra…that girl  is a survivor of the Cetra?”</Entry>
+  <Entry File="mtnvl5\31.wav" ID="31">President Shinra “Cetra,or the Ancients,will show us  the way to the 'Promised Land.'  I'm expecting a lot out of her.”</Entry>
+  <Entry File="mtnvl5\32.wav" ID="32">Red XIII “The Promised Land?  Isn't that just a legend?”</Entry>
+  <Entry File="mtnvl5\33a.wav" ID="33" Part="a">President Shinra “Even so,it's far too appealing  not to pursue.”</Entry>
+  <Entry File="mtnvl5\33b.wav" ID="33" Part="b">“It's been said the Promised Land is  very fertile.”</Entry>
+  <Entry File="mtnvl5\33c.wav" ID="33" Part="c">“…If the land is fertile…”</Entry>
+  <Entry File="mtnvl5\34.wav" ID="34">Barret “then there's gotta be Mako!”</Entry>
+  <Entry File="mtnvl5\35a.wav" ID="35" Part="a">President Shinra “Exactly.  That is why our money-making   Mako Reactor is necessary.”</Entry>
+  <Entry File="mtnvl5\35b.wav" ID="35" Part="b">“The abundant Mako will  flow out on its own.”</Entry>
+  <Entry File="mtnvl5\36.wav" ID="36">President Shinra “That is where Neo-Midgar will be built.  Shinra's new glory…”</Entry>
+  <Entry File="mtnvl5\37.wav" ID="37">Barret “@$#*^%!  Quit dreamin'!”</Entry>
+  <Entry File="mtnvl5\38.wav" ID="38">President Shinra “Oh really,don't you know?  These days all it takes for your  dreams to come true is money and power.”</Entry>
+  <Entry File="mtnvl5\39.wav" ID="39">President Shinra “Well,that is all for our meeting.”</Entry>
+  <Entry File="mtnvl5\40.wav" ID="40">Barret “Hold it!  I got a lot to say to you!”</Entry>
+  <Entry File="mtnvl5\41.wav" ID="41">President Shinra “If there's anything else…  talk to my secretary.”</Entry>
+  <Entry File="mtnvl5\42.wav" ID="42">Rude “Come on! Outta his way!”</Entry>
+  <Entry File="mtnvl5\43.wav" ID="43">Barret “He's dead…  The head of Shinra is dead…”</Entry>
+  <Entry File="mtnvl5\44.wav" ID="44">Tifa “Then this sword must be…”</Entry>
+  <Entry File="mtnvl5\45.wav" ID="45">Cloud “Sephiroth's!!”</Entry>
+  <Entry File="mtnvl5\46.wav" ID="46">Tifa “…Sephiroth is alive?”</Entry>
+  <Entry File="mtnvl5\47.wav" ID="47">Cloud “…Looks like it.  Only Sephiroth can use that sword.”</Entry>
+  <Entry File="mtnvl5\48.wav" ID="48">Barret “Who cares who did it!?  This is the end of the Shinra!”</Entry>
+  <Entry File="mtnvl5\49.wav" ID="49">“Uh!”</Entry>
+  <Entry File="mtnvl5\50.wav" ID="50">Palmer “P,p,p,please,don't kill me!”</Entry>
+  <Entry File="mtnvl5\51.wav" ID="51">Cloud “What happened?”</Entry>
+  <Entry File="mtnvl5\52.wav" ID="52">Palmer “Se…Sephiroth.  Sephiroth came.”</Entry>
+  <Entry File="mtnvl5\53.wav" ID="53">Cloud “Did you see him? Did you see Sephiroth?”</Entry>
+  <Entry File="mtnvl5\54.wav" ID="54">Palmer “Yeah,I saw him! With my own eyes!”</Entry>
+  <Entry File="mtnvl5\55.wav" ID="55">Cloud “You really saw him?”</Entry>
+  <Entry File="mtnvl5\56.wav" ID="56">Palmer “Uh!  Would I lie at a time like this!?  I heard his voice too!”</Entry>
+  <Entry File="mtnvl5\57.wav" ID="57">Palmer “Um,he said something about  not letting us have the Promised Land.”</Entry>
+  <Entry File="mtnvl5\58a.wav" ID="58" Part="a">Tifa “Then does that mean”</Entry>
+  <Entry File="mtnvl5\58b.wav" ID="58" Part="b">“the Promised Land really does  exist and that Sephiroth's  here to save it from Shinra?”</Entry>
+  <Entry File="mtnvl5\59.wav" ID="59">Barret “So he's a good guy then?”</Entry>
+  <Entry File="mtnvl5\60a.wav" ID="60" Part="a">Cloud “Save the Promised Land?  A good guy? No way!!”</Entry>
+  <Entry File="mtnvl5\60b.wav" ID="60" Part="b">“It's not that simple! I know him!  Sephiroth's mission is different!”</Entry>
+  <Entry File="mtnvl5\61.wav" ID="61">Barret “Rufus!  &amp;*%$! I forgot about him!”</Entry>
+  <Entry File="mtnvl5\62.wav" ID="62">Tifa “Who's that?”</Entry>
+  <Entry File="mtnvl5\63.wav" ID="63">Barret “Vice President Rufus.  The President's son.”</Entry>
+  <Entry File="mtnvl5\64.wav" ID="64">Red XIII “I only know his name.”</Entry>
+  <Entry File="mtnvl5\65.wav" ID="65">Barret “I heard that he'd been assigned somewhere  else for a long time…”</Entry>
+  <Entry File="mtnvl5\66.wav" ID="66">Tifa “I wonder what sort of person he is?”</Entry>
+  <Entry File="mtnvl5\67.wav" ID="67">Aeris “I've heard that no one's ever  seen him bleed or cry.”</Entry>
+  <Entry File="mtnvl5\68.wav" ID="68">Rufus “So…  So Sephiroth was actually here.  …By the way,”</Entry>
+  <Entry File="mtnvl5\69.wav" ID="69">Rufus “Just who are you?”</Entry>
+  <Entry File="mtnvl5\70.wav" ID="70">Cloud “I'm Cloud,  ex-SOLDIER,First Class!”</Entry>
+  <Entry File="mtnvl5\71.wav" ID="71">Barret “I'm from AVALANCHE!”</Entry>
+  <Entry File="mtnvl5\72.wav" ID="72">Tifa “Me too!”</Entry>
+  <Entry File="mtnvl5\73.wav" ID="73">Aeris “I'm a flower girl from the slums.”</Entry>
+  <Entry File="mtnvl5\74.wav" ID="74">Red XIII “I was a research specimen.”</Entry>
+  <Entry File="mtnvl5\75.wav" ID="75">Rufus “What a crew.”</Entry>
+  <Entry File="mtnvl5\76.wav" ID="76">Rufus “Well,I'm Rufus.  The President of Shinra,Inc.”</Entry>
+  <Entry File="mtnvl5\77.wav" ID="77">Barret “You're only President,'cause yer old man died!”</Entry>
+  <Entry File="mtnvl5\78.wav" ID="78">Rufus “Correct. I'll let you hear my   inauguration speech.”</Entry>
+  <Entry File="mtnvl5\79.wav" ID="79">Rufus “…Father tried to control the world  with money,  and that worked for him.”</Entry>
+  <Entry File="mtnvl5\80.wav" ID="80">Rufus “The people believed that Shinra  would protect them.”</Entry>
+  <Entry File="mtnvl5\81a.wav" ID="81" Part="a">Rufus “Work at Shinra,get your pay.  If terrorists attack,  the Shinra army will help you.”</Entry>
+  <Entry File="mtnvl5\81b.wav" ID="81" Part="b">“It looked perfect on the outside.”</Entry>
+  <Entry File="mtnvl5\82a.wav" ID="82" Part="a">Rufus “But,I do things differently.”</Entry>
+  <Entry File="mtnvl5\82b.wav" ID="82" Part="b">“I'll control the world with fear.  It's too much to do it like my old man.”</Entry>
+  <Entry File="mtnvl5\83.wav" ID="83">Rufus “A little fear will control  the minds of the common people.  There's no reason to waste  good money on them.”</Entry>
+  <Entry File="mtnvl5\84.wav" ID="84">Tifa “He likes to make speeches   just like his father.”</Entry>
+  <Entry File="mtnvl5\85.wav" ID="85">Cloud “Get Aeris outta  the building!”</Entry>
+  <Entry File="mtnvl5\86.wav" ID="86">Barret “What?”</Entry>
+  <Entry File="mtnvl5\87.wav" ID="87">Cloud “I'll explain later!  Barret! This is the real crisis  for the Planet!”</Entry>
+  <Entry File="mtnvl5\88.wav" ID="88">Barret “The hell's that supposed to mean?”</Entry>
+  <Entry File="mtnvl5\89.wav" ID="89">Cloud “I'll explain later!  Just take my word for now!  I'll go after I take care of him!”</Entry>
+  <Entry File="mtnvl5\90.wav" ID="90">Barret “Alright,Cloud!”</Entry>
+  <Entry File="mtnvl5\91.wav" ID="91">Rufus “Why do you want to fight me?”</Entry>
+  <Entry File="mtnvl5\92.wav" ID="92">Cloud “You want the Promised Land  and Sephiroth.”</Entry>
+  <Entry File="mtnvl5\93.wav" ID="93">Rufus “That's right.”</Entry>
+  <Entry File="mtnvl5\94.wav" ID="94">Rufus “Did you know  that Sephiroth is an Ancient?”</Entry>
+  <Entry File="mtnvl5\95.wav" ID="95">Cloud “…Whatever,  I can't let either you or Sephiroth  have the Promised Land!”</Entry>
+  <Entry File="mtnvl5\96.wav" ID="96">Rufus “I see.  I see we won't be allies.”</Entry>
+  <Entry File="mtnvl5\99.wav" ID="99">Tifa “Where's Rufus?”</Entry>
+  <Entry File="mtnvl5\100.wav" ID="100">Cloud “I couldn't finish 'em.  This is gonna get complicated.”</Entry>
+  <Entry File="mtnvl5\101.wav" ID="101">Aeris “Cloud…  I just thought of something.”</Entry>
+  <Entry File="mtnvl5\102.wav" ID="102">Tifa “…I'll wait for Cloud!  Everyone,get to the elevator!”</Entry>
+  <Entry File="mtnvl5\103.wav" ID="103">Aeris “Hmm,it's going to get pretty ugly from here on.  We should check on our equipment.”</Entry>
+  <Entry File="mtnvl5\105.wav" ID="105">Barret “Well,what do we do now?”</Entry>
+  <Entry File="mtnvl5\106.wav" ID="106">Cloud “Sephiroth is alive.  …I have to settle the score.”</Entry>
+  <Entry File="mtnvl5\107.wav" ID="107">Barret “Will that save the Planet?”</Entry>
+  <Entry File="mtnvl5\108.wav" ID="108">Cloud “…It seems so.”</Entry>
+  <Entry File="mtnvl5\109.wav" ID="109">Barret “Then,I'm going!”</Entry>
+  <Entry File="mtnvl5\110.wav" ID="110">Aeris “I'll go,too.  There are things I need to know.”</Entry>
+  <Entry File="mtnvl5\111.wav" ID="111">Cloud “About the Ancients?”</Entry>
+  <Entry File="mtnvl5\112.wav" ID="112">Aeris “…Many things.”</Entry>
+  <Entry File="mtnvl5\113.wav" ID="113">Tifa “I guess it's goodbye,Midgar.”</Entry>
+  <Entry File="mtnvl5\114a.wav" ID="114" Part="a">Barret “We told Aeris's mom to go  somewhere safe,so Marlene should be  safe,too.”</Entry>
+  <Entry File="mtnvl5\115.wav" ID="115">Aeris “She said she didn't want to stay  in Midgar anymore.  …Maybe it's for the best.”</Entry>
+  <Entry File="mtnvl5\116.wav" ID="116">Aeris “Stop it,Cloud!    I'm worried too.”</Entry>
+  <Entry File="mtnvl5\117a.wav" ID="117" Part="a">Aeris “You know what?  This is the first time I've ever left Midgar…”</Entry>
+  <Entry File="mtnvl5\118.wav" ID="118">Aeris “A little…no,maybe a lot.  But I have a bodyguard,right?”</Entry>
+  <Entry File="mtnvl5\119.wav" ID="119">Aeris “I thought you'd say that!”</Entry>
+  <Entry File="mtnvl5\120a.wav" ID="120" Part="a">Tifa “…I guess this is the start of our journey…”</Entry>
+  <Entry File="mtnvl5\121.wav" ID="121">Tifa “…I don't know.  But,I don't have anywhere else to go.  So I guess it doesn't really matter whether   I like to travel or not.”</Entry>
+  <Entry File="mtnvl5\122.wav" ID="122">Tifa “…Hmm.  But you know,it should be all right  if you keep your promise.”</Entry>
+  <Entry File="mtnvl5\123.wav" ID="123">Red XIII “I'm going back to my hometown.  I'll go with you as far as that.”</Entry>
+  <Entry File="mtnvl5\124a.wav" ID="124" Part="a">Cloud “Then…”</Entry>
+  <Entry File="mtnvl5\125a.wav" ID="125" Part="a">Barret “To the Northeast,there's a town  called Kalm.”</Entry>
+  <Entry File="mtnvl5\125b.wav" ID="125" Part="b">“The food at the Inn's good.  Why don't we head there first?”</Entry>
+  <Entry File="mtnvl5\126.wav" ID="126">Aeris “You're right.  I've heard about that town before.  Cloud?”</Entry>
+  <Entry File="mtnvl5\127.wav" ID="127">Barret “About Sephiroth  and about the crisis of the Planet…”</Entry>
+  <Entry File="mtnvl5\128.wav" ID="128">Cloud “You're right.  We need to know  where Sephiroth went.”</Entry>
+  <Entry File="mtnvl5\129.wav" ID="129">Barret “We need a leader for our journey.  'Course that could only be me.”</Entry>
+  <Entry File="mtnvl5\130.wav" ID="130">Tifa “You think so?”</Entry>
+  <Entry File="mtnvl5\131.wav" ID="131">Aeris “I think it should be Cloud.”</Entry>
+  <Entry File="mtnvl5\132.wav" ID="132">Barret “^#$^%…alright.  Go Northeast to a town  called Kalm.  If something happens,  we'll meet up there.”</Entry>
+  <Entry File="mtnvl5\133.wav" ID="133">Barret “'Sides,we can't have five people  strolling around out there.  It's too dangerous.  Let's split into two parties…”</Entry>
+  <Entry File="mtnvl5\135.wav" ID="135">Aeris “…That's an unexpected”</Entry>
+  <Entry File="mtnvl5\136.wav" ID="136">Tifa “…combination.”</Entry>
+  <Entry File="mtnvl5\137.wav" ID="137">Tifa “Well,have fun…boys.”</Entry>
+  <Entry File="mtnvl5\138.wav" ID="138">Tifa “We'll see you at Kalm!”</Entry>
+  <Entry File="mtnvl5\139.wav" ID="139">Barret “…Thought you'd do that.”</Entry>
+  <Entry File="mtnvl5\140.wav" ID="140">Barret “Later,at Kalm!”</Entry>
+  <Entry File="mtnvl5\141.wav" ID="141">“That's funny…I dropped the key  to this gate…somewhere.  Must've been on that  excavation tour.”</Entry>
+  <Entry File="mtnvl5\142.wav" ID="142">Tifa “Papa…”</Entry>
+  <Entry File="mtnvl5\143.wav" ID="143">Tifa “Sephiroth!?”</Entry>
+  <Entry File="mtnvl5\144.wav" ID="144">Tifa “Did Sephiroth do this to you?”</Entry>
+  <Entry File="mtnvl5\145.wav" ID="145">Tifa “Sephiroth…SOLDIER…  Mako Reactors…Shinra…”</Entry>
+  <Entry File="mtnvl5\146.wav" ID="146">Tifa “I hate them all!”</Entry>
+  <Entry File="mtnvl5\147.wav" ID="147">Cloud “Sephiroth!!”</Entry>
+  <Entry File="mtnvl5\148.wav" ID="148">Sephiroth “Don't…push it…”</Entry>
+  <Entry File="mtnvl5\149.wav" ID="149">Sephiroth “…It can't be!”</Entry>
+  <Entry File="mtnvl5\152.wav" ID="152">Tifa “…I wonder if there's anything  beyond that mountain?”</Entry>
+  <Entry File="mtnvl5\153.wav" ID="153">“Mt. Nibel is scary.  Many people have died there.”</Entry>
+  <Entry File="mtnvl5\154.wav" ID="154">“No one crosses that mountain alive…”</Entry>
+  <Entry File="mtnvl5\155.wav" ID="155">Tifa “How 'bout those that died?”</Entry>
+  <Entry File="mtnvl5\156.wav" ID="156">Tifa “Did Mama pass through the mountains?”</Entry>
+  <Entry File="mtnvl5\157.wav" ID="157">Tifa “I'm going!”</Entry>
+  <Entry File="mtnvl5\158.wav" ID="158">“I don't remember the path I walked.”</Entry>
+  <Entry File="mtnvl5\159.wav" ID="159">“Tifa missed her step.  I ran to her…but didn't make it in time.”</Entry>
+  <Entry File="mtnvl5\160.wav" ID="160">“We both fell off the cliff.”</Entry>
+  <Entry File="mtnvl5\161.wav" ID="161">“Back then,I only scarred my knees  but…”</Entry>
+  <Entry File="mtnvl5\162.wav" ID="162">“Cloud!  Why'd you bring Tifa  to a place like this!”</Entry>
+  <Entry File="mtnvl5\163.wav" ID="163">“What the hell's the matter with you!?”</Entry>
+  <Entry File="mtnvl5\164.wav" ID="164">“What if she dies!?”</Entry>
+  <Entry File="mtnvl5\165.wav" ID="165">“Tifa was in a coma  for seven days.”</Entry>
+  <Entry File="mtnvl5\166.wav" ID="166">“We all thought she wouldn't make it.”</Entry>
+  <Entry File="mtnvl5\167.wav" ID="167">“If only I could've saved her…”</Entry>
+  <Entry File="mtnvl5\168.wav" ID="168">“I was so angry…  at myself for my weakness.”</Entry>
+  <Entry File="mtnvl5\169.wav" ID="169">“Ever since then,  I felt Tifa blamed me…”</Entry>
+  <Entry File="mtnvl5\170.wav" ID="170">“I went out of control…  I'd get into fights  with anyone.”</Entry>
+  <Entry File="mtnvl5\171.wav" ID="171">“That was the first time  I heard about Sephiroth.”</Entry>
+  <Entry File="mtnvl5\172.wav" ID="172">“I thought if I were strong  like Sephiroth,then…”</Entry>
+  <Entry File="mtnvl5\173.wav" ID="173">Barret “Where you goin'?  Everyone's waitin'  at the 66th Floor Elevator.”</Entry>
+  <Entry File="mtnvl5\174.wav" ID="174">Tifa “Where are you going?  Everyone's waiting for us  at the 66th Floor Elevator.”</Entry>
+  <Entry File="mtnvl5\175.wav" ID="175">Aeris “Not that way!  Everyone's on the  66th Floor Elevator.”</Entry>
+  <Entry File="mtnvl5\176.wav" ID="176">Red XIII “”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mtnvl5\0.wav" ID="0">Slum Outskirts</Entry>
+	<Entry File="mtnvl5\1.wav" ID="1">Outside Plates</Entry>
+	<Entry File="mtnvl5\2.wav" ID="2">Mansion,Hidden Steps</Entry>
+	<Entry File="mtnvl5\3.wav" ID="3">Mansion,2f.</Entry>
+	<Entry File="mtnvl5\4.wav" ID="4">Mansion,1f.</Entry>
+	<Entry File="mtnvl5\5.wav" ID="5">Mansion,Basement</Entry>
+	<Entry File="mtnvl5\6.wav" ID="6">Shinra Bldg. 70f.</Entry>
+	<Entry File="mtnvl5\7.wav" ID="7">Mt. Nibel</Entry>
+	<Entry File="mtnvl5\8.wav" ID="8">Shinra Bldg. 69f.</Entry>
+	<Entry File="mtnvl5\9.wav" ID="9">Nibel Reactor(Int.)</Entry>
+	<Entry File="mtnvl5\10.wav" ID="10">Received "Rune Blade"!</Entry>
+	<Entry File="mtnvl5\11.wav" ID="11">Received "Plus Barrette"!</Entry>
+	<Entry File="mtnvl5\12.wav" ID="12">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="mtnvl5\97.wav" ID="97">Access Menu with [MENU] Remove Materia from other members with [SWITCH] End with [START].</Entry>
+	<Entry File="mtnvl5\98.wav" ID="98">Access Menu with [MENU] End with [START]</Entry>
+	<Entry File="mtnvl5\104.wav" ID="104">Cloud and Tifa's Materia…   (Remove)   (Leave it)</Entry>
+	<Entry File="mtnvl5\114b.wav" ID="114" Part="b">  Yeah,she should be   Hmm,I don't know</Entry>
+	<Entry File="mtnvl5\117b.wav" ID="117" Part="b">  Really? Are you worried?   It's dangerous. Are you sure you want to go?</Entry>
+	<Entry File="mtnvl5\120b.wav" ID="120" Part="b">  You hate traveling?   It's dangerous. You sure you want to go?</Entry>
+	<Entry File="mtnvl5\124b.wav" ID="124" Part="b">  Let's stay here for a while   Let's go!</Entry>
+	<Entry File="mtnvl5\134.wav" ID="134">Access Menu with [MENU], Change with [CANCEL], End with the [ASSIST],</Entry>
+	<Entry File="mtnvl5\150.wav" ID="150">A Mako Reactor was built in Mt. Nibel.</Entry>
+	<Entry File="mtnvl5\151.wav" ID="151">The cold mountain air of Mt. Nibel was the same…</Entry>
+-->
+</VoiceList>

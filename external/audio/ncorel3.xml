@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ncorel3\1a.wav" ID="1" Part="a">Barret “Of…of course!  We're all born and raised  in the coal mines!!”</Entry>
+  <Entry File="ncorel3\1b.wav" ID="1" Part="b">“No matter how tough it gets,  our hearts burn bright red like coal!”</Entry>
+  <Entry File="ncorel3\2a.wav" ID="2" Part="a">“Aren't you the ones that stopped  the Shinra Train?”</Entry>
+  <Entry File="ncorel3\2b.wav" ID="2" Part="b">“The Shinra was just about to destroy  our lives again…”</Entry>
+  <Entry File="ncorel3\3.wav" ID="3">“That's it!”</Entry>
+  <Entry File="ncorel3\4.wav" ID="4">“Hey,kid!  How about givin' somethin'  to these guys fighting'  the Shinra?”</Entry>
+  <Entry File="ncorel3\5.wav" ID="5">“To you it may be a junk yard,  but to us its home.”</Entry>
+  <Entry File="ncorel3\6.wav" ID="6">“It might be full of junk,  but this is the only home we got,  Barret!!”</Entry>
+  <Entry File="ncorel3\7a.wav" ID="7" Part="a">“Must've been a horrific battle.  You have scars all over your body.”</Entry>
+  <Entry File="ncorel3\7b.wav" ID="7" Part="b">“I already talked to the Inn's owner.  Today you can rest for free.”</Entry>
+  <Entry File="ncorel3\8a.wav" ID="8" Part="a">“To hell with Meteor!  We're Coal Miners,ain't we?”</Entry>
+  <Entry File="ncorel3\8b.wav" ID="8" Part="b">“We'll dig a deep tunnel  and hide from the Meteor!”</Entry>
+  <Entry File="ncorel3\9.wav" ID="9">“You guys are really something!”</Entry>
+  <Entry File="ncorel3\10.wav" ID="10">“You sure are brave.  I'm impressed!”</Entry>
+  <Entry File="ncorel3\11.wav" ID="11">“You'll need weapons from our store,  if you want to survive.”</Entry>
+  <Entry File="ncorel3\12.wav" ID="12">“Please buy something.  Anything!”</Entry>
+  <Entry File="ncorel3\13.wav" ID="13">“If you see anything you like,buy it.”</Entry>
+  <Entry File="ncorel3\14.wav" ID="14">“I got it out of the well.  Isn't it an amazing rock!!”</Entry>
+  <Entry File="ncorel3\15a.wav" ID="15" Part="a">“Whoops…  You can't hold any more.”</Entry>
+  <Entry File="ncorel3\15b.wav" ID="15" Part="b">“Here,I'll keep some in my pocket  and you can come by later and  get it,OK?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ncorel3\0.wav" ID="0">North Corel</Entry>
+	<Entry File="ncorel3\16.wav" ID="16">Received "Ultima" Materia!</Entry>
+	<Entry File="ncorel3\17.wav" ID="17">Received Key Item "Huge Materia"!</Entry>
+-->
+</VoiceList>

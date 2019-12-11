@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blinst_3\1a.wav" ID="1" Part="a">Barret “…finally…  …made it…”</Entry>
+  <Entry File="blinst_3\1b.wav" ID="1" Part="b">“…never wanna see…  no more stairs the rest of my life…”</Entry>
+  <Entry File="blinst_3\2a.wav" ID="2" Part="a">Tifa “…huff…puff…  I'm beat…”</Entry>
+  <Entry File="blinst_3\2b.wav" ID="2" Part="b">“But here we are.  We'd better get ready!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blinst_3\0.wav" ID="0">Shinra Bldg. Stairs</Entry>
+-->
+</VoiceList>

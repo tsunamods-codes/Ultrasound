@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="itmin2\1a.wav" ID="1" Part="a">“I gotta feelin' something bad's gonna happen.  Is everything gonna be okay?”</Entry>
+  <Entry File="itmin2\1b.wav" ID="1" Part="b">“I'm all right.  I've lived a long,full life.”</Entry>
+  <Entry File="itmin2\1c.wav" ID="1" Part="c">“But I'm worried about my son and his family  living in that far-off town…”</Entry>
+  <Entry File="itmin2\1d.wav" ID="1" Part="d">“I hope they're safe…”</Entry>
+  <Entry File="itmin2\3a.wav" ID="3" Part="a">“Wait a minute.”</Entry>
+  <Entry File="itmin2\3b.wav" ID="3" Part="b">“Did you just take something?”</Entry>
+  <Entry File="itmin2\4.wav" ID="4">Cid “Uh,oh. I'm…” Yeah,I took it,old man! I know nothin' about it!</Entry>
+  <Entry File="itmin2\5.wav" ID="5">Cid “Hey,it's mine now!  An' I'll make good use of it,  believe-you-me!”</Entry>
+  <Entry File="itmin2\6.wav" ID="6">“Heh,heh. What an oddball.  We'll let him use it.”</Entry>
+  <Entry File="itmin2\7.wav" ID="7">Cid “Hey thanks.  It'll help,pops!”</Entry>
+  <Entry File="itmin2\8.wav" ID="8">Cid “Wh,wh-huh…?  I don't know nuthin' about that.”</Entry>
+  <Entry File="itmin2\9a.wav" ID="9" Part="a">“What the hell happened to that  rotten old elixir  I was gonna throw out?”</Entry>
+  <Entry File="itmin2\9b.wav" ID="9" Part="b">“If someone took that by mistake   it'll do more than make them sick…”</Entry>
+  <Entry File="itmin2\9c.wav" ID="9" Part="c">“Well,if you don't know  then I guess you don't know.”</Entry>
+  <Entry File="itmin2\10.wav" ID="10">Cid “…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="itmin2\0.wav" ID="0">Mideel,House2</Entry>
+	<Entry File="itmin2\2.wav" ID="2">Received "Elixir"!</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="colne_3\1a.wav" ID="1" Part="a">“Whoa!”</Entry>
+  <Entry File="colne_3\1b.wav" ID="1" Part="b">“Slow down,what's the hurry?  Why don't you stick around?  We'll treat you real nice!”</Entry>
+  <Entry File="colne_3\2a.wav" ID="2" Part="a">Scotch “Hey guys!  We've got guests.”</Entry>
+  <Entry File="colne_3\2b.wav" ID="2" Part="b">“We'll take REAL  good care of you.”</Entry>
+  <Entry File="colne_3\3.wav" ID="3">Scotch “This is all thanks  to the big boss,Don Corneo!”</Entry>
+  <Entry File="colne_3\4.wav" ID="4">“Heeey!!  Three cheers for Don Corneo!!”</Entry>
+  <Entry File="colne_3\5.wav" ID="5">Scotch “Heh,heh…  Well ladies,are we all,uh,ready?”</Entry>
+  <Entry File="colne_3\6a.wav" ID="6" Part="a">“Hey…you're in pretty good shape.  Lookit your tight little bod…”</Entry>
+  <Entry File="colne_3\6b.wav" ID="6" Part="b">“It's more like…muscles…”</Entry>
+  <Entry File="colne_3\7.wav" ID="7">“Oh your eyes.  They seem to…glow.  I'm all yours,baby!”</Entry>
+  <Entry File="colne_3\8.wav" ID="8">“Come on,dance with me,beautiful.  They say if two people dance  together,their hearts will  become one…”</Entry>
+  <Entry File="colne_3\9a.wav" ID="9" Part="a">“Come on,baby!”</Entry>
+  <Entry File="colne_3\9b.wav" ID="9" Part="b">“Woo-hoo! I gots ants in my pants  wanna do a dance,  gotta take a chance,  and mebbe find romance!”</Entry>
+  <Entry File="colne_3\10.wav" ID="10">Scotch “…leer…snicker…”</Entry>
+  <Entry File="colne_3\11.wav" ID="11">Scotch “Hey…what's wrong?  You want me to  keep you company?”</Entry>
+  <Entry File="colne_3\12.wav" ID="12">Cloud “I'm flattered,  but no thanks.”</Entry>
+  <Entry File="colne_3\13.wav" ID="13">“Because…”</Entry>
+  <Entry File="colne_3\14.wav" ID="14">Scotch “Because?”</Entry>
+  <Entry File="colne_3\15.wav" ID="15">Cloud “I ain't INTERESTED in   a buncha scrubs like you!!”</Entry>
+  <Entry File="colne_3\16.wav" ID="16">Scotch “Wha…a MAN!???”</Entry>
+  <Entry File="colne_3\17.wav" ID="17">Scotch “Goddamn it!  Don't think you'll get outta this!  Get him! Beat the *%#@ out of him!!”</Entry>
+  <Entry File="colne_3\18a.wav" ID="18" Part="a">Scotch “Grr! C'mon,what's the matter  with you good-for-nothings!?”</Entry>
+  <Entry File="colne_3\18b.wav" ID="18" Part="b">“All right now,COME ON!  I'll show you how it's done!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="colne_3\0.wav" ID="0">Corneo Hall,2f.</Entry>
+	<Entry File="colne_3\19.wav" ID="19" />
+	<Entry File="colne_3\20.wav" ID="20">Received "Phoenix Down"!</Entry>
+-->
+</VoiceList>

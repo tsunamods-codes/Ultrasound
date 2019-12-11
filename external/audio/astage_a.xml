@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="astage_a\0.wav" ID="0">“Sorry but there's no show now.”</Entry>
+  <Entry File="astage_a\1.wav" ID="1">“We put on a really unusual show here.  But not today,so come back  again sometime and see it.”</Entry>
+  <Entry File="astage_a\2.wav" ID="2">“What's your problem?  Can't you see we wanna be alone?”</Entry>
+  <Entry File="astage_a\3.wav" ID="3">“Geez,what a jerk.  Why don't you just leave us alone?”</Entry>
+  <Entry File="astage_a\4.wav" ID="4">“Congratulations!!”</Entry>
+  <Entry File="astage_a\5.wav" ID="5">“You are our 100th couple today!!”</Entry>
+  <Entry File="astage_a\6.wav" ID="6">“You are our 100th couple today…  Oh,wait…no you're not…  Sorry.”</Entry>
+  <Entry File="astage_a\7.wav" ID="7">“You two will play the leads  in tonight's show!!”</Entry>
+  <Entry File="astage_a\8.wav" ID="8">Cloud “Wha?”</Entry>
+  <Entry File="astage_a\9.wav" ID="9">“Oh,now,it's not hard. Just play  it however you want to and the rest  of the cast will cover up for you.”</Entry>
+  <Entry File="astage_a\10.wav" ID="10">“Come this way.”</Entry>
+  <Entry File="astage_a\11.wav" ID="11">Cloud “H,hey!”</Entry>
+  <Entry File="astage_a\12.wav" ID="12">Aeris “This sounds like fun.  Come on Cloud,let's do it.”</Entry>
+  <Entry File="astage_a\13.wav" ID="13">Tifa “Sounds like fun.  Come on Cloud,  let's give it a try.”</Entry>
+  <Entry File="astage_a\14.wav" ID="14">Yuffie “I don't know what it's all about but  sounds kind of cool.  Wanna try it,Cloud?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="astage_a\15.wav" ID="15">Event square</Entry>
+-->
+</VoiceList>

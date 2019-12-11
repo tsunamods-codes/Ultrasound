@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blinst_1\1.wav" ID="1">Barret “Yo…  You really gonna take these   stairs all the way up?”</Entry>
+  <Entry File="blinst_1\2.wav" ID="2">Tifa “Well we've got to  get to Aeris  to help her somehow.”</Entry>
+  <Entry File="blinst_1\3.wav" ID="3">Barret “Of all the out of the way…”</Entry>
+  <Entry File="blinst_1\4.wav" ID="4">Tifa “I don't have time to argue with you!  I'm going!”</Entry>
+  <Entry File="blinst_1\5.wav" ID="5">Barret “Y,yo Tifa!  Don't go alone!”</Entry>
+  <Entry File="blinst_1\6.wav" ID="6">Tifa “Wait a minute,  Cloud!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blinst_1\0.wav" ID="0">Shinra Bldg. Stairs</Entry>
+-->
+</VoiceList>

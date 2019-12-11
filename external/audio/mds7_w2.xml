@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds7_w2\2.wav" ID="2">“Unn!!  Who the hell are you!?  No unauthorized access.”</Entry>
+  <Entry File="mds7_w2\3.wav" ID="3">“Do you know about what's been going on?” What,that again? …</Entry>
+  <Entry File="mds7_w2\4a.wav" ID="4" Part="a">“You must be sick of hearing it…  But it's been so long  since there was any real news here.”</Entry>
+  <Entry File="mds7_w2\4b.wav" ID="4" Part="b">“You're worried where it's all heading,right?”</Entry>
+  <Entry File="mds7_w2\5.wav" ID="5">“Everyone's in a buzz 'bout that  terrorist group AVALANCHE  blowin' up the Sector 1 Mako Reactor.”</Entry>
+  <Entry File="mds7_w2\6a.wav" ID="6" Part="a">“On the surface they say  they're an anti-Shinra group,  but in reality…”</Entry>
+  <Entry File="mds7_w2\6b.wav" ID="6" Part="b">“they say they're just out to kill  as many people as they can.”</Entry>
+  <Entry File="mds7_w2\7.wav" ID="7">“Since today's special,  I'm gonna let you in on a juicy bit of news.  But you gotta keep it to yourself.”</Entry>
+  <Entry File="mds7_w2\8a.wav" ID="8" Part="a">“Haaa,haaa,haaa!!”</Entry>
+  <Entry File="mds7_w2\8b.wav" ID="8" Part="b">“That's a good one,ain't it!?  While they're bustin' things up on top,  the only ones makin' out  good are us weapon stores!”</Entry>
+  <Entry File="mds7_w2\8c.wav" ID="8" Part="c">“Now,if we can just get rid of this back stock,  we'll be doin' OK.”</Entry>
+  <Entry File="mds7_w2\9a.wav" ID="9" Part="a">“I welcome everything going to pot!”</Entry>
+  <Entry File="mds7_w2\9b.wav" ID="9" Part="b">“GO!! GO!! AVALANCHE!!  That's what I say!”</Entry>
+  <Entry File="mds7_w2\10a.wav" ID="10" Part="a">“You know what I do?  I'll bet you don't.”</Entry>
+  <Entry File="mds7_w2\10b.wav" ID="10" Part="b">“You come here tomorrow and I'll tell you.”</Entry>
+  <Entry File="mds7_w2\10c.wav" ID="10" Part="c">“Ahh,there just ain't no good jobs   here in the slums.”</Entry>
+  <Entry File="mds7_w2\10d.wav" ID="10" Part="d">“I wanna go to the upper world.”</Entry>
+  <Entry File="mds7_w2\11a.wav" ID="11" Part="a">“This is the Beginner's Hall.”</Entry>
+  <Entry File="mds7_w2\11b.wav" ID="11" Part="b">“You say you're a beginner?  But your eyes say you're not.”</Entry>
+  <Entry File="mds7_w2\12.wav" ID="12">Cloud “Don't mess with me. I used to be in SOLDIER.  I'll tell you how much I know…  an' for free too!”</Entry>
+  <Entry File="mds7_w2\13.wav" ID="13">Cloud “What do you want to know?” How to save? How to heal your allies? Curative Magic? Weapons and armor? How to apply Materia? Effective ways to use Materia? How to form your battle party? How to check your status? About Limit status? Other things to watch for? That's all </Entry>
+  <Entry File="mds7_w2\14.wav" ID="14">Cloud “First,you need Potions.”</Entry>
+  <Entry File="mds7_w2\15.wav" ID="15">“You're a stingy one.  Here,I'll give you ONE Potion.”</Entry>
+  <Entry File="mds7_w2\16.wav" ID="16">“I don't have any extra Potions on me.  Why don't you go buy some?”</Entry>
+  <Entry File="mds7_w2\17.wav" ID="17">Cloud “Sorry.  I'll have to go get my money.”</Entry>
+  <Entry File="mds7_w2\18a.wav" ID="18" Part="a">Cloud “You probably know all this.  But just in case,I'll go over it.”</Entry>
+  <Entry File="mds7_w2\18b.wav" ID="18" Part="b">“Until you get instructions,  don't open or take discs  out of the CD drive.”</Entry>
+  <Entry File="mds7_w2\18c.wav" ID="18" Part="c">“After you open up the CD drive,  I can't guarantee what'll happen.  That's all.”</Entry>
+  <Entry File="mds7_w2\23a.wav" ID="23" Part="a">“Hey!!  You got one right off!”</Entry>
+  <Entry File="mds7_w2\23b.wav" ID="23" Part="b">“That was Materia.  Next,take this [treasure chest]!”</Entry>
+  <Entry File="mds7_w2\24a.wav" ID="24" Part="a">“Now listen,  hidden in these treasure chests  are a lot of items.”</Entry>
+  <Entry File="mds7_w2\24b.wav" ID="24" Part="b">“There are box types and bag types,  so make sure you don't overlook any.”</Entry>
+  <Entry File="mds7_w2\25a.wav" ID="25" Part="a">“This is the fabled [Save Point]!!”</Entry>
+  <Entry File="mds7_w2\25b.wav" ID="25" Part="b">“At a [Save Point]  you can use a [tent] and/or select 'SAVE'.”</Entry>
+  <Entry File="mds7_w2\25c.wav" ID="25" Part="c">“You can also do something else  there,but right now it's a secret.”</Entry>
+  <Entry File="mds7_w2\25d.wav" ID="25" Part="d">“Even if you are wiped out,if you've  saved,you can restart  from that same point.”</Entry>
+  <Entry File="mds7_w2\25e.wav" ID="25" Part="e">“That way you don't have to worry  when you've been wiped out.”</Entry>
+  <Entry File="mds7_w2\25f.wav" ID="25" Part="f">“This is jumping ahead a little but,  when you leave Midgar…”</Entry>
+  <Entry File="mds7_w2\25g.wav" ID="25" Part="g">“and you get to the world map,  you can save anywhere you like.   Remember that.”</Entry>
+  <Entry File="mds7_w2\29.wav" ID="29">“Hey SOLDIER!!  Tell us about battles!  We'll even pay you!”</Entry>
+  <Entry File="mds7_w2\30.wav" ID="30">Cloud “What do you want to know?” About ATB About numbers on the screen About [Change] and [Defend] About [Escape] About [Gauges] About [Status] About [Elementals] About [Help] That's all the time I have for you!</Entry>
+  <Entry File="mds7_w2\31.wav" ID="31">Cloud “I'm not hard up enough  to take money from guys like you.  But I'll rap with you for a while.”</Entry>
+  <Entry File="mds7_w2\32a.wav" ID="32" Part="a">Cloud “ATB or Active Time Battle is a system   that is always in operation during battle.”</Entry>
+  <Entry File="mds7_w2\32b.wav" ID="32" Part="b">“Select [Wait] from ATB on the Config Menu   and time will stop  when you select magic or items during battle.”</Entry>
+  <Entry File="mds7_w2\32c.wav" ID="32" Part="c">“This gives you time to pick out your commands.  This is especially helpful to beginners.”</Entry>
+  <Entry File="mds7_w2\32d.wav" ID="32" Part="d">“Selecting [Recommended] ATB  in the config menu can stop time  while the effects of spells and items are  taking place during battle.”</Entry>
+  <Entry File="mds7_w2\32e.wav" ID="32" Part="e">“This lets you take your time looking over  the progression of the battle.  When you don't want to rush in battle,  this is for you!”</Entry>
+  <Entry File="mds7_w2\32f.wav" ID="32" Part="f">“Personally,I always use [Active],  but you can use whichever you like.”</Entry>
+  <Entry File="mds7_w2\33a.wav" ID="33" Part="a">Cloud “White numbers appearing on the screen  in battle are damage points.   Green numbers show restorative points.”</Entry>
+  <Entry File="mds7_w2\33b.wav" ID="33" Part="b">“You better watch these  if you don't want to get wiped out.”</Entry>
+  <Entry File="mds7_w2\34a.wav" ID="34" Part="a">Cloud “The [Change] command can move characters  to and from the front and back rows.”</Entry>
+  <Entry File="mds7_w2\34b.wav" ID="34" Part="b">“In the back row,the damage received is less,  but the attacking power is less.”</Entry>
+  <Entry File="mds7_w2\34c.wav" ID="34" Part="c">“You can make a [Change]  by pressing the Directional button in battle.”</Entry>
+  <Entry File="mds7_w2\34d.wav" ID="34" Part="d">“Pushing the Directional button   the other direction during battle  accesses [Defend].”</Entry>
+  <Entry File="mds7_w2\34e.wav" ID="34" Part="e">“Selecting [Defend] reduces the damage  you receive by half  until the next command.”</Entry>
+  <Entry File="mds7_w2\34f.wav" ID="34" Part="f">“If you're up against a strong enemy,  don't hesitate to use this one.  Of course,I never need it.”</Entry>
+  <Entry File="mds7_w2\35a.wav" ID="35" Part="a">Cloud “I don't really remember ever having  to use the [Escape] command…  but you'll probably need it.”</Entry>
+  <Entry File="mds7_w2\35b.wav" ID="35" Part="b">“Push [PAGEUP] and [PAGEDOWN] together,  hold them down,and you can escape.”</Entry>
+  <Entry File="mds7_w2\36a.wav" ID="36" Part="a">Cloud “During battle,  there are several [Gauges] displayed.  You can't check them now,  so just remember what I tell you.”</Entry>
+  <Entry File="mds7_w2\36b.wav" ID="36" Part="b">“[time gauge] displays the time   remaining until your   next turn while in battle.”</Entry>
+  <Entry File="mds7_w2\36c.wav" ID="36" Part="c">“When the gauge is full,  you can make your command.”</Entry>
+  <Entry File="mds7_w2\36d.wav" ID="36" Part="d">“If you don't want to make one,  push [MENU]  and you can move to  the next character.”</Entry>
+  <Entry File="mds7_w2\36e.wav" ID="36" Part="e">“It's convenient when you wanna make  Barret work.”</Entry>
+  <Entry File="mds7_w2\36f.wav" ID="36" Part="f">“The [limit gauge] increases every time  you sustain damage.  When it is full,  you can use the [limit technique].”</Entry>
+  <Entry File="mds7_w2\36g.wav" ID="36" Part="g">“This gauge is not cleared after each battle,  but gradually builds up over time.”</Entry>
+  <Entry File="mds7_w2\36h.wav" ID="36" Part="h">“It takes a while for it to build up,  so you have to think about which  times are the best to use it.”</Entry>
+  <Entry File="mds7_w2\36i.wav" ID="36" Part="i">“You probably don't know about them,  but there are conditions of  [fury] and [sadness].”</Entry>
+  <Entry File="mds7_w2\36j.wav" ID="36" Part="j">“When you have [fury],  your limit gauge builds up sooner,  but your attacking accuracy is lower.”</Entry>
+  <Entry File="mds7_w2\36k.wav" ID="36" Part="k">“Keep in mind that [sadness] makes  your limit gauge build up slower,  but the damage you receive is also lessened.”</Entry>
+  <Entry File="mds7_w2\36l.wav" ID="36" Part="l">“The [barrier gauge] shows your defense barriers.”</Entry>
+  <Entry File="mds7_w2\36m.wav" ID="36" Part="m">“The top gauge displays [barrier] or  magic defense against attacks.  The bottom gauge displays [magic barrier] or  defenses against magic attacks.”</Entry>
+  <Entry File="mds7_w2\36n.wav" ID="36" Part="n">“Both will cut the damage you receive in half.  However,over time they will disappear.”</Entry>
+  <Entry File="mds7_w2\36o.wav" ID="36" Part="o">“Whenever you use [barrier] or  [magic barrier]  make sure to pay attention to the   [barrier gauge].”</Entry>
+  <Entry File="mds7_w2\36p.wav" ID="36" Part="p">“That's it. Remember that for the next battle.”</Entry>
+  <Entry File="mds7_w2\37a.wav" ID="37" Part="a">Cloud “Looks like you didn't get it  the last time I told you.  What's wrong with you?  You touched in the head?”</Entry>
+  <Entry File="mds7_w2\37b.wav" ID="37" Part="b">“Well,don't worry.  You just need to push [ASSIST]  in battle.”</Entry>
+  <Entry File="mds7_w2\37c.wav" ID="37" Part="c">“Do that,and the [Help] message will walk you  through the commands.”</Entry>
+  <Entry File="mds7_w2\37d.wav" ID="37" Part="d">“It also shows you the name of your enemy,  so even I use it once in a while.  Make good use of it.”</Entry>
+  <Entry File="mds7_w2\38a.wav" ID="38" Part="a">Cloud “[wiped out].   This is one I've never personally used.  But I heard from someone  what it was about.”</Entry>
+  <Entry File="mds7_w2\38b.wav" ID="38" Part="b">“When you are wiped out,  you start back from the last save point.”</Entry>
+  <Entry File="mds7_w2\38c.wav" ID="38" Part="c">“Even a weakling like you  can make it out of the roughest places   as long as you hang in there and fight.  You should be glad!”</Entry>
+  <Entry File="mds7_w2\39a.wav" ID="39" Part="a">Cloud “[Status] means just that.  The status of each character.”</Entry>
+  <Entry File="mds7_w2\39b.wav" ID="39" Part="b">“I'll probably wind up repeating myself,  but let me go over a few basic points.”</Entry>
+  <Entry File="mds7_w2\41a.wav" ID="41" Part="a">Cloud “Hoo…I'm beat.”</Entry>
+  <Entry File="mds7_w2\41b.wav" ID="41" Part="b">“Your [Status] can be changed with magic  and items,so you should check  it whenever you buy things.”</Entry>
+  <Entry File="mds7_w2\42a.wav" ID="42" Part="a">Cloud “[elemental] is the special effect that  comes with certain weapons and magic.”</Entry>
+  <Entry File="mds7_w2\42b.wav" ID="42" Part="b">“It's necessary to move ahead effectively.  If you pay attention to  the types of elementals you use  you'll become intermediate in no time.”</Entry>
+  <Entry File="mds7_w2\42c.wav" ID="42" Part="c">“I put together this list,  but remember,it's just a partial list  don't take it too literally.”</Entry>
+  <Entry File="mds7_w2\44a.wav" ID="44" Part="a">Cloud “If you use reciprocal elementals  in your attacks,the effect is huge!”</Entry>
+  <Entry File="mds7_w2\44b.wav" ID="44" Part="b">“Also,if you use the same elemental,  your defenses are raised.  But,you have to be careful  because the opposite is also true.”</Entry>
+  <Entry File="mds7_w2\44c.wav" ID="44" Part="c">“To see what elementals an enemy has,  you need [Sense] Materia.  If you get that Materia,  you should try using it.”</Entry>
+  <Entry File="mds7_w2\45.wav" ID="45">“……smack……knock……!!”</Entry>
+  <Entry File="mds7_w2\46.wav" ID="46">“Help!”</Entry>
+  <Entry File="mds7_w2\47.wav" ID="47">Cloud “You've got to hang in there.  Your limit gauge is just starting to build.”</Entry>
+  <Entry File="mds7_w2\48.wav" ID="48">“Waaaah!!”</Entry>
+  <Entry File="mds7_w2\49.wav" ID="49">Cloud “OK! Now your limit gauge is full,  go ahead and use it!  Fight with your limit technique.”</Entry>
+  <Entry File="mds7_w2\50.wav" ID="50">“Magic!!  Magic!!”</Entry>
+  <Entry File="mds7_w2\51a.wav" ID="51" Part="a">Cloud “Calm down!  When your enemy uses magic  counter with [Magic Barrier] or [reflect].”</Entry>
+  <Entry File="mds7_w2\51b.wav" ID="51" Part="b">“[Magic Barrier] reduces the damage  received from magic by half.”</Entry>
+  <Entry File="mds7_w2\51c.wav" ID="51" Part="c">“[reflect] bounces the attacks off you.  But the number of times you can use it  is limited so be careful.”</Entry>
+  <Entry File="mds7_w2\52.wav" ID="52">“Wow! You sure are strong!  I'm going to be strong,too !”</Entry>
+  <Entry File="mds7_w2\53.wav" ID="53">“Me too!”</Entry>
+  <Entry File="mds7_w2\54a.wav" ID="54" Part="a">Cloud “If you want to get as strong as me  you need to use Materia.”</Entry>
+  <Entry File="mds7_w2\54b.wav" ID="54" Part="b">“And you have to find the best combinations  of them.”</Entry>
+  <Entry File="mds7_w2\54c.wav" ID="54" Part="c">“The type of Materia you put in  your weapons and armor will determine  how quickly your Materia grows.”</Entry>
+  <Entry File="mds7_w2\54d.wav" ID="54" Part="d">“Put Materia into the open slots  in your weapons and armor.  The possible combinations are limitless.”</Entry>
+  <Entry File="mds7_w2\54e.wav" ID="54" Part="e">“That's about all I can tell you.  If you want to be like me,you have  to have some natural talent.”</Entry>
+  <Entry File="mds7_w2\55.wav" ID="55">“I still don't get it!”</Entry>
+  <Entry File="mds7_w2\56a.wav" ID="56" Part="a">Cloud “Listen kids,don't piss me off!”</Entry>
+  <Entry File="mds7_w2\56b.wav" ID="56" Part="b">“That's all right. Just give it a try.  Little by little,you'll get used to it.”</Entry>
+  <Entry File="mds7_w2\57.wav" ID="57">Cloud “Great!”</Entry>
+  <Entry File="mds7_w2\58.wav" ID="58">“How to use the buttons.”</Entry>
+  <Entry File="mds7_w2\62.wav" ID="62">Cloud “Huh? Finger!?  What the hell?”</Entry>
+  <Entry File="mds7_w2\63a.wav" ID="63" Part="a">“I'm the position cursor!!  Call me whenever you're walking  around confused!”</Entry>
+  <Entry File="mds7_w2\63b.wav" ID="63" Part="b">“Push [ASSIST]  and I'll appear over your shiny little head.”</Entry>
+  <Entry File="mds7_w2\64.wav" ID="64">Cloud “Geez,you stand out even more than I do…”</Entry>
+  <Entry File="mds7_w2\65a.wav" ID="65" Part="a">“Am I in the way?  If so,just push [ASSIST]  one more time.”</Entry>
+  <Entry File="mds7_w2\65b.wav" ID="65" Part="b">“I'm pretty busy myself,  and can't always come when you need me.  If I don't show up sometimes,don't get mad.”</Entry>
+  <Entry File="mds7_w2\65c.wav" ID="65" Part="c">“Later!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds7_w2\0.wav" ID="0">Sector 7 Slums</Entry>
+	<Entry File="mds7_w2\1.wav" ID="1">Beginner's Hall</Entry>
+	<Entry File="mds7_w2\19.wav" ID="19">You cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="mds7_w2\20.wav" ID="20">Received "All" Materia!</Entry>
+	<Entry File="mds7_w2\21.wav" ID="21">[Save Point] Access the menu and select [SAVE] to save your game.</Entry>
+	<Entry File="mds7_w2\22.wav" ID="22">Received "Ether"!</Entry>
+	<Entry File="mds7_w2\26.wav" ID="26">That should be all you need to know about  the Save Point.</Entry>
+	<Entry File="mds7_w2\27a.wav" ID="27" Part="a">I'll probably see you again somewhere  down the road.</Entry>
+	<Entry File="mds7_w2\27b.wav" ID="27" Part="b">Take care!</Entry>
+	<Entry File="mds7_w2\28.wav" ID="28">I'm a [treasure chest]!! Beginners,make sure and keep an eye out for me!!</Entry>
+	<Entry File="mds7_w2\40a.wav" ID="40" Part="a">Sleep  You cannot put in a command  until you get up.</Entry>
+	<Entry File="mds7_w2\40b.wav" ID="40" Part="b">Poison  Steals your HP in battle.</Entry>
+	<Entry File="mds7_w2\40c.wav" ID="40" Part="c">Fury  Damage is increased,  attack accuracy decreased.  Tranquilizers will remedy it.</Entry>
+	<Entry File="mds7_w2\40d.wav" ID="40" Part="d">Sadness  Damage is decreased.  Hyper will remedy it.</Entry>
+	<Entry File="mds7_w2\40e.wav" ID="40" Part="e">Petrify  Will petrify and become immobilized.  Every member will be wiped out.</Entry>
+	<Entry File="mds7_w2\40f.wav" ID="40" Part="f">Confuse  Will attack enemy and ally alike.</Entry>
+	<Entry File="mds7_w2\40g.wav" ID="40" Part="g">Silence  Will be unable to cast magic.</Entry>
+	<Entry File="mds7_w2\40h.wav" ID="40" Part="h">Paralyze  Stops time gauges,commands.</Entry>
+	<Entry File="mds7_w2\40i.wav" ID="40" Part="i">Darkness  Accuracy of hitting attacks decreases.</Entry>
+	<Entry File="mds7_w2\40j.wav" ID="40" Part="j">Frog  Become a frog. I hate this one!</Entry>
+	<Entry File="mds7_w2\43a.wav" ID="43" Part="a">Fire  Fire effect. Works best on animals  and water monsters.</Entry>
+	<Entry File="mds7_w2\43b.wav" ID="43" Part="b">Ice  Ice effect. Works best on fire monsters  and things that hate the cold.</Entry>
+	<Entry File="mds7_w2\43c.wav" ID="43" Part="c">Lightning  Lightning effect.  Works best on mechanical things.</Entry>
+	<Entry File="mds7_w2\43d.wav" ID="43" Part="d">Earth  Attacks using the earth's power.  Doesn't work on flying enemies.</Entry>
+	<Entry File="mds7_w2\43e.wav" ID="43" Part="e">Poison  Poisons enemies. Doesn't work on  any poison-based enemies.</Entry>
+	<Entry File="mds7_w2\43f.wav" ID="43" Part="f">Gravity  Gravity-based attack.  These hurt if they hit.</Entry>
+	<Entry File="mds7_w2\43g.wav" ID="43" Part="g">Water  Calls on the earth's water.  Works well on fire monsters.</Entry>
+	<Entry File="mds7_w2\43h.wav" ID="43" Part="h">Wind  Calls up the winds.  Works well on flying enemies.</Entry>
+	<Entry File="mds7_w2\43i.wav" ID="43" Part="i">Holy  Calls up the Planet's power.  Works well on dark monsters.</Entry>
+	<Entry File="mds7_w2\59.wav" ID="59">[Directional button]  [CONTROL]      up  [MENU]: menu left right: walk  [OK]: speak/execute      down   [CANCEL]: run</Entry>
+	<Entry File="mds7_w2\60.wav" ID="60">[PAGEUP]/[PAGEDOWN]: turn.</Entry>
+	<Entry File="mds7_w2\61.wav" ID="61">[How to restart]  You must quit the game in order to restart.  To quit the game,either select QUIT  in the Main Menu or press CTRL+Q.</Entry>
+	<Entry File="mds7_w2\66a.wav" ID="66" Part="a">[Position Cursor]  Push [ASSIST]  when you're lost in the field.  Usually,the [Position Cursor] will   appear on the screen.</Entry>
+	<Entry File="mds7_w2\66b.wav" ID="66" Part="b">But wait!!  [Red triangles] mark the exits and  [Green triangles] mark ladders.  These will help you safely make it through even  the darkest streets or dangerous mountains!</Entry>
+	<Entry File="mds7_w2\66c.wav" ID="66" Part="c">But,there are times when they won't appear,  so be careful.</Entry>
+-->
+</VoiceList>

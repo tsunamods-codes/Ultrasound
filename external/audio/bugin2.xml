@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="bugin2\1a.wav" ID="1" Part="a">Red XIII “Cloud,  this is my grandfather,Bugen.”</Entry>
+  <Entry File="bugin2\1b.wav" ID="1" Part="b">“He is incredible.   He knows everything.”</Entry>
+  <Entry File="bugin2\2.wav" ID="2">Bugenhagen “Ho Ho Hoooo.  I hear that you looked  after Nanaki. ”</Entry>
+  <Entry File="bugin2\3.wav" ID="3">Bugenhagen “Nanaki is still a child you see.”</Entry>
+  <Entry File="bugin2\4.wav" ID="4">Red XIII “Please stop,Grandfather.  I'm 48.”</Entry>
+  <Entry File="bugin2\5a.wav" ID="5" Part="a">Bugenhagen “Ho Ho Hoooo.  Nanaki's tribe has incredible longevity.”</Entry>
+  <Entry File="bugin2\5b.wav" ID="5" Part="b">“So you see his 48 years would  only be equivalent to say that of  a 15 or 16 year old in human reckoning.”</Entry>
+  <Entry File="bugin2\6.wav" ID="6">Cloud “15 or 16!?”</Entry>
+  <Entry File="bugin2\7.wav" ID="7">Bugenhagen “He's quiet and very deep.  You thought he was an adult?”</Entry>
+  <Entry File="bugin2\8a.wav" ID="8" Part="a">Red XIII “…Grandfather.  I want to be an adult.”</Entry>
+  <Entry File="bugin2\8b.wav" ID="8" Part="b">“I want to grow up to be able to  protect you and the village.”</Entry>
+  <Entry File="bugin2\9.wav" ID="9">Bugenhagen “Ho Ho Hoooo.  No Nanaki.  You can't stand on your own yet.”</Entry>
+  <Entry File="bugin2\10.wav" ID="10">Bugenhagen “To do that now would   destroy you in the long run.”</Entry>
+  <Entry File="bugin2\11.wav" ID="11">Bugenhagen “Reaching up into the heavens,threatening  to snatch the very stars from the great  city of Midgar. You've seen it,haven't you?”</Entry>
+  <Entry File="bugin2\12.wav" ID="12">Bugenhagen “Well,that's a bad example.  Looking up too much makes you  lose perspective.”</Entry>
+  <Entry File="bugin2\13.wav" ID="13">Bugenhagen “When it's time for the Planet to die,  you'll understand that you know  absolutely nothing.”</Entry>
+  <Entry File="bugin2\14.wav" ID="14">Cloud “…When the Planet dies?”</Entry>
+  <Entry File="bugin2\15.wav" ID="15">Bugenhagen “Ho Ho Hoooo.  It may be tomorrow,or 100 years from now…  But it's not long off.”</Entry>
+  <Entry File="bugin2\16.wav" ID="16">Cloud “How do you know this?”</Entry>
+  <Entry File="bugin2\17.wav" ID="17">Bugenhagen “I hear the cries of the Planet.”</Entry>
+  <Entry File="bugin2\18.wav" ID="18">Cloud “What's that?”</Entry>
+  <Entry File="bugin2\19.wav" ID="19">Bugenhagen “The sounds of the stars in the heavens.  While this goes on,planets are born,and die.”</Entry>
+  <Entry File="bugin2\20.wav" ID="20">Cloud “What was that?”</Entry>
+  <Entry File="bugin2\21a.wav" ID="21" Part="a">Bugenhagen “Ho Ho Hoooo.  That was a scream from the Planet.”</Entry>
+  <Entry File="bugin2\21b.wav" ID="21" Part="b">“Didn't you hear it? As if to say…  I hurt,I suffer…”</Entry>
+  <Entry File="bugin2\22a.wav" ID="22" Part="a">Red XIII “They have come here on a journey   to save the planet.”</Entry>
+  <Entry File="bugin2\22b.wav" ID="22" Part="b">“Why don't you show them   your apparatus?”</Entry>
+  <Entry File="bugin2\23.wav" ID="23">Bugenhagen “Ho Ho Hoooo.   To save the planet? Ho Ho Hoooo!”</Entry>
+  <Entry File="bugin2\24.wav" ID="24">Bugenhagen “But,then again,I guess it  wouldn't hurt to show him.”</Entry>
+  <Entry File="bugin2\25.wav" ID="25">Red XIII “He brought friends,too.  I'll go get them.”</Entry>
+  <Entry File="bugin2\26a.wav" ID="26" Part="a">Red XIII “Cloud,  please call one of them.”</Entry>
+  <Entry File="bugin2\26b.wav" ID="26" Part="b">“Only three people can fit   in Grandfather's machine.”</Entry>
+  <Entry File="bugin2\27.wav" ID="27">“Bugenhagen!”</Entry>
+  <Entry File="bugin2\28.wav" ID="28">“Several odd looking  people are here.”</Entry>
+  <Entry File="bugin2\29.wav" ID="29">Bugenhagen “The whole place has gotten  busy all of a sudden.”</Entry>
+  <Entry File="bugin2\30.wav" ID="30">Bugenhagen “Don't worry.  My machine won't run away.  Go and invite your friends.”</Entry>
+  <Entry File="bugin2\31.wav" ID="31">Bugenhagen “Here,over here.  The door's unlocked,come in.”</Entry>
+  <Entry File="bugin2\32a.wav" ID="32" Part="a">Elder Hargo “I hope great Bugenhagen will take care and  not overexert himself.”</Entry>
+  <Entry File="bugin2\32b.wav" ID="32" Part="b">“'Ho Ho Hoooo.'  I may be light,  But I'm not as young as Nanaki.”</Entry>
+  <Entry File="bugin2\32c.wav" ID="32" Part="c">“Oops. That will only get you angry.  You're just like me.  Ho ho ho.”</Entry>
+  <Entry File="bugin2\33.wav" ID="33">Red XIII “Grandfather!!”</Entry>
+  <Entry File="bugin2\34.wav" ID="34">Bugenhagen “…Nanaki?  …you're still…here?”</Entry>
+  <Entry File="bugin2\35a.wav" ID="35" Part="a">Red XIII “I can't leave you like this,  Grandfather!”</Entry>
+  <Entry File="bugin2\35b.wav" ID="35" Part="b">“It's the duty of…  Seto's son,to guard this  canyon and her people…”</Entry>
+  <Entry File="bugin2\36a.wav" ID="36" Part="a">Bugenhagen “…listen,Nanaki.  I think you may already know.”</Entry>
+  <Entry File="bugin2\36b.wav" ID="36" Part="b">“If you have any mission in life,  it is not to defend this valley.”</Entry>
+  <Entry File="bugin2\37a.wav" ID="37" Part="a">Bugenhagen “Look at the withering mountain grass.  Listen to the warble of  the new born chocobo's.”</Entry>
+  <Entry File="bugin2\37b.wav" ID="37" Part="b">“Look always to the eternal flow of time  which is far greater than  the span of a human life.”</Entry>
+  <Entry File="bugin2\37c.wav" ID="37" Part="c">“It will teach you more,  than staying here in the valley…”</Entry>
+  <Entry File="bugin2\37d.wav" ID="37" Part="d">“What you will see will eventually  become a part of the Lifestream.”</Entry>
+  <Entry File="bugin2\37e.wav" ID="37" Part="e">“For my children…  And for your children…”</Entry>
+  <Entry File="bugin2\38.wav" ID="38">“So please,Nanaki…  Go with Cloud…  And use your eyes…your ears…”</Entry>
+  <Entry File="bugin2\39.wav" ID="39">“Ho Ho…”</Entry>
+  <Entry File="bugin2\40.wav" ID="40">Red XIII “Grandfather!?  Grandfather!!!”</Entry>
+  <Entry File="bugin2\41.wav" ID="41">“…oh yes.  This is for you.”</Entry>
+  <Entry File="bugin2\42.wav" ID="42">Red XIII “…  Don't scare me like that,Grandfather!”</Entry>
+  <Entry File="bugin2\43.wav" ID="43">Bugenhagen “What? You surprised yourself.  Now take this.”</Entry>
+  <Entry File="bugin2\45.wav" ID="45">Bugenhagen “Ho Ho…Hoooo.  Do not worry about me.  I'll be watching the future of the Planet.”</Entry>
+  <Entry File="bugin2\46a.wav" ID="46" Part="a">Bugenhagen “Ho Ho…Hoooo.  You?”</Entry>
+  <Entry File="bugin2\46b.wav" ID="46" Part="b">“It's been a while…since I've been out.  I think I must have…tired  myself out a bit.”</Entry>
+  <Entry File="bugin2\46c.wav" ID="46" Part="c">“Ahh…don't tell Nanaki.  He'll only worry…”</Entry>
+  <Entry File="bugin2\47.wav" ID="47">Red XIII “…”</Entry>
+  <Entry File="bugin2\48a.wav" ID="48" Part="a">Bugenhagen “Ho Ho…Hoooo.  Now,now. Don't look like that.  I'm all right.”</Entry>
+  <Entry File="bugin2\48b.wav" ID="48" Part="b">“It's a big world and you must  go out and see it…  You may even find your life's mate.  You never know.”</Entry>
+  <Entry File="bugin2\49.wav" ID="49">Bugenhagen “Oh yes…take this along.  I think it will look good on you now.”</Entry>
+  <Entry File="bugin2\50.wav" ID="50">Red XIII “Grandfather…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="bugin2\0.wav" ID="0">Bugen Research Center</Entry>
+	<Entry File="bugin2\44.wav" ID="44">Received "Limited Moon"!</Entry>
+-->
+</VoiceList>

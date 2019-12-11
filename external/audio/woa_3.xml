@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="woa_3\1.wav" ID="1">Cloud “Hmm…I see,”</Entry>
+  <Entry File="woa_3\2.wav" ID="2">Cloud “Guess I shouldn't have  worried about it.”</Entry>
+  <Entry File="woa_3\3.wav" ID="3">Cloud “Tifa,you'll be alright now.”</Entry>
+  <Entry File="woa_3\4.wav" ID="4">Cloud “Yeah,sorry I made you worry.  I solved the mystery.”</Entry>
+  <Entry File="woa_3\5.wav" ID="5">Cloud “I'll explain it to you later.  I need to do something now.”</Entry>
+  <Entry File="woa_3\6.wav" ID="6">Tifa “Sure,OK.”</Entry>
+  <Entry File="woa_3\7.wav" ID="7">Tifa “I think I overdid it a little,too.”</Entry>
+  <Entry File="woa_3\8.wav" ID="8">Tifa “Really?”</Entry>
+  <Entry File="woa_3\9.wav" ID="9">Tifa “What…do you mean?”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="woa_3\0.wav" ID="0">Whirlwind Maze</Entry>
+-->
+</VoiceList>

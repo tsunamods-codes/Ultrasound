@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="itown_m\1a.wav" ID="1" Part="a">“So that overgrown moon's  gonna fall on us,huh?”</Entry>
+  <Entry File="itown_m\1b.wav" ID="1" Part="b">“This's no joke!  We've got to start stocking up  on supplies before they're all gone!”</Entry>
+  <Entry File="itown_m\1c.wav" ID="1" Part="c">“Outta the way!  Hey,move it,move it!”</Entry>
+  <Entry File="itown_m\2a.wav" ID="2" Part="a">“You again!  You aren't hoarding up  goods too,are you?”</Entry>
+  <Entry File="itown_m\2b.wav" ID="2" Part="b">“Don't reach in front of me!  Everything in this store is mine!”</Entry>
+  <Entry File="itown_m\2c.wav" ID="2" Part="c">“I've got money to burn!  I've been saving like mad  just for a time like this!”</Entry>
+  <Entry File="itown_m\2d.wav" ID="2" Part="d">“C'mon,outta the way!  Move,will you? Move!”</Entry>
+  <Entry File="itown_m\3.wav" ID="3">“Ohh…not much time left!!  You never know when that moon's gonna   come crashing down!!”</Entry>
+  <Entry File="itown_m\4a.wav" ID="4" Part="a">“When it all comes down to it,  this world's about money  and material things!”</Entry>
+  <Entry File="itown_m\4b.wav" ID="4" Part="b">“If you got 'em,you can get  by whenever,wherever!”</Entry>
+  <Entry File="itown_m\4c.wav" ID="4" Part="c">“Gotta buy!!  Gotta buy,buy,buy!!  I'm gonna shop till I drop!!”</Entry>
+  <Entry File="itown_m\5.wav" ID="5">“Welcome!  Cash is welcome here!  How may I help you?”</Entry>
+  <Entry File="itown_m\6.wav" ID="6">“Thank you!  Come again!”</Entry>
+  <Entry File="itown_m\7a.wav" ID="7" Part="a">“Welcome!  We always welcome cash!  Now,about where you want to go…”</Entry>
+  <Entry File="itown_m\7b.wav" ID="7" Part="b">“I'm afraid other customers  have already booked it up.  There's nothing left.”</Entry>
+  <Entry File="itown_m\8.wav" ID="8">“…just kidding!  Just a little joke.  Now what can I do for you?”</Entry>
+  <Entry File="itown_m\9a.wav" ID="9" Part="a">Tifa “What's wrong?  You sure are friendly all of a sudden.”</Entry>
+  <Entry File="itown_m\9b.wav" ID="9" Part="b">“Oh,so that's it.  You want the Mimmet Greens…don't you?”</Entry>
+  <Entry File="itown_m\11.wav" ID="11">Tifa “Sorry,little guy.  I can't give you any.”</Entry>
+  <Entry File="itown_m\12.wav" ID="12">Tifa “Well,okay.  Here,go ahead and eat.”</Entry>
+  <Entry File="itown_m\13.wav" ID="13">Tifa “hee hee…how cute!  I just want to tickle him.”</Entry>
+  <Entry File="itown_m\14a.wav" ID="14" Part="a">Cid “What's this!?  You're bein' awful friendly.”</Entry>
+  <Entry File="itown_m\14b.wav" ID="14" Part="b">“Oh,so that's it.  You want the Mimmet Greens…don't you?”</Entry>
+  <Entry File="itown_m\16.wav" ID="16">Cid “Sorry,shorty.  But I can't give ya any.”</Entry>
+  <Entry File="itown_m\17.wav" ID="17">Cid “Well,guess there's no way around it.  Here ya go,shrimp. Eat up.”</Entry>
+  <Entry File="itown_m\18.wav" ID="18">Cid “Heh heh,hey he's kinda cute.  Aw,maybe I'll just tickle him a little.”</Entry>
+  <Entry File="itown_m\30.wav" ID="30">Tifa “Oh,you scared me…!  I thought you were dead!”</Entry>
+  <Entry File="itown_m\31.wav" ID="31">Cid “Sheesh,you scared me.  I thought you croaked!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="itown_m\0.wav" ID="0">Mideel,Materia Store</Entry>
+	<Entry File="itown_m\10.wav" ID="10">Give it some Mimmet Greens. Don't give it any.</Entry>
+	<Entry File="itown_m\15.wav" ID="15">Give it some Mimmet Greens. Don't give it any.</Entry>
+	<Entry File="itown_m\19.wav" ID="19">The chocobo looks like it enjoys eating the Greens.</Entry>
+	<Entry File="itown_m\20.wav" ID="20">Tickle his feet Tickle his stomach Tickle his neck Tickle his belly button Tickle behind his ears Tickle under his arms</Entry>
+	<Entry File="itown_m\21.wav" ID="21">The chocobo looks like it loves that.</Entry>
+	<Entry File="itown_m\22.wav" ID="22">The chocobo looks a little ticklish.</Entry>
+	<Entry File="itown_m\23.wav" ID="23">The chocobo looks a little angry.</Entry>
+	<Entry File="itown_m\24.wav" ID="24">The chocobo looks a little shy.</Entry>
+	<Entry File="itown_m\25.wav" ID="25">The chocobo looks bored.</Entry>
+	<Entry File="itown_m\26.wav" ID="26">Dined and dashed.</Entry>
+	<Entry File="itown_m\27.wav" ID="27">Received Materia from the Chocobo!</Entry>
+	<Entry File="itown_m\28.wav" ID="28">But you've got too much Materia you can't take on anymore…</Entry>
+	<Entry File="itown_m\29.wav" ID="29">The chocobo put the Materia away.</Entry>
+	<Entry File="itown_m\32.wav" ID="32">Chocobos ignore humans who don't look like they'll give them greens.</Entry>
+-->
+</VoiceList>

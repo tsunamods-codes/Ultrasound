@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="cosmin3\1.wav" ID="1">“Oh,welcome home.  You want dinner first?  Or…” Dinner Or…</Entry>
+  <Entry File="cosmin3\2.wav" ID="2">“All right,it'll be ready in no time…”</Entry>
+  <Entry File="cosmin3\3.wav" ID="3">“Oh honey…”</Entry>
+  <Entry File="cosmin3\4.wav" ID="4">“Wh…who are you?  You…can't just come barging  into my home uninvited!!”</Entry>
+  <Entry File="cosmin3\5.wav" ID="5">Cait Sith “Hmm,this place seems like it has  a lot of secrets.”</Entry>
+  <Entry File="cosmin3\6.wav" ID="6">Cait Sith “So,when's dinner?”</Entry>
+  <Entry File="cosmin3\7a.wav" ID="7" Part="a">“All right,all right.  I'm making it right now.”</Entry>
+  <Entry File="cosmin3\7b.wav" ID="7" Part="b">“…But I wonder  which one is going to eat…”</Entry>
+  <Entry File="cosmin3\8.wav" ID="8">“Those two…uh,  Anyway,are you two friends?  It really seems strange.”</Entry>
+  <Entry File="cosmin3\9.wav" ID="9">Cait Sith “What did they say?”</Entry>
+  <Entry File="cosmin3\10.wav" ID="10">“Oh man,I'm so busy.  I need more help.  …mummble…complain…”</Entry>
+  <Entry File="cosmin3\11.wav" ID="11">“Hmm…  I wonder what's going  to happen now?”</Entry>
+  <Entry File="cosmin3\12a.wav" ID="12" Part="a">“Don't worry,Mom!  All of us just need to go  through that door!”</Entry>
+  <Entry File="cosmin3\12b.wav" ID="12" Part="b">“Mr. Bugenhagen sealed it  so we wouldn't have  to worry about it!”</Entry>
+  <Entry File="cosmin3\12c.wav" ID="12" Part="c">“But what's a seal?”</Entry>
+  <Entry File="cosmin3\13.wav" ID="13">“What's wrong with Bugenhagen?  Is he sick?”</Entry>
+  <Entry File="cosmin3\14a.wav" ID="14" Part="a">“No need to be sad,even if something should  happen. Everything will return to  the Planet…Bugenhagen says so.”</Entry>
+  <Entry File="cosmin3\14b.wav" ID="14" Part="b">“Just the thought of something happening to  Bugenhagen…worries me.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="cosmin3\0.wav" ID="0">Cosmo Canyon</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="onna_4\1a.wav" ID="1" Part="a">“Sir…”</Entry>
+  <Entry File="onna_4\1b.wav" ID="1" Part="b">“Choose the BEST 'flavor' from the  4 rooms.”</Entry>
+  <Entry File="onna_4\1c.wav" ID="1" Part="c">“But you can only choose  from an unoccupied room.”</Entry>
+  <Entry File="onna_4\2a.wav" ID="2" Part="a">“Poo,I uh,mean,Sir…”</Entry>
+  <Entry File="onna_4\2b.wav" ID="2" Part="b">“Hurry…”</Entry>
+  <Entry File="onna_4\17.wav" ID="17">“Please choose a room.  (Gosh,he's so weird…  but then again,they all are.)”</Entry>
+  <Entry File="onna_4\18.wav" ID="18">Cloud “Looks like this room's being used.” Take a listen Take a peek</Entry>
+  <Entry File="onna_4\19.wav" ID="19">Cloud “…Wooo…ow!!”</Entry>
+  <Entry File="onna_4\20.wav" ID="20">Cloud “…”</Entry>
+  <Entry File="onna_4\21.wav" ID="21">Cloud “Looks like it's unoccupied.” I guess I'll take this one Hold ground</Entry>
+  <Entry File="onna_4\22.wav" ID="22">Cloud “I'll take this room.”</Entry>
+  <Entry File="onna_4\23.wav" ID="23">Cloud “I wonder if they'd change it if I asked?” I want this room Hold ground</Entry>
+  <Entry File="onna_4\24.wav" ID="24">Cloud “I've changed my mind…  …I want to change rooms.”</Entry>
+  <Entry File="onna_4\25a.wav" ID="25" Part="a">“All right.  Now all we have to do is  enter the room.”</Entry>
+  <Entry File="onna_4\25b.wav" ID="25" Part="b">“You're not going to have  a change of heart,are you?” Don't make me repeat myself I'm still trying to decide</Entry>
+  <Entry File="onna_4\26.wav" ID="26">“Oh,don't be angry with me…  (Geez…this one's probably   the violent type…)”</Entry>
+  <Entry File="onna_4\27.wav" ID="27">“There you are. Enjoy yourself  (You moody creepo!)”</Entry>
+  <Entry File="onna_4\28.wav" ID="28">“All right,please.”</Entry>
+  <Entry File="onna_4\29.wav" ID="29">“Oh,yes sir.  (So indecisive…)”</Entry>
+  <Entry File="onna_4\30.wav" ID="30">“OK,b-y-e!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="onna_4\0.wav" ID="0">Honey Bee Inn</Entry>
+	<Entry File="onna_4\3.wav" ID="3">The Group Room</Entry>
+	<Entry File="onna_4\4.wav" ID="4">The Lover's Room</Entry>
+	<Entry File="onna_4\5.wav" ID="5">The Queen's Room</Entry>
+	<Entry File="onna_4\6.wav" ID="6">The &amp;$#% Room</Entry>
+	<Entry File="onna_4\7.wav" ID="7" />
+	<Entry File="onna_4\8.wav" ID="8" />
+	<Entry File="onna_4\9.wav" ID="9" />
+	<Entry File="onna_4\10.wav" ID="10" />
+	<Entry File="onna_4\11.wav" ID="11" />
+	<Entry File="onna_4\12.wav" ID="12" />
+	<Entry File="onna_4\13.wav" ID="13" />
+	<Entry File="onna_4\14.wav" ID="14" />
+	<Entry File="onna_4\15.wav" ID="15" />
+	<Entry File="onna_4\16.wav" ID="16" />
+	<Entry File="onna_4\31.wav" ID="31">Received "Sexy Lingerie"!</Entry>
+	<Entry File="onna_4\32.wav" ID="32" />
+	<Entry File="onna_4\33.wav" ID="33" />
+	<Entry File="onna_4\34.wav" ID="34" />
+	<Entry File="onna_4\35.wav" ID="35" />
+	<Entry File="onna_4\36.wav" ID="36" />
+	<Entry File="onna_4\37.wav" ID="37" />
+	<Entry File="onna_4\38.wav" ID="38" />
+	<Entry File="onna_4\39.wav" ID="39" />
+	<Entry File="onna_4\40.wav" ID="40" />
+	<Entry File="onna_4\41.wav" ID="41" />
+	<Entry File="onna_4\42.wav" ID="42" />
+	<Entry File="onna_4\43.wav" ID="43" />
+	<Entry File="onna_4\44.wav" ID="44" />
+	<Entry File="onna_4\45.wav" ID="45">Cloud </Entry>
+	<Entry File="onna_4\46.wav" ID="46" />
+-->
+</VoiceList>

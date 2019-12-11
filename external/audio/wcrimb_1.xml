@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="wcrimb_1\1.wav" ID="1">Cloud “…Maybe if I put a battery in…”</Entry>
+  <Entry File="wcrimb_1\2.wav" ID="2">“The propeller might work.”</Entry>
+  <Entry File="wcrimb_1\3.wav" ID="3">Cloud “It might work  if I put a battery in it.”</Entry>
+  <Entry File="wcrimb_1\4.wav" ID="4">Cloud “I guess I'll just have to  believe the shopkeeper.”</Entry>
+  <Entry File="wcrimb_1\5a.wav" ID="5" Part="a">Cloud “Looks like the only way is  to jump onto that bar.”</Entry>
+  <Entry File="wcrimb_1\5b.wav" ID="5" Part="b">“Should make it if I  jump before it comes too close.  Use [OK] to jump”</Entry>
+  <Entry File="wcrimb_1\6.wav" ID="6">Cloud “Jumped too soon…”</Entry>
+  <Entry File="wcrimb_1\7.wav" ID="7">Cloud “Jumped too late…”</Entry>
+  <Entry File="wcrimb_1\8.wav" ID="8">Cloud “Need a battery here,too.”</Entry>
+  <Entry File="wcrimb_1\9.wav" ID="9">Cloud “Damn,out of batteries…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="wcrimb_1\0.wav" ID="0">Plate Section</Entry>
+	<Entry File="wcrimb_1\10.wav" ID="10">Received "Ether"!</Entry>
+-->
+</VoiceList>

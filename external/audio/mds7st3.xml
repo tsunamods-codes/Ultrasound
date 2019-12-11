@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds7st3\1.wav" ID="1">Barret “Yo!!  Get over here,all'ya!!”</Entry>
+  <Entry File="mds7st3\2a.wav" ID="2" Part="a">Barret “This mission was a success.  But don't get lazy now.”</Entry>
+  <Entry File="mds7st3\2b.wav" ID="2" Part="b">“The hard part's still to come!  Don't y'all be scared of that explosion!”</Entry>
+  <Entry File="mds7st3\3.wav" ID="3">Barret “Cause the next one's  gonna be bigger than that!”</Entry>
+  <Entry File="mds7st3\4.wav" ID="4">Barret “Meet back at the hideout!!  Move out!”</Entry>
+  <Entry File="mds7st3\5.wav" ID="5">Barret “Yo,Cloud!  You lissen up!”</Entry>
+  <Entry File="mds7st3\6.wav" ID="6">Barret “Yo! What're ya doin' now?”</Entry>
+  <Entry File="mds7st3\7.wav" ID="7">Biggs “uh,Barret…  We,uh…”</Entry>
+  <Entry File="mds7st3\8.wav" ID="8">Wedge “We can't do it.  We just can't do it.”</Entry>
+  <Entry File="mds7st3\9.wav" ID="9">Jessie “Don't worry!  Don't get all worried!”</Entry>
+  <Entry File="mds7st3\10.wav" ID="10">Jessie “Cloud!  Let's make the mission work!”</Entry>
+  <Entry File="mds7st3\11a.wav" ID="11" Part="a">Jessie “Cloud?  When this mission's over…”</Entry>
+  <Entry File="mds7st3\11b.wav" ID="11" Part="b">“Why don't all of us take a long vacation. Maybe we could go to a hot springs somewhere? Yeah… I don't know…</Entry>
+  <Entry File="mds7st3\24.wav" ID="24">“I'm not letting you go tonight.”</Entry>
+  <Entry File="mds7st3\25.wav" ID="25">“Wow!”</Entry>
+  <Entry File="mds7st3\26.wav" ID="26">“Isn't there somewhere  we could go to be alone?”</Entry>
+  <Entry File="mds7st3\27.wav" ID="27">“There's only the train graveyard around here.  And they say there's ghosts around too!”</Entry>
+  <Entry File="mds7st3\28.wav" ID="28">“…damn.”</Entry>
+  <Entry File="mds7st3\29.wav" ID="29">“What?”</Entry>
+  <Entry File="mds7st3\30.wav" ID="30">“Hey,come over here.”</Entry>
+  <Entry File="mds7st3\31.wav" ID="31">“But people will…”</Entry>
+  <Entry File="mds7st3\32.wav" ID="32">“Who cares?”</Entry>
+  <Entry File="mds7st3\33.wav" ID="33">“But…  There's a weirdo over there.”</Entry>
+  <Entry File="mds7st3\34.wav" ID="34">“Huh?”</Entry>
+  <Entry File="mds7st3\35a.wav" ID="35" Part="a">“Say,you're pretty gutsy.”</Entry>
+  <Entry File="mds7st3\35b.wav" ID="35" Part="b">“Why don't you go snoop somewhere  else,Romeo?”</Entry>
+  <Entry File="mds7st3\36.wav" ID="36">“I've had it!”</Entry>
+  <Entry File="mds7st3\37.wav" ID="37">“Me too.”</Entry>
+  <Entry File="mds7st3\38.wav" ID="38">“You know this is the first time  we've ever agreed on something.”</Entry>
+  <Entry File="mds7st3\39.wav" ID="39">“Yes…”</Entry>
+  <Entry File="mds7st3\40.wav" ID="40">“Well then,shall we?”</Entry>
+  <Entry File="mds7st3\41.wav" ID="41">“urggh…”</Entry>
+  <Entry File="mds7st3\42.wav" ID="42">“…huff…wheez”</Entry>
+  <Entry File="mds7st3\43a.wav" ID="43" Part="a">“When you've been a train man as long as I have,  you see a lot of people  and a lot of lives.”</Entry>
+  <Entry File="mds7st3\43b.wav" ID="43" Part="b">“People meeting,parting,joy,sadness…  After a while,  it doesn't even get to you anymore.”</Entry>
+  <Entry File="mds7st3\44a.wav" ID="44" Part="a">“I wonder how long it's been…  There's an invisible rail  between me and the passengers.”</Entry>
+  <Entry File="mds7st3\44b.wav" ID="44" Part="b">“I could never live their lives.  I'm just a train man plain and simple.  It's easier that way.”</Entry>
+  <Entry File="mds7st3\45a.wav" ID="45" Part="a">“That's not to say that the crossing gate  of my heart doesn't hurt now and again.”</Entry>
+  <Entry File="mds7st3\45b.wav" ID="45" Part="b">“Back during the war,I remember there   was a lot of painful scenes then.”</Entry>
+  <Entry File="mds7st3\46.wav" ID="46">“But,that's a story for  another day…”</Entry>
+  <Entry File="mds7st3\47.wav" ID="47">“First train leaves Midgar at 05:04am.”</Entry>
+  <Entry File="mds7st3\48a.wav" ID="48" Part="a">“Morning.  Dawn comes and things never change.”</Entry>
+  <Entry File="mds7st3\48b.wav" ID="48" Part="b">“You be careful not to get hurt.  Come on back again,hear?”</Entry>
+  <Entry File="mds7st3\49.wav" ID="49">“ALL ABOARD!  The train is about to depart.”</Entry>
+  <Entry File="mds7st3\50a.wav" ID="50" Part="a">“I heard a rumor  that the plate was going to fall,  crushing this station,  I've worked at so many years.”</Entry>
+  <Entry File="mds7st3\50b.wav" ID="50" Part="b">“But I just can't bear to leave here.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds7st3\0.wav" ID="0">Sector 7 Station</Entry>
+	<Entry File="mds7st3\12.wav" ID="12">Cloud Yeah… If I feel like it.</Entry>
+	<Entry File="mds7st3\13.wav" ID="13">Jessie Alrighty then! It's a date!</Entry>
+	<Entry File="mds7st3\14.wav" ID="14">Cloud You never know what lies ahead.</Entry>
+	<Entry File="mds7st3\15.wav" ID="15">Jessie …how lovely. I might just have to tempt you,then.</Entry>
+	<Entry File="mds7st3\16.wav" ID="16">Barret Yo,you all done flappin' your gums!? Go!  Get on that train!</Entry>
+	<Entry File="mds7st3\17.wav" ID="17">Tifa Cloud… Don't be so distant. Everyone wants to be your friend. I'm sure…</Entry>
+	<Entry File="mds7st3\18.wav" ID="18">Barret Damn,man!! I'm here to fight! Don't care 'bout bein' nobody's friend.</Entry>
+	<Entry File="mds7st3\19.wav" ID="19">Barret Let's go! Don't be late!</Entry>
+	<Entry File="mds7st3\20a.wav" ID="20" Part="a">My husband never came back.</Entry>
+	<Entry File="mds7st3\20b.wav" ID="20" Part="b">I wonder if something happened to him?</Entry>
+	<Entry File="mds7st3\20c.wav" ID="20" Part="c">No,I'm sure his leave was just canceled.</Entry>
+	<Entry File="mds7st3\21a.wav" ID="21" Part="a">I went to the station everyday.</Entry>
+	<Entry File="mds7st3\21b.wav" ID="21" Part="b">Then,one day…</Entry>
+	<Entry File="mds7st3\22.wav" ID="22">You used to see that kind of thing  a lot during the war.</Entry>
+	<Entry File="mds7st3\23.wav" ID="23">Please take Aeris somewhere safe. That's the last thing she said before she died. My husband never came back,and I had no child. I think I must have been very lonesome. So I took Aeris home with me.</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="datiao_1\3a.wav" ID="3" Part="a">Reno “You're finally here.  Let's split up.”</Entry>
+  <Entry File="datiao_1\3b.wav" ID="3" Part="b">“You do whatever it takes,  but don't endanger Elena.”</Entry>
+  <Entry File="datiao_1\3c.wav" ID="3" Part="c">“Don't worry.  We won't do anything to hurt  Yuffie.”</Entry>
+  <Entry File="datiao_1\3d.wav" ID="3" Part="d">“For now…”</Entry>
+  <Entry File="datiao_1\4.wav" ID="4">Rude “…”</Entry>
+  <Entry File="datiao_1\5.wav" ID="5">Reno “Stop fooling around.  The enemy's not gonna  wait for us,you know!”</Entry>
+  <Entry File="datiao_1\6a.wav" ID="6" Part="a">Reno “You all thought they might be here  too,huh?  We were way off.”</Entry>
+  <Entry File="datiao_1\6b.wav" ID="6" Part="b">“There's no way they could get this far.”</Entry>
+  <Entry File="datiao_1\7.wav" ID="7">Cloud “Whoa!!”</Entry>
+  <Entry File="datiao_1\8.wav" ID="8">Cloud “Can't go through here…  That flame would  fry us in an instant.”</Entry>
+  <Entry File="datiao_1\9.wav" ID="9">Tifa “Eyaaaah!”</Entry>
+  <Entry File="datiao_1\10.wav" ID="10">Tifa “There's no way past this!”</Entry>
+  <Entry File="datiao_1\11.wav" ID="11">Cid “Damn,that's hot!”</Entry>
+  <Entry File="datiao_1\12.wav" ID="12">Cid “Hot baths I like,but this…”</Entry>
+  <Entry File="datiao_1\13.wav" ID="13">“"The Scale of the Sea God" shines!”</Entry>
+  <Entry File="datiao_1\14.wav" ID="14">Yuffie “LET…ME…GO!!!!”</Entry>
+  <Entry File="datiao_1\15.wav" ID="15">Corneo “Hmm!  Delicious…scrumptious!  I think I've just found a new HOBBY!”</Entry>
+  <Entry File="datiao_1\16.wav" ID="16">Corneo “Which shall it be?  Hmm…Hmm…”</Entry>
+  <Entry File="datiao_1\17.wav" ID="17">Corneo “Should I go…with HER?”</Entry>
+  <Entry File="datiao_1\18.wav" ID="18">Elena “He…hey,I'm a 'Turk'!  You can't get away with this!!”</Entry>
+  <Entry File="datiao_1\19.wav" ID="19">Corneo “Or…maybe…HER?”</Entry>
+  <Entry File="datiao_1\20.wav" ID="20">Yuffie “Oh GAWD!  If I knew this was gonna happen,  I would've taken those rope  lessons more seriously!!”</Entry>
+  <Entry File="datiao_1\21.wav" ID="21">Corneo “Hmm!!!  I've made my choice!  My companion for the night will be…”</Entry>
+  <Entry File="datiao_1\22.wav" ID="22">Corneo “…the cheerful one!”</Entry>
+  <Entry File="datiao_1\23a.wav" ID="23" Part="a">Yuffie “GROSS-NESS!”</Entry>
+  <Entry File="datiao_1\23b.wav" ID="23" Part="b">“Don't mess with me old man!  You don't even have any Materia!”</Entry>
+  <Entry File="datiao_1\24.wav" ID="24">Corneo “Oooooh!  And she's saucy,too!  Wheee! Wheee!”</Entry>
+  <Entry File="datiao_1\25.wav" ID="25">“All right,that's it!!”</Entry>
+  <Entry File="datiao_1\26.wav" ID="26">“Hold it right there!”</Entry>
+  <Entry File="datiao_1\27.wav" ID="27">“Hey,hey,hey!  That's as far as you go!”</Entry>
+  <Entry File="datiao_1\28.wav" ID="28">Corneo “Hee-haw.  What…what's goin' on!? Who's there?”</Entry>
+  <Entry File="datiao_1\29.wav" ID="29">Yuffie “Oh man!  Cloud!”</Entry>
+  <Entry File="datiao_1\30.wav" ID="30">Yuffie “Oh man!  Tifa!”</Entry>
+  <Entry File="datiao_1\31.wav" ID="31">Yuffie “Oh man!  That old fart,Cid!”</Entry>
+  <Entry File="datiao_1\32.wav" ID="32">Corneo “Wheeel…long time no see.”</Entry>
+  <Entry File="datiao_1\33.wav" ID="33">Cloud “Don't tell me you forgot?”</Entry>
+  <Entry File="datiao_1\34.wav" ID="34">Tifa “That fall into the trap really hurt!”</Entry>
+  <Entry File="datiao_1\35.wav" ID="35">Aeris “You just don't get it,do you?”</Entry>
+  <Entry File="datiao_1\36.wav" ID="36">Corneo “Hmm…Who are you guys!?”</Entry>
+  <Entry File="datiao_1\37.wav" ID="37">Cid “Maybe God'd forgive an ugly ^#@# like you,  but I won't!”</Entry>
+  <Entry File="datiao_1\38.wav" ID="38">Barret “ You damn Midgar hyena!”</Entry>
+  <Entry File="datiao_1\39.wav" ID="39">Red XIII “Hurry and let the two go!”</Entry>
+  <Entry File="datiao_1\40.wav" ID="40">Vincent “I don't care what you're doing,  so much as the idiotic way you're doing it…”</Entry>
+  <Entry File="datiao_1\41.wav" ID="41">Cait Sith “Listen you stupid,slimy,sleazy old scab bag!  If you want to get women,  there's such a thing as the RIGHT way!”</Entry>
+  <Entry File="datiao_1\42.wav" ID="42">Corneo “Be quiet!  None of you know how much  I've suffered since then…”</Entry>
+  <Entry File="datiao_1\43.wav" ID="43">Corneo “It's a long story,but…”</Entry>
+  <Entry File="datiao_1\44.wav" ID="44">Tifa “We don't want to hear it!  Just let them go!”</Entry>
+  <Entry File="datiao_1\45.wav" ID="45">Cid “I don't really give a damn!  You're gonna let them go,  or else I'm gonna break your arm!”</Entry>
+  <Entry File="datiao_1\46.wav" ID="46">Cloud “I don't really care!  Let Yuffie and Elena go!”</Entry>
+  <Entry File="datiao_1\47a.wav" ID="47" Part="a">Corneo “Hmm…You guys are serious.  …Good,good.”</Entry>
+  <Entry File="datiao_1\47b.wav" ID="47" Part="b">“…this time I'm not  fooling around either…”</Entry>
+  <Entry File="datiao_1\48a.wav" ID="48" Part="a">Corneo “Why did you kill my little Aps?”</Entry>
+  <Entry File="datiao_1\48b.wav" ID="48" Part="b">“I'm gonna make you PLAY with my new pet,  so you won't interfere  in my search for a bride!”</Entry>
+  <Entry File="datiao_1\49.wav" ID="49">Corneo “RAPPS---come here!!”</Entry>
+  <Entry File="datiao_1\50a.wav" ID="50" Part="a">Corneo “Wait…”</Entry>
+  <Entry File="datiao_1\50b.wav" ID="50" Part="b">“Just wait a second!”</Entry>
+  <Entry File="datiao_1\51.wav" ID="51">Cloud “SHUT UP!”</Entry>
+  <Entry File="datiao_1\52.wav" ID="52">Tifa “You'd better say your prayers!”</Entry>
+  <Entry File="datiao_1\53.wav" ID="53">Cid “Don't be such a poor loser,old man!”</Entry>
+  <Entry File="datiao_1\54a.wav" ID="54" Part="a">Corneo “Just listen to me - it won't take long.”</Entry>
+  <Entry File="datiao_1\54b.wav" ID="54" Part="b">“Why do you think a bad guy like me would  swallow his pride and plead for his life?”</Entry>
+  <Entry File="datiao_1\55.wav" ID="55">Corneo “Hmm…WRONG…!”</Entry>
+  <Entry File="datiao_1\56.wav" ID="56">Corneo “Hmm…RIGHT!”</Entry>
+  <Entry File="datiao_1\57.wav" ID="57">Corneo “Hmm…Close,but no!”</Entry>
+  <Entry File="datiao_1\58.wav" ID="58">Elena “Eyaaaah!”</Entry>
+  <Entry File="datiao_1\59.wav" ID="59">Yuffie “I'm so pissed!”</Entry>
+  <Entry File="datiao_1\60.wav" ID="60">Corneo “If I push this button,they'll fall  and we'll have SQUASHED TOMATOES!”</Entry>
+  <Entry File="datiao_1\61.wav" ID="61">Cloud “Damn!”</Entry>
+  <Entry File="datiao_1\62.wav" ID="62">Tifa “Coward!”</Entry>
+  <Entry File="datiao_1\63.wav" ID="63">Cid “So this is how a loser lives?”</Entry>
+  <Entry File="datiao_1\64.wav" ID="64">Barret “Damn tricky $#%@&amp;T$*^%$ !”</Entry>
+  <Entry File="datiao_1\65.wav" ID="65">Aeris “All right…”</Entry>
+  <Entry File="datiao_1\66.wav" ID="66">Red XIII “Grrrrrgh…!”</Entry>
+  <Entry File="datiao_1\67.wav" ID="67">Cait Sith “You sure are vulgar!”</Entry>
+  <Entry File="datiao_1\68.wav" ID="68">Vincent “…!”</Entry>
+  <Entry File="datiao_1\69.wav" ID="69">Corneo “Now,give me your women too!”</Entry>
+  <Entry File="datiao_1\70.wav" ID="70">Corneo “Ha,ha,ha,ha!  I guess I have the last laugh!”</Entry>
+  <Entry File="datiao_1\71.wav" ID="71">“No,that would be us.”</Entry>
+  <Entry File="datiao_1\72.wav" ID="72">Corneo “…The Turks!”</Entry>
+  <Entry File="datiao_1\73a.wav" ID="73" Part="a">Reno “You knew this was gonna happen ever since  you leaked that secret.”</Entry>
+  <Entry File="datiao_1\73b.wav" ID="73" Part="b">“We're going to take care of you…  personally.”</Entry>
+  <Entry File="datiao_1\74.wav" ID="74">Corneo “DAMMIT! Then they're  all comin' with me!”</Entry>
+  <Entry File="datiao_1\75.wav" ID="75">Corneo “Ugh!”</Entry>
+  <Entry File="datiao_1\76.wav" ID="76">Reno “Good timing,Rude.”</Entry>
+  <Entry File="datiao_1\77.wav" ID="77">Rude “…Let's get to work.”</Entry>
+  <Entry File="datiao_1\78a.wav" ID="78" Part="a">Reno “All right,Corneo.  This'll be over quick,so listen up.”</Entry>
+  <Entry File="datiao_1\78b.wav" ID="78" Part="b">“Why do you think we went to all the trouble of   teaming up with those guys to get you?”</Entry>
+  <Entry File="datiao_1\79.wav" ID="79">Corneo “Two…Number two?”</Entry>
+  <Entry File="datiao_1\80.wav" ID="80">Reno “All wrong.”</Entry>
+  <Entry File="datiao_1\81.wav" ID="81">Corneo “No! Wait,st-!”</Entry>
+  <Entry File="datiao_1\82.wav" ID="82">Corneo “Aaaaaaaaaa…p”</Entry>
+  <Entry File="datiao_1\83.wav" ID="83">Reno “The correct answer was…”</Entry>
+  <Entry File="datiao_1\84.wav" ID="84">Rude “…because it's our job.”</Entry>
+  <Entry File="datiao_1\85a.wav" ID="85" Part="a">Elena “Oh,thank you very much!”</Entry>
+  <Entry File="datiao_1\85b.wav" ID="85" Part="b">“I never thought you'd come…”</Entry>
+  <Entry File="datiao_1\86a.wav" ID="86" Part="a">Reno “Elena,  don't act so weak.”</Entry>
+  <Entry File="datiao_1\86b.wav" ID="86" Part="b">“You're a Turk!”</Entry>
+  <Entry File="datiao_1\87.wav" ID="87">Elena “Y…Yes,sir!”</Entry>
+  <Entry File="datiao_1\88.wav" ID="88">Tifa “Th…Thanks.”</Entry>
+  <Entry File="datiao_1\89.wav" ID="89">Aeris “Thanks for your help.”</Entry>
+  <Entry File="datiao_1\90.wav" ID="90">Cid “I,uh…thanks for today.”</Entry>
+  <Entry File="datiao_1\91.wav" ID="91">Barret “Never thought you'd ever help us…”</Entry>
+  <Entry File="datiao_1\92.wav" ID="92">Cait Sith “So you do have some good in you.”</Entry>
+  <Entry File="datiao_1\93.wav" ID="93">Vincent “It would appear thanks are in order…”</Entry>
+  <Entry File="datiao_1\94.wav" ID="94">Red XIII “I'll just say you…helped.”</Entry>
+  <Entry File="datiao_1\95a.wav" ID="95" Part="a">Reno “Yes…this is Reno.”</Entry>
+  <Entry File="datiao_1\95b.wav" ID="95" Part="b">“Yes…Yes…  I'll get on it right away.”</Entry>
+  <Entry File="datiao_1\96.wav" ID="96">Elena “Was that the company?”</Entry>
+  <Entry File="datiao_1\97.wav" ID="97">Reno “Yeah,  they want us to find Cloud…”</Entry>
+  <Entry File="datiao_1\98.wav" ID="98">Rude “Are we on?”</Entry>
+  <Entry File="datiao_1\99.wav" ID="99">Reno “No,today's our day off.”</Entry>
+  <Entry File="datiao_1\100.wav" ID="100">Yuffie “Hey---who cares about that!?  Get----me-----down----!”</Entry>
+  <Entry File="datiao_1\101.wav" ID="101">“…”</Entry>
+  <Entry File="datiao_1\102.wav" ID="102">“HALT!”</Entry>
+  <Entry File="datiao_1\103.wav" ID="103">“Are you from Wutai?”   No   Yes</Entry>
+  <Entry File="datiao_1\104a.wav" ID="104" Part="a">“Only those from Wutai are allowed in the tower!”</Entry>
+  <Entry File="datiao_1\104b.wav" ID="104" Part="b">“I'll have to ask for you to leave!”</Entry>
+  <Entry File="datiao_1\105.wav" ID="105">“Hey! I can't stand liars!  Leave this tower at once!”</Entry>
+  <Entry File="datiao_1\106.wav" ID="106">“Oh,Miss Yuffie!  Will you climb the pagoda today?”   Yeah   No way!</Entry>
+  <Entry File="datiao_1\107.wav" ID="107">“Then I,Gorky,  will be your opponent on the first floor!”</Entry>
+  <Entry File="datiao_1\108.wav" ID="108">“Miss Yuffie!  You cannot go on to the second floor  unless you defeat me!”</Entry>
+  <Entry File="datiao_1\109.wav" ID="109">“Yo! They call me Shake!  I'll be watchin' your fight with Gorky!”</Entry>
+  <Entry File="datiao_1\110.wav" ID="110">Gorky “Then,begin!”</Entry>
+  <Entry File="datiao_1\111.wav" ID="111">Gorky “Power Change!”</Entry>
+  <Entry File="datiao_1\112.wav" ID="112">Gorky “Here I am,Miss Yuffie!”</Entry>
+  <Entry File="datiao_1\113a.wav" ID="113" Part="a">Shake “Hmm,I thought you were just a girl,  but you handled that pretty good!”</Entry>
+  <Entry File="datiao_1\113b.wav" ID="113" Part="b">“Let's see how you do on next one…”</Entry>
+  <Entry File="datiao_1\114.wav" ID="114">Gorky “In my opinion,you need more training!  I am disappointed!”</Entry>
+  <Entry File="datiao_1\115.wav" ID="115">Shake “No good!  You must beat Gorky!  Are you mocking this Pagoda?”</Entry>
+  <Entry File="datiao_1\116.wav" ID="116">Yuffie “Of course!”</Entry>
+  <Entry File="datiao_1\117.wav" ID="117">Yuffie “Shut up! Shut up! SHADDUP!”</Entry>
+  <Entry File="datiao_1\118.wav" ID="118">Yuffie “Who's next?”</Entry>
+  <Entry File="datiao_1\119.wav" ID="119">Shake “Are you blind?  I'm right here!”</Entry>
+  <Entry File="datiao_1\120.wav" ID="120">Yuffie “What?  I gotta fight a punk?”</Entry>
+  <Entry File="datiao_1\121.wav" ID="121">Shake “Heh! Punk.  At least I'm not some baby bimbo!”</Entry>
+  <Entry File="datiao_1\122.wav" ID="122">Yuffie “Wh,what did you say!?”</Entry>
+  <Entry File="datiao_1\123a.wav" ID="123" Part="a">Shake “See what I mean?   That anger's what makes you  so immature!”</Entry>
+  <Entry File="datiao_1\123b.wav" ID="123" Part="b">“Don't pat yourself on the back  until you beat me!”</Entry>
+  <Entry File="datiao_1\124.wav" ID="124">Yuffie “Now watch…”</Entry>
+  <Entry File="datiao_1\125.wav" ID="125">Shake “'bout the only thing you do really good is breathe!  Are you sure you wanna fight?”   Stop yappin'!   I'll forgive you</Entry>
+  <Entry File="datiao_1\126.wav" ID="126">“Hm,so someone finally defeated Gorky.”</Entry>
+  <Entry File="datiao_1\127.wav" ID="127">“I guess now it's Chekhov's turn…”</Entry>
+  <Entry File="datiao_1\128.wav" ID="128">Shake “Here I go,brat!  Speed Change!”</Entry>
+  <Entry File="datiao_1\129.wav" ID="129">Shake “URRGRAAAAGH!  So you CAN fight?”</Entry>
+  <Entry File="datiao_1\130.wav" ID="130">Shake “HYAAAAAAH!  BRATBRATBRATBRAT!!”</Entry>
+  <Entry File="datiao_1\131.wav" ID="131">Shake “You don't belong here!  This is the Wutai Temple of Martial Arts!”</Entry>
+  <Entry File="datiao_1\132.wav" ID="132">Shake “Hey,you there!  Don't ignore me!”</Entry>
+  <Entry File="datiao_1\133.wav" ID="133">Shake “So you're just talk after all.  Brat!”</Entry>
+  <Entry File="datiao_1\134.wav" ID="134">Chekhov “You can't go to the next floor   unless you beat Shake.”</Entry>
+  <Entry File="datiao_1\135.wav" ID="135">Chekhov “Ho,ho,ho…  It's been a while since I felt pain…</Entry>
+  <Entry File="datiao_1\136.wav" ID="136">“So even Shake's been defeated.  It's been a while since you  had to fight,Chekhov.”</Entry>
+  <Entry File="datiao_1\137.wav" ID="137">Chekhov “Unfortunately,this is as far as it goes.  Staniv,you watch over there.”</Entry>
+  <Entry File="datiao_1\138.wav" ID="138">Yuffie “That ain't going to happen!  I'll teach you about the strength of youth!”</Entry>
+  <Entry File="datiao_1\139.wav" ID="139">Chekhov “Keep mouthing off like that,little girl,  and you're going to get burned.”   I got insurance.   Let's get this over,ya' old geez.</Entry>
+  <Entry File="datiao_1\140.wav" ID="140">Chekhov “Ho,ho,ho.  We'll see if you still talk like that   after you taste some of my Sacred Magic…”</Entry>
+  <Entry File="datiao_1\141.wav" ID="141">Chekhov “Ho,ho,ho.  What did you expect from a child  barely out of diapers!?”</Entry>
+  <Entry File="datiao_1\142.wav" ID="142">Chekhov “Magic Change!”</Entry>
+  <Entry File="datiao_1\143.wav" ID="143">Chekhov “I can't believe you beat me…”</Entry>
+  <Entry File="datiao_1\144.wav" ID="144">Staniv “This should be interesting…!  It's been a long time since I've  used my powers to their fullest…”</Entry>
+  <Entry File="datiao_1\145.wav" ID="145">Chekhov “Ho,ho,ho!  What does a immature young child know…?”</Entry>
+  <Entry File="datiao_1\146.wav" ID="146">Staniv “This is the average person's limit?”</Entry>
+  <Entry File="datiao_1\147.wav" ID="147">Chekhov “That being the case,we have   nothing further to discuss.”</Entry>
+  <Entry File="datiao_1\148.wav" ID="148">Chekhov “How dare they think  they could sneak past us?”</Entry>
+  <Entry File="datiao_1\149.wav" ID="149">Staniv “First,Chekhov will keep you company…”</Entry>
+  <Entry File="datiao_1\150.wav" ID="150">Staniv “So you're here?”</Entry>
+  <Entry File="datiao_1\151.wav" ID="151">Yuffie “Huh? Who am I supposed to beat?”</Entry>
+  <Entry File="datiao_1\152.wav" ID="152">Staniv “HAAAAH!”</Entry>
+  <Entry File="datiao_1\153a.wav" ID="153" Part="a">Staniv “The rule is the best fighter on  each floor will be your opponent…  Although it's a five-storied pagoda,   the fourth floor is the highest</Entry>
+  <Entry File="datiao_1\153c.wav" ID="153" Part="c">“You still want to try?”   Just come on!!   I'll pass!</Entry>
+  <Entry File="datiao_1\154.wav" ID="154">Staniv “I like you!  Now watch…”</Entry>
+  <Entry File="datiao_1\155.wav" ID="155">Staniv “Weapon Change!”</Entry>
+  <Entry File="datiao_1\156.wav" ID="156">Staniv “How unfortunate!  It was over before I could even   put all my strength into it…”</Entry>
+  <Entry File="datiao_1\157.wav" ID="157">Staniv “Wh,what?”</Entry>
+  <Entry File="datiao_1\158.wav" ID="158">Gorky “Splendid!  You have definitely improved…”</Entry>
+  <Entry File="datiao_1\159.wav" ID="159">Shake “Oh,ho!  Maybe you're not as   big a child as we thought!”</Entry>
+  <Entry File="datiao_1\160.wav" ID="160">Chekhov “Of course.  If WE lost to her…”</Entry>
+  <Entry File="datiao_1\161.wav" ID="161">Staniv “You have defeated four of our  best,but now you will have to  face HIM!”</Entry>
+  <Entry File="datiao_1\162.wav" ID="162">Staniv “If it were not for Miss Yuffie,  I wouldn't be facing him…”</Entry>
+  <Entry File="datiao_1\163.wav" ID="163">Staniv “You didn't seem like someone who could  get to the fourth floor so easily.”</Entry>
+  <Entry File="datiao_1\164.wav" ID="164">Yuffie “D,…Dad!?”</Entry>
+  <Entry File="datiao_1\165.wav" ID="165">Godo “I'm glad you made it this far,  Yuffie!”</Entry>
+  <Entry File="datiao_1\166.wav" ID="166">Yuffie “What are you doing here?”</Entry>
+  <Entry File="datiao_1\167a.wav" ID="167" Part="a">Godo “I'll answer that by having you   try your skills against me!”</Entry>
+  <Entry File="datiao_1\167b.wav" ID="167" Part="b">“Hold nothing back.  Come as if you're trying to kill me!  If you don't…then I'll have to kill you!”</Entry>
+  <Entry File="datiao_1\168.wav" ID="168">Yuffie “Dammit…”</Entry>
+  <Entry File="datiao_1\169.wav" ID="169">Godo “Ohhh! And what was that!?  Come back when you get more training!”</Entry>
+  <Entry File="datiao_1\170.wav" ID="170">Yuffie “I'll show you this time,you old Fart-meister!”</Entry>
+  <Entry File="datiao_1\171.wav" ID="171">Godo “Hmm? A slight improvement.”</Entry>
+  <Entry File="datiao_1\172.wav" ID="172">Godo “Come at me with all you have!  OMNI-Change!!”</Entry>
+  <Entry File="datiao_1\173.wav" ID="173">Yuffie “H…hey!”</Entry>
+  <Entry File="datiao_1\174.wav" ID="174">Godo “What are you doing!  OMNI-Change!”</Entry>
+  <Entry File="datiao_1\175.wav" ID="175">Yuffie “…heave…heave…”</Entry>
+  <Entry File="datiao_1\176.wav" ID="176">Godo “…huff…puff…”</Entry>
+  <Entry File="datiao_1\177.wav" ID="177">Yuffie “O…old coot…  not…bad…”</Entry>
+  <Entry File="datiao_1\178.wav" ID="178">Godo “You've…also…improved…”</Entry>
+  <Entry File="datiao_1\179.wav" ID="179">Yuffie “Hah…Ha,ha…”</Entry>
+  <Entry File="datiao_1\180.wav" ID="180">Godo “…Heh,heh…”</Entry>
+  <Entry File="datiao_1\181.wav" ID="181">Yuffie “Ha ha haaaaaa!”</Entry>
+  <Entry File="datiao_1\182.wav" ID="182">Godo “Waha haaaaa!”</Entry>
+  <Entry File="datiao_1\183a.wav" ID="183" Part="a">Godo “It's time I gave this  to you,Yuffie…”</Entry>
+  <Entry File="datiao_1\183b.wav" ID="183" Part="b">“This is Leviathan Materia.  Take it.”</Entry>
+  <Entry File="datiao_1\184a.wav" ID="184" Part="a">Godo “…I thought I'd give it to you,  but you have no room for it.”</Entry>
+  <Entry File="datiao_1\184b.wav" ID="184" Part="b">“Then,come back for it later.  And don't forget!”</Entry>
+  <Entry File="datiao_1\185.wav" ID="185">Godo “The Leviathan Materia?  Oh! So you DID remember.”</Entry>
+  <Entry File="datiao_1\186.wav" ID="186">“Well it's yours,so go ahead and take it!”</Entry>
+  <Entry File="datiao_1\187.wav" ID="187">“You have too much Materia!”</Entry>
+  <Entry File="datiao_1\188.wav" ID="188">Staniv “But,Lord Godo.  The Leviathan Materia should only be given  to the person who conquers and takes  over this Pagoda.   That is our custom…”</Entry>
+  <Entry File="datiao_1\189a.wav" ID="189" Part="a">Yuffie “CUSTOM,CUSTOM,CUSTOM…  I'm so sick of hearing that!”</Entry>
+  <Entry File="datiao_1\189b.wav" ID="189" Part="b">“It's so stupid!”</Entry>
+  <Entry File="datiao_1\190.wav" ID="190">Gorky “Silence,Miss Yuffie!”</Entry>
+  <Entry File="datiao_1\191a.wav" ID="191" Part="a">Yuffie “What 'bout all of you?  With all your power…”</Entry>
+  <Entry File="datiao_1\191b.wav" ID="191" Part="b">“Are you satisfied being cooped up  in this tower?”</Entry>
+  <Entry File="datiao_1\192.wav" ID="192">Godo “Yuffie!”</Entry>
+  <Entry File="datiao_1\193a.wav" ID="193" Part="a">Yuffie “You too,dad…!  Just because you lost the war,did”</Entry>
+  <Entry File="datiao_1\193b.wav" ID="193" Part="b">“you have to turn Wutai into a place like this?”</Entry>
+  <Entry File="datiao_1\194.wav" ID="194">Chekhov “What do you mean?”</Entry>
+  <Entry File="datiao_1\195.wav" ID="195">Yuffie “You turned Wutai into a cheesy resort town  peddling to tourists…”</Entry>
+  <Entry File="datiao_1\196.wav" ID="196">Yuffie “How dare you!?  Da-chao Statue and Leviathan are ashamed!!”</Entry>
+  <Entry File="datiao_1\197.wav" ID="197">Godo “…”</Entry>
+  <Entry File="datiao_1\198.wav" ID="198">Shake “She IS a kid.”</Entry>
+  <Entry File="datiao_1\199.wav" ID="199">Yuffie “Wh,what did you say…!?”</Entry>
+  <Entry File="datiao_1\200.wav" ID="200">Godo “Yuffie!!”</Entry>
+  <Entry File="datiao_1\201.wav" ID="201">Godo “Forgive me…  It's all my fault…”</Entry>
+  <Entry File="datiao_1\202.wav" ID="202">Gorky “What are you saying,  Lord Godo?”</Entry>
+  <Entry File="datiao_1\203.wav" ID="203">Godo “Losing the war…turning Wutai into this.   It was all my fault…”</Entry>
+  <Entry File="datiao_1\204.wav" ID="204">Chekhov “Lord Godo!”</Entry>
+  <Entry File="datiao_1\205.wav" ID="205">Godo “Silence!!”</Entry>
+  <Entry File="datiao_1\206a.wav" ID="206" Part="a">Godo “Yuffie…”</Entry>
+  <Entry File="datiao_1\206b.wav" ID="206" Part="b">“I am the same now as I was  before when I wanted war.”</Entry>
+  <Entry File="datiao_1\206c.wav" ID="206" Part="c">“But,after losing,  I began to think…”</Entry>
+  <Entry File="datiao_1\206d.wav" ID="206" Part="d">“Is strength for beating enemies”</Entry>
+  <Entry File="datiao_1\206e.wav" ID="206" Part="e">“…or just something to show-off?”</Entry>
+  <Entry File="datiao_1\206f.wav" ID="206" Part="f">“Might begets might.”</Entry>
+  <Entry File="datiao_1\206g.wav" ID="206" Part="g">“The same as Shinra.”</Entry>
+  <Entry File="datiao_1\207.wav" ID="207">Yuffie “…”</Entry>
+  <Entry File="datiao_1\208a.wav" ID="208" Part="a">Godo “I knew you were looking for Materia  for the good of Wutai.”</Entry>
+  <Entry File="datiao_1\208b.wav" ID="208" Part="b">“But,the reason I hide my strength now,  is also for the good of Wutai…”</Entry>
+  <Entry File="datiao_1\208c.wav" ID="208" Part="c">“And now,I realize both are necessary…”</Entry>
+  <Entry File="datiao_1\208d.wav" ID="208" Part="d">“Strength without determination means  nothing.  And determination without strength  is equally useless…”</Entry>
+  <Entry File="datiao_1\209.wav" ID="209">Staniv “Lord Godo…”</Entry>
+  <Entry File="datiao_1\210a.wav" ID="210" Part="a">Godo “You there,please take Yuffie  with you!”</Entry>
+  <Entry File="datiao_1\210b.wav" ID="210" Part="b">“I perceive that you all have both  determination and strength!”</Entry>
+  <Entry File="datiao_1\211.wav" ID="211">Cid “Well,just imagine you're on a  big airship,and leave  the rest to ol' Cid!”</Entry>
+  <Entry File="datiao_1\212.wav" ID="212">Cait Sith “If you put it that way,  we can't refuse…”</Entry>
+  <Entry File="datiao_1\213.wav" ID="213">Red XIII “As long as she doesn't interfere!”</Entry>
+  <Entry File="datiao_1\214.wav" ID="214">Aeris “All right.  We'll take her with us.”</Entry>
+  <Entry File="datiao_1\215.wav" ID="215">Tifa “…after that,how can we refuse?”</Entry>
+  <Entry File="datiao_1\216.wav" ID="216">Vincent “Hmm…  You may come if you want to…”</Entry>
+  <Entry File="datiao_1\217.wav" ID="217">Barret “Jus' don't do nothin'  funny to our Materia!”</Entry>
+  <Entry File="datiao_1\218.wav" ID="218">Cloud “All right,I don't mind.”</Entry>
+  <Entry File="datiao_1\219a.wav" ID="219" Part="a">Godo “Go,Yuffie!”</Entry>
+  <Entry File="datiao_1\219b.wav" ID="219" Part="b">“For the sake of  Wutai!”</Entry>
+  <Entry File="datiao_1\220.wav" ID="220">Yuffie “Dad…”</Entry>
+  <Entry File="datiao_1\221a.wav" ID="221" Part="a">Godo “I'll take care of the Five Sacred Gods  until you return!”</Entry>
+  <Entry File="datiao_1\221b.wav" ID="221" Part="b">“Go!  And come back alive!”</Entry>
+  <Entry File="datiao_1\222.wav" ID="222">Yuffie “Duh!”</Entry>
+  <Entry File="datiao_1\223.wav" ID="223">Godo “Yuffie,wait a minute.”</Entry>
+  <Entry File="datiao_1\224a.wav" ID="224" Part="a">Godo “After their battle is over…</Entry>
+  <Entry File="datiao_1\225.wav" ID="225">Yuffie “Dad…!”</Entry>
+  <Entry File="datiao_1\226a.wav" ID="226" Part="a">Godo “Go!  Fight till the end!  But return…”</Entry>
+  <Entry File="datiao_1\226b.wav" ID="226" Part="b">“With the Materia!”</Entry>
+  <Entry File="datiao_1\227.wav" ID="227">Yuffie “Heh,heh…you bet!”</Entry>
+  <Entry File="datiao_1\228.wav" ID="228">Staniv “Miss Yuffie.  Your feelings for Wutai are the same  as Lord Godo's.  Always remember that…”</Entry>
+  <Entry File="datiao_1\229.wav" ID="229">Staniv “Please take care of Miss Yuffie.”</Entry>
+  <Entry File="datiao_1\230.wav" ID="230">Chekhov “Never bring shame on Wutai.”</Entry>
+  <Entry File="datiao_1\231.wav" ID="231">Chekhov “She's always like this.  It'll be rough on you.”</Entry>
+  <Entry File="datiao_1\232a.wav" ID="232" Part="a">Shake “You say there's some unusual Materia where  the underground pipe is!?”</Entry>
+  <Entry File="datiao_1\232b.wav" ID="232" Part="b">“But,first you gotta get if from a monster  and unless you use your head,  you won't be able to do it.”</Entry>
+  <Entry File="datiao_1\233.wav" ID="233">Shake “Did she mature at all?”</Entry>
+  <Entry File="datiao_1\234.wav" ID="234">Gorky “Miss Yuffie.  We pray for your success!”</Entry>
+  <Entry File="datiao_1\235.wav" ID="235">Gorky “Oh,you there!  How is Miss Yuffie doing?”</Entry>
+  <Entry File="datiao_1\236.wav" ID="236">Gorky “Winning Miss Yuffie's heart  must mean you have tremendous skill.”</Entry>
+  <Entry File="datiao_1\237.wav" ID="237">Shake “Compared to me,  all of you are nothin' but a buncha babies.”</Entry>
+  <Entry File="datiao_1\238.wav" ID="238">Chekhov “Managing that girl must be  exceedingly difficult.”</Entry>
+  <Entry File="datiao_1\239.wav" ID="239">Staniv “I would like to fight you,  however the Five Sacred Gods can   only compete with those from Wutai…”</Entry>
+  <Entry File="datiao_1\240.wav" ID="240">Shake “Sh…”</Entry>
+  <Entry File="datiao_1\241.wav" ID="241">Staniv “…”</Entry>
+  <Entry File="datiao_1\242.wav" ID="242">Chekhov “…”</Entry>
+  <Entry File="datiao_1\243.wav" ID="243">Gorky “…”</Entry>
+  <Entry File="datiao_1\244.wav" ID="244">Godo “…Hm.  You can do it…”</Entry>
+  <Entry File="datiao_1\245a.wav" ID="245" Part="a">Godo “Go!  Fight till the end!  But return…”</Entry>
+  <Entry File="datiao_1\245b.wav" ID="245" Part="b">“With the Mat-”</Entry>
+  <Entry File="datiao_1\245c.wav" ID="245" Part="c">“Take care of the Materia!!”</Entry>
+  <Entry File="datiao_1\246a.wav" ID="246" Part="a">Godo “Please look after your Mat-”</Entry>
+  <Entry File="datiao_1\246b.wav" ID="246" Part="b">“I mean,look after Yuffie!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="datiao_1\0.wav" ID="0">Wutai,Da-chao Statue</Entry>
+	<Entry File="datiao_1\1.wav" ID="1">Wutai,Godo's Pagoda</Entry>
+	<Entry File="datiao_1\2.wav" ID="2">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="datiao_1\54c.wav" ID="54" Part="c">  1 Because he's ready to die   2 Because he's sure to win   3 Because he's clueless</Entry>
+	<Entry File="datiao_1\78c.wav" ID="78" Part="c">  1 Because we're ready to die   2 Because we're sure to win   3 Because we're clueless</Entry>
+	<Entry File="datiao_1\153b.wav" ID="153" Part="b">you'll ever get~~no one has ever  defeated me,Master of Weaponry!”</Entry>
+	<Entry File="datiao_1\224b.wav" ID="224" Part="b">Do you think they'll still want  all their Materia?”</Entry>
+	<Entry File="datiao_1\247.wav" ID="247">Received "Dragoon Lance"!</Entry>
+	<Entry File="datiao_1\248.wav" ID="248">Received "Oritsuru"!</Entry>
+	<Entry File="datiao_1\249.wav" ID="249">You can not take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="datiao_1\250.wav" ID="250">Received "MP Absorb" Materia!</Entry>
+	<Entry File="datiao_1\251.wav" ID="251">Received "Leviathan" Materia!</Entry>
+	<Entry File="datiao_1\252.wav" ID="252">Received "Steal As Well" Materia!</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="psdun_3\8.wav" ID="8">Barret “Hey Cloud.  If we keep going,  we'll never get to Kalm.”</Entry>
+  <Entry File="psdun_3\9.wav" ID="9">Aeris “Cloud! “Cloud!  If we continue this way,  we'll get farther and   farther away from Kalm.”</Entry>
+  <Entry File="psdun_3\10.wav" ID="10">Tifa “Hey,Cloud.  Wasn't Kalm right before  this cavern?”</Entry>
+  <Entry File="psdun_3\11.wav" ID="11">Red XIII “…We won't get to Kalm if we go  through these caverns.”</Entry>
+  <Entry File="psdun_3\12.wav" ID="12">Barret “Yo,wassup?  Can't SOLDIER-man  even lead the way?”</Entry>
+  <Entry File="psdun_3\13.wav" ID="13">Aeris “Cloud!  Are you lost!?”</Entry>
+  <Entry File="psdun_3\14.wav" ID="14">Tifa “Kalm should be closer to Midgar.”</Entry>
+  <Entry File="psdun_3\15.wav" ID="15">Red XIII “If we're planning to meet at Kalm,  we should go back and look again.”</Entry>
+  <Entry File="psdun_3\16.wav" ID="16">Rude “Just a second!”</Entry>
+  <Entry File="psdun_3\17.wav" ID="17">Rude “…”</Entry>
+  <Entry File="psdun_3\18.wav" ID="18">Rude “Do you know who I am?” The Turks,right? Not interested</Entry>
+  <Entry File="psdun_3\19.wav" ID="19">Rude “…I'm from the Turks.  And don't you forget it.”</Entry>
+  <Entry File="psdun_3\20.wav" ID="20">Rude “Well if you know,  then this won't take long.”</Entry>
+  <Entry File="psdun_3\21.wav" ID="21">Rude “It's difficult to explain  what the Turks do…”</Entry>
+  <Entry File="psdun_3\22.wav" ID="22">Cloud “Kidnapping,right?”</Entry>
+  <Entry File="psdun_3\23.wav" ID="23">Rude “To put it negatively…  you could say that.”</Entry>
+  <Entry File="psdun_3\24.wav" ID="24">Rude “…But,that's not all  there is to it anymore.”</Entry>
+  <Entry File="psdun_3\25.wav" ID="25">Elena “It's all right,Rude!  I know you don't like speeches,  so don't force it!”</Entry>
+  <Entry File="psdun_3\26.wav" ID="26">Rude “Then explain,Elena.”</Entry>
+  <Entry File="psdun_3\27.wav" ID="27">Elena “I'm the newest member of  the Turks,Elena.  Thanks to what you did to Reno,  we're short-handed.”</Entry>
+  <Entry File="psdun_3\28.wav" ID="28">Elena “…But,because of that,  I got promoted to the Turks…”</Entry>
+  <Entry File="psdun_3\29a.wav" ID="29" Part="a">Elena “Anyhow,our job is to find out  where Sephiroth is headed.”</Entry>
+  <Entry File="psdun_3\29b.wav" ID="29" Part="b">“And to try and stop you  every step of the way.”</Entry>
+  <Entry File="psdun_3\30.wav" ID="30">Elena “Wait a minute,  it's the other way around…  You're the ones that are  getting in our way.”</Entry>
+  <Entry File="psdun_3\31.wav" ID="31">Tseng “…Elena.  You talk too much.”</Entry>
+  <Entry File="psdun_3\32.wav" ID="32">Elena “Sorry…Tseng.”</Entry>
+  <Entry File="psdun_3\33a.wav" ID="33" Part="a">Tseng “I thought I gave your orders.”</Entry>
+  <Entry File="psdun_3\33b.wav" ID="33" Part="b">“Now go.  Don't forget to file your report.”</Entry>
+  <Entry File="psdun_3\34a.wav" ID="34" Part="a">Rude “…Reno said he wanted to  see you after the injuries  you gave him healed.”</Entry>
+  <Entry File="psdun_3\34b.wav" ID="34" Part="b">“He wants to show  his affection for you all…  with a new weapon.”</Entry>
+  <Entry File="psdun_3\35.wav" ID="35">Tseng “Well,then…”</Entry>
+  <Entry File="psdun_3\36.wav" ID="36">Tseng “Where's Aeris?  Isn't she with you?”</Entry>
+  <Entry File="psdun_3\37.wav" ID="37">Tseng “Oh…  Then give her my regards.”</Entry>
+  <Entry File="psdun_3\38.wav" ID="38">Tseng “Aeris…  Long time no see.”</Entry>
+  <Entry File="psdun_3\39.wav" ID="39">Tseng “Looks like you're safe  from the Shinra for a while,  now that Sephiroth reappeared.”</Entry>
+  <Entry File="psdun_3\40.wav" ID="40">Aeris “What are you saying?  That I should be grateful to Sephiroth?”</Entry>
+  <Entry File="psdun_3\41a.wav" ID="41" Part="a">Tseng “No…”</Entry>
+  <Entry File="psdun_3\41b.wav" ID="41" Part="b">“I won't be seeing much of you,  so take care.”</Entry>
+  <Entry File="psdun_3\42.wav" ID="42">Tseng “Well then,  stay out of Shinra's way.”</Entry>
+  <Entry File="psdun_3\43.wav" ID="43">Cloud “Aeris isn't with us.  She's with the others.”</Entry>
+  <Entry File="psdun_3\44.wav" ID="44">Barret “Wh,who are you!?”</Entry>
+  <Entry File="psdun_3\45.wav" ID="45">Aeris “By any chance,are you…?”</Entry>
+  <Entry File="psdun_3\46.wav" ID="46">Tifa “Who are you?”</Entry>
+  <Entry File="psdun_3\47.wav" ID="47">Red XIII “…  I hoped I'd never see you again…”</Entry>
+  <Entry File="psdun_3\48.wav" ID="48">   “Sir!”   </Entry>
+  <Entry File="psdun_3\49.wav" ID="49">Elena “Mr. Tseng!?”</Entry>
+  <Entry File="psdun_3\50.wav" ID="50">Tseng “No need to tell them  about our orders.”</Entry>
+  <Entry File="psdun_3\51.wav" ID="51">Rude/Elena “Yes sir!”</Entry>
+  <Entry File="psdun_3\52.wav" ID="52">Aeris “…Strange,hearing   that from you.”</Entry>
+  <Entry File="psdun_3\53.wav" ID="53">Elena “Oh! Right!”</Entry>
+  <Entry File="psdun_3\54.wav" ID="54">Tseng “…Elena.  You don't seem to understand.”</Entry>
+  <Entry File="psdun_3\55.wav" ID="55">Elena “Oh!&gt;   I'm,I'm sorry…”</Entry>
+  <Entry File="psdun_3\56.wav" ID="56">Tseng “…Go.  Don't let Sephiroth get away.”</Entry>
+  <Entry File="psdun_3\57.wav" ID="57">Elena “Very well,Rude and I will  go after Sephiroth,who's heading  for Junon Harbor!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="psdun_3\0.wav" ID="0">Mythril Mine</Entry>
+	<Entry File="psdun_3\1.wav" ID="1">Received "Hi-Potion"!</Entry>
+	<Entry File="psdun_3\2.wav" ID="2">Received "Tent"!</Entry>
+	<Entry File="psdun_3\3.wav" ID="3">Received "Long Range" Materia!</Entry>
+	<Entry File="psdun_3\4.wav" ID="4">Received "Ether"!</Entry>
+	<Entry File="psdun_3\5.wav" ID="5">Cannot take on anymore Materia. Please discard some Materia.</Entry>
+	<Entry File="psdun_3\6.wav" ID="6">Received "Mind Source"!</Entry>
+	<Entry File="psdun_3\7.wav" ID="7">Received "Elixir"!</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="cos_btm\1.wav" ID="1">Red XIII “I am home!  It is I,Nanaki!”</Entry>
+  <Entry File="cos_btm\2a.wav" ID="2" Part="a">“Hey,Nanaki!  You're safe!”</Entry>
+  <Entry File="cos_btm\2b.wav" ID="2" Part="b">“Come on,and say  hello to Bugenhagen!”</Entry>
+  <Entry File="cos_btm\3.wav" ID="3">Cloud “…Nanaki?”</Entry>
+  <Entry File="cos_btm\4.wav" ID="4">“Welcome to Cosmo Canyon.  Are you familiar with this land?” Yes No</Entry>
+  <Entry File="cos_btm\5.wav" ID="5">“Welcome to Cosmo Canyon.  Make yourselves at home.”</Entry>
+  <Entry File="cos_btm\6.wav" ID="6">“You lied.  That is something that is not  treated lightly here in Cosmo Canyon.”</Entry>
+  <Entry File="cos_btm\7a.wav" ID="7" Part="a">“Let me explain.”</Entry>
+  <Entry File="cos_btm\7b.wav" ID="7" Part="b">“People from all over the  world gather here to seek the  Study of Planet Life.”</Entry>
+  <Entry File="cos_btm\8.wav" ID="8">Barret “Wooooooooo!”</Entry>
+  <Entry File="cos_btm\9.wav" ID="9">Barret “I always wanted to come here!”</Entry>
+  <Entry File="cos_btm\10.wav" ID="10">“Ummgah!  I'm sorry it's full now,  so I can't let you enter.”</Entry>
+  <Entry File="cos_btm\11.wav" ID="11">Red XIII “They helped me  when I was on the road.  Please let them in.”</Entry>
+  <Entry File="cos_btm\12.wav" ID="12">“…Oh,is that so?  You helped our Nanaki?  Please,come in.”</Entry>
+  <Entry File="cos_btm\13.wav" ID="13">Cloud “Who is Nanaki?”</Entry>
+  <Entry File="cos_btm\14.wav" ID="14">“Nanaki is Nanaki.  That's his name.”</Entry>
+  <Entry File="cos_btm\15.wav" ID="15">Red XIII “Leaving already?  You should get some rest.”</Entry>
+  <Entry File="cos_btm\16.wav" ID="16">“Since you're here,why don't   you listen to Bugenhagen's story?”</Entry>
+  <Entry File="cos_btm\17.wav" ID="17">“Leaving already?  But it appears your friends still want  to learn more about the Planet…”</Entry>
+  <Entry File="cos_btm\18.wav" ID="18">“Did you get to see Bugenhagen's contraption?  If you haven't yet,you must!”</Entry>
+  <Entry File="cos_btm\19a.wav" ID="19" Part="a">“Hm? If you're looking for Bugenhagen,  he went to the Sealed Door.”</Entry>
+  <Entry File="cos_btm\19b.wav" ID="19" Part="b">“Remember,there's a steel door  on the way to Bugenhagen's room.”</Entry>
+  <Entry File="cos_btm\19c.wav" ID="19" Part="c">“What's that door there for anyhow?  It's been closed forever…”</Entry>
+  <Entry File="cos_btm\20a.wav" ID="20" Part="a">“Oh,it's you.  This is terrible.  The color of that unlucky star…”</Entry>
+  <Entry File="cos_btm\20b.wav" ID="20" Part="b">“The children are all so scared that  they won't even go outside.”</Entry>
+  <Entry File="cos_btm\20c.wav" ID="20" Part="c">“I'd rather not see it either…”</Entry>
+  <Entry File="cos_btm\21a.wav" ID="21" Part="a">“Bugenhagen seems rather down   ever since he returned from that trip.”</Entry>
+  <Entry File="cos_btm\21b.wav" ID="21" Part="b">“I'm worried something might  happen to Bugenhagen now of all times…”</Entry>
+  <Entry File="cos_btm\22a.wav" ID="22" Part="a">“Nanaki,it's really bad.  Ever since Bugenhagen returned from that last  trip,he doesn't seem well.”</Entry>
+  <Entry File="cos_btm\22b.wav" ID="22" Part="b">“Why don't you hurry and see Bugenhagen?”</Entry>
+  <Entry File="cos_btm\23.wav" ID="23">“Bugenhagen is what keeps  our hearts strong…”</Entry>
+  <Entry File="cos_btm\24.wav" ID="24">Red XIII “Here is where I was…I mean,  …this is my hometown.”</Entry>
+  <Entry File="cos_btm\25.wav" ID="25">Red XIII “My tribe were protectors of those  who appreciate this beautiful  canyon and the Planet.”</Entry>
+  <Entry File="cos_btm\26.wav" ID="26">Red XIII “My brave mother fought and died here,  but my cowardly father left her…  I am the last of my race.”</Entry>
+  <Entry File="cos_btm\27.wav" ID="27">Cloud “Cowardly father?”</Entry>
+  <Entry File="cos_btm\28.wav" ID="28">Red XIII “Yes.  My father was a wastrel.”</Entry>
+  <Entry File="cos_btm\29.wav" ID="29">Red XIII “And so the mission I inherited from  my ancestors is to protect this place.  My journey ends here.”</Entry>
+  <Entry File="cos_btm\30.wav" ID="30">“Hey! Nanaki--!  You're home!”</Entry>
+  <Entry File="cos_btm\31.wav" ID="31">Red XIII “Coming,Grandpa!”</Entry>
+  <Entry File="cos_btm\32a.wav" ID="32" Part="a">Barret “Good timin'.  Let's take a breather.”</Entry>
+  <Entry File="cos_btm\32b.wav" ID="32" Part="b">“I got stuff I want to   find out,too.”</Entry>
+  <Entry File="cos_btm\33.wav" ID="33">Tifa “That's perfect.  Why don't we take a break too?  We can meet back here in a while,OK?”</Entry>
+  <Entry File="cos_btm\34.wav" ID="34">Aeris “Let's rest for a bit.  There are some things I want   to find out about anyway.”</Entry>
+  <Entry File="cos_btm\35.wav" ID="35">Yuffie “Rest,rest,rest!  I wanna rest!  Ok! That's that!”</Entry>
+  <Entry File="cos_btm\36.wav" ID="36">Cait Sith “I'm just dead tired.  Everyone,how 'bout some rest?”</Entry>
+  <Entry File="cos_btm\37.wav" ID="37">“Yaaay!  Nanaki!  Nanaki's back!   It's all thanks to this flame!”</Entry>
+  <Entry File="cos_btm\38a.wav" ID="38" Part="a">“This fire is called 'Cosmo Candle'.  It has burned for generations.”</Entry>
+  <Entry File="cos_btm\38b.wav" ID="38" Part="b">“It is a holy flame  that protects this canyon.”</Entry>
+  <Entry File="cos_btm\38c.wav" ID="38" Part="c">“I've heard it only went out once,  long ago.”</Entry>
+  <Entry File="cos_btm\39.wav" ID="39">“The elders said something horrifying   occurred,but I really  don't know much else about it.”</Entry>
+  <Entry File="cos_btm\40a.wav" ID="40" Part="a">“So this is Cosmo Canyon…  Quite a mysterious place.”</Entry>
+  <Entry File="cos_btm\40b.wav" ID="40" Part="b">“Have you come to seek the    'Study of Planet Life'“? That's it No</Entry>
+  <Entry File="cos_btm\41.wav" ID="41">“Oh yeah?  What? The car broke down!?”</Entry>
+  <Entry File="cos_btm\42.wav" ID="42">“Why don't you look around Cosmo Canyon  while I fix the car?”</Entry>
+  <Entry File="cos_btm\43.wav" ID="43">“Please get some rest while  I fix your car.”</Entry>
+  <Entry File="cos_btm\44a.wav" ID="44" Part="a">“The repair on your car is completed.”</Entry>
+  <Entry File="cos_btm\44b.wav" ID="44" Part="b">“Now you should be able to go    wherever you want.” How much do I owe? Much obliged</Entry>
+  <Entry File="cos_btm\45.wav" ID="45">“No charge!  You'd do the same for me,right? Please,take 1000 gil I guess you're right</Entry>
+  <Entry File="cos_btm\46.wav" ID="46">“…You don't even have that much.  Don't tease me,okay?”</Entry>
+  <Entry File="cos_btm\47a.wav" ID="47" Part="a">“Are you sure…?  Well,all right. Thank you.”</Entry>
+  <Entry File="cos_btm\47b.wav" ID="47" Part="b">“Oh yeah.  Did you stay at the inn already?”</Entry>
+  <Entry File="cos_btm\47c.wav" ID="47" Part="c">“There was a bottle on the sofa there a  couple of days ago…was it yours?”</Entry>
+  <Entry File="cos_btm\48a.wav" ID="48" Part="a">“Oh,really?”</Entry>
+  <Entry File="cos_btm\48b.wav" ID="48" Part="b">“There really isn't much  else to see here.”</Entry>
+  <Entry File="cos_btm\49.wav" ID="49">“Yeah?  I heard there's an awesome observatory here.  I'd like to see it if I have a chance.”</Entry>
+  <Entry File="cos_btm\50.wav" ID="50">“Whoa!!”</Entry>
+  <Entry File="cos_btm\51.wav" ID="51">“Don't scare me like that.  I almost fell over.”</Entry>
+  <Entry File="cos_btm\52.wav" ID="52">“Nanaki,are you leaving again?  We want you to stay here forever…”</Entry>
+  <Entry File="cos_btm\53a.wav" ID="53" Part="a">“Mmm…  I think the teachings of  the 'Study of Planet Life' are true.”</Entry>
+  <Entry File="cos_btm\53b.wav" ID="53" Part="b">“But can people used to  Mako energy ever go back…?”</Entry>
+  <Entry File="cos_btm\54a.wav" ID="54" Part="a">“Mmm…  I can't stand here talking about the  'Study of Planet Life'.”</Entry>
+  <Entry File="cos_btm\54b.wav" ID="54" Part="b">“I think I'll head  back to my homeland now…”</Entry>
+  <Entry File="cos_btm\55.wav" ID="55">“Oh,Nanaki's with you.  Make yourselves at home.”</Entry>
+  <Entry File="cos_btm\56.wav" ID="56">Red XIII “Wait for me! I'm coming too!”</Entry>
+  <Entry File="cos_btm\57.wav" ID="57">Cloud “Mmm?”</Entry>
+  <Entry File="cos_btm\58.wav" ID="58">Bugenhagen “Cloud.  Please look after Nanaki.”</Entry>
+  <Entry File="cos_btm\59.wav" ID="59">Cloud “What happened?”</Entry>
+  <Entry File="cos_btm\60.wav" ID="60">Red XIII “I think I grew up a little.  That's what happened!”</Entry>
+  <Entry File="cos_btm\61.wav" ID="61">Bugenhagen “Ho Ho Hoooo.  Come back whenever you  need my knowledge.”</Entry>
+  <Entry File="cos_btm\63.wav" ID="63">Aeris “Cosmo…Canyon?  I wonder if there's any relation  to the planet or the Ancients…”</Entry>
+  <Entry File="cos_btm\64.wav" ID="64">Barret “I finally made it…  So this is…Cosmo Canyon!”</Entry>
+  <Entry File="cos_btm\65.wav" ID="65">Tifa “Red XIII    seems different,doesn't he?”</Entry>
+  <Entry File="cos_btm\66.wav" ID="66">Yuffie “Hmmm…  Any Materia?  Any Materia around?”</Entry>
+  <Entry File="cos_btm\67.wav" ID="67">Cait Sith “Hmmm…So this is  Cosmo Canyon.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="cos_btm\0.wav" ID="0">Cosmo Canyon</Entry>
+	<Entry File="cos_btm\62a.wav" ID="62" Part="a">Tasty Cocktails! Pub "Starlet"</Entry>
+	<Entry File="cos_btm\62b.wav" ID="62" Part="b">Fluffy Beds! In "Shildra Inn"</Entry>
+	<Entry File="cos_btm\62c.wav" ID="62" Part="c">Come in today!</Entry>
+	<Entry File="cos_btm\62d.wav" ID="62" Part="d">It's right near Cosmo Candle!</Entry>
+	<Entry File="cos_btm\68.wav" ID="68">[Save Point] Access the menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

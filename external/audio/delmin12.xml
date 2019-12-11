@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="delmin12\1.wav" ID="1">“…SNORE…SNORE…”</Entry>
+  <Entry File="delmin12\2.wav" ID="2">“Geez  my lower back's killing me!”</Entry>
+  <Entry File="delmin12\3.wav" ID="3">“Y,yes…sir!!”</Entry>
+  <Entry File="delmin12\4a.wav" ID="4" Part="a">“How do you do?  I'm the manager.”</Entry>
+  <Entry File="delmin12\4b.wav" ID="4" Part="b">“Nice to meet you.”</Entry>
+  <Entry File="delmin12\4c.wav" ID="4" Part="c">“Well,if you'll pardon me,I'll be leaving.  Good-night.”</Entry>
+  <Entry File="delmin12\5.wav" ID="5">“Oh,those items are free,  so please help yourself.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="delmin12\0.wav" ID="0">Cellar</Entry>
+	<Entry File="delmin12\6.wav" ID="6">Received "Motor Drive"!</Entry>
+	<Entry File="delmin12\7.wav" ID="7">Received "Fire Ring"!</Entry>
+	<Entry File="delmin12\8.wav" ID="8">Received "Power Source"!</Entry>
+-->
+</VoiceList>

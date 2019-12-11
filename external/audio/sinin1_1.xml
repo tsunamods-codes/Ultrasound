@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="sinin1_1\22.wav" ID="22">“I have a bad feeling about this…”   Open the safe   Don't open it</Entry>
+  <Entry File="sinin1_1\28.wav" ID="28">Tifa “We finally made it.  We sure took the long way though.”</Entry>
+  <Entry File="sinin1_1\29.wav" ID="29">Cloud “Tifa,you wait here.”</Entry>
+  <Entry File="sinin1_1\30.wav" ID="30">Tifa “I'm going inside,too!  I wanna see!”</Entry>
+  <Entry File="sinin1_1\31.wav" ID="31">Sephiroth “Only authorized people are allowed in.  This place is full of  Shinra's industrial secrets.”</Entry>
+  <Entry File="sinin1_1\32.wav" ID="32">Tifa “But!”</Entry>
+  <Entry File="sinin1_1\33.wav" ID="33">Sephiroth “Take care of the lady.”</Entry>
+  <Entry File="sinin1_1\34.wav" ID="34">Tifa “Mm,man!”</Entry>
+  <Entry File="sinin1_1\35.wav" ID="35">Tifa “Better take real  good care of me then!”</Entry>
+  <Entry File="sinin1_1\36.wav" ID="36">Tifa “Yeah,I remember.”</Entry>
+  <Entry File="sinin1_1\37.wav" ID="37">Tifa “Hmm…so it was you?”</Entry>
+  <Entry File="sinin1_1\38.wav" ID="38">Cloud “This is…Jenova,right?  It won't open…”</Entry>
+  <Entry File="sinin1_1\39a.wav" ID="39" Part="a">Sephiroth “This is the reason for the malfunction.  This part is broken.”</Entry>
+  <Entry File="sinin1_1\39b.wav" ID="39" Part="b">“Cloud,close the valve.”</Entry>
+  <Entry File="sinin1_1\40.wav" ID="40">Sephiroth “Did you close the valve?”</Entry>
+  <Entry File="sinin1_1\41.wav" ID="41">Sephiroth “Why did it break?”</Entry>
+  <Entry File="sinin1_1\42a.wav" ID="42" Part="a">Sephiroth “…Now I see,Hojo.”</Entry>
+  <Entry File="sinin1_1\42b.wav" ID="42" Part="b">“But doing this will never  put you on the same level  as Professor Gast.”</Entry>
+  <Entry File="sinin1_1\43a.wav" ID="43" Part="a">Sephiroth “This is a system that condenses and  freezes the Mako energy…  that is,when it's working correctly.”</Entry>
+  <Entry File="sinin1_1\43b.wav" ID="43" Part="b">“Now…what does Mako energy become  when it's further condensed?”</Entry>
+  <Entry File="sinin1_1\44.wav" ID="44">Cloud “Uh,umm…Oh yeah!  It becomes a Materia.”</Entry>
+  <Entry File="sinin1_1\45.wav" ID="45">Sephiroth “Right,normally.  But Hojo put something else in there.  …Take a look.”</Entry>
+  <Entry File="sinin1_1\46.wav" ID="46">Sephiroth “Look through the window.”</Entry>
+  <Entry File="sinin1_1\47.wav" ID="47">Cloud “Wh…what is this!?”</Entry>
+  <Entry File="sinin1_1\48a.wav" ID="48" Part="a">Sephiroth “Normal members of SOLDIER are humans  that have been showered with Mako.”</Entry>
+  <Entry File="sinin1_1\48b.wav" ID="48" Part="b">“You're different from the others  but still human.”</Entry>
+  <Entry File="sinin1_1\48c.wav" ID="48" Part="c">“But,what are they?  They've been exposed to a far  higher degree of Mako than you.”</Entry>
+  <Entry File="sinin1_1\49.wav" ID="49">Cloud “…Is this some kind of monster?”</Entry>
+  <Entry File="sinin1_1\50a.wav" ID="50" Part="a">Sephiroth “Exactly.  And it's Hojo of Shinra  that produced these monsters.”</Entry>
+  <Entry File="sinin1_1\50b.wav" ID="50" Part="b">“Mutated living organisms produced  by Mako energy.  That's what these monsters  really are.”</Entry>
+  <Entry File="sinin1_1\51.wav" ID="51">Cloud “Normal members of SOLDIER?  You mean you're different?”</Entry>
+  <Entry File="sinin1_1\52.wav" ID="52">Cloud “H…hey,Sephiroth!”</Entry>
+  <Entry File="sinin1_1\53.wav" ID="53">Sephiroth “No…”</Entry>
+  <Entry File="sinin1_1\54.wav" ID="54">Sephiroth “…Was I?”</Entry>
+  <Entry File="sinin1_1\55.wav" ID="55">Sephiroth “…Was I created this way too?”</Entry>
+  <Entry File="sinin1_1\56.wav" ID="56">Cloud “…Sephiroth.”</Entry>
+  <Entry File="sinin1_1\57.wav" ID="57">Sephiroth “Am I the same as all these monsters?”</Entry>
+  <Entry File="sinin1_1\58.wav" ID="58">Sephiroth “You saw it!  All of them…were humans…”</Entry>
+  <Entry File="sinin1_1\59.wav" ID="59">Cloud “Human!? No way!”</Entry>
+  <Entry File="sinin1_1\60a.wav" ID="60" Part="a">Sephiroth “…Ever since I was small I've felt…”</Entry>
+  <Entry File="sinin1_1\60b.wav" ID="60" Part="b">“…that I was different from the others.  Special,in some way.”</Entry>
+  <Entry File="sinin1_1\61.wav" ID="61">Sephiroth “But…  not like this…”</Entry>
+  <Entry File="sinin1_1\65.wav" ID="65">Tifa “Hey! It's Cloud!”</Entry>
+  <Entry File="sinin1_1\66.wav" ID="66">Cloud “Za…ck…Zac…k.  Zack…”</Entry>
+  <Entry File="sinin1_1\67.wav" ID="67">Tifa “You remembered!!”</Entry>
+  <Entry File="sinin1_1\68.wav" ID="68">Tifa “That's right!  It was Zack who came to Nibelheim   with Sephiroth!”</Entry>
+  <Entry File="sinin1_1\69.wav" ID="69">Tifa “Then,where were you,Cloud?”</Entry>
+  <Entry File="sinin1_1\70.wav" ID="70">Tifa “Cloud…  Did you…see it all?”</Entry>
+  <Entry File="sinin1_1\71.wav" ID="71">Cloud “I saw…everything…”</Entry>
+  <Entry File="sinin1_1\72.wav" ID="72">Sephiroth “Aaarrrgh…who…who are you?”</Entry>
+  <Entry File="sinin1_1\73.wav" ID="73">“Mom…  Tifa…My town…give it back…”</Entry>
+  <Entry File="sinin1_1\74.wav" ID="74">“I had so much respect for you…  I admired you…”</Entry>
+  <Entry File="sinin1_1\75.wav" ID="75">Tifa “Cloud!?”</Entry>
+  <Entry File="sinin1_1\76.wav" ID="76">Tifa “That's what happened…”</Entry>
+  <Entry File="sinin1_1\77.wav" ID="77">Tifa “…You were there.”</Entry>
+  <Entry File="sinin1_1\78.wav" ID="78">Tifa “You were watching me.”</Entry>
+  <Entry File="sinin1_1\79.wav" ID="79">Tifa “…You came.  …You kept your promise.”</Entry>
+  <Entry File="sinin1_1\80.wav" ID="80">Tifa “So you really did come when I was in trouble!”</Entry>
+  <Entry File="sinin1_1\81.wav" ID="81">Cloud “Sorry…  I didn't get there…sooner…”</Entry>
+  <Entry File="sinin1_1\82.wav" ID="82">Tifa “It's all right…Cloud.”</Entry>
+  <Entry File="sinin1_1\83.wav" ID="83">Sephiroth “Just like you.”</Entry>
+  <Entry File="sinin1_1\84.wav" ID="84">Zack “Cloud…  Kill Sephiroth…”</Entry>
+  <Entry File="sinin1_1\85.wav" ID="85">“Information concerning Materia/Hojo”  Read it  Ignore</Entry>
+  <Entry File="sinin1_1\86a.wav" ID="86" Part="a">“Life of Materia”</Entry>
+  <Entry File="sinin1_1\87a.wav" ID="87" Part="a">“Legend of the Ancients,World Version”</Entry>
+  <Entry File="sinin1_1\88a.wav" ID="88" Part="a">“Next Quarter's projected Budget/Hojo”</Entry>
+  <Entry File="sinin1_1\89a.wav" ID="89" Part="a">“North Pole Daily Report/Hojo”</Entry>
+  <Entry File="sinin1_1\90a.wav" ID="90" Part="a">“/Hojo”</Entry>
+  <Entry File="sinin1_1\91a.wav" ID="91" Part="a">“The Promised Land”</Entry>
+  <Entry File="sinin1_1\92.wav" ID="92">Sephiroth “…An apparently dead organism  was found in a 2000 year old  geological stratum.”</Entry>
+  <Entry File="sinin1_1\93.wav" ID="93">Sephiroth “Professor Gast named that organism,Jenova…”</Entry>
+  <Entry File="sinin1_1\94.wav" ID="94">Sephiroth “X Year,X Month,X Day.  Jenova confirmed to be an Ancient…”</Entry>
+  <Entry File="sinin1_1\95.wav" ID="95">Sephiroth “X Year,X Month,X Day.  Jenova Project approved.  The use of Mako Reactor 1 approved for use…”</Entry>
+  <Entry File="sinin1_1\96.wav" ID="96">Sephiroth “My mother's name is Jenova…  Jenova Project…  Is this just a coincidence?”</Entry>
+  <Entry File="sinin1_1\97.wav" ID="97">Sephiroth “Professor Gast…  Why didn't you tell me anything?  …Why did you die?”</Entry>
+  <Entry File="sinin1_1\98.wav" ID="98">Sephiroth “Let me be alone.”</Entry>
+  <Entry File="sinin1_1\99.wav" ID="99">“Ha,ha,ha,ha!”</Entry>
+  <Entry File="sinin1_1\100.wav" ID="100">“Sephiroth didn't come  out of the Shinra Mansion…”</Entry>
+  <Entry File="sinin1_1\102.wav" ID="102">Sephiroth “Ha,ha,ha…”</Entry>
+  <Entry File="sinin1_1\103.wav" ID="103">Sephiroth “Who is it!?”</Entry>
+  <Entry File="sinin1_1\104.wav" ID="104">Sephiroth “Hmph…traitor.”</Entry>
+  <Entry File="sinin1_1\105.wav" ID="105">Cloud “Traitor?”</Entry>
+  <Entry File="sinin1_1\106a.wav" ID="106" Part="a">Sephiroth “You ignorant traitor.  I'll tell you.”</Entry>
+  <Entry File="sinin1_1\106b.wav" ID="106" Part="b">“This Planet originally belonged to the Cetra.  Cetra was a itinerant race.  They would migrate in,  settle the Planet,then move on…”</Entry>
+  <Entry File="sinin1_1\106c.wav" ID="106" Part="c">“At the end of their harsh,  hard journey,it was said  they would find the Promised Land  and supreme happiness.”</Entry>
+  <Entry File="sinin1_1\107a.wav" ID="107" Part="a">Sephiroth “But,those who disliked journeying appeared.  They stopped their migrations,  built shelters and elected to  lead an easier life.”</Entry>
+  <Entry File="sinin1_1\107b.wav" ID="107" Part="b">“They took that which the Cetra  and the Planet had made without  giving back one whit in return!”</Entry>
+  <Entry File="sinin1_1\108.wav" ID="108">Sephiroth “Those are your ancestors.”</Entry>
+  <Entry File="sinin1_1\109.wav" ID="109">Cloud “Sephiroth…”</Entry>
+  <Entry File="sinin1_1\110.wav" ID="110">Sephiroth “Long ago,disaster struck the Planet.”</Entry>
+  <Entry File="sinin1_1\111.wav" ID="111">Sephiroth “Your ancestors escaped…  They survived because they hid.”</Entry>
+  <Entry File="sinin1_1\112.wav" ID="112">Sephiroth “The Planet was saved  by sacrificing the Cetra.  After that,your ancestors  continued to multiply.”</Entry>
+  <Entry File="sinin1_1\113.wav" ID="113">Sephiroth “Now all that's left of the Cetra  is in these reports.”</Entry>
+  <Entry File="sinin1_1\114.wav" ID="114">Cloud “What does that have to do with you?”</Entry>
+  <Entry File="sinin1_1\115.wav" ID="115">Sephiroth “Don't you see?”</Entry>
+  <Entry File="sinin1_1\116.wav" ID="116">Sephiroth “An Ancient named Jenova was found in   a 2000 year-old geological stratum.”</Entry>
+  <Entry File="sinin1_1\117.wav" ID="117">Sephiroth “The Jenova Project.”</Entry>
+  <Entry File="sinin1_1\118.wav" ID="118">Sephiroth “The Jenova Project wanted to produce people  with the powers of the Ancients…  Or,the Cetra.”</Entry>
+  <Entry File="sinin1_1\119.wav" ID="119">Sephiroth “…I am what was produced.”</Entry>
+  <Entry File="sinin1_1\120.wav" ID="120">Cloud “Pr…produced!?”</Entry>
+  <Entry File="sinin1_1\121a.wav" ID="121" Part="a">Sephiroth “Yes.”</Entry>
+  <Entry File="sinin1_1\121b.wav" ID="121" Part="b">“Professor Gast,leader of  the Jenova Project and genius  scientist,produced me.”</Entry>
+  <Entry File="sinin1_1\122.wav" ID="122">Cloud “How…how did he?”</Entry>
+  <Entry File="sinin1_1\123.wav" ID="123">Cloud “Se…Sephiroth?”</Entry>
+  <Entry File="sinin1_1\124.wav" ID="124">Sephiroth “Out of my way.  I'm going to see my mother.”</Entry>
+  <Entry File="sinin1_1\125.wav" ID="125">Sephiroth “Mother,I'm here to see you.  Please,open this door.”</Entry>
+  <Entry File="sinin1_1\126.wav" ID="126">Tifa “How could you do that to Papa and  all the townspeople?”</Entry>
+  <Entry File="sinin1_1\127.wav" ID="127">Tifa “…You promised…  You promised that you'd come……  when I was in trouble…”</Entry>
+  <Entry File="sinin1_1\128a.wav" ID="128" Part="a">Sephiroth “Mother,let's take the Planet  back together.”</Entry>
+  <Entry File="sinin1_1\128b.wav" ID="128" Part="b">“I've thought of a great idea.  Let's go to the Promised Land.”</Entry>
+  <Entry File="sinin1_1\129.wav" ID="129">Cloud “Sephiroth…”</Entry>
+  <Entry File="sinin1_1\130.wav" ID="130">Cloud “My family! My hometown!  How could you do this to them!?”</Entry>
+  <Entry File="sinin1_1\131.wav" ID="131">Sephiroth “Ha,ha,ha…  They've come again,Mother.”</Entry>
+  <Entry File="sinin1_1\132.wav" ID="132">Sephiroth “With her superior power,knowledge,  and magic,  Mother was destined to become  the ruler of this Planet.”</Entry>
+  <Entry File="sinin1_1\133a.wav" ID="133" Part="a">Sephiroth “But,they…”</Entry>
+  <Entry File="sinin1_1\133b.wav" ID="133" Part="b">“These worthless ones,  took the Planet from you.   Didn't they,Mother?”</Entry>
+  <Entry File="sinin1_1\134.wav" ID="134">Sephiroth “But,don't be sad anymore.”</Entry>
+  <Entry File="sinin1_1\135a.wav" ID="135" Part="a">Cloud “What about MY sadness!?  My family…friends?  The sadness of having my hometown  taken away from me!?”</Entry>
+  <Entry File="sinin1_1\135b.wav" ID="135" Part="b">“It's the same as your sadness!”</Entry>
+  <Entry File="sinin1_1\136a.wav" ID="136" Part="a">Sephiroth “Ha,ha,ha…my sadness?  What do I have to be sad about?”</Entry>
+  <Entry File="sinin1_1\136b.wav" ID="136" Part="b">“I am the chosen one.  I have been chosen  to be the leader of this Planet.”</Entry>
+  <Entry File="sinin1_1\137.wav" ID="137">Sephiroth “I have orders to take the Planet back   from you stupid people for the Cetra.  What should I be sad about?”</Entry>
+  <Entry File="sinin1_1\138.wav" ID="138">Cloud “Sephiroth…  I trusted you…”</Entry>
+  <Entry File="sinin1_1\139.wav" ID="139">Cloud “No,you're not the Sephiroth I used to know!”</Entry>
+  <Entry File="sinin1_1\140.wav" ID="140">Cloud “What's this?”</Entry>
+  <Entry File="sinin1_1\141.wav" ID="141">Tifa “A mysteriously colored cave…”</Entry>
+  <Entry File="sinin1_1\142.wav" ID="142">Sephiroth “It must be the Mako energy.  This mountain is especially abundant in it.  That's why the Mako Reactor was built here.”</Entry>
+  <Entry File="sinin1_1\143.wav" ID="143">Cloud “…And what's this?”</Entry>
+  <Entry File="sinin1_1\144.wav" ID="144">Sephiroth “A Mako fountain.  It's a miracle of nature.”</Entry>
+  <Entry File="sinin1_1\145.wav" ID="145">Tifa “It's so beautiful…”</Entry>
+  <Entry File="sinin1_1\146.wav" ID="146">Tifa “If the Mako Reactor continues to   suck up the energy,  this fountain will dry up too…”</Entry>
+  <Entry File="sinin1_1\147a.wav" ID="147" Part="a">Sephiroth “Materia.  When you condense Mako energy,  Materia is produced.”</Entry>
+  <Entry File="sinin1_1\147b.wav" ID="147" Part="b">“It's very rare to see Materia   in its natural state.”</Entry>
+  <Entry File="sinin1_1\148.wav" ID="148">Cloud “By the way…  Why is it that when you use Materia  you can also use magic too?”</Entry>
+  <Entry File="sinin1_1\149.wav" ID="149">Sephiroth “You were in SOLDIER and  didn't even know that?”</Entry>
+  <Entry File="sinin1_1\150.wav" ID="150">Sephiroth “…the knowledge and wisdom of the Ancients  is held in the Materia.”</Entry>
+  <Entry File="sinin1_1\151.wav" ID="151">Sephiroth “Anyone with this knowledge can freely  use the powers of the land and the Planet.  That knowledge interacts between  ourselves and the Planet   calling up magic…or so they say.”</Entry>
+  <Entry File="sinin1_1\152.wav" ID="152">Cloud “Magic…a mysterious power…”</Entry>
+  <Entry File="sinin1_1\153.wav" ID="153">Sephiroth “Ha,ha,ha !”</Entry>
+  <Entry File="sinin1_1\154.wav" ID="154">Cloud “Did I say somethin' funny?”</Entry>
+  <Entry File="sinin1_1\155a.wav" ID="155" Part="a">Sephiroth “A man once told me never to use unscientific  terms like 'mysterious power'!  It shouldn't even be called 'magic'!”</Entry>
+  <Entry File="sinin1_1\155b.wav" ID="155" Part="b">“I still remember how angry he was.”</Entry>
+  <Entry File="sinin1_1\156.wav" ID="156">Cloud “Who was that?”</Entry>
+  <Entry File="sinin1_1\157a.wav" ID="157" Part="a">Sephiroth “Hojo of Shinra,Inc….  An inexperienced man assigned   to take over the work of a great scientist.”</Entry>
+  <Entry File="sinin1_1\157b.wav" ID="157" Part="b">“He was a walking mass of complexes.”</Entry>
+  <Entry File="sinin1_1\158.wav" ID="158">Tifa “A Mako fountain…  So this is where the knowledge  of the Ancients is.”</Entry>
+  <Entry File="sinin1_1\159.wav" ID="159">Cloud “Sephiroth!”</Entry>
+  <Entry File="sinin1_1\160.wav" ID="160">Sephiroth “Being here brings back memories.”</Entry>
+  <Entry File="sinin1_1\161.wav" ID="161">Sephiroth “Are you going to participate in the Reunion?”</Entry>
+  <Entry File="sinin1_1\162.wav" ID="162">Cloud “I don't even know what a Reunion is!”</Entry>
+  <Entry File="sinin1_1\163.wav" ID="163">Sephiroth “Jenova will be at the Reunion.  Jenova will join the Reunion,  becoming a calamity from the skies.”</Entry>
+  <Entry File="sinin1_1\164.wav" ID="164">Cloud “Jenova,a calamity from the skies?  You mean she wasn't an Ancient!?”</Entry>
+  <Entry File="sinin1_1\165a.wav" ID="165" Part="a">Sephiroth “…I see.  I don't think you have the right to participate.”</Entry>
+  <Entry File="sinin1_1\165b.wav" ID="165" Part="b">“I will go North past Mt. Nibel.  If you wish to know…then follow…”</Entry>
+  <Entry File="sinin1_1\166.wav" ID="166">Cloud “…Reunion?  Calamity from the skies?”</Entry>
+  <Entry File="sinin1_1\167a.wav" ID="167" Part="a">“I must get rid of all those  that stand in the way of my research.   Even that one from the Turks.”</Entry>
+  <Entry File="sinin1_1\167b.wav" ID="167" Part="b">“I scientifically altered him   and put him to sleep in the basement.  If you want to find him,search the area.”</Entry>
+  <Entry File="sinin1_1\167c.wav" ID="167" Part="c">“But…this is merely a game I thought of.  It is not necessary  for you to participate  if you don't want to.”</Entry>
+  <Entry File="sinin1_1\167d.wav" ID="167" Part="d">“There seems to be another letter.”   Read it   Ignore it</Entry>
+  <Entry File="sinin1_1\168a.wav" ID="168" Part="a">“Move the dial on the safe carefully  but quickly. You have 20 seconds.  You can not go past the numbers while turning.  The 4 hints for the numbers are…”</Entry>
+  <Entry File="sinin1_1\173.wav" ID="173">“Look,something is written on the back…”     Look at the back     Ignore</Entry>
+  <Entry File="sinin1_1\174.wav" ID="174">“You still don't get it?  Don't give up if you've only checked it once.  You have to be persistent.”</Entry>
+  <Entry File="sinin1_1\175.wav" ID="175">“Look,this letter could be in invisible ink.”    Read it     Ignore it</Entry>
+  <Entry File="sinin1_1\176.wav" ID="176">“There are four things in this mansion…  Check more closely.”</Entry>
+  <Entry File="sinin1_1\177.wav" ID="177">“Something is written on the back of the lid.”   (1)    Right 36</Entry>
+  <Entry File="sinin1_1\178.wav" ID="178">“Something is written on the back of the lid.”   (1)    Right 36</Entry>
+  <Entry File="sinin1_1\179.wav" ID="179">“There's a carving in the floor.”  (2)    Left 10</Entry>
+  <Entry File="sinin1_1\180.wav" ID="180">“There's a carving in the floor.”   (3)  Right 59</Entry>
+  <Entry File="sinin1_1\181.wav" ID="181">“Something is written on the back of the lid.”   (4)   Right 97</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="sinin1_1\0.wav" ID="0">You cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="sinin1_1\1.wav" ID="1">Nibel Reactor(Int.)</Entry>
+	<Entry File="sinin1_1\2.wav" ID="2">Mt. Nibel</Entry>
+	<Entry File="sinin1_1\3.wav" ID="3">Nibel Reactor</Entry>
+	<Entry File="sinin1_1\4.wav" ID="4">Mt. Nibel Cave</Entry>
+	<Entry File="sinin1_1\5.wav" ID="5">Mansion,2f.</Entry>
+	<Entry File="sinin1_1\6.wav" ID="6">Mansion,Basement</Entry>
+	<Entry File="sinin1_1\7.wav" ID="7">Mansion,1f.</Entry>
+	<Entry File="sinin1_1\8.wav" ID="8">Received "Destruct" Materia!</Entry>
+	<Entry File="sinin1_1\9.wav" ID="9">Received "Twin Viper"!</Entry>
+	<Entry File="sinin1_1\10.wav" ID="10">Received "Gold M-phone"!</Entry>
+	<Entry File="sinin1_1\11.wav" ID="11">Received "Enemy Launcher"!</Entry>
+	<Entry File="sinin1_1\12.wav" ID="12">Received "Magic Source"!</Entry>
+	<Entry File="sinin1_1\13.wav" ID="13">Received "Counter" Materia!</Entry>
+	<Entry File="sinin1_1\14.wav" ID="14">Received "Powersoul"!</Entry>
+	<Entry File="sinin1_1\15.wav" ID="15">Received "All" Materia!</Entry>
+	<Entry File="sinin1_1\16.wav" ID="16">Received "Sniper CR"!</Entry>
+	<Entry File="sinin1_1\17.wav" ID="17">Received "Elemental" Materia!</Entry>
+	<Entry File="sinin1_1\18.wav" ID="18">Received "Elixir"!</Entry>
+	<Entry File="sinin1_1\19.wav" ID="19">Received "Odin" Materia!</Entry>
+	<Entry File="sinin1_1\20.wav" ID="20"></Entry>
+	<Entry File="sinin1_1\21.wav" ID="21">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="sinin1_1\23.wav" ID="23"></Entry>
+	<Entry File="sinin1_1\24.wav" ID="24"></Entry>
+	<Entry File="sinin1_1\25.wav" ID="25">Success</Entry>
+	<Entry File="sinin1_1\26.wav" ID="26">Fail</Entry>
+	<Entry File="sinin1_1\27.wav" ID="27">Received Key Item "Key to the Basement"!</Entry>
+	<Entry File="sinin1_1\62.wav" ID="62">Am I…human?</Entry>
+	<Entry File="sinin1_1\63.wav" ID="63">I didn't quite understand  what Sephiroth was saying   at that time.</Entry>
+	<Entry File="sinin1_1\64.wav" ID="64">I was even more surprised that Shinra was producing monsters.</Entry>
+	<Entry File="sinin1_1\86b.wav" ID="86" Part="b"> Read it  Ignore</Entry>
+	<Entry File="sinin1_1\87b.wav" ID="87" Part="b"> Read it  Ignore</Entry>
+	<Entry File="sinin1_1\88b.wav" ID="88" Part="b"> Read it  Ignore</Entry>
+	<Entry File="sinin1_1\89b.wav" ID="89" Part="b"> Read it  Ignore</Entry>
+	<Entry File="sinin1_1\90b.wav" ID="90" Part="b"> Read it  Ignore</Entry>
+	<Entry File="sinin1_1\91b.wav" ID="91" Part="b"> Read it  Ignore</Entry>
+	<Entry File="sinin1_1\101.wav" ID="101">He continued to read as if he were possessed by something, and not once,did the light in the basement go out…</Entry>
+	<Entry File="sinin1_1\168b.wav" ID="168" Part="b">  dial (1)   dial (2)   dial (3)   </Entry>
+	<Entry File="sinin1_1\169.wav" ID="169">The lid of the box with the most oxygen.</Entry>
+	<Entry File="sinin1_1\170.wav" ID="170">Behind the Ivory's short of tea and ray.</Entry>
+	<Entry File="sinin1_1\171.wav" ID="171">The creek in the floor near the chair on the second floor… then to the left five steps,up nine steps, left two steps,and up six steps.</Entry>
+	<Entry File="sinin1_1\172.wav" ID="172">The fourth row has been written in invisible ink… Dial (4) is  (Right 97)</Entry>
+-->
+</VoiceList>

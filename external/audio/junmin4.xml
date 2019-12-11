@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junmin4\1a.wav" ID="1" Part="a">“Hey!  Aren't you still on duty!?”</Entry>
+  <Entry File="junmin4\1b.wav" ID="1" Part="b">“Look,I shouldn't talk,but…”</Entry>
+  <Entry File="junmin4\2.wav" ID="2">“Don't become a bad worker like me.”</Entry>
+  <Entry File="junmin4\3.wav" ID="3">“These barracks are for soldiers.  This is no place for civilians.”</Entry>
+  <Entry File="junmin4\4a.wav" ID="4" Part="a">“All the real soldiers   died fighting Weapon.”</Entry>
+  <Entry File="junmin4\4b.wav" ID="4" Part="b">“Kind of ironic that losers like me  are still alive.  But that's the reality of it.”</Entry>
+  <Entry File="junmin4\5a.wav" ID="5" Part="a">“I'm trying to be a bad soldier!!”</Entry>
+  <Entry File="junmin4\5b.wav" ID="5" Part="b">“I just can't get the hang of it!  This just isn't going right!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junmin4\0.wav" ID="0">Barracks</Entry>
+	<Entry File="junmin4\6.wav" ID="6">Received "Speed Source"!</Entry>
+-->
+</VoiceList>

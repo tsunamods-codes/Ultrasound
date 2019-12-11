@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jailin4\1a.wav" ID="1" Part="a">Mr.Coates “Never seen your face 'round  here before. Goin' up?”</Entry>
+  <Entry File="jailin4\2.wav" ID="2">Mr.Coates “Heh heh!  You sure got guts!”</Entry>
+  <Entry File="jailin4\3a.wav" ID="3" Part="a">Mr.Coates “You don't seem to understand  how things work down here.”</Entry>
+  <Entry File="jailin4\3b.wav" ID="3" Part="b">“This is the Gold Saucer's garbage dump.  And that makes alluv ya scrubs.”</Entry>
+  <Entry File="jailin4\4.wav" ID="4">Mr.Coates “The only way to get back up there   is to win the Chocobo Race.”</Entry>
+  <Entry File="jailin4\5a.wav" ID="5" Part="a">Mr.Coates “But,it's not  as easy as you rookies think.”</Entry>
+  <Entry File="jailin4\5b.wav" ID="5" Part="b">“Of course,if you got the boss's permission  it'd be a different story,but  YOU'll never get that!”</Entry>
+  <Entry File="jailin4\6.wav" ID="6">Mr.Coates “Ha ha ha ha.”</Entry>
+  <Entry File="jailin4\7.wav" ID="7">Mr.Coates “You want somethin'?”</Entry>
+  <Entry File="jailin4\8.wav" ID="8">Barret “I want to go up.”</Entry>
+  <Entry File="jailin4\9.wav" ID="9">Mr.Coates “Like I told you before,you gotta get  the boss's permission,then win the Chocobo…”</Entry>
+  <Entry File="jailin4\10.wav" ID="10">Barret “Dyne's got his reasons  an' can't speak.”</Entry>
+  <Entry File="jailin4\11.wav" ID="11">Barret “So,I got this,instead.”</Entry>
+  <Entry File="jailin4\12.wav" ID="12">Mr.Coates “Yeah,bull--!!”</Entry>
+  <Entry File="jailin4\13.wav" ID="13">Mr.Coates “R,right.”</Entry>
+  <Entry File="jailin4\14.wav" ID="14">Mr.Coates “Did you kill Dyne?”</Entry>
+  <Entry File="jailin4\15a.wav" ID="15" Part="a">Mr.Coates “You must've.  Or you'd never be holding that thing.”</Entry>
+  <Entry File="jailin4\15b.wav" ID="15" Part="b">“…So Dyne's dead…  Maybe now,  the place'll calm down a little.”</Entry>
+  <Entry File="jailin4\16.wav" ID="16">Mr.Coates “Dyne didn't  care who anyone was…”</Entry>
+  <Entry File="jailin4\17.wav" ID="17">Barret “The hell do YOU know!!”</Entry>
+  <Entry File="jailin4\18.wav" ID="18">Mr.Coates “R…ight!  I mean,no,I DON'T know anything.  S…sorry.”</Entry>
+  <Entry File="jailin4\19.wav" ID="19">Cloud “Then,will you  get us outta here?”</Entry>
+  <Entry File="jailin4\20.wav" ID="20">Mr.Coates “Huh? Oh man,  you guys are mistaken.”</Entry>
+  <Entry File="jailin4\21.wav" ID="21">Mr.Coates “I already told you,  there's only one way to get outta here.”</Entry>
+  <Entry File="jailin4\22.wav" ID="22">Mr.Coates “That's to win the Chocobo Race  and that's held up there,in the Gold Saucer.”</Entry>
+  <Entry File="jailin4\23.wav" ID="23">Mr.Coates “And,only one racer can go up at a time.”</Entry>
+  <Entry File="jailin4\24.wav" ID="24">Barret “Say what!?”</Entry>
+  <Entry File="jailin4\25a.wav" ID="25" Part="a">Mr.Coates “Noooo!  Really,even if you threaten me!!”</Entry>
+  <Entry File="jailin4\25b.wav" ID="25" Part="b">“A rule's a rule. I can't change it.”</Entry>
+  <Entry File="jailin4\25c.wav" ID="25" Part="c">“If I do,the whole system down  here'll get messed up!!  An' I can't do that!”</Entry>
+  <Entry File="jailin4\26.wav" ID="26">Mr.Coates “OK,OK,I'll let one go up there.  After that,he's gotta deal with Dio.”</Entry>
+  <Entry File="jailin4\27.wav" ID="27">Barret “Alright then.”</Entry>
+  <Entry File="jailin4\28.wav" ID="28">Barret “Cloud,you go.”</Entry>
+  <Entry File="jailin4\29a.wav" ID="29" Part="a">Barret “We'll wait down here.”</Entry>
+  <Entry File="jailin4\29b.wav" ID="29" Part="b">“Hurry up an' win that Chocobo Race,  an' get us outta here!”</Entry>
+  <Entry File="jailin4\30.wav" ID="30">Red XIII “You're right. Cloud should do it.”</Entry>
+  <Entry File="jailin4\31.wav" ID="31">Aeris “Yes,good luck,Cloud.”</Entry>
+  <Entry File="jailin4\32.wav" ID="32">Tifa “Right,Cloud.  We'll be waiting and rooting for you.”</Entry>
+  <Entry File="jailin4\33.wav" ID="33">Yuffie “Well,Cloud  go get 'em!”</Entry>
+  <Entry File="jailin4\34.wav" ID="34">Cait Sith “OK Cloud,  knock 'em dead!”</Entry>
+  <Entry File="jailin4\35.wav" ID="35">Mr.Coates “Have you decided?”</Entry>
+  <Entry File="jailin4\36a.wav" ID="36" Part="a">Mr.Coates “All you need now is a manager…”</Entry>
+  <Entry File="jailin4\36b.wav" ID="36" Part="b">“To register and get a Chocobo…”</Entry>
+  <Entry File="jailin4\37.wav" ID="37">“Hi. I happened to hear your story.”</Entry>
+  <Entry File="jailin4\38.wav" ID="38">Mr.Coates “Ester?”</Entry>
+  <Entry File="jailin4\39.wav" ID="39">Ester “I'll be your manager.”</Entry>
+  <Entry File="jailin4\40.wav" ID="40">Mr.Coates “Well,I have nothing against it,but…”</Entry>
+  <Entry File="jailin4\41a.wav" ID="41" Part="a">Mr.Coates “This is Ester. She may look kinda funny…”</Entry>
+  <Entry File="jailin4\41b.wav" ID="41" Part="b">“But there's no better manager in the races…”</Entry>
+  <Entry File="jailin4\42.wav" ID="42">Ester “That's so rude…”</Entry>
+  <Entry File="jailin4\43.wav" ID="43">Ester “Yeah,well.  Nice to meet you,Cloud.”</Entry>
+  <Entry File="jailin4\44a.wav" ID="44" Part="a">Mr.Coates “All right then,Cloud.”</Entry>
+  <Entry File="jailin4\44b.wav" ID="44" Part="b">“I'll send you up the elevator.  Ester'll fill you in on the details.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jailin4\0.wav" ID="0">Container</Entry>
+	<Entry File="jailin4\1b.wav" ID="1" Part="b">Not interested Yeah,up</Entry>
+-->
+</VoiceList>

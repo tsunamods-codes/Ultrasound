@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mrkt2\1.wav" ID="1">Aeris “This place is scary in a lot of ways.  Especially for a girl.  So we've got to find Tifa fast.”</Entry>
+  <Entry File="mrkt2\2.wav" ID="2">“Please come in.  There's a free 'Pharmacy Coupon'  if you enter now.”</Entry>
+  <Entry File="mrkt2\3.wav" ID="3">“Please,stop by.”</Entry>
+  <Entry File="mrkt2\4a.wav" ID="4" Part="a">“According to that guy with the tank,  if you're strong enough,  anyone can make it to the top plate.”</Entry>
+  <Entry File="mrkt2\4b.wav" ID="4" Part="b">“So,build your strength by having  a plate of our food.”</Entry>
+  <Entry File="mrkt2\5.wav" ID="5">“It's a weird world we live in,  so eat up and work hard.”</Entry>
+  <Entry File="mrkt2\6a.wav" ID="6" Part="a">“I just can't make up my mind…  Mmm.”</Entry>
+  <Entry File="mrkt2\6b.wav" ID="6" Part="b">“Huh? About what?”</Entry>
+  <Entry File="mrkt2\6c.wav" ID="6" Part="c">“Hmmm,don't make me say it…  It's the shop down on the right.”</Entry>
+  <Entry File="mrkt2\7.wav" ID="7">“Nope,I just can't make up my mind.  Here,you take this.  You won't be able to get in without it.”</Entry>
+  <Entry File="mrkt2\9.wav" ID="9">“…”</Entry>
+  <Entry File="mrkt2\10.wav" ID="10">“Say,you're a cutie,  heh,heh,heh.”</Entry>
+  <Entry File="mrkt2\11a.wav" ID="11" Part="a">“Hey boy! You sure got a  good-lookin' heifer there!”</Entry>
+  <Entry File="mrkt2\11b.wav" ID="11" Part="b">“Take her to the Don's place,  and you'll make a mint.”</Entry>
+  <Entry File="mrkt2\12a.wav" ID="12" Part="a">“Hey! Pretty lady.  Let me tell you about a good job!”</Entry>
+  <Entry File="mrkt2\12b.wav" ID="12" Part="b">“Go to the Don's place.  You'll make a small fortune!”</Entry>
+  <Entry File="mrkt2\13.wav" ID="13">“I never believed that Sector 7  would ever come down.”</Entry>
+  <Entry File="mrkt2\14.wav" ID="14">“We're not leavin' this city  no matter what happens.”</Entry>
+  <Entry File="mrkt2\15a.wav" ID="15" Part="a">“Hey,you two.  Why don't you get some rest?”</Entry>
+  <Entry File="mrkt2\15b.wav" ID="15" Part="b">“We have a beautiful room,  how 'bout it?”</Entry>
+  <Entry File="mrkt2\16.wav" ID="16">“Hey,y'all.  Please stay here!”</Entry>
+  <Entry File="mrkt2\17.wav" ID="17">“Oh… what should I do?  Should I just buy it?”</Entry>
+  <Entry File="mrkt2\18.wav" ID="18">“That was scary…”</Entry>
+  <Entry File="mrkt2\19.wav" ID="19">“Seems like everything  has frills on it.”</Entry>
+  <Entry File="mrkt2\20.wav" ID="20">“Aren't cats great?  This one's a little big,huh?”</Entry>
+  <Entry File="mrkt2\21a.wav" ID="21" Part="a">“It came down from the sky.”</Entry>
+  <Entry File="mrkt2\21b.wav" ID="21" Part="b">“But the old guy who likes tanks took  all of it away.  I wanted some,too.”</Entry>
+  <Entry File="mrkt2\22.wav" ID="22">“I wish I could live  with a real cat.”</Entry>
+  <Entry File="mrkt2\23.wav" ID="23">“It's a little early to start eating.  Come back in a bit.”</Entry>
+  <Entry File="mrkt2\24.wav" ID="24">“What?  Are you ladies going to eat,too?”</Entry>
+  <Entry File="mrkt2\25.wav" ID="25">“Phew,it's all dusty  ever since the sky came down.  I'll have to start over.”</Entry>
+  <Entry File="mrkt2\26.wav" ID="26">“I don't know what's gonna happen next.  But first,you gotta fill your stomach.”</Entry>
+  <Entry File="mrkt2\27.wav" ID="27">Cloud “What's wrong,Aeris?”</Entry>
+  <Entry File="mrkt2\28.wav" ID="28">Aeris “What is it?  Are you going outside like that?  I mean,that's okay with me,but…”</Entry>
+  <Entry File="mrkt2\29.wav" ID="29">Cloud “…Oh,yeah.”</Entry>
+  <Entry File="mrkt2\30.wav" ID="30">“Get a hold of yourself,  Ms. Cloud.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mrkt2\0.wav" ID="0">Wall Market</Entry>
+	<Entry File="mrkt2\8.wav" ID="8">Received Key Item "Member's Card"!</Entry>
+	<Entry File="mrkt2\31.wav" ID="31">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

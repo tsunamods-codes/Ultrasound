@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="niv_ti3\1.wav" ID="1">“Cloud's coming!”</Entry>
+  <Entry File="niv_ti3\2.wav" ID="2">“You think he wants to come in?”</Entry>
+  <Entry File="niv_ti3\3.wav" ID="3">Tifa “Was that the first day  you came into my room?”</Entry>
+  <Entry File="niv_ti3\4a.wav" ID="4" Part="a">Tifa “…that's right.”</Entry>
+  <Entry File="niv_ti3\4b.wav" ID="4" Part="b">“We lived next to each other.”</Entry>
+  <Entry File="niv_ti3\4c.wav" ID="4" Part="c">“But I really didn't know  you that well.”</Entry>
+  <Entry File="niv_ti3\5.wav" ID="5">Tifa “I've known you since we were children  and always thought we were close…”</Entry>
+  <Entry File="niv_ti3\6a.wav" ID="6" Part="a">Tifa “That's right…”</Entry>
+  <Entry File="niv_ti3\6b.wav" ID="6" Part="b">“I…really didn't know Cloud  that well.”</Entry>
+  <Entry File="niv_ti3\6c.wav" ID="6" Part="c">“That's why I was a bit surprised  when Cloud asked me  to come out to the well.”</Entry>
+  <Entry File="niv_ti3\7.wav" ID="7">“Tifa was so popular and   I never played much with the others…”</Entry>
+  <Entry File="niv_ti3\8.wav" ID="8">Tifa “But,but listen!  After Cloud left town,  I thought about him a lot.”</Entry>
+  <Entry File="niv_ti3\9a.wav" ID="9" Part="a">Tifa “I thought,I wonder how  Cloud is doing?”</Entry>
+  <Entry File="niv_ti3\9b.wav" ID="9" Part="b">“I wondered if he was  able to get into SOLDIER?”</Entry>
+  <Entry File="niv_ti3\10.wav" ID="10">“I even started reading the newspaper,  just to see if Cloud was  in any of the articles.”</Entry>
+  <Entry File="niv_ti3\11.wav" ID="11">Tifa “I want…to see…Mom…”</Entry>
+  <Entry File="niv_ti3\12.wav" ID="12">Tifa “But,but listen!  After Cloud left town,  I thought about him a lot.”</Entry>
+  <Entry File="niv_ti3\13a.wav" ID="13" Part="a">Tifa “I thought,I wonder how  Cloud is doing?”</Entry>
+  <Entry File="niv_ti3\13b.wav" ID="13" Part="b">“I wondered if he was  able to get into SOLDIER?”</Entry>
+  <Entry File="niv_ti3\14.wav" ID="14">“I even started reading the newspaper,   just to see if Cloud was   in any of the articles.”</Entry>
+  <Entry File="niv_ti3\15a.wav" ID="15" Part="a">“Don't worry about me,Tifa”</Entry>
+  <Entry File="niv_ti3\15b.wav" ID="15" Part="b">“Tell this guy later.  He'll probably be happy.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="niv_ti3\0.wav" ID="0">Tifa's House</Entry>
+-->
+</VoiceList>

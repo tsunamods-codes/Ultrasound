@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="bugin1c\1.wav" ID="1">Aeris “So pretty…It's just like  the real thing!”</Entry>
+  <Entry File="bugin1c\2.wav" ID="2">Tifa “Wow! It's just like the real thing!”</Entry>
+  <Entry File="bugin1c\3.wav" ID="3">Barret “This is really somethin'!”</Entry>
+  <Entry File="bugin1c\4.wav" ID="4">Cait Sith “Whew!  Just like the real thing!”</Entry>
+  <Entry File="bugin1c\5.wav" ID="5">Yuffie “Woa! Wooooah!  Pretty good,surprisin' me!”</Entry>
+  <Entry File="bugin1c\6a.wav" ID="6" Part="a">Bugenhagen “Hmm,yes pretty good.  This is my laboratory.”</Entry>
+  <Entry File="bugin1c\6b.wav" ID="6" Part="b">“All the workings of space  are entered into this  3D Holographic System.”</Entry>
+  <Entry File="bugin1c\7.wav" ID="7">Aeris “Hey! A shooting star!”</Entry>
+  <Entry File="bugin1c\8.wav" ID="8">Tifa “Look,look! A shooting star!”</Entry>
+  <Entry File="bugin1c\9.wav" ID="9">Cait Sith “Whoa! There goes a shootin' star!”</Entry>
+  <Entry File="bugin1c\10.wav" ID="10">Barret “Whoa! Shootin' stars!”</Entry>
+  <Entry File="bugin1c\11.wav" ID="11">Yuffie “Wh,what the? A shooting star?”</Entry>
+  <Entry File="bugin1c\12.wav" ID="12">Aeris “Wow,how wonderful.”</Entry>
+  <Entry File="bugin1c\13.wav" ID="13">Tifa “Oh! This is amazing!!”</Entry>
+  <Entry File="bugin1c\14.wav" ID="14">Cait Sith “I'm so overwhelmed!”</Entry>
+  <Entry File="bugin1c\15.wav" ID="15">Barret “This's really somethin'!”</Entry>
+  <Entry File="bugin1c\16.wav" ID="16">Yuffie “Whew!!”</Entry>
+  <Entry File="bugin1c\17a.wav" ID="17" Part="a">Bugenhagen “Ho Ho Hoooo. Yes,it is something,  isn't it?”</Entry>
+  <Entry File="bugin1c\17b.wav" ID="17" Part="b">“Well,let's get to  the subject.”</Entry>
+  <Entry File="bugin1c\18a.wav" ID="18" Part="a">Bugenhagen “Eventually…all humans die.  What happens to them after they die?”</Entry>
+  <Entry File="bugin1c\18b.wav" ID="18" Part="b">“The body decomposes,and returns to  the Planet. That much everyone knows.  What about their consciousness,  their hearts and their souls?”</Entry>
+  <Entry File="bugin1c\19.wav" ID="19">Bugenhagen “The soul too returns  to the Planet.”</Entry>
+  <Entry File="bugin1c\20.wav" ID="20">“And not only those of humans,but everything  on this Planet. In fact,all living things  in the universe,are the same.”</Entry>
+  <Entry File="bugin1c\21a.wav" ID="21" Part="a">“The spirits that return to the Planet,  merge with one another and roam the Planet.”</Entry>
+  <Entry File="bugin1c\21b.wav" ID="21" Part="b">“They roam,converge,and divide,  becoming a swell,called the 'Lifestream'.”</Entry>
+  <Entry File="bugin1c\21c.wav" ID="21" Part="c">“Lifestream…  In other words,a path of   energy of the souls roaming the Planet.”</Entry>
+  <Entry File="bugin1c\22.wav" ID="22">“'Spirit Energy' is a word that  you should never forget.”</Entry>
+  <Entry File="bugin1c\23a.wav" ID="23" Part="a">“A new life…children are  blessed with Spirit Energy and   are brought into the world.”</Entry>
+  <Entry File="bugin1c\23b.wav" ID="23" Part="b">“Then,the time comes when they die  and once again return to the Planet…”</Entry>
+  <Entry File="bugin1c\24a.wav" ID="24" Part="a">“Of course there are exceptions,  but this is the way of the world.”</Entry>
+  <Entry File="bugin1c\24b.wav" ID="24" Part="b">“I've digressed,but you'll  understand better if you watch this.”</Entry>
+  <Entry File="bugin1c\28.wav" ID="28">“It would be the end of life as we know it.”</Entry>
+  <Entry File="bugin1c\29.wav" ID="29">Bugenhagen “…These are the basics  of the Study of Planet Life.”</Entry>
+  <Entry File="bugin1c\30.wav" ID="30">Cloud “If Spirit Energy disappears,  our Planet will die.”</Entry>
+  <Entry File="bugin1c\31a.wav" ID="31" Part="a">Bugenhagen “Ho Ho Hoooo.  Spirit Energy is efficient BECAUSE it exists  within nature.”</Entry>
+  <Entry File="bugin1c\31b.wav" ID="31" Part="b">“When Spirit Energy is forcefully extracted,  and manufactured,it can't accomplish  its true purpose.”</Entry>
+  <Entry File="bugin1c\32.wav" ID="32">Cloud “You're talking about Mako energy,right?”</Entry>
+  <Entry File="bugin1c\33a.wav" ID="33" Part="a">Bugenhagen “Everyday Mako reactors suck up  Spirit Energy,diminishing it.”</Entry>
+  <Entry File="bugin1c\33b.wav" ID="33" Part="b">“Spirit Energy is compressed in reactors  and processed into Mako energy. All living  things are being used up and thrown away.”</Entry>
+  <Entry File="bugin1c\33c.wav" ID="33" Part="c">“In other words,Mako energy  will only destroy the Planet…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="bugin1c\0.wav" ID="0">Observatory</Entry>
+	<Entry File="bugin1c\25.wav" ID="25">Spirit energy is the source of life for  trees,birds,and humans.</Entry>
+	<Entry File="bugin1c\26.wav" ID="26">And not only living things. It makes it possible to form Planets.</Entry>
+	<Entry File="bugin1c\27.wav" ID="27">And if that Spirit Energy were to disappear…</Entry>
+-->
+</VoiceList>

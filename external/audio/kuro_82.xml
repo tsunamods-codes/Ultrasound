@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="kuro_82\1.wav" ID="1">Aeris “Cloud!!”</Entry>
+  <Entry File="kuro_82\2.wav" ID="2">Barret “Hey!!  Cloud!!”</Entry>
+  <Entry File="kuro_82\3.wav" ID="3">Tifa “Hey,Cloud!”</Entry>
+  <Entry File="kuro_82\4.wav" ID="4">Red XIII “Cloud!  What's wrong!”</Entry>
+  <Entry File="kuro_82\5.wav" ID="5">Yuffie “Cloud!  What are you doing?”</Entry>
+  <Entry File="kuro_82\6.wav" ID="6">Cait Sith “Cloud!  What's wrong with you!?”</Entry>
+  <Entry File="kuro_82\7.wav" ID="7">Cid “What the hell is going on!”</Entry>
+  <Entry File="kuro_82\8.wav" ID="8">Vincent “What are you doing?”</Entry>
+  <Entry File="kuro_82\9.wav" ID="9">Cloud “Ha ha ha…  Black Materia.”</Entry>
+  <Entry File="kuro_82\10.wav" ID="10">Cloud “Ha ha ha…  Call Meteor.”</Entry>
+  <Entry File="kuro_82\11.wav" ID="11">Aeris “Cloud!!  Get a hold of yourself!”</Entry>
+  <Entry File="kuro_82\12a.wav" ID="12" Part="a">Cloud “Cloud…”</Entry>
+  <Entry File="kuro_82\12b.wav" ID="12" Part="b">“I'm…  Cloud…”</Entry>
+  <Entry File="kuro_82\13.wav" ID="13">Cloud “How should I?”</Entry>
+  <Entry File="kuro_82\14.wav" ID="14">Cloud “…I remember!  I remember my way.”</Entry>
+  <Entry File="kuro_82\15.wav" ID="15">Aeris “…Cloud.”</Entry>
+  <Entry File="kuro_82\16.wav" ID="16">Cloud “Mm? What's wrong?  Is something wrong?”</Entry>
+  <Entry File="kuro_82\17.wav" ID="17">Aeris “…It's nothing  so don't worry about it.”</Entry>
+  <Entry File="kuro_82\18.wav" ID="18">Aeris “Right,Cloud!  It's nothing.”</Entry>
+  <Entry File="kuro_82\19.wav" ID="19">Aeris “Sephiroth got away.”</Entry>
+  <Entry File="kuro_82\20.wav" ID="20">Cloud “…Don't worry about it.  I understood what he was saying.”</Entry>
+  <Entry File="kuro_82\21.wav" ID="21">Cloud “So this must be Meteor,right?”</Entry>
+  <Entry File="kuro_82\22a.wav" ID="22" Part="a">Barret “Is it some sort of a disaster?”</Entry>
+  <Entry File="kuro_82\22b.wav" ID="22" Part="b">“It looks like something's gonna fall   from the sky.”</Entry>
+  <Entry File="kuro_82\23.wav" ID="23">Tifa “Is something going to fall from the sky?”</Entry>
+  <Entry File="kuro_82\24.wav" ID="24">Red XIII “Something's going to fall down?”</Entry>
+  <Entry File="kuro_82\25.wav" ID="25">Cait Sith  Then,we got trouble." “Oh,so something's going to fall from   the sky?  It's going to be something big.”</Entry>
+  <Entry File="kuro_82\26.wav" ID="26">Vincent “Something huge is falling from the sky?”</Entry>
+  <Entry File="kuro_82\27a.wav" ID="27" Part="a">Yuffie “I don't know what it is but…”</Entry>
+  <Entry File="kuro_82\27b.wav" ID="27" Part="b">“It looks like it's going to make a mess…”</Entry>
+  <Entry File="kuro_82\28a.wav" ID="28" Part="a">Cid “I don't know what the hell it is but  it's falling from the sky?”</Entry>
+  <Entry File="kuro_82\28b.wav" ID="28" Part="b">“Hmpf! It's not even an omen.”</Entry>
+  <Entry File="kuro_82\29.wav" ID="29">Aeris “…This must be magic.  Just what Sephiroth was saying.”</Entry>
+  <Entry File="kuro_82\30a.wav" ID="30" Part="a">Aeris “The Ultimate Destructive Magic,Meteor.”</Entry>
+  <Entry File="kuro_82\30b.wav" ID="30" Part="b">“It finds small drifting planets with   its magic.”</Entry>
+  <Entry File="kuro_82\31.wav" ID="31">Aeris “And then collides with them.  This Planet might get wiped out entirely…”</Entry>
+  <Entry File="kuro_82\32.wav" ID="32">Cloud “Sephiroth!?”</Entry>
+  <Entry File="kuro_82\33.wav" ID="33">Sephiroth “Ha ha ha…  It is not me.”</Entry>
+  <Entry File="kuro_82\41.wav" ID="41">Sephiroth “Ha ha ha…  You should know…”</Entry>
+  <Entry File="kuro_82\42.wav" ID="42">Cloud “Any sign of Sephiroth?”</Entry>
+  <Entry File="kuro_82\43.wav" ID="43">Aeris “He disappeared.”</Entry>
+  <Entry File="kuro_82\46.wav" ID="46">Cloud “We're locked in.”</Entry>
+  <Entry File="kuro_82\47.wav" ID="47">Cait Sith “She told me to 'Be strong.'  I feel so happy.”</Entry>
+  <Entry File="kuro_82\48.wav" ID="48">Cait Sith “Owwww…”</Entry>
+  <Entry File="kuro_82\49.wav" ID="49">Cait Sith “What happened?”</Entry>
+  <Entry File="kuro_82\50.wav" ID="50">Cait Sith “I can still move more.”</Entry>
+  <Entry File="kuro_82\51.wav" ID="51">Cait Sith “The Ancients went out of their  way to make this great machine.”</Entry>
+  <Entry File="kuro_82\52.wav" ID="52">Cait Sith “I'm saving this Planet too!  I'm a little embarrassed…”</Entry>
+  <Entry File="kuro_82\53.wav" ID="53">Cait Sith “This must be it!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="kuro_82\0.wav" ID="0">Temple of the Ancients</Entry>
+	<Entry File="kuro_82\34.wav" ID="34" />
+	<Entry File="kuro_82\35.wav" ID="35" />
+	<Entry File="kuro_82\36.wav" ID="36" />
+	<Entry File="kuro_82\37.wav" ID="37" />
+	<Entry File="kuro_82\38.wav" ID="38" />
+	<Entry File="kuro_82\39.wav" ID="39" />
+	<Entry File="kuro_82\40.wav" ID="40" />
+	<Entry File="kuro_82\44.wav" ID="44">Received "Bahamut" Materia!</Entry>
+	<Entry File="kuro_82\45.wav" ID="45">You cannot take on any more Materia. Please discard some Materia.</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mrkt1\1.wav" ID="1">“All this trash.  Can't we do anything with it?”</Entry>
+  <Entry File="mrkt1\2.wav" ID="2">“All this belongs to the owner  of the Weapons Shop.  He keeps picking things up  and saving them here.”</Entry>
+  <Entry File="mrkt1\3.wav" ID="3">“Oh,you mean the owner who has  a tank in his shop.”</Entry>
+  <Entry File="mrkt1\4.wav" ID="4">“But any way you look at it,  it's just trash…”</Entry>
+  <Entry File="mrkt1\5.wav" ID="5">“Is this pile of trash  getting bigger?”</Entry>
+  <Entry File="mrkt1\6a.wav" ID="6" Part="a">“Yes,I think so.”</Entry>
+  <Entry File="mrkt1\6b.wav" ID="6" Part="b">“A lot of things came falling down  when the Sector 7 pillar fell.”</Entry>
+  <Entry File="mrkt1\7.wav" ID="7">“Right,right,you're right.  The owner of the Weapons Shop  scavenged all the stuff when it  came falling down.”</Entry>
+  <Entry File="mrkt1\8.wav" ID="8">“Oh is that why?  He seems pretty suspicious  these days.”</Entry>
+  <Entry File="mrkt1\9.wav" ID="9">“Oh,you mean he went out to  the Plate cross section next  to the Don's Mansion,right?”</Entry>
+  <Entry File="mrkt1\10.wav" ID="10">“Oh,you know!  I wonder what he's doing?”</Entry>
+  <Entry File="mrkt1\11.wav" ID="11">“Yeah!  It gives me the chills.”</Entry>
+  <Entry File="mrkt1\12.wav" ID="12">“Wanna see somethin' awesome?  Follow me!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mrkt1\0.wav" ID="0">Wall Market</Entry>
+-->
+</VoiceList>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ship_1\1.wav" ID="1">“Yes sir!  Everything quiet,sir!”</Entry>
+  <Entry File="ship_1\2a.wav" ID="2" Part="a">Tifa “…But,you know what?  I really hate this uniform.”</Entry>
+  <Entry File="ship_1\2b.wav" ID="2" Part="b">“Uniforms,soldiers,war,  I hate 'em all.”</Entry>
+  <Entry File="ship_1\2c.wav" ID="2" Part="c">“They take away all the things  and people you love…”</Entry>
+  <Entry File="ship_1\2d.wav" ID="2" Part="d">“I wish they'd all disappear.  Right,Cloud? Yeah… I don't know</Entry>
+  <Entry File="ship_1\3.wav" ID="3">Tifa “You're right!”</Entry>
+  <Entry File="ship_1\4.wav" ID="4">Tifa “Uh,yes sir,I'll continue my watch sir!  Hee hee…”</Entry>
+  <Entry File="ship_1\5a.wav" ID="5" Part="a">Tifa “…Cloud.  Wearing those clothes seems to have   changed you a little.”</Entry>
+  <Entry File="ship_1\5b.wav" ID="5" Part="b">“Does it remind you of being in SOLDIER?  I hope not…”</Entry>
+  <Entry File="ship_1\6a.wav" ID="6" Part="a">“Hey!  What's wrong,kid?  You got no pep!”</Entry>
+  <Entry File="ship_1\6b.wav" ID="6" Part="b">“A seaman's gotta have umph!” I'm tired… Something's missing Leave me alone</Entry>
+  <Entry File="ship_1\7a.wav" ID="7" Part="a">“Say,who are you?  You're not a part of the crew.”</Entry>
+  <Entry File="ship_1\7b.wav" ID="7" Part="b">“Oh well,seamen never bother  with details!”</Entry>
+  <Entry File="ship_1\7c.wav" ID="7" Part="c">“How you feelin'!” I'm tired… Something's missing Leave me alone</Entry>
+  <Entry File="ship_1\8.wav" ID="8">“Ey ey!  Whattaya mean,'missin'!?”</Entry>
+  <Entry File="ship_1\9a.wav" ID="9" Part="a">“I got just the perfect thing!  'Invisible Alpha'--  A super drink for seamen!!”</Entry>
+  <Entry File="ship_1\9b.wav" ID="9" Part="b">“Just one'll rejuvenate you!  Only 250 gil!” I'll take it No thanks</Entry>
+  <Entry File="ship_1\10a.wav" ID="10" Part="a">“Thanks!  This is a necessity for a sailor.”</Entry>
+  <Entry File="ship_1\10b.wav" ID="10" Part="b">“This is a must item for a sailor!  Ha ha ha !”</Entry>
+  <Entry File="ship_1\11a.wav" ID="11" Part="a">“Thanks!  Now let's get on with it!“ </Entry>
+  <Entry File="ship_1\11b.wav" ID="11" Part="b">“This is the only real ecstasy   you can get on this ship!  Ha ha ha!”</Entry>
+  <Entry File="ship_1\13.wav" ID="13">“Hey!  Seamen shouldn't be so stingy!”</Entry>
+  <Entry File="ship_1\14.wav" ID="14">“President Rufus and his men are in  the Bridge of the Ship. If they see you  slacking,they'll bust you one!”</Entry>
+  <Entry File="ship_1\15.wav" ID="15">“…  …It's me.   Red XIII.”</Entry>
+  <Entry File="ship_1\16a.wav" ID="16" Part="a">Red XIII “I'm a little woozy,but  I shouldn't get caught.”</Entry>
+  <Entry File="ship_1\16b.wav" ID="16" Part="b">“Humans only look at appearances   anyway.”</Entry>
+  <Entry File="ship_1\16c.wav" ID="16" Part="c">“Anyway you look at it,  I'd say I make a fine human being.”</Entry>
+  <Entry File="ship_1\17.wav" ID="17">Red XIII “It's pretty hard standing  on two feet…”</Entry>
+  <Entry File="ship_1\18a.wav" ID="18" Part="a">“Oh man,we're almost to Costa del Sol.”</Entry>
+  <Entry File="ship_1\18b.wav" ID="18" Part="b">“When I get there,I'm going to take  a long overdue vacation. Maybe  I'll go down to the beach and get a tan…”</Entry>
+  <Entry File="ship_1\19.wav" ID="19">“Hey!  You don't have enough money!”</Entry>
+  <Entry File="ship_1\20.wav" ID="20">Barret “You all right!?”</Entry>
+  <Entry File="ship_1\21.wav" ID="21">Tifa “Everyone all right!?”</Entry>
+  <Entry File="ship_1\22.wav" ID="22">Aeris “Huh?”</Entry>
+  <Entry File="ship_1\23a.wav" ID="23" Part="a">Barret “Hey,wait.”</Entry>
+  <Entry File="ship_1\23b.wav" ID="23" Part="b">“You don't think that suspicious  stowaway is…”</Entry>
+  <Entry File="ship_1\24.wav" ID="24">Tifa “Everyone's here…right?”</Entry>
+  <Entry File="ship_1\25.wav" ID="25">“Sephiroth!?”</Entry>
+  <Entry File="ship_1\26.wav" ID="26">Tifa “Really!?”</Entry>
+  <Entry File="ship_1\27.wav" ID="27">Barret “How the hell am I supposed to know!?”</Entry>
+  <Entry File="ship_1\28.wav" ID="28">Cloud “…Let's find out.”</Entry>
+  <Entry File="ship_1\29.wav" ID="29">Red XIII “It's the most logical thing to do.  Then,who's going to go?”</Entry>
+  <Entry File="ship_1\30a.wav" ID="30" Part="a">Yuffie “N,not me…”</Entry>
+  <Entry File="ship_1\30b.wav" ID="30" Part="b">“I don't even like Sephiroth anyway.  And besid…ugh…urk…”</Entry>
+  <Entry File="ship_1\31a.wav" ID="31" Part="a">Cloud “…  Sephiroth…”</Entry>
+  <Entry File="ship_1\31b.wav" ID="31" Part="b">“…All right,let's go!”</Entry>
+  <Entry File="ship_1\32.wav" ID="32">Barret “I'm goin' too!”</Entry>
+  <Entry File="ship_1\33.wav" ID="33">Aeris “Is it really  Sephiroth…?”</Entry>
+  <Entry File="ship_1\34.wav" ID="34">Tifa “Take me with you!”</Entry>
+  <Entry File="ship_1\35.wav" ID="35">Red XIII “These clothes are too tight on me.  Can I switch with you?”</Entry>
+  <Entry File="ship_1\36.wav" ID="36">Yuffie “I told you…I don't want…  to,ugh…urk…”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ship_1\0.wav" ID="0">Cargo Ship</Entry>
+	<Entry File="ship_1\12.wav" ID="12">HP/MP Restored!</Entry>
+	<Entry File="ship_1\37.wav" ID="37">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

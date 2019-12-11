@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="delmin1\2.wav" ID="2">“What a fluffy bed!  It feels so great”</Entry>
+  <Entry File="delmin1\3.wav" ID="3">“Mmm…  five more minutes…”</Entry>
+  <Entry File="delmin1\4.wav" ID="4">“Huh!?”</Entry>
+  <Entry File="delmin1\5.wav" ID="5">“Oh,I'm sorry.  I didn't know you were here.  This is so embarrassing.”</Entry>
+  <Entry File="delmin1\6.wav" ID="6">“Take your time and look around.”</Entry>
+  <Entry File="delmin1\7.wav" ID="7">“So are you  seriously considering buying?” The heck do ya mean? I'm out of here</Entry>
+  <Entry File="delmin1\8.wav" ID="8">“Yes,you're right.  I'm sorry,please continue.”</Entry>
+  <Entry File="delmin1\9.wav" ID="9">Cloud “What are you selling?”</Entry>
+  <Entry File="delmin1\10a.wav" ID="10" Part="a">“That's pretty low.   Are you pulling my leg?”</Entry>
+  <Entry File="delmin1\10b.wav" ID="10" Part="b">“I'm talking about this house.    This villa used to belong to President Shinra.  It only recently came back on the market.”</Entry>
+  <Entry File="delmin1\11a.wav" ID="11" Part="a">“How do you like it?”</Entry>
+  <Entry File="delmin1\11b.wav" ID="11" Part="b">“It has a large lot,comes fully furnished  with this goose-down bed,  and there's even a basement to boot.”</Entry>
+  <Entry File="delmin1\11c.wav" ID="11" Part="c">“The villagers call it the Shinra Villa.”</Entry>
+  <Entry File="delmin1\12.wav" ID="12">“Of course,we're not giving it away…” How much is it? Not interested</Entry>
+  <Entry File="delmin1\13a.wav" ID="13" Part="a">“Wha? How do you plan to buy it  without a dime on you?”</Entry>
+  <Entry File="delmin1\13b.wav" ID="13" Part="b">“Well,  the price,for your information,</Entry>
+  <Entry File="delmin1\14a.wav" ID="14" Part="a">“All items in the basement  are included in the sale.”</Entry>
+  <Entry File="delmin1\14b.wav" ID="14" Part="b">“Well,  please come by again  if you should strike it rich.”</Entry>
+  <Entry File="delmin1\14c.wav" ID="14" Part="c">“I wouldn't hold my breath  waiting for that to happen  unless you win big at Gold Saucer.”</Entry>
+  <Entry File="delmin1\15a.wav" ID="15" Part="a">“Well,what do you think?  Isn't it a fabulous villa?”</Entry>
+  <Entry File="delmin1\15b.wav" ID="15" Part="b">“The feeling you get with   owning a villa is simply…  indescribable.”</Entry>
+  <Entry File="delmin1\15c.wav" ID="15" Part="c">“Well,let's wait for the captain.”</Entry>
+  <Entry File="delmin1\16.wav" ID="16">“Hmm  Is this some kind of joke?”</Entry>
+  <Entry File="delmin1\17.wav" ID="17">“'Praise the Lord,' it's a miracle!!  Who'd ever think someone with some  real money would ever come here?”</Entry>
+  <Entry File="delmin1\18.wav" ID="18">“I probably shouldn't even ask,but  are you really going to buy it?” Yep,300,000 gil I changed my mind</Entry>
+  <Entry File="delmin1\19.wav" ID="19">“Hmm,good-bye!!  Good-bye fluffy bed!!”</Entry>
+  <Entry File="delmin1\20.wav" ID="20">“Oh well,  I'm kind of glad!”</Entry>
+  <Entry File="delmin1\22.wav" ID="22">Cloud “This is MY villa.  Rest up in your new villa?” With pleasure Gotta move on</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="delmin1\0.wav" ID="0">House for Sale</Entry>
+	<Entry File="delmin1\1.wav" ID="1">Cloud's Villa</Entry>
+	<Entry File="delmin1\13c.wav" ID="13" Part="c">is a steal at 300,000 gil.”  Out of your range?  Out! Go on,out!</Entry>
+	<Entry File="delmin1\21.wav" ID="21">Bought "Villa Cloud"!</Entry>
+-->
+</VoiceList>

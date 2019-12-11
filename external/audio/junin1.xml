@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="junin1\1.wav" ID="1">“Eh!  Ho!”</Entry>
+  <Entry File="junin1\2.wav" ID="2">“Hurry!  Hurry!!”</Entry>
+  <Entry File="junin1\3.wav" ID="3">“The new President!!  He's here,he's here!!”</Entry>
+  <Entry File="junin1\4.wav" ID="4">“Hey!  You still dressed like that!?  Come 'ere!”</Entry>
+  <Entry File="junin1\5.wav" ID="5">“Hey! Rookie!!  Can't you hear me!!  Come over here!”</Entry>
+  <Entry File="junin1\6.wav" ID="6">“Here!!  Get in the room!”</Entry>
+  <Entry File="junin1\7.wav" ID="7">“I'm sorry.  Not yet.”</Entry>
+  <Entry File="junin1\9.wav" ID="9">“All I wanted was to become a pilot!  I used to be speechless watching the  Highwind in the sunset!”</Entry>
+  <Entry File="junin1\10a.wav" ID="10" Part="a">“Finished loading the Huge Materia!”</Entry>
+  <Entry File="junin1\10b.wav" ID="10" Part="b">“All we have to do now is to ready  the cargo ship,  'Gelnika',for departure and we're done!”</Entry>
+  <Entry File="junin1\11a.wav" ID="11" Part="a">“It's kinda lonely at the airport  without the Highwind,isn't it?”</Entry>
+  <Entry File="junin1\11b.wav" ID="11" Part="b">“I miss that bikini girl  on the side of the plane.”</Entry>
+  <Entry File="junin1\12a.wav" ID="12" Part="a">“Right now the Shinra's using it to gather the   Huge Materia from the Corel Reactor  and from the Fort Condor Reactor.”</Entry>
+  <Entry File="junin1\12b.wav" ID="12" Part="b">“The Gelnika's flying all over the place!  The only one that's not busy,is probably me!”</Entry>
+  <Entry File="junin1\13a.wav" ID="13" Part="a">“The Shinra's collecting Huge Materia  at the Junon Underwater Reactor!”</Entry>
+  <Entry File="junin1\13b.wav" ID="13" Part="b">“When they're done,   they'll bring it to this airport.”</Entry>
+  <Entry File="junin1\13c.wav" ID="13" Part="c">“Get out of here before you get in the way!”</Entry>
+  <Entry File="junin1\13d.wav" ID="13" Part="d">“What…me?  I'm gonna be watching from here,  so that I don't get in their way either!”</Entry>
+  <Entry File="junin1\14a.wav" ID="14" Part="a">“I'm glad we got Gelnika to   Rocket Town safely.”</Entry>
+  <Entry File="junin1\14b.wav" ID="14" Part="b">“But they sure think big.  Looks like they're going to use  the Huge Materia to break up Meteor…”</Entry>
+  <Entry File="junin1\15a.wav" ID="15" Part="a">“The Shinra Army's gathered at Midgar.  Now it's just a matter of time  Sephiroth's dead.”</Entry>
+  <Entry File="junin1\15b.wav" ID="15" Part="b">“What…me? I don't mind.  I'll just wait here.  My life is important to me.”</Entry>
+  <Entry File="junin1\16a.wav" ID="16" Part="a">“I finally got orders to join  the Great Sephiroth Plan.  I even get to go on the Gelnika too…”</Entry>
+  <Entry File="junin1\16b.wav" ID="16" Part="b">“But,I'm just gonna ignore them.  I wanna live to see  the end of the world.”</Entry>
+  <Entry File="junin1\16c.wav" ID="16" Part="c">“If I'm lucky…  There'll be a good place for me  in the New World.”</Entry>
+  <Entry File="junin1\17a.wav" ID="17" Part="a">“Doesn't it bother you?  Flying around knowing that  you could die at any moment?”</Entry>
+  <Entry File="junin1\17b.wav" ID="17" Part="b">“If that's the case,  might as well live on the edge,I say.”</Entry>
+  <Entry File="junin1\17c.wav" ID="17" Part="c">“But before I can do that,   I gotta get a license first.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="junin1\0.wav" ID="0">Junon Airport Path</Entry>
+	<Entry File="junin1\8.wav" ID="8">[Save Point] Access the menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

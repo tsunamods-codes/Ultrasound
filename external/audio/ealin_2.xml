@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="ealin_2\0a.wav" ID="0" Part="a">Aeris “You need to go through  Sector 6 to get to Sector 7.  Sector 6 is a little”</Entry>
+  <Entry File="ealin_2\0b.wav" ID="0" Part="b">“dangerous so you'd better  get some rest tonight.”</Entry>
+  <Entry File="ealin_2\1.wav" ID="1">Aeris “Cloud…”</Entry>
+  <Entry File="ealin_2\2.wav" ID="2">Aeris “Good night.”</Entry>
+  <Entry File="ealin_2\3.wav" ID="3">Cloud “Oh,man…”</Entry>
+  <Entry File="ealin_2\4.wav" ID="4">Cloud “…I must've fallen  asleep.”</Entry>
+  <Entry File="ealin_2\5.wav" ID="5">Cloud “Sector 7's past Sector 6…  I should be all right by myself…”</Entry>
+  <Entry File="ealin_2\6.wav" ID="6">Aeris “Cloud!  I thought the Turks  came back! Get some rest!”</Entry>
+  <Entry File="ealin_2\7.wav" ID="7">Cloud “Can't get caught this time…”</Entry>
+  <Entry File="ealin_2\8.wav" ID="8">Barret “Cloud!”</Entry>
+  <Entry File="ealin_2\9.wav" ID="9">Barret “I'm so glad…  I'm so glad you're all right…”</Entry>
+  <Entry File="ealin_2\10.wav" ID="10">Marlene “Daddy,don't cry.  Your whiskers  hurt!”</Entry>
+  <Entry File="ealin_2\11.wav" ID="11">Barret “You gonna go help Aeris,right?  She's done so much for me…”</Entry>
+  <Entry File="ealin_2\12.wav" ID="12">Barret “If the Shinra're involved,  I ain't stayin' here!  I'm comin',too!”</Entry>
+  <Entry File="ealin_2\13a.wav" ID="13" Part="a">Marlene “Guess what? Guess what?   Aeris asked me  lots of questions.”</Entry>
+  <Entry File="ealin_2\13b.wav" ID="13" Part="b">“Like what kind of person Cloud is.  I bet she likes you,Cloud!” I don't know Let's hope so</Entry>
+  <Entry File="ealin_2\14.wav" ID="14">Marlene “Dummy!”</Entry>
+  <Entry File="ealin_2\15.wav" ID="15">Marlene “I won't tell Tifa.”</Entry>
+  <Entry File="ealin_2\16.wav" ID="16">Cloud “Looks like I can rest here. Sleep Don't want to sleep</Entry>
+  <Entry File="ealin_2\21a.wav" ID="21" Part="a">Marlene “Daddy,  Tifa,</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="ealin_2\17.wav" ID="17">Received "Potion"!</Entry>
+	<Entry File="ealin_2\18.wav" ID="18">Received "Ether"!</Entry>
+	<Entry File="ealin_2\19.wav" ID="19">Received "Phoenix Down"!</Entry>
+	<Entry File="ealin_2\20.wav" ID="20">Aeris's House</Entry>
+	<Entry File="ealin_2\21b.wav" ID="21" Part="b"> Cloud!  Please bring Aeris back!”</Entry>
+-->
+</VoiceList>

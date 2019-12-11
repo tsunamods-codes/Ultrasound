@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="jail2\1.wav" ID="1">“You new?  Then go and pay your  respects to Mr. Coates.”</Entry>
+  <Entry File="jail2\2.wav" ID="2">“More respects again?  You sure are formal,go ahead…”</Entry>
+  <Entry File="jail2\3a.wav" ID="3" Part="a">“I'll tell you one thing,rookie.  This desert is  extremely dangerous.”</Entry>
+  <Entry File="jail2\3b.wav" ID="3" Part="b">“It'll welcome you in,  but when you try  to leave,it'll swallow ya.”</Entry>
+  <Entry File="jail2\3c.wav" ID="3" Part="c">“I hear some of them  never make it out…  the best thing is to stay   out of the desert entirely.”</Entry>
+  <Entry File="jail2\5.wav" ID="5">“Ha ha ha”</Entry>
+  <Entry File="jail2\6a.wav" ID="6" Part="a">“This elevator will  take you to the top…”</Entry>
+  <Entry File="jail2\6b.wav" ID="6" Part="b">“But,you gotta be picked  as a Chocobo Racer,first.”</Entry>
+  <Entry File="jail2\7.wav" ID="7">“Want to enter the Chocobo Race?” Not interested Yeah,I want to enter</Entry>
+  <Entry File="jail2\8.wav" ID="8">“You thinkin' of livin' here forever?  Then live a long life!”</Entry>
+  <Entry File="jail2\9.wav" ID="9">“Then go get permission  with the boss of this place.”</Entry>
+  <Entry File="jail2\10.wav" ID="10">Cloud “Who's the boss?”</Entry>
+  <Entry File="jail2\11.wav" ID="11">“You don't even know that?  Oh man.”</Entry>
+  <Entry File="jail2\12.wav" ID="12">  “Empty…”</Entry>
+  <Entry File="jail2\13.wav" ID="13">“This place is heaven.”</Entry>
+  <Entry File="jail2\14.wav" ID="14">“Man with a gun on his arm?”</Entry>
+  <Entry File="jail2\15.wav" ID="15">“Never heard of him.”</Entry>
+  <Entry File="jail2\16.wav" ID="16">“You wanna see the Boss?”</Entry>
+  <Entry File="jail2\17.wav" ID="17">“Go Southwest  and you'll meet him.”</Entry>
+  <Entry File="jail2\18.wav" ID="18">“You'll meet him.”</Entry>
+  <Entry File="jail2\19.wav" ID="19">“Once out in the desert,  stay still and  don't walk.”</Entry>
+  <Entry File="jail2\20.wav" ID="20">“Don't walk.”</Entry>
+  <Entry File="jail2\21.wav" ID="21">“There's no way you'll ever see  a mysterious Chocobo carriage.  No way.”</Entry>
+  <Entry File="jail2\22.wav" ID="22">“No way.”</Entry>
+  <Entry File="jail2\23a.wav" ID="23" Part="a">“Those guys only tell lies.  Only lies. Not one of 'em  will tell you the truth.</Entry>
+  <Entry File="jail2\23b.wav" ID="23" Part="b">“Just talk with 'em a couple of times,  and you'll get sick of 'em.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="jail2\0.wav" ID="0">Corel Prison</Entry>
+	<Entry File="jail2\4.wav" ID="4">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+-->
+</VoiceList>

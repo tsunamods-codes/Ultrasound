@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mds5_1\1a.wav" ID="1" Part="a">Aeris “This guy is sick.”</Entry>
+  <Entry File="mds5_1\1b.wav" ID="1" Part="b">“He passed out nearby and  someone must have helped him here.”</Entry>
+  <Entry File="mds5_1\2.wav" ID="2">“That guy in the pipe's a weird one.  No matter what you ask him,  he only answers 'uuh' or 'aahh'.”</Entry>
+  <Entry File="mds5_1\3.wav" ID="3">“Even with all that commotion,  you went on like nothing happened.  You must've really been through  the mill to get like that.”</Entry>
+  <Entry File="mds5_1\4a.wav" ID="4" Part="a">“I don't know,they might even  be better off this way.”</Entry>
+  <Entry File="mds5_1\4b.wav" ID="4" Part="b">“Even though they know the planet is on its   last legs,there's nothing they can  do about it.”</Entry>
+  <Entry File="mds5_1\4c.wav" ID="4" Part="c">“I wish I could close myself off like that.”</Entry>
+  <Entry File="mds5_1\5a.wav" ID="5" Part="a">“These folks went   wobbling off somewhere…”</Entry>
+  <Entry File="mds5_1\5b.wav" ID="5" Part="b">“They said something about the    'Reunion starting'… sounded almost like a  chant. Wonder what the heck that meant.”</Entry>
+  <Entry File="mds5_1\6a.wav" ID="6" Part="a">“…sniff…sniff…”</Entry>
+  <Entry File="mds5_1\6b.wav" ID="6" Part="b">“First there was a rumbling…  …then cracking…  and then ker-blaMM!!…”</Entry>
+  <Entry File="mds5_1\6c.wav" ID="6" Part="c">“…I was so scared…sniff…”</Entry>
+  <Entry File="mds5_1\7.wav" ID="7">“Outta the way! Move!  You want something?  Move into the store!”</Entry>
+  <Entry File="mds5_1\8.wav" ID="8">“You finally think you're making a  living in the pits of Midgar,  and then a big piece of scrap like  that falls down here…what's next?”</Entry>
+  <Entry File="mds5_1\9.wav" ID="9">“Yeah,that's right!  But even so,where could we  move to now?”</Entry>
+  <Entry File="mds5_1\10.wav" ID="10">“You ever hear of  Wall Market?” Yeah Nope</Entry>
+  <Entry File="mds5_1\11a.wav" ID="11" Part="a">“It's a market in the slums of Sector 6.  They've got everything you  could ever want there.”</Entry>
+  <Entry File="mds5_1\11b.wav" ID="11" Part="b">“If you can get there,  that is. The road's something else.”</Entry>
+  <Entry File="mds5_1\12.wav" ID="12">“Oh yeah? Then maybe I should  have you pick something up for  me next time you're there…”</Entry>
+  <Entry File="mds5_1\13.wav" ID="13">“What's going on with the world?  When it's all said and done,  we're all gonna wind up dead.”</Entry>
+  <Entry File="mds5_1\14.wav" ID="14">“You've been talking like that  for sometime now.”</Entry>
+  <Entry File="mds5_1\15a.wav" ID="15" Part="a">“What am I doing? I'm walking around  looking at the ground.”</Entry>
+  <Entry File="mds5_1\15b.wav" ID="15" Part="b">“You find a lot of things people  dropped when you look down.  You never find them when  you're looking up. Right?”</Entry>
+  <Entry File="mds5_1\16.wav" ID="16">“Never thought that would  come tumbling down.  Maybe I better walk around  looking up from now on.”</Entry>
+  <Entry File="mds5_1\17a.wav" ID="17" Part="a">“I'm not going to look up or down!  From now on I'm just going to   look straight ahead.”</Entry>
+  <Entry File="mds5_1\17b.wav" ID="17" Part="b">“Maybe not.  I'm just flapping my gums.  I really wonder how things  will turn out.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mds5_1\0.wav" ID="0">Sector 5 Slum</Entry>
+-->
+</VoiceList>

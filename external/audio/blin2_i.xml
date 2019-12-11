@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="blin2_i\1.wav" ID="1">“Honey…would you  buy me that car!”</Entry>
+  <Entry File="blin2_i\2.wav" ID="2">“But baby,  it's way too expensive.”</Entry>
+  <Entry File="blin2_i\3.wav" ID="3">“What did you say?”</Entry>
+  <Entry File="blin2_i\4.wav" ID="4">“…”</Entry>
+  <Entry File="blin2_i\5.wav" ID="5">“…”</Entry>
+  <Entry File="blin2_i\6.wav" ID="6">“Hh,hey!”</Entry>
+  <Entry File="blin2_i\7.wav" ID="7">“Ww,wait  for meeeeeee!”</Entry>
+  <Entry File="blin2_i\8.wav" ID="8">“Please take all  purchases to the register”</Entry>
+  <Entry File="blin2_i\9a.wav" ID="9" Part="a">“Welcome.  Our special today is…”</Entry>
+  <Entry File="blin2_i\9b.wav" ID="9" Part="b">“Eagghhh!!”</Entry>
+  <Entry File="blin2_i\10.wav" ID="10">“Here,  t,take the money…”</Entry>
+  <Entry File="blin2_i\11a.wav" ID="11" Part="a">Barret “I don't want your money.  AVALANCHE ain't no packa criminals.”</Entry>
+  <Entry File="blin2_i\11b.wav" ID="11" Part="b">“We jus' want back what your  boss stole from us.”</Entry>
+  <Entry File="blin2_i\12a.wav" ID="12" Part="a">Barret “I don't want your money.  AVALANCHE ain't no packa criminals.”</Entry>
+  <Entry File="blin2_i\12b.wav" ID="12" Part="b">“We jus' want back what  your boss stole from us.”</Entry>
+  <Entry File="blin2_i\12c.wav" ID="12" Part="c">“I mean,"who"  he stole from us.”</Entry>
+  <Entry File="blin2_i\13.wav" ID="13">“A,AVALANCHE?”</Entry>
+  <Entry File="blin2_i\14.wav" ID="14">Barret “We ain't gonna hurt you. We might  even pay ya,if ya help us.”</Entry>
+  <Entry File="blin2_i\15.wav" ID="15">“Ok…ok…well…”</Entry>
+  <Entry File="blin2_i\16.wav" ID="16">“What is it?”</Entry>
+  <Entry File="blin2_i\17.wav" ID="17">“Thank you and come again…  Forget I said that.”</Entry>
+  <Entry File="blin2_i\18.wav" ID="18">“Welcome…  to the fully automated store.  Place your order…now.”</Entry>
+  <Entry File="blin2_i\21.wav" ID="21">“You opened up all those  things without asking  and,hey wait!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="blin2_i\0.wav" ID="0">Shinra Bldg. 2f. Shop</Entry>
+	<Entry File="blin2_i\19.wav" ID="19">Received "Pile Bunker"!</Entry>
+	<Entry File="blin2_i\20.wav" ID="20">Received "Master Fist"!</Entry>
+-->
+</VoiceList>

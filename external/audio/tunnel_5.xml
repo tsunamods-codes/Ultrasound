@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="tunnel_5\11.wav" ID="11">“Locked”</Entry>
+  <Entry File="tunnel_5\12.wav" ID="12">“You,you're Cloud!!”</Entry>
+  <Entry File="tunnel_5\13.wav" ID="13">“You are NOT getting this Huge Materia!!”</Entry>
+  <Entry File="tunnel_5\14.wav" ID="14">“So you WERE after the Huge Materia!”</Entry>
+  <Entry File="tunnel_5\15.wav" ID="15">Cloud “!?  The Huge Materia!”</Entry>
+  <Entry File="tunnel_5\16.wav" ID="16">Yuffie “Hey!  A Crane Game!”</Entry>
+  <Entry File="tunnel_5\17.wav" ID="17">Barret “Damn,just missed it!”</Entry>
+  <Entry File="tunnel_5\18.wav" ID="18">Tifa “They're gonna take it on that submarine!”</Entry>
+  <Entry File="tunnel_5\19.wav" ID="19">Cid “That's what you think!  ^%$@#&amp;$#!”</Entry>
+  <Entry File="tunnel_5\20.wav" ID="20">Vincent “We were too late…”</Entry>
+  <Entry File="tunnel_5\21.wav" ID="21">Cait Sith “There's the submarine dock just ahead.”</Entry>
+  <Entry File="tunnel_5\22.wav" ID="22">Red XIII “If we take a short cut,  we might just make it!”</Entry>
+  <Entry File="tunnel_5\23.wav" ID="23">Cloud “Did we make it!?”</Entry>
+  <Entry File="tunnel_5\24.wav" ID="24">Reno “What are you doing?  Help load.”</Entry>
+  <Entry File="tunnel_5\25.wav" ID="25">Reno “Cloud!?”</Entry>
+  <Entry File="tunnel_5\26.wav" ID="26">Barret “We're gonna help transport  the Huge Materia…Reno!”</Entry>
+  <Entry File="tunnel_5\27.wav" ID="27">Red XIII “Help?”</Entry>
+  <Entry File="tunnel_5\28.wav" ID="28">Vincent “I refuse…”</Entry>
+  <Entry File="tunnel_5\29.wav" ID="29">Cid “You know I don't work cheap!”</Entry>
+  <Entry File="tunnel_5\30.wav" ID="30">Tifa “Looks like we barely made it.”</Entry>
+  <Entry File="tunnel_5\31.wav" ID="31">Yuffie “I'm SURE! You want me to do manual labor?”</Entry>
+  <Entry File="tunnel_5\32.wav" ID="32">Cloud “Either give it to us or else.”</Entry>
+  <Entry File="tunnel_5\33.wav" ID="33">Cloud “…which is it gonna be?”</Entry>
+  <Entry File="tunnel_5\34.wav" ID="34">Reno “Unfortunately,I don't have  time to deal with you.”</Entry>
+  <Entry File="tunnel_5\35.wav" ID="35">Reno “My priority is the Huge Materia!”</Entry>
+  <Entry File="tunnel_5\36.wav" ID="36">Cloud “Damn! The submarine!”</Entry>
+  <Entry File="tunnel_5\37.wav" ID="37">Cait Sith “Oh no! It left the dock…”</Entry>
+  <Entry File="tunnel_5\38.wav" ID="38">Barret “Damn!  So they was just buyin' time!?”</Entry>
+  <Entry File="tunnel_5\39.wav" ID="39">Yuffie “Huge Materia…! Wait…!”</Entry>
+  <Entry File="tunnel_5\40.wav" ID="40">Tifa “We have to go after it!”</Entry>
+  <Entry File="tunnel_5\41.wav" ID="41">Red XIII “But it's already in the water!”</Entry>
+  <Entry File="tunnel_5\42.wav" ID="42">Vincent “There is a way…”</Entry>
+  <Entry File="tunnel_5\43.wav" ID="43">Cid “Hold on to your horses!  Let's take it from 'em!!”</Entry>
+  <Entry File="tunnel_5\44.wav" ID="44">“Y,you!"</Entry>
+  <Entry File="tunnel_5\45.wav" ID="45">“You're not taking over this ship!”</Entry>
+  <Entry File="tunnel_5\46.wav" ID="46">Cid “Hey,hey,hey!  Where do you think you're goin'?”</Entry>
+  <Entry File="tunnel_5\47.wav" ID="47">Yuffie “Wait a sec!  What about the Huge Materia---?”</Entry>
+  <Entry File="tunnel_5\48.wav" ID="48">Cait Sith “Hey you!  Where ya goin'?”</Entry>
+  <Entry File="tunnel_5\49.wav" ID="49">Tifa “Cloud--!  We have to go after Rude!”</Entry>
+  <Entry File="tunnel_5\50.wav" ID="50">Barret “We ain't jus' gonna let them take the   Huge Materia,are we?”</Entry>
+  <Entry File="tunnel_5\51.wav" ID="51">Red XIII “Aren't we going after the   Huge Materia?”</Entry>
+  <Entry File="tunnel_5\52.wav" ID="52">Cait Sith “This is where we go in.”</Entry>
+  <Entry File="tunnel_5\53a.wav" ID="53" Part="a">Barret “May sound strange comin' from me…”</Entry>
+  <Entry File="tunnel_5\53b.wav" ID="53" Part="b">“But it feels like bein' back in Midgar.”</Entry>
+  <Entry File="tunnel_5\53c.wav" ID="53" Part="c">“Kinda makes me sick…"</Entry>
+  <Entry File="tunnel_5\54.wav" ID="54">Tifa “We sure got to know   the Midgar underground.”</Entry>
+  <Entry File="tunnel_5\55.wav" ID="55">Cait Sith “Please!  Hurry to the Mako Cannon!”</Entry>
+  <Entry File="tunnel_5\56.wav" ID="56">Red XIII “I have an old score to settle with Hojo,  so let's go!”</Entry>
+  <Entry File="tunnel_5\57.wav" ID="57">Cid “Yeah! Let's get it over with!"</Entry>
+  <Entry File="tunnel_5\58.wav" ID="58">Yuffie “This place smells gross.  Let's get this over with!”</Entry>
+  <Entry File="tunnel_5\59.wav" ID="59">Vincent “So it was Hojo who stirred up all this commotion  after all these years?”</Entry>
+  <Entry File="tunnel_5\60.wav" ID="60">Barret “Leave this to me!  Hurry to the cannon!”</Entry>
+  <Entry File="tunnel_5\61.wav" ID="61">Tifa “I'm all right!  Go to the cannon!”</Entry>
+  <Entry File="tunnel_5\62.wav" ID="62">Cait Sith “This way,Cloud!”</Entry>
+  <Entry File="tunnel_5\63.wav" ID="63">Red XIII “I smell it! The cannon's not this way!”</Entry>
+  <Entry File="tunnel_5\64.wav" ID="64">Red XIII “Forget about these lackeys!  Focus on Hojo!”</Entry>
+  <Entry File="tunnel_5\65.wav" ID="65">Cid “Which way?”</Entry>
+  <Entry File="tunnel_5\66.wav" ID="66">“Goddamn,piece of $#@^% cannon!!”</Entry>
+  <Entry File="tunnel_5\67.wav" ID="67">Yuffie “C'mon,c'mon,c'mon,c'mon---!”</Entry>
+  <Entry File="tunnel_5\68.wav" ID="68">Vincent “Damn!  Hojo!”</Entry>
+  <Entry File="tunnel_5\69.wav" ID="69">“Oh no! They're here!”</Entry>
+  <Entry File="tunnel_5\70.wav" ID="70">Elena “What are we going to do?  I think you can ignore  your orders now.”</Entry>
+  <Entry File="tunnel_5\71.wav" ID="71">Reno “…Elena,  don't act so weak.”</Entry>
+  <Entry File="tunnel_5\72.wav" ID="72">Rude “We're Turks,Elena.”</Entry>
+  <Entry File="tunnel_5\73.wav" ID="73">Elena “…Yes,sir.  You're right.”</Entry>
+  <Entry File="tunnel_5\74.wav" ID="74">Cloud Reno “Reno!  You're still alive…”</Entry>
+  <Entry File="tunnel_5\75.wav" ID="75">Reno “I've never swam so much in my life.”</Entry>
+  <Entry File="tunnel_5\76.wav" ID="76">Rude “Come on,we've got work to do.”</Entry>
+  <Entry File="tunnel_5\77.wav" ID="77">Reno “I'm not really up for it,but…”</Entry>
+  <Entry File="tunnel_5\78.wav" ID="78">Elena “Our orders were to seek you out and …”</Entry>
+  <Entry File="tunnel_5\79a.wav" ID="79" Part="a">Elena “…Kill.”</Entry>
+  <Entry File="tunnel_5\79b.wav" ID="79" Part="b">“Our company may be in turmoil,  but an order's an order.”</Entry>
+  <Entry File="tunnel_5\80.wav" ID="80">Elena “That's the spirit of the Turks!  Believe it!”</Entry>
+  <Entry File="tunnel_5\81.wav" ID="81">Cloud “…”</Entry>
+  <Entry File="tunnel_5\82.wav" ID="82">Elena “What are you doing? Let's go!"   Okay,let's end this   No,let's not</Entry>
+  <Entry File="tunnel_5\83a.wav" ID="83" Part="a">Reno “I know we have a weird relationship,but…”</Entry>
+  <Entry File="tunnel_5\83b.wav" ID="83" Part="b">“We have to end this…  like Turks!”</Entry>
+  <Entry File="tunnel_5\84.wav" ID="84">Elena “What is that,pity!?  Don't think the Turks are fools!”</Entry>
+  <Entry File="tunnel_5\85.wav" ID="85">Reno “Wait,Elena.”</Entry>
+  <Entry File="tunnel_5\86.wav" ID="86">Elena “Reno!  You're not disobeying…are you!?”</Entry>
+  <Entry File="tunnel_5\87.wav" ID="87">Reno “Shinra's finished.  It's come down to this.”</Entry>
+  <Entry File="tunnel_5\88.wav" ID="88">Rude “…”</Entry>
+  <Entry File="tunnel_5\89.wav" ID="89">Elena “Rude…”</Entry>
+  <Entry File="tunnel_5\90.wav" ID="90">Reno “Elena,you were a great Turk!”</Entry>
+  <Entry File="tunnel_5\91.wav" ID="91">Elena “…”</Entry>
+  <Entry File="tunnel_5\92a.wav" ID="92" Part="a">Reno “Farewell.  If we both survive…”</Entry>
+  <Entry File="tunnel_5\92b.wav" ID="92" Part="b">“and our lives are spared…”</Entry>
+  <Entry File="tunnel_5\93.wav" ID="93">Elena “Remember the spirit of the Turks!”</Entry>
+  <Entry File="tunnel_5\94.wav" ID="94">Rude “Our mission's over…”</Entry>
+  <Entry File="tunnel_5\95.wav" ID="95">Red XIII “!?”</Entry>
+  <Entry File="tunnel_5\96.wav" ID="96">Barret “What the…  hell is that!!?”</Entry>
+  <Entry File="tunnel_5\97.wav" ID="97">Tifa “This can't be…”</Entry>
+  <Entry File="tunnel_5\98.wav" ID="98">Yuffie “Are you serious?”</Entry>
+  <Entry File="tunnel_5\99.wav" ID="99">Cid “Hey-hey!  You serious?”</Entry>
+  <Entry File="tunnel_5\100.wav" ID="100">Vincent “…!”</Entry>
+  <Entry File="tunnel_5\101.wav" ID="101">Cait Sith “No,no way…  I didn't know they completed it…”</Entry>
+  <Entry File="tunnel_5\102.wav" ID="102">“G'yaaa,Haaa,Haaa!!!  Here they come!”</Entry>
+  <Entry File="tunnel_5\103.wav" ID="103">“G'yaaa,Haaa,Haaa!!!  So they really showed up!”</Entry>
+  <Entry File="tunnel_5\104.wav" ID="104">Heidegger “You sure treated us like dogs till now!!”</Entry>
+  <Entry File="tunnel_5\105.wav" ID="105">Scarlet “You killed many of my precious soldiers!”</Entry>
+  <Entry File="tunnel_5\106.wav" ID="106">Heidegger “G'yaaa,Haaa,Haaa!!!  But let's see how you do against  anti-Weapon artillery!”</Entry>
+  <Entry File="tunnel_5\107.wav" ID="107">Scarlet “You guys are worthless,  but my proud creation is great!”</Entry>
+  <Entry File="tunnel_5\108.wav" ID="108">Scarlet “I'll show you the destructive  power of the Proud Clod!”</Entry>
+  <Entry File="tunnel_5\109.wav" ID="109">Scarlet “Not that!  This is the Proud Clod!?”</Entry>
+  <Entry File="tunnel_5\110.wav" ID="110">Heidegger “Whoooooa!!”</Entry>
+  <Entry File="tunnel_5\111.wav" ID="111">Cait Sith “We don't have any time!  Please get on with it!”</Entry>
+  <Entry File="tunnel_5\112a.wav" ID="112" Part="a">Hojo “Ha,ha,ha…  Just you wait,Sephiroth.”</Entry>
+  <Entry File="tunnel_5\112b.wav" ID="112" Part="b">“I'll give you all the Mako you want.”</Entry>
+  <Entry File="tunnel_5\113.wav" ID="113">Reeve “Hojo,STOP!  The cannon,no,  Midgar itself is in danger!”</Entry>
+  <Entry File="tunnel_5\114.wav" ID="114">Hojo “Ha,ha,ha…  One or two Midgars?  …It's a small price to pay.”</Entry>
+  <Entry File="tunnel_5\115.wav" ID="115">Reeve “Hojo!  HOJO!!”</Entry>
+  <Entry File="tunnel_5\116a.wav" ID="116" Part="a">Hojo “Show me…Sephiroth.”</Entry>
+  <Entry File="tunnel_5\116b.wav" ID="116" Part="b">“It should be near…”</Entry>
+  <Entry File="tunnel_5\116c.wav" ID="116" Part="c">“Ha,ha,ha…  Go beyond the powers of science…”</Entry>
+  <Entry File="tunnel_5\116d.wav" ID="116" Part="d">“Before your presence,  science is powerless…”</Entry>
+  <Entry File="tunnel_5\116e.wav" ID="116" Part="e">“I don't like it,but I'll comply.”</Entry>
+  <Entry File="tunnel_5\116f.wav" ID="116" Part="f">“Just…let me see it.”</Entry>
+  <Entry File="tunnel_5\116g.wav" ID="116" Part="g">“Ha,ha,ha…”</Entry>
+  <Entry File="tunnel_5\117.wav" ID="117">Cloud “Hojo!  Stop right there!!”</Entry>
+  <Entry File="tunnel_5\118.wav" ID="118">Hojo “Oh…the Failure.”</Entry>
+  <Entry File="tunnel_5\119.wav" ID="119">Cloud “At least remember my name!  It's Cloud!”</Entry>
+  <Entry File="tunnel_5\120a.wav" ID="120" Part="a">Hojo “Every time I see you…”</Entry>
+  <Entry File="tunnel_5\120b.wav" ID="120" Part="b">“It pains me that I had so little scientific sense…”</Entry>
+  <Entry File="tunnel_5\121a.wav" ID="121" Part="a">Hojo “I saw you as a failed project.”</Entry>
+  <Entry File="tunnel_5\121b.wav" ID="121" Part="b">“But,you're the only one that succeeded  as a Sephiroth-clone.”</Entry>
+  <Entry File="tunnel_5\122.wav" ID="122">Hojo “Heh,heh,heh…  I'm even beginning to hate myself.”</Entry>
+  <Entry File="tunnel_5\123.wav" ID="123">Cloud “None of that matters…  just stop this nonsense!”</Entry>
+  <Entry File="tunnel_5\124a.wav" ID="124" Part="a">Hojo “…Nonsense?”</Entry>
+  <Entry File="tunnel_5\124b.wav" ID="124" Part="b">“Oh,this?”</Entry>
+  <Entry File="tunnel_5\125a.wav" ID="125" Part="a">Hojo “Ha,ha,ha…”</Entry>
+  <Entry File="tunnel_5\125b.wav" ID="125" Part="b">“Sephiroth seems to be counting on the energy.”</Entry>
+  <Entry File="tunnel_5\125c.wav" ID="125" Part="c">“So I'm going to lend him a hand.”</Entry>
+  <Entry File="tunnel_5\126.wav" ID="126">Cloud “Why!?  Why do that!?”</Entry>
+  <Entry File="tunnel_5\127.wav" ID="127">Hojo “Quit asking me why,you moron.”</Entry>
+  <Entry File="tunnel_5\128.wav" ID="128">Hojo “Hmm…actually,you might make  a good scientist.”</Entry>
+  <Entry File="tunnel_5\129.wav" ID="129">Hojo “Energy level is at…83%.  It's taking too long.”</Entry>
+  <Entry File="tunnel_5\130.wav" ID="130">Hojo “My son needs power and help.  …That's the only reason.”</Entry>
+  <Entry File="tunnel_5\131.wav" ID="131">Cloud “…Your son?”</Entry>
+  <Entry File="tunnel_5\132.wav" ID="132">Hojo “Ha,ha,ha…  But he doesn't know it.”</Entry>
+  <Entry File="tunnel_5\133a.wav" ID="133" Part="a">Hojo “Ha,ha,ha…  HA,HA,HA!!”</Entry>
+  <Entry File="tunnel_5\133b.wav" ID="133" Part="b">“What will Sephiroth think when he finds out   I'm his father?”</Entry>
+  <Entry File="tunnel_5\133c.wav" ID="133" Part="c">“He always looks down on me.”</Entry>
+  <Entry File="tunnel_5\133d.wav" ID="133" Part="d">“HA,HA,HA!!”</Entry>
+  <Entry File="tunnel_5\134.wav" ID="134">Cloud “Sephiroth is your son!?”</Entry>
+  <Entry File="tunnel_5\135.wav" ID="135">Vincent “…!”</Entry>
+  <Entry File="tunnel_5\136a.wav" ID="136" Part="a">Hojo “Ha,ha,ha…”</Entry>
+  <Entry File="tunnel_5\136b.wav" ID="136" Part="b">“I offered the woman with my child  to Professor Gast's Jenova Project.”</Entry>
+  <Entry File="tunnel_5\136c.wav" ID="136" Part="c">“When Sephiroth was still in her womb,  we took Jenova's cells…”</Entry>
+  <Entry File="tunnel_5\137.wav" ID="137">Hojo “HA,HA,HA!!”</Entry>
+  <Entry File="tunnel_5\138.wav" ID="138">Vincent “You!”</Entry>
+  <Entry File="tunnel_5\139.wav" ID="139">Cloud “I can't believe you're  the one who did this…”</Entry>
+  <Entry File="tunnel_5\140.wav" ID="140">Cloud “Illusionary crime against Sephiroth…”</Entry>
+  <Entry File="tunnel_5\141.wav" ID="141">Vincent “…”</Entry>
+  <Entry File="tunnel_5\142a.wav" ID="142" Part="a">Hojo “Heee,hee,hee!  No,you're wrong!”</Entry>
+  <Entry File="tunnel_5\142b.wav" ID="142" Part="b">“It's my desire as a scientist!  Heee,hee,hee!”</Entry>
+  <Entry File="tunnel_5\143.wav" ID="143">Vincent “I was…wrong.  The one that should have slept was…”</Entry>
+  <Entry File="tunnel_5\144.wav" ID="144">Vincent “…You,Hojo!”</Entry>
+  <Entry File="tunnel_5\145a.wav" ID="145" Part="a">Hojo “I…was defeated by my drive   to become a scientist.”</Entry>
+  <Entry File="tunnel_5\145b.wav" ID="145" Part="b">“I lost the last time,too.”</Entry>
+  <Entry File="tunnel_5\146a.wav" ID="146" Part="a">Hojo “I've injected Jenova's cells into my own body!”</Entry>
+  <Entry File="tunnel_5\146b.wav" ID="146" Part="b">“Heee,hee,hee!”</Entry>
+  <Entry File="tunnel_5\146c.wav" ID="146" Part="c">“Here are…”</Entry>
+  <Entry File="tunnel_5\147a.wav" ID="147" Part="a">Hojo “Heee,hee,hee!”</Entry>
+  <Entry File="tunnel_5\147b.wav" ID="147" Part="b">“…the results!!”</Entry>
+  <Entry File="tunnel_5\148.wav" ID="148">Cloud “…”</Entry>
+  <Entry File="tunnel_5\149.wav" ID="149">Cid “ %$#&amp;$*&amp;^%^”</Entry>
+  <Entry File="tunnel_5\150.wav" ID="150">Vincent “Hojo…  Rest in peace…”</Entry>
+  <Entry File="tunnel_5\151.wav" ID="151">Tifa “I can't believe Sephiroth is  Hojo's son…”</Entry>
+  <Entry File="tunnel_5\152.wav" ID="152">Red XIII “The father…”</Entry>
+  <Entry File="tunnel_5\153.wav" ID="153">Yuffie “How sad…for him…”</Entry>
+  <Entry File="tunnel_5\154.wav" ID="154">Cait Sith “I'm so glad you came.”</Entry>
+  <Entry File="tunnel_5\155.wav" ID="155">Barret “That's the end of the cannon…”</Entry>
+  <Entry File="tunnel_5\176.wav" ID="176">Barret “This is great.  Hold on,Hojo!”</Entry>
+  <Entry File="tunnel_5\177.wav" ID="177">Cloud “Dead end!”</Entry>
+  <Entry File="tunnel_5\178.wav" ID="178">“You guys are…”</Entry>
+  <Entry File="tunnel_5\179.wav" ID="179">Cid “Guess we're safe for now…”</Entry>
+  <Entry File="tunnel_5\180.wav" ID="180">Barret “Da---mn!”</Entry>
+  <Entry File="tunnel_5\181.wav" ID="181">Red XIII “Ohh!”</Entry>
+  <Entry File="tunnel_5\182.wav" ID="182">Yuffie “Wa…wait!”</Entry>
+  <Entry File="tunnel_5\183.wav" ID="183">Cait Sith “Wha…what is it,  what is it?”</Entry>
+  <Entry File="tunnel_5\184.wav" ID="184">Vincent “!!”</Entry>
+  <Entry File="tunnel_5\185.wav" ID="185">Cid “Looks like they're takin' off  with the Huge Materia in that train!”</Entry>
+  <Entry File="tunnel_5\186.wav" ID="186">Barret “NO!  You damn boneheads!”</Entry>
+  <Entry File="tunnel_5\187.wav" ID="187">Red XIII “Did the Shinra beat us!?”</Entry>
+  <Entry File="tunnel_5\188.wav" ID="188">Yuffie “What are ya gonna do!?  Huge Materia!?”</Entry>
+  <Entry File="tunnel_5\189.wav" ID="189">Cait Sith “Wha…you're not  thinking about giving up…”</Entry>
+  <Entry File="tunnel_5\190.wav" ID="190">Vincent “…shall we go after them?”</Entry>
+  <Entry File="tunnel_5\191a.wav" ID="191" Part="a">Cid “Hey,do you know who I am?”</Entry>
+  <Entry File="tunnel_5\191b.wav" ID="191" Part="b">“I'm Cid - that's who  the hell I am!  Now just let me handle it!”</Entry>
+  <Entry File="tunnel_5\192.wav" ID="192">Cid “Hey,hey,hey,hey---!”</Entry>
+  <Entry File="tunnel_5\193.wav" ID="193">Barret “How can they even drive this?”</Entry>
+  <Entry File="tunnel_5\194.wav" ID="194">Red XIII “It sure helped having Cid here.  I had no idea he could drive a train…”</Entry>
+  <Entry File="tunnel_5\195.wav" ID="195">Yuffie “Pretty good for an old guy.  I'm impressed you can move this thing!”</Entry>
+  <Entry File="tunnel_5\196.wav" ID="196">Cait Sith “Way to go,Mister!  You used to drivin' this thing too?”</Entry>
+  <Entry File="tunnel_5\197.wav" ID="197">Vincent “I'm impressed.  You can drive this too?”</Entry>
+  <Entry File="tunnel_5\198.wav" ID="198">Cid “Don't ask me…  I don't know!”</Entry>
+  <Entry File="tunnel_5\199.wav" ID="199">Barret “What!?”</Entry>
+  <Entry File="tunnel_5\200.wav" ID="200">Red XIII “Wa…What!?”</Entry>
+  <Entry File="tunnel_5\201.wav" ID="201">Yuffie “What!?  For serious!?”</Entry>
+  <Entry File="tunnel_5\202.wav" ID="202">Cait Sith “Huh?  What'd you just say!?”</Entry>
+  <Entry File="tunnel_5\203.wav" ID="203">Vincent “Wha…what…!?”</Entry>
+  <Entry File="tunnel_5\204a.wav" ID="204" Part="a">Cid “Don't worry!  I can handle this!”</Entry>
+  <Entry File="tunnel_5\204b.wav" ID="204" Part="b">“Two levers; one on the right  and one on the left…”</Entry>
+  <Entry File="tunnel_5\206a.wav" ID="206" Part="a">Cid “I see,just alternate the two levers  up and down,right!?”</Entry>
+  <Entry File="tunnel_5\206b.wav" ID="206" Part="b">“Judging from the enemy's speed,  I'd say it'll take about 10 minutes.”</Entry>
+  <Entry File="tunnel_5\206c.wav" ID="206" Part="c">“We're gonna fly!!  Hold on tight!!”</Entry>
+  <Entry File="tunnel_5\208.wav" ID="208">Cid “All right!  We're gonna jump!!”</Entry>
+  <Entry File="tunnel_5\209a.wav" ID="209" Part="a">Cid “DAMN!”</Entry>
+  <Entry File="tunnel_5\209b.wav" ID="209" Part="b">“Sorry!  I couldn't catch them!”</Entry>
+  <Entry File="tunnel_5\210.wav" ID="210">Cid “Oh ^%$#&amp;$!  We're gonna crash into North Corel!”</Entry>
+  <Entry File="tunnel_5\211.wav" ID="211">“What the?  You…you guys!”</Entry>
+  <Entry File="tunnel_5\212.wav" ID="212">Cid “All right---  Hand over the Huge Materia!”</Entry>
+  <Entry File="tunnel_5\213a.wav" ID="213" Part="a">“Sh…”</Entry>
+  <Entry File="tunnel_5\213b.wav" ID="213" Part="b">“Whooooa----!”</Entry>
+  <Entry File="tunnel_5\214a.wav" ID="214" Part="a">Cid “You got guts comin' after me!”</Entry>
+  <Entry File="tunnel_5\214b.wav" ID="214" Part="b">“I'll never forget you!”</Entry>
+  <Entry File="tunnel_5\215.wav" ID="215">Barret “No time for that now!”</Entry>
+  <Entry File="tunnel_5\216.wav" ID="216">Red XIII “We got it going,  but how do we stop it?”</Entry>
+  <Entry File="tunnel_5\217.wav" ID="217">Yuffie “Forget the Huge Materia,  WE'RE the ones in deep trouble!”</Entry>
+  <Entry File="tunnel_5\218.wav" ID="218">Cait Sith “What are we gonna do,  kill the engineer!?”</Entry>
+  <Entry File="tunnel_5\219.wav" ID="219">Vincent “Hit the brakes,Chief.”</Entry>
+  <Entry File="tunnel_5\220.wav" ID="220">Cid “I KNOW,already!  Just shut up and sit tight!  If we keep this up,we'll  crash right into North Corel!”</Entry>
+  <Entry File="tunnel_5\221.wav" ID="221">Cid “Let's see…  If we use the levers alternately  to accelerate…”</Entry>
+  <Entry File="tunnel_5\223.wav" ID="223">Cid “It should stop if we move the levers  up or down simultaneously!”</Entry>
+  <Entry File="tunnel_5\224.wav" ID="224">Barret “Hey,it's not working!”</Entry>
+  <Entry File="tunnel_5\225.wav" ID="225">Red XIII “We're gaining speed!”</Entry>
+  <Entry File="tunnel_5\226.wav" ID="226">Cait Sith “Hey-------WAIT!  …other way,other way,other way!”</Entry>
+  <Entry File="tunnel_5\227.wav" ID="227">Vincent “Isn't it…the other way?”</Entry>
+  <Entry File="tunnel_5\228.wav" ID="228">Yuffie “What are you doin',accelerating!?”</Entry>
+  <Entry File="tunnel_5\229.wav" ID="229">Cid “^%#@! The other way!?  Just watch,I'll…”</Entry>
+  <Entry File="tunnel_5\230.wav" ID="230">Barret “Hey…HEY HEY!!”</Entry>
+  <Entry File="tunnel_5\231.wav" ID="231">Red XIII “WHOOOOOO----A!!”</Entry>
+  <Entry File="tunnel_5\232.wav" ID="232">Yuffie “Get serious,you OLD MAN!!”</Entry>
+  <Entry File="tunnel_5\233.wav" ID="233">Cait Sith “No…DON'T----!!”</Entry>
+  <Entry File="tunnel_5\234.wav" ID="234">Vincent “…!!”</Entry>
+  <Entry File="tunnel_5\235.wav" ID="235">Cid “SH--------!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="tunnel_5\0.wav" ID="0">012345678901234</Entry>
+	<Entry File="tunnel_5\1.wav" ID="1"> BLACKBGH</Entry>
+	<Entry File="tunnel_5\2.wav" ID="2"> BLACKBGI</Entry>
+	<Entry File="tunnel_5\3.wav" ID="3">Midgar,Sector 8</Entry>
+	<Entry File="tunnel_5\4.wav" ID="4">Sector 8,Underground</Entry>
+	<Entry File="tunnel_5\5.wav" ID="5">Winding Tunnel</Entry>
+	<Entry File="tunnel_5\6.wav" ID="6">Mako Cannon</Entry>
+	<Entry File="tunnel_5\7.wav" ID="7">Corel Reactor</Entry>
+	<Entry File="tunnel_5\8.wav" ID="8">Coal Train</Entry>
+	<Entry File="tunnel_5\9.wav" ID="9">Underwater Reactor</Entry>
+	<Entry File="tunnel_5\10.wav" ID="10">[Save Point] Access the Menu and select [SAVE] to save your game.</Entry>
+	<Entry File="tunnel_5\156.wav" ID="156">Received " " Materia!</Entry>
+	<Entry File="tunnel_5\157.wav" ID="157"> Received "W-Item"!</Entry>
+	<Entry File="tunnel_5\158.wav" ID="158"> Received "Slapshot"!</Entry>
+	<Entry File="tunnel_5\159.wav" ID="159">You cannot take on any more Materia. Please discard some Materia.</Entry>
+	<Entry File="tunnel_5\160.wav" ID="160"> Received "  "!</Entry>
+	<Entry File="tunnel_5\161.wav" ID="161"> Received "Scimitar"!</Entry>
+	<Entry File="tunnel_5\162.wav" ID="162"> Received "Battle Trumpet"!</Entry>
+	<Entry File="tunnel_5\163.wav" ID="163"> Received Key Item "Leviathan Scales"!</Entry>
+	<Entry File="tunnel_5\164.wav" ID="164"> Received "Max Ray"!</Entry>
+	<Entry File="tunnel_5\165.wav" ID="165"> Received "Aegis Armlet"!</Entry>
+	<Entry File="tunnel_5\166.wav" ID="166"> Received "Megalixir"!</Entry>
+	<Entry File="tunnel_5\167.wav" ID="167"> Received "Starlight Phone"!</Entry>
+	<Entry File="tunnel_5\168.wav" ID="168"> Received "Elixir"!</Entry>
+	<Entry File="tunnel_5\169.wav" ID="169"> Received "Magic Source"!</Entry>
+	<Entry File="tunnel_5\170.wav" ID="170"> Received "Mind Source"!</Entry>
+	<Entry File="tunnel_5\171.wav" ID="171"> Received "Power Source"!</Entry>
+	<Entry File="tunnel_5\172.wav" ID="172"> Received "Guard Source"!</Entry>
+	<Entry File="tunnel_5\173.wav" ID="173"> Received "Mystile"!</Entry>
+	<Entry File="tunnel_5\174.wav" ID="174">Barret "Hey! This is…”</Entry>
+	<Entry File="tunnel_5\175.wav" ID="175">Received "Missing Score"!</Entry>
+	<Entry File="tunnel_5\205.wav" ID="205">Left lever…(Directional button up) Right lever…[MENU]</Entry>
+	<Entry File="tunnel_5\207.wav" ID="207"></Entry>
+	<Entry File="tunnel_5\222.wav" ID="222">Left lever…(up)Directional button up   (down)Directional button down Right lever…(up)[MENU]   (down)[CANCEL]</Entry>
+	<Entry File="tunnel_5\236.wav" ID="236">  Quit   next page   BLACKBGH   BLACKBGI   TUNNEL 6   MD8 6   MD8 B1   MD8 B2   MD8 32   MD8 BRDG2   TUNNEL 4   TUNNEL 5</Entry>
+	<Entry File="tunnel_5\237.wav" ID="237">pre page   CANON 1   CANON 2   MTCRL 2   ZCOAL 1   ZCOAL 2   ZCOAL 3   4SBWY 22</Entry>
+	<Entry File="tunnel_5\238.wav" ID="238">cancel   SPGATE    SPIPE 1   SPIPE 2   SEMKIN 1   SEMKIN 2   SEMKIN 8   SEMKIN 3   SEMKIN 4   SEMKIN 5   SEMKIN 6   SEMKIN 7</Entry>
+	<Entry File="tunnel_5\239.wav" ID="239">   pary make    ballet    tifa    earith    red    yufi    ketcy    vincent    cid    no</Entry>
+	<Entry File="tunnel_5\240.wav" ID="240" />
+	<Entry File="tunnel_5\241.wav" ID="241" />
+	<Entry File="tunnel_5\242.wav" ID="242" />
+	<Entry File="tunnel_5\243.wav" ID="243" />
+	<Entry File="tunnel_5\244.wav" ID="244" />
+	<Entry File="tunnel_5\245.wav" ID="245" />
+	<Entry File="tunnel_5\246.wav" ID="246" />
+	<Entry File="tunnel_5\247.wav" ID="247" />
+	<Entry File="tunnel_5\248.wav" ID="248" />
+	<Entry File="tunnel_5\249.wav" ID="249">  cancel   turcks union   DATIAO 1   DATIAO 2   DATIAO 3   DATIAO 4   DATIAO 5   DATIAO 6   DATIAO 7   DATIAO 8   5TOWER</Entry>
+	<Entry File="tunnel_5\250.wav" ID="250">  player change   cloud   tifa   cid   cancel</Entry>
+	<Entry File="tunnel_5\251.wav" ID="251">  Materia max    yes    no</Entry>
+	<Entry File="tunnel_5\252.wav" ID="252">  cancel   LAS2 1   LAS2 2   LAS2 3   LAS2 4   LAS0 6   LAS0 7   LAS0 8   MOGU 1</Entry>
+	<Entry File="tunnel_5\253.wav" ID="253">TUNNEL 6</Entry>
+-->
+</VoiceList>

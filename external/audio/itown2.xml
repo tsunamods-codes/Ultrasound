@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="itown2\0a.wav" ID="0" Part="a">Cid “Damn!!  That &amp;%$^%$ Weapon!!”</Entry>
+  <Entry File="itown2\0b.wav" ID="0" Part="b">“Of all the times to show up!”</Entry>
+  <Entry File="itown2\1a.wav" ID="1" Part="a">Cid “Damn!!  That &amp;%$^%$ Weapon!!”</Entry>
+  <Entry File="itown2\1b.wav" ID="1" Part="b">“Of all the times to show up!”</Entry>
+  <Entry File="itown2\2.wav" ID="2">Cid “OK then,come on!!  You &amp;$^%$!”</Entry>
+  <Entry File="itown2\3.wav" ID="3">Cid “You &amp;^$#&amp;$#  !  You tryin' to escape?”</Entry>
+  <Entry File="itown2\4.wav" ID="4">Barret “Damn,man. Just a little bit more  an' I woudda smashed him…”</Entry>
+  <Entry File="itown2\5.wav" ID="5">Barret “Looks like the Lifestream's   settled down now too.”</Entry>
+  <Entry File="itown2\6.wav" ID="6">Red XIII “Just a little more and I   would have beaten him.”</Entry>
+  <Entry File="itown2\7.wav" ID="7">Red XIII “It looks like the Lifestream  has settled as well.”</Entry>
+  <Entry File="itown2\8.wav" ID="8">Cait Sith “No matter how many lives I get,  it ain't enough!”</Entry>
+  <Entry File="itown2\9.wav" ID="9">Cait Sith “Looks like the Lifestream's back under  control,too.”</Entry>
+  <Entry File="itown2\10.wav" ID="10">Yuffie “I swear,next time,  that guy's dead meat!”</Entry>
+  <Entry File="itown2\11.wav" ID="11">Yuffie “Well at least the Lifestream's  back to normal.”</Entry>
+  <Entry File="itown2\12.wav" ID="12">Vincent “Hmm…  Looks like escape is its best skill.”</Entry>
+  <Entry File="itown2\13.wav" ID="13">Vincent “And the Lifestream  also appears to be normal.”</Entry>
+  <Entry File="itown2\14.wav" ID="14">Cid “…!?”</Entry>
+  <Entry File="itown2\15.wav" ID="15">Cid “Damn,you gotta be kiddin'!!”</Entry>
+  <Entry File="itown2\16a.wav" ID="16" Part="a">Cid “Th,this's bad!  The main stream is kickin' up!!”</Entry>
+  <Entry File="itown2\16b.wav" ID="16" Part="b">“Somethin' way bigger than that  last one is on its way!!”</Entry>
+  <Entry File="itown2\17.wav" ID="17">Cid “No good!!  Get outta here!!”</Entry>
+  <Entry File="itown2\18.wav" ID="18">Red XIII “But what about  Tifa and Cloud!?”</Entry>
+  <Entry File="itown2\19.wav" ID="19">Cait Sith “But what about  Cloud and the others?”</Entry>
+  <Entry File="itown2\20.wav" ID="20">Yuffie “But what about Tifa  and Cloud!?”</Entry>
+  <Entry File="itown2\21a.wav" ID="21" Part="a">Cid “Goddammit!!”</Entry>
+  <Entry File="itown2\21b.wav" ID="21" Part="b">“Don't have time to worry about anyone  other than yourself!   Don't know when that stream'll blow…”</Entry>
+  <Entry File="itown2\22.wav" ID="22">Cid “Whoa!!”</Entry>
+  <Entry File="itown2\23.wav" ID="23">Cid “There's no time,hurry!!”</Entry>
+  <Entry File="itown2\24.wav" ID="24">Cid “Tifa!! Cloud!!  Get outta here!!”</Entry>
+</VoiceList>

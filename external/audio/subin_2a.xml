@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="subin_2a\1.wav" ID="1">“P…Please!!  Spare me!!”</Entry>
+  <Entry File="subin_2a\2.wav" ID="2">Cloud “Hmm…” Take them all hostage Fight them</Entry>
+  <Entry File="subin_2a\3.wav" ID="3">Cloud “Be grateful.  I'm taking you prisoner.”</Entry>
+  <Entry File="subin_2a\4.wav" ID="4">Cloud “Don't think we're weak.”</Entry>
+  <Entry File="subin_2a\5.wav" ID="5">Cloud “We can't go back after  coming this far.”</Entry>
+  <Entry File="subin_2a\6.wav" ID="6">“Thank you!”</Entry>
+  <Entry File="subin_2a\7.wav" ID="7">“You're pretty nice!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="subin_2a\0.wav" ID="0">Inside Submarine</Entry>
+-->
+</VoiceList>

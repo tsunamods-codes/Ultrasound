@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="cosin5\1a.wav" ID="1" Part="a">Bugenhagen “What is it? You're going back?  I'll be waiting here for you  when you're ready.”</Entry>
+  <Entry File="cosin5\1b.wav" ID="1" Part="b">“I can't leave this door  open forever.”</Entry>
+  <Entry File="cosin5\2.wav" ID="2">Bugenhagen “Good.  Then we shall proceed.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="cosin5\0.wav" ID="0">Sealed Cave</Entry>
+-->
+</VoiceList>

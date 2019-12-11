@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="mrkt3\15.wav" ID="15">Aeris “Hey!!  Cloud!!”</Entry>
+  <Entry File="mrkt3\25a.wav" ID="25" Part="a">Johnny “Man…  Should I go…or not?”</Entry>
+  <Entry File="mrkt3\25b.wav" ID="25" Part="b">“…I get so mental at times like this.  I'm hopeless!!”</Entry>
+  <Entry File="mrkt3\26a.wav" ID="26" Part="a">Johnny “Hey!! Aren't you?”</Entry>
+  <Entry File="mrkt3\26b.wav" ID="26" Part="b">“What?? You mean you're…too?” Yeah,me too. Don't bring me down to your level.”</Entry>
+  <Entry File="mrkt3\27a.wav" ID="27" Part="a">“You're Tifa's childhood friend,  and you brought a new girlfriend  to a place like this!?”</Entry>
+  <Entry File="mrkt3\27b.wav" ID="27" Part="b">“What kind of guy are you!!”</Entry>
+  <Entry File="mrkt3\28a.wav" ID="28" Part="a">“What…me too.  I decided this after a lot of deep thought.  My last memories of Midgar…you know.”</Entry>
+  <Entry File="mrkt3\28b.wav" ID="28" Part="b">“But…  That guy over there kinda scares me.”</Entry>
+  <Entry File="mrkt3\29a.wav" ID="29" Part="a">“What the hell!? You *%^&amp;!!  This ain't no #$*&amp;^% show!!  I'm busy right now!!”</Entry>
+  <Entry File="mrkt3\29b.wav" ID="29" Part="b">“I'm feelin' like there's  gonna be a fight!!”</Entry>
+  <Entry File="mrkt3\30a.wav" ID="30" Part="a">“Mmm?  That's too bad.”</Entry>
+  <Entry File="mrkt3\30b.wav" ID="30" Part="b">“This used to be  where the Honey Bee Inn was!!”</Entry>
+  <Entry File="mrkt3\30c.wav" ID="30" Part="c">“Now,it's a barrack  for the Shinra soldiers.”</Entry>
+  <Entry File="mrkt3\31a.wav" ID="31" Part="a">“Welcome!!  Even unpopular dweebs like you  may meet their destiny here!!”</Entry>
+  <Entry File="mrkt3\31b.wav" ID="31" Part="b">“Pretty good,huh? Ha ha ha!”</Entry>
+  <Entry File="mrkt3\32a.wav" ID="32" Part="a">“Ha ha ha !!”</Entry>
+  <Entry File="mrkt3\32b.wav" ID="32" Part="b">“All the young bucks gather and  deceive this innocent young girl…”</Entry>
+  <Entry File="mrkt3\32c.wav" ID="32" Part="c">“Ohhh boy!! It's healthy,  it's wholesome!!”</Entry>
+  <Entry File="mrkt3\32d.wav" ID="32" Part="d">“You gotta be like this  when you're young!”</Entry>
+  <Entry File="mrkt3\33.wav" ID="33">“Yeow!!  Hey,Princess!!”</Entry>
+  <Entry File="mrkt3\34a.wav" ID="34" Part="a">Johnny “Uh…ummm  I,I…”</Entry>
+  <Entry File="mrkt3\34b.wav" ID="34" Part="b">“Uh…ummm…”</Entry>
+  <Entry File="mrkt3\34c.wav" ID="34" Part="c">“I'm…Jo…Johnny…  Nice to meet you.”</Entry>
+  <Entry File="mrkt3\35a.wav" ID="35" Part="a">“Yeah,  I only talk to the pretty ones.”</Entry>
+  <Entry File="mrkt3\35b.wav" ID="35" Part="b">“Mmmm,you're the one.  You're just great.”</Entry>
+  <Entry File="mrkt3\36a.wav" ID="36" Part="a">Johnny “What kind of person are you!?”</Entry>
+  <Entry File="mrkt3\36b.wav" ID="36" Part="b">“You stay out all night at Aeris's  and don't come home till morning!”</Entry>
+  <Entry File="mrkt3\36c.wav" ID="36" Part="c">“Uhh…little Aeris…   I,I'm…heartbroken again.”</Entry>
+  <Entry File="mrkt3\37.wav" ID="37">“I heard. You two were gettin' chummy  in the park together.”</Entry>
+  <Entry File="mrkt3\38.wav" ID="38">“Oh man!!  Enter the boyfriend.”</Entry>
+  <Entry File="mrkt3\39a.wav" ID="39" Part="a">“Urrrrgh…no way…  I can't go on.”</Entry>
+  <Entry File="mrkt3\39b.wav" ID="39" Part="b">“Things aren't working out.”</Entry>
+  <Entry File="mrkt3\39c.wav" ID="39" Part="c">“Between our differences and my pay,  it just isn't cutting it.”</Entry>
+  <Entry File="mrkt3\40a.wav" ID="40" Part="a">“Welcome!!  Even unpopular dweebs like you  may meet their destiny here!!”</Entry>
+  <Entry File="mrkt3\40b.wav" ID="40" Part="b">“You looking for a girlfriend too?” You know a girl named Tifa? This place doesn't interest me.</Entry>
+  <Entry File="mrkt3\41a.wav" ID="41" Part="a">“Hey,you're pretty fast.  Tifa's our newest girl.”</Entry>
+  <Entry File="mrkt3\41b.wav" ID="41" Part="b">“But,unfortunately,  she's having an interview right now.”</Entry>
+  <Entry File="mrkt3\41c.wav" ID="41" Part="c">“Here at the Honey Bee Inn,  it's customary for all the new girls to   be taken to Don Corneo's mansion.”</Entry>
+  <Entry File="mrkt3\41d.wav" ID="41" Part="d">“Don Corneo's a famous dilettante.  Now he wants to settle down and  is in the market for a bride.”</Entry>
+  <Entry File="mrkt3\42.wav" ID="42">“Hmm…Seems to like it just fine.  Good for you.”</Entry>
+  <Entry File="mrkt3\43.wav" ID="43">“Mmm!  Please,please!”</Entry>
+  <Entry File="mrkt3\44.wav" ID="44">“The Honey Bee Inn is a private club.  Only members can go in. Shoo,shoo.”</Entry>
+  <Entry File="mrkt3\45a.wav" ID="45" Part="a">“Hey! Is that a "Member's Card" I see  shining in your hot little hand?”</Entry>
+  <Entry File="mrkt3\45b.wav" ID="45" Part="b">“Please,come in.”</Entry>
+  <Entry File="mrkt3\46.wav" ID="46">Aeris “…Hmmmm.  Sure,good excuse…”</Entry>
+  <Entry File="mrkt3\47.wav" ID="47">Cloud “Looks like I need to go inside  to complete my disguise.”</Entry>
+  <Entry File="mrkt3\48.wav" ID="48">Cloud “See ya!”</Entry>
+  <Entry File="mrkt3\49a.wav" ID="49" Part="a">“Uh,sir!!  It's almost closing time…”</Entry>
+  <Entry File="mrkt3\49b.wav" ID="49" Part="b">“So,please remember   any personal belongings.”</Entry>
+  <Entry File="mrkt3\50a.wav" ID="50" Part="a">“Uuuh! I want flowers too!  But,I get so nervous in front   of cute girls…”</Entry>
+  <Entry File="mrkt3\50b.wav" ID="50" Part="b">“It just seems natural to get cautious…”</Entry>
+  <Entry File="mrkt3\51a.wav" ID="51" Part="a">“I bought some pretty flowers  from Aeris.”</Entry>
+  <Entry File="mrkt3\51b.wav" ID="51" Part="b">“500 gil,a little expensive.  Well,at least I got her name.”</Entry>
+  <Entry File="mrkt3\52a.wav" ID="52" Part="a">Johnny “Aeris…  Thanks for the flower and 1 gil.”</Entry>
+  <Entry File="mrkt3\52b.wav" ID="52" Part="b">“I'll treasure this!  I'm going to dry it and  keep it for good luck.”</Entry>
+  <Entry File="mrkt3\53a.wav" ID="53" Part="a">“I asked Aeris for a date…”</Entry>
+  <Entry File="mrkt3\53b.wav" ID="53" Part="b">“And she said not even if I paid her  1,000,000 gil.”</Entry>
+  <Entry File="mrkt3\53c.wav" ID="53" Part="c">“Her flowers cost 300 gil,too…  She's a good business woman.”</Entry>
+  <Entry File="mrkt3\54.wav" ID="54">Aeris “They bought lots of flowers from me.”</Entry>
+  <Entry File="mrkt3\55.wav" ID="55">“It's closing time.  …yawn…I'm so sleepy…”</Entry>
+  <Entry File="mrkt3\56.wav" ID="56">“Sir,is everything all right?  Look,Aeris looks so lonely.”</Entry>
+  <Entry File="mrkt3\57.wav" ID="57">“Uurrgh!  So,this is it for today,huh?”</Entry>
+  <Entry File="mrkt3\58a.wav" ID="58" Part="a">“Ummm,young girls…soft skin.  Ummm,OK,I'm refreshed now!”</Entry>
+  <Entry File="mrkt3\58b.wav" ID="58" Part="b">“Mmmm? Pretty hard.  You work out?”</Entry>
+  <Entry File="mrkt3\59.wav" ID="59">“That's funny.  A hard,spiky hairstyle!  Looks kinda familiar…”</Entry>
+  <Entry File="mrkt3\60a.wav" ID="60" Part="a">“Hey!!  It's you!!”</Entry>
+  <Entry File="mrkt3\60b.wav" ID="60" Part="b">“Sorry,but I already heard about you.”</Entry>
+  <Entry File="mrkt3\60c.wav" ID="60" Part="c">“In addition to dressing like a woman,  it seems you like  to smash and grind things.”</Entry>
+  <Entry File="mrkt3\60d.wav" ID="60" Part="d">“We only let cultured customers in!  Got it? Then you'd better leave!”</Entry>
+  <Entry File="mrkt3\61.wav" ID="61">“Heee…   The Shinra have occupied this shop!”</Entry>
+  <Entry File="mrkt3\62.wav" ID="62">“This shop is now under Shinra rule.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="mrkt3\0.wav" ID="0">Honey Bee Inn</Entry>
+	<Entry File="mrkt3\1.wav" ID="1" />
+	<Entry File="mrkt3\2.wav" ID="2" />
+	<Entry File="mrkt3\3.wav" ID="3" />
+	<Entry File="mrkt3\4.wav" ID="4" />
+	<Entry File="mrkt3\5.wav" ID="5" />
+	<Entry File="mrkt3\6.wav" ID="6" />
+	<Entry File="mrkt3\7.wav" ID="7" />
+	<Entry File="mrkt3\8.wav" ID="8" />
+	<Entry File="mrkt3\9.wav" ID="9" />
+	<Entry File="mrkt3\10.wav" ID="10" />
+	<Entry File="mrkt3\11.wav" ID="11" />
+	<Entry File="mrkt3\12.wav" ID="12" />
+	<Entry File="mrkt3\13.wav" ID="13" />
+	<Entry File="mrkt3\14.wav" ID="14" />
+	<Entry File="mrkt3\16.wav" ID="16" />
+	<Entry File="mrkt3\17.wav" ID="17" />
+	<Entry File="mrkt3\18.wav" ID="18" />
+	<Entry File="mrkt3\19.wav" ID="19" />
+	<Entry File="mrkt3\20.wav" ID="20" />
+	<Entry File="mrkt3\21.wav" ID="21" />
+	<Entry File="mrkt3\22.wav" ID="22" />
+	<Entry File="mrkt3\23.wav" ID="23" />
+	<Entry File="mrkt3\24.wav" ID="24" />
+-->
+</VoiceList>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="md8brdg\0.wav" ID="0">Soldier “Hey! You there!!”</Entry>
+  <Entry File="md8brdg\1.wav" ID="1">Soldier “That's him!!”</Entry>
+  <Entry File="md8brdg\2.wav" ID="2">Soldier “Halt!!”</Entry>
+  <Entry File="md8brdg\3.wav" ID="3">Soldier “Over here!!”</Entry>
+  <Entry File="md8brdg\4.wav" ID="4">Cloud “What a pain…”</Entry>
+  <Entry File="md8brdg\5.wav" ID="5">Soldier “That's as far as you go.”</Entry>
+  <Entry File="md8brdg\6.wav" ID="6">Cloud “I don't have time to mess around   with you guys.”</Entry>
+  <Entry File="md8brdg\7.wav" ID="7">Soldier “Enough babbling…  Grab him!!”</Entry>
+  <Entry File="md8brdg\9.wav" ID="9">“What the?”</Entry>
+  <Entry File="md8brdg\10.wav" ID="10">Cloud “Shinra Soldiers…” Fight them! Later!</Entry>
+  <Entry File="md8brdg\11.wav" ID="11">Cloud “Hmph!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="md8brdg\8.wav" ID="8">Sector 8</Entry>
+	<Entry File="md8brdg\12.wav" ID="12">Fight them! Later!</Entry>
+-->
+</VoiceList>

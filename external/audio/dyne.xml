@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="dyne\1.wav" ID="1">Barret “…Dyne  …is that you?”</Entry>
+  <Entry File="dyne\2.wav" ID="2">Dyne “Now that's a voice I haven't heard in years…”</Entry>
+  <Entry File="dyne\3.wav" ID="3">Dyne “A voice I'll never forget…”</Entry>
+  <Entry File="dyne\4a.wav" ID="4" Part="a">Barret “I always hoped I'd be able  to see you again someday…”</Entry>
+  <Entry File="dyne\4b.wav" ID="4" Part="b">“I knew you were alive somewhere…  we had the same operation.”</Entry>
+  <Entry File="dyne\5.wav" ID="5">Barret “Listen Dyne,  I want to…”</Entry>
+  <Entry File="dyne\6.wav" ID="6">Dyne “I can hear her voice. What's that?”</Entry>
+  <Entry File="dyne\7.wav" ID="7">Barret “…?”</Entry>
+  <Entry File="dyne\8.wav" ID="8">Dyne “It's Eleanor's voice.  Begging me…  not to hate your rotten guts.”</Entry>
+  <Entry File="dyne\9.wav" ID="9">Dyne “That's why I never  hunted you down…”</Entry>
+  <Entry File="dyne\10.wav" ID="10">Barret “…I know I was stupid.  I'm not asking you to forgive me.”</Entry>
+  <Entry File="dyne\11a.wav" ID="11" Part="a">Barret “But…what're you doin' in a  place like this?”</Entry>
+  <Entry File="dyne\11b.wav" ID="11" Part="b">“Why ya wanna kill people who  ain't even involved? Why?”</Entry>
+  <Entry File="dyne\12.wav" ID="12">Dyne “Why!?  The hell do you care!?”</Entry>
+  <Entry File="dyne\13.wav" ID="13">Dyne “You think the dead understand why's?  Is hearin' Shinra's excuses gonna make  people in Corel understand anything?”</Entry>
+  <Entry File="dyne\14.wav" ID="14">Dyne “I don't CARE about reasons!”</Entry>
+  <Entry File="dyne\15.wav" ID="15">Dyne “All they give us is artillery and stupid excuses…  What's left is a world of despair and emptiness…”</Entry>
+  <Entry File="dyne\16.wav" ID="16">Barret “…”</Entry>
+  <Entry File="dyne\17.wav" ID="17">Dyne “You still want to hear 'why'?  …All right,I'll tell you.”</Entry>
+  <Entry File="dyne\18.wav" ID="18">Dyne “'Cause I want to destroy everything.”</Entry>
+  <Entry File="dyne\19.wav" ID="19">Dyne “The people in this city.”</Entry>
+  <Entry File="dyne\20.wav" ID="20">Dyne “This city itself.”</Entry>
+  <Entry File="dyne\21.wav" ID="21">Dyne “The whole world!”</Entry>
+  <Entry File="dyne\22.wav" ID="22">Dyne “I got nothing left in this world.  Corel,Eleanor…  Marlene…”</Entry>
+  <Entry File="dyne\23.wav" ID="23">Barret “Dyne,Marlene…  Marlene's still alive.”</Entry>
+  <Entry File="dyne\24.wav" ID="24">Dyne “…?”</Entry>
+  <Entry File="dyne\25.wav" ID="25">Barret “I went back into town.  I thought she was gone for sure.”</Entry>
+  <Entry File="dyne\26.wav" ID="26">Barret “I wandered around town  for awhile…”</Entry>
+  <Entry File="dyne\27.wav" ID="27">Barret “That's when I found her…  …found Marlene.”</Entry>
+  <Entry File="dyne\28.wav" ID="28">Dyne “…”</Entry>
+  <Entry File="dyne\29.wav" ID="29">Barret “She's in Midgar.  Let's go see her together,all right?”</Entry>
+  <Entry File="dyne\30.wav" ID="30">Dyne “So…she's still alive?”</Entry>
+  <Entry File="dyne\31.wav" ID="31">Dyne “All right,Barret.  Then I guess you and me gotta fight.”</Entry>
+  <Entry File="dyne\32.wav" ID="32">Barret “What!?”</Entry>
+  <Entry File="dyne\33.wav" ID="33">Dyne “Eleanor's all by herself.  I gotta take Marlene to her.”</Entry>
+  <Entry File="dyne\34.wav" ID="34">Barret “Dyne…are you crazy!?”</Entry>
+  <Entry File="dyne\35.wav" ID="35">Dyne “Marlene wants to see her mom,  don't she?”</Entry>
+  <Entry File="dyne\36.wav" ID="36">Barret “Stop,Dyne!  I can't die yet!”</Entry>
+  <Entry File="dyne\37.wav" ID="37">Dyne “Oh yeah?  Well my life's been  over ever since then.”</Entry>
+  <Entry File="dyne\38.wav" ID="38">Barret “Stop it!  I don't wanna fight you!”</Entry>
+  <Entry File="dyne\39.wav" ID="39">Cloud “Barret!”</Entry>
+  <Entry File="dyne\40.wav" ID="40">Barret “Cloud,you stay the hell out of it!  This is MY problem!!”</Entry>
+  <Entry File="dyne\41.wav" ID="41">Dyne “…Barret…”</Entry>
+  <Entry File="dyne\42.wav" ID="42">Barret “Dyne!!”</Entry>
+  <Entry File="dyne\43.wav" ID="43">Dyne “Back!!”</Entry>
+  <Entry File="dyne\44a.wav" ID="44" Part="a">Dyne “…I didn't just lose an arm  back then…”</Entry>
+  <Entry File="dyne\44b.wav" ID="44" Part="b">“I lost something irreplaceable.  I don't know where it went wrong…”</Entry>
+  <Entry File="dyne\45.wav" ID="45">Barret “Dyne…I don't know either,man.”</Entry>
+  <Entry File="dyne\46.wav" ID="46">Barret “Is this the only way…  we can resolve this?”</Entry>
+  <Entry File="dyne\47.wav" ID="47">Dyne “I told you…  I…  I wanna destroy everything…”</Entry>
+  <Entry File="dyne\48.wav" ID="48">Dyne “Everything…  This crazy world…  Even me…”</Entry>
+  <Entry File="dyne\49.wav" ID="49">Barret “An' what 'bout Marlene?  What's gonna happen to her!?”</Entry>
+  <Entry File="dyne\50.wav" ID="50">Dyne “…Think about it…Barret…  How old was Marlene back then?”</Entry>
+  <Entry File="dyne\51.wav" ID="51">Dyne “Even if I did go see her…  she wouldn't even know me…”</Entry>
+  <Entry File="dyne\52.wav" ID="52">Dyne “And what's more…Barret…”</Entry>
+  <Entry File="dyne\53.wav" ID="53">Dyne “My hands are too stained   to carry her anymore…”</Entry>
+  <Entry File="dyne\54.wav" ID="54">Barret “…”</Entry>
+  <Entry File="dyne\55.wav" ID="55">Dyne “Barret…”</Entry>
+  <Entry File="dyne\56.wav" ID="56">Dyne “Give that pendant to Marlene…  It was…Eleanor's…  my wife's…a memento…”</Entry>
+  <Entry File="dyne\57.wav" ID="57">Barret “All right…”</Entry>
+  <Entry File="dyne\58.wav" ID="58">Dyne “…so…Marlene's…  already…4…”</Entry>
+  <Entry File="dyne\59.wav" ID="59">Barret “Dyne…?”</Entry>
+  <Entry File="dyne\60.wav" ID="60">Dyne “Barret…  Don't…you…  …Don't ever make her…cry…”</Entry>
+  <Entry File="dyne\61.wav" ID="61">Barret “Dyne!”</Entry>
+  <Entry File="dyne\62.wav" ID="62">Barret “Dy------ne!!”</Entry>
+  <Entry File="dyne\63.wav" ID="63">Barret “…Dyne.  Me an' you were the same…”</Entry>
+  <Entry File="dyne\64.wav" ID="64">Barret “My hands ain't any cleaner…  I shouldn't carry Marlene either…”</Entry>
+  <Entry File="dyne\65.wav" ID="65">Barret “Uuuurrrrrrgh!!!”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="dyne\0.wav" ID="0">Dyne</Entry>
+-->
+</VoiceList>

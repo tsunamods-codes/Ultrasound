@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry File="fship_5\1.wav" ID="1">“That's a good Chocobo.”</Entry>
+  <Entry File="fship_5\2.wav" ID="2">“I'm bored…    I want to ride a Chocobo.” How do I? Later</Entry>
+  <Entry File="fship_5\3.wav" ID="3">“Whew…”</Entry>
+  <Entry File="fship_5\4a.wav" ID="4" Part="a">“Listen…you gotta ride in on a  Chocobo you've raised yourself.”</Entry>
+  <Entry File="fship_5\4b.wav" ID="4" Part="b">“Then,if you bring your Chocobo to  this stable,you can let it rest  here.”</Entry>
+  <Entry File="fship_5\4c.wav" ID="4" Part="c">“I'll take care of it for you.”</Entry>
+  <Entry File="fship_5\4d.wav" ID="4" Part="d">“What? How do you raise a Chocobo?  Can't say I know much about that.”</Entry>
+  <Entry File="fship_5\4e.wav" ID="4" Part="e">“If you want to know about raising Chocobo,  there's a Chocobo ranch near Midgar.  You should ask them.”</Entry>
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="fship_5\0.wav" ID="0">Highwind</Entry>
+-->
+</VoiceList>

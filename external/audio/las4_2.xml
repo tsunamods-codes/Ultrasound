@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<VoiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The following entries don't look like dialogue. You can uncomment them if they are needed.
+
+	
+	<Entry File="las4_2\0.wav" ID="0">Inside the Planet</Entry>
+	<Entry File="las4_2\1.wav" ID="1">Cloud </Entry>
+	<Entry File="las4_2\2.wav" ID="2">Tifa </Entry>
+	<Entry File="las4_2\3.wav" ID="3">Yuffie </Entry>
+	<Entry File="las4_2\4.wav" ID="4">Barret </Entry>
+	<Entry File="las4_2\5.wav" ID="5">Red XIII </Entry>
+	<Entry File="las4_2\6.wav" ID="6">Vincent </Entry>
+	<Entry File="las4_2\7.wav" ID="7">Cid </Entry>
+	<Entry File="las4_2\8.wav" ID="8">Red XIII </Entry>
+-->
+</VoiceList>

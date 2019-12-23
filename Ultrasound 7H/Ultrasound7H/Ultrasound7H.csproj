@@ -78,6 +78,7 @@
     <Compile Include="DataSource.cs" />
     <Compile Include="FileDataSource.cs" />
     <Compile Include="Util.cs" />
+    <Compile Include="UltrasoundConfig.cs" />
     <Compile Include="VoiceEntry.cs" />
     <Compile Include="VoiceList.cs" />
     <Compile Include="IndexEntry.cs" />

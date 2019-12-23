@@ -9,6 +9,7 @@ namespace UltrasoundLib
     public delegate void SoundCompleteAction(int soundId, string soundPath);
     public delegate void InitAction();
     public delegate void CloseAction();
+    public delegate void VoiceCompleteAction(int vid, string soundPath);
 
     public class Hooker 
     {
@@ -30,6 +31,7 @@ namespace UltrasoundLib
         private Dictionary<int, SoundCompleteAction> soundCompletes = new Dictionary<int, SoundCompleteAction>();
         private Dictionary<int, InitAction> inits = new Dictionary<int, InitAction>();
         private Dictionary<int, CloseAction> closes = new Dictionary<int, CloseAction>();
+        private Dictionary<int, VoiceCompleteAction> voiceComplete = new Dictionary<int, VoiceCompleteAction>();
 
         public void onSoundComplete(int soundId, string soundPath)
         {
@@ -79,6 +81,14 @@ namespace UltrasoundLib
             return Key;
         }
 
+        public int hookVoiceComplete(VoiceCompleteAction act)
+        {
+            int Key = closes.Keys.Last();
+            Key++;
+            voiceComplete.Add(Key, act);
+            return Key;
+        }
+
         public void unhookSoundComplete(int hookId)
         {
             soundCompletes.Remove(hookId);
@@ -90,6 +100,10 @@ namespace UltrasoundLib
         public void unhookClose(int hookId)
         {
             closes.Remove(hookId);
+        }
+        public void unhookVoiceComplete(int hookId)
+        {
+            voiceComplete.Remove(hookId);
         }
     }
 }

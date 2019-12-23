@@ -110,6 +110,7 @@ namespace Voices
         {
             this.InitializeComponent();
             this._data = data;
+            this.Icon = new Icon(this._data.Open("bell.ico"));
             UltrasoundLib.Hooker.GetInstance().onInit();
         }
 
@@ -133,7 +134,7 @@ namespace Voices
         {
             return new ALOutput.SoundPlay()
             {
-                File = s.File,
+                File = this._config.strightApplyAudioPath(s.File),
                 Pan = s.Pan,
                 Volume = s.Volume,
                 OnComplete = new Action(() => { UltrasoundLib.Hooker.GetInstance().onSoundComplete(id, s.File); })
@@ -143,7 +144,7 @@ namespace Voices
         {
             return new ALOutput.SoundPlay()
             {
-                File = s.File,
+                File = this._config.strightApplyAudioPath(s.File),
                 Pan = s.Pan,
                 Volume = s.Volume,
                 OnComplete = new Action(() => { UltrasoundLib.Hooker.GetInstance().onSoundComplete(0, s.File); })
@@ -154,7 +155,7 @@ namespace Voices
         {
             return new ALOutput.SoundPlay()
             {
-                File = file,
+                File = this._config.strightApplyAudioPath(file),
                 Pan = 0.5f,
                 Volume = 1f,
                 OnComplete = new Action(() => { UltrasoundLib.Hooker.GetInstance().onSoundComplete(id, file); })
@@ -164,7 +165,7 @@ namespace Voices
         {
             return new ALOutput.SoundPlay()
             {
-                File = file,
+                File = this._config.strightApplyAudioPath(file),
                 Pan = 0.5f,
                 Volume = 1f,
                 OnComplete = new Action(() => { UltrasoundLib.Hooker.GetInstance().onSoundComplete(0, file); })
@@ -266,9 +267,9 @@ namespace Voices
                         this._output.Stop(this._curChoice);
                     System.Diagnostics.Debug.WriteLine("Clearing all current");
                     this._curChoice = this._curDialogue = (ALOutput.SoundPlay)null;
-                    if (this._data.Exists(voiceEntry1.File))
+                    if (this._data.Exists(this._config.strightApplyAudioPath(voiceEntry1.File)))
                     {
-                        this.lbText.Items.Add((object)(" --> playing " + voiceEntry1.File + "with a length of " + GetSoundLength(voiceEntry1.File).ToString() + " Frames"));
+                        this.lbText.Items.Add((object)(" --> playing " + voiceEntry1.File + " with a length of " + GetSoundLength(voiceEntry1.File).ToString() + " Frames"));
 
                         itemsPerPage = (int)(this.lbText.Height / this.lbText.ItemHeight);
                         this.lbText.TopIndex = this.lbText.Items.Count - itemsPerPage;
@@ -312,7 +313,7 @@ namespace Voices
 
         private int GetSoundLength(string fileName)
         {
-            TagLib.File file = TagLib.File.Create(this._basePluginDir + fileName);
+            TagLib.File file = TagLib.File.Create(this._basePluginDir + this._config.strightApplyAudioPath(fileName));
             int s_time = (int)file.Properties.Duration.TotalMilliseconds;
 
             return s_time / (1000 / 30);
@@ -445,21 +446,25 @@ namespace Voices
 
         private VoiceList LoadVL(string file)
         {
-            using (Stream input = this._data.Open(file))
+            using (Stream input = this._data.Open(this._config.strightApplyConfigPath(file)))
                 return Util.Deserialise<VoiceList>(input);
         }
+
+        private UltrasoundConfig _config;
 
         private void fVoices_Load(object sender, EventArgs e)
         {
             this._ff7 = ConfigurationManager.AppSettings["FF7"];
             this._hook = ConfigurationManager.AppSettings["HookDll"];
-            using (Stream input = this._data.Open("index.xml"))
+            using (Stream input = this._data.Open("ultrasound_config.xml"))
+                this._config = Util.Deserialise<UltrasoundConfig>(input);
+            using (Stream input = this._data.Open(this._config.strightApplyConfigPath("index.xml")))
                 this._index = Util.Deserialise<VoiceIndex>(input);
             this._index.Freeze();
             string file = this._index.Lookup(0);
             if (file != null)
                 this._global = this.LoadVL(file);
-            using (Stream input = this._data.Open("ultrasound.xml"))
+            using (Stream input = this._data.Open(this._config.strightApplyConfigPath("ultrasound.xml")))
                 this._ultrasound = Util.Deserialise<Voices.Ultrasound>(input);
             this._ultrasound.Freeze();
             this._output = new ALOutput(this._data)
@@ -594,7 +599,6 @@ namespace Voices
             this.Text = "Ultrasound v0.42 by Ficedula Fixed by Barkermn01 / Keatran";
             this.FormClosed += new FormClosedEventHandler(this.fVoices_FormClosed);
             this.Load += new EventHandler(this.fVoices_Load);
-            this.Icon = Icon.ExtractAssociatedIcon("bell.ico");
             this.ResumeLayout(false);
         }
 

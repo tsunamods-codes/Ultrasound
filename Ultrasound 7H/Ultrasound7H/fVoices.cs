@@ -112,6 +112,7 @@ namespace Voices
             this._data = data;
             this.Icon = new Icon(this._data.Open("bell.ico"));
             UltrasoundLib.Hooker.GetInstance().onInit();
+            this.WindowState = FormWindowState.Minimized;
         }
 
         public string _basePluginDir = "./";

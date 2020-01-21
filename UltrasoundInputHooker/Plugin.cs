@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Runtime.InteropServices;
+using System.Text.RegularExpressions;
 using System.Threading;
 using UltrasoundLib;
 
@@ -106,30 +107,51 @@ namespace _7thHeaven
 
         private Hooker hooks_instance = UltrasoundLib.Hooker.GetInstance();
         private int soundCompleteId, voiceCompleteId, closeId, initId;
-        public override void Start(RuntimeMod mod)
+
+        private void getProccess()
         {
-            AllocConsole();
-            // wait for game to load it's flaming window
-            Thread.Sleep(2000);
-            try
+            Process[] processes = Process.GetProcesses();
+            Console.WriteLine("Proccesses found.");
+            Regex test = new Regex(@"ff7(_[a-z]{2}){0,1}\.exe");
+            foreach(Process proc in processes)
             {
-                ff7 = Process.GetProcessesByName("ff7")[0];
+                try
+                {
+                    string[] procPath = proc.MainModule.FileName.Split('\\');
+                    string procExeName = procPath[procPath.Length - 1];
+                    if (test.IsMatch(procExeName))
+                    {
+                        ff7 = proc;
+                        break;
+                    }
+                }
+                catch (Exception) { }
             }
-            catch (IndexOutOfRangeException ex)
-            {
-                ff7 = Process.GetProcessesByName("ff7_bc")[0];
-            }
-            finally
-            {
-                string fileName = ff7.MainModule.FileName;
-                int Pos = fileName.LastIndexOf('\\');
-                BasePath = fileName.Substring(0, Pos+1);
-            }
+
             inputSim = new WindowsInput.InputSimulator();
             keySim = new WindowsInput.KeyboardSimulator(inputSim);
 
             windowHandle = ff7.MainWindowHandle;
-            Console.WriteLine("Hyjacking process ff7 {0} via window {1}", ff7.Id.ToString("X"), windowHandle.ToString("X"));
+        }
+
+        private Dictionary<KeyBoardBindings, UInt16> Keys { get; set; }
+        private DateTime keysLastUpdated = DateTime.MinValue;
+
+        private void getKeys()
+        {
+            DateTime lastWrite = File.GetLastWriteTime(BasePath + "ff7input.cfg");
+
+            if (lastWrite > keysLastUpdated)
+            {
+                Keys = readUserInputs();
+                keysLastUpdated = lastWrite;
+            }
+            
+        }
+
+        public override void Start(RuntimeMod mod)
+        { 
+            AllocConsole();
 
             soundCompleteId = hooks_instance.hookSoundComplete(new SoundCompleteAction((int soundId, string f) =>
             {
@@ -138,9 +160,8 @@ namespace _7thHeaven
             voiceCompleteId = hooks_instance.hookVoiceComplete(new VoiceCompleteAction((int vid, string f) =>
             {
                 Console.WriteLine("Voice from file " + f + " has finished");
-                Dictionary<KeyBoardBindings, UInt16> Keys = readUserInputs();
-                SetFocus(windowHandle);
-                Thread.Sleep(1000);
+
+                getKeys();
                 IntPtr thisThread = GetCurrentThreadId();
                 AttachThreadInput(thisThread, new IntPtr(ff7.Threads[0].Id), true);
                 keySim.KeyDown((WindowsInput.Native.VirtualKeyCode)Keys[KeyBoardBindings.OK]);
@@ -151,12 +172,9 @@ namespace _7thHeaven
             initId = hooks_instance.hookInit(new InitAction(() =>
             {
                 Console.WriteLine("Starting");
-                IntPtr thisThread = GetCurrentThreadId();
                 Thread.Sleep(1000);
-                AttachThreadInput(thisThread, new IntPtr(ff7.Threads[0].Id), true);
-                keySim.KeyDown(WindowsInput.Native.VirtualKeyCode.NUMPAD_ENTER);
-                Thread.Sleep(200);
-                keySim.KeyUp(WindowsInput.Native.VirtualKeyCode.NUMPAD_ENTER);
+                getProccess();
+                getKeys();
             }));
             closeId = hooks_instance.hookClose(new CloseAction(() =>
             {

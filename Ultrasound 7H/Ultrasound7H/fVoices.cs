@@ -531,7 +531,6 @@ namespace Voices
         {
             this._output.Terminate();
             Registry.SetValue("HKEY_CURRENT_USER\\Software\\Ficedula\\Ultrasound", "Logging", (object)this.cbLogging.SelectedIndex);
-            Application.Exit();
         }
 
         protected override void Dispose(bool disposing)

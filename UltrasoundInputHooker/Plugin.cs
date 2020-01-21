@@ -122,6 +122,8 @@ namespace _7thHeaven
                     if (test.IsMatch(procExeName))
                     {
                         ff7 = proc;
+                        procPath[procPath.Length - 1] = "";
+                        BasePath = String.Join("\\", procPath);
                         break;
                     }
                 }

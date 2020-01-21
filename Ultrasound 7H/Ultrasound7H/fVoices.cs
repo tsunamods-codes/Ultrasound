@@ -20,7 +20,6 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading;
 using System.Windows.Forms;
-using Ultrasound;
 
 namespace Voices
 {
@@ -312,7 +311,7 @@ namespace Voices
                 this.lbText.TopIndex = this.lbText.Items.Count - itemsPerPage;
                 if (this._current != null)
                     voiceEntry2 = this._current.Entries.Find((Predicate<VoiceEntry>)(e => e.Matches(DID, SID, charsInParty) && dlgSel.ToString().Equals(e.Choice)));
-                if (voiceEntry2 != null && this._data.Exists(voiceEntry2.File))
+                if (voiceEntry2 != null && this._data.Exists(this._config.strightApplyAudioPath(voiceEntry2.File)))
                     this.TriggerChoice(this.CreateSound(voiceEntry2.DID, voiceEntry2.File));
             }
         }
@@ -336,13 +335,13 @@ namespace Voices
         private void IncomingSEvent(fVoices.SoundEvent se)
         {
             Sound s = this._ultrasound.Select((int)se.Sound, (int)se.FieldID, (int)se.PPV);
-            if (s == null || !this._data.Exists(s.File))
+            if (s == null || !this._data.Exists(this._config.strightApplyAudioPath(s.File)))
                 return;
 
-            this.Invoke(new Action(() => this.LogSEvent("  --> playing " + s.File + " with length of " + GetSoundLength(s.File).ToString() + " Frames")));
+            this.Invoke(new Action(() => this.LogSEvent("  --> playing " +  s.File + " with length of " + GetSoundLength(s.File).ToString() + " Frames")));
             this._output.Play(new ALOutput.SoundPlay()
             {
-                File = s.File,
+                File = this._config.strightApplyAudioPath(s.File),
                 Pan = Math.Max(Math.Min(1f, (float)se.Pan / 128f), 0.0f),
                 Volume = 1f,
                 OnComplete = new Action(() => {
@@ -526,7 +525,6 @@ namespace Voices
 
         private void bTools_Click(object sender, EventArgs e)
         {
-            new fTools().Show();
         }
 
         private void fVoices_FormClosed(object sender, FormClosedEventArgs e)

@@ -60,7 +60,7 @@
       <Project>{e614a97e-9dc7-4272-b7ff-ab9504379fda}</Project>
       <Name>UltrasoundLib</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\Marti\source\repos\InputSimulator\WindowsInput\WindowsInput.csproj">
+    <ProjectReference Include="..\WindowsInput\WindowsInput.csproj">
       <Project>{3549cd6f-80f8-450f-b99e-cf0a736b1f2a}</Project>
       <Name>WindowsInput</Name>
     </ProjectReference>

@@ -8,6 +8,7 @@ using _7thWrapperLib;
 using Iros._7th.Workshop;
 using System;
 using System.IO;
+using System.Windows.Forms;
 using Voices;
 
 namespace _7thHeaven
@@ -26,11 +27,16 @@ namespace _7thHeaven
 
         public override void Stop()
         {
-            this._form.Invoke(new Action(() =>
+            try
             {
-                this._form.Close();
-                this._form = (fVoices)null;
-            }));
+                this._form.Invoke(new Action(() =>
+                {
+                    this._form.Close();
+                }));
+                MessageBox.Show("You must restart 7th heaven to launch the game again.");
+                Application.Exit();
+            }
+            catch (Exception) { }
         }
 
         public Plugin()

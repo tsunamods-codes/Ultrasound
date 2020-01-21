@@ -93,6 +93,9 @@ namespace Voices
           IntPtr lpThreadId);
 
         [DllImport("kernel32.dll")]
+        private static extern bool TerminateThread(IntPtr threadHandle, uint exitCode);
+
+        [DllImport("kernel32.dll")]
         private static extern IntPtr OpenProcess(
           fVoices.ProcessAccess dwDesiredAccess,
           [MarshalAs(UnmanagedType.Bool)] bool bInheritHandle,
@@ -118,16 +121,6 @@ namespace Voices
 
         private void button1_Click(object sender, EventArgs e)
         {
-            IntPtr hProcess = fVoices.OpenProcess(fVoices.ProcessAccess.AllAccess, false, Process.Start(new ProcessStartInfo(this._ff7)
-            {
-                WorkingDirectory = Path.GetDirectoryName(this._ff7)
-            }).Id);
-            IntPtr procAddress = fVoices.GetProcAddress(fVoices.GetModuleHandle("kernel32"), "LoadLibraryA");
-            IntPtr num = fVoices.VirtualAllocEx(hProcess, IntPtr.Zero, 4096U, fVoices.AllocationType.Commit, fVoices.MemoryProtection.ReadWrite);
-            byte[] bytes = Encoding.ASCII.GetBytes(this._hook);
-            IntPtr lpNumberOfBytesWritten;
-            fVoices.WriteProcessMemory(hProcess, num, bytes, bytes.Length, out lpNumberOfBytesWritten);
-            fVoices.CreateRemoteThread(hProcess, IntPtr.Zero, 0U, procAddress, num, 0U, IntPtr.Zero);
         }
 
         private ALOutput.SoundPlay CreateSound(int id, Sound s)

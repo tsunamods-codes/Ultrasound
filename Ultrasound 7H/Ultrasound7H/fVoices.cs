@@ -137,7 +137,10 @@ namespace Voices
                 File = this._config.strightApplyAudioPath(s.File),
                 Pan = s.Pan,
                 Volume = s.Volume,
-                OnComplete = new Action(() => { UltrasoundLib.Hooker.GetInstance().onSoundComplete(id, s.File); })
+                OnComplete = new Action(() => {
+                    Console.WriteLine("Line 140");
+                    UltrasoundLib.Hooker.GetInstance().onSoundComplete(id, s.File);
+                })
             };
         }
         private ALOutput.SoundPlay CreateSound(Sound s)
@@ -147,7 +150,10 @@ namespace Voices
                 File = this._config.strightApplyAudioPath(s.File),
                 Pan = s.Pan,
                 Volume = s.Volume,
-                OnComplete = new Action(() => { UltrasoundLib.Hooker.GetInstance().onSoundComplete(0, s.File); })
+                OnComplete = new Action(() => {
+                    Console.WriteLine("Line 154");
+                    UltrasoundLib.Hooker.GetInstance().onSoundComplete(0, s.File);
+                })
             };
         }
 
@@ -158,7 +164,10 @@ namespace Voices
                 File = this._config.strightApplyAudioPath(file),
                 Pan = 0.5f,
                 Volume = 1f,
-                OnComplete = new Action(() => { UltrasoundLib.Hooker.GetInstance().onSoundComplete(id, file); })
+                OnComplete = new Action(() => {
+                    Console.WriteLine("Line 168");
+                    UltrasoundLib.Hooker.GetInstance().onVoiceComplete(id, file);
+                })
             };
         }
         private ALOutput.SoundPlay CreateSound(string file)
@@ -168,7 +177,10 @@ namespace Voices
                 File = this._config.strightApplyAudioPath(file),
                 Pan = 0.5f,
                 Volume = 1f,
-                OnComplete = new Action(() => { UltrasoundLib.Hooker.GetInstance().onSoundComplete(0, file); })
+                OnComplete = new Action(() => {
+                    Console.WriteLine("Line 181");
+                    UltrasoundLib.Hooker.GetInstance().onSoundComplete(0, file);
+                })
             };
         }
 
@@ -274,8 +286,9 @@ namespace Voices
                         itemsPerPage = (int)(this.lbText.Height / this.lbText.ItemHeight);
                         this.lbText.TopIndex = this.lbText.Items.Count - itemsPerPage;
                         ALOutput.SoundPlay snd = this.CreateSound( voiceEntry1.DID,voiceEntry1.File);
+                        Action action = snd.OnComplete;
                         this._curDialogue = snd;
-                        this._curDialogue.OnComplete = (Action)(() => this.DialogueDone(snd));
+                        this._curDialogue.OnComplete = (Action)(() => { this.DialogueDone(snd); action(); });
                         this._output.Play(this._curDialogue);
                         System.Diagnostics.Debug.WriteLine("Playing " + this._curDialogue.File);
                         logMsg = "[PRESENT] " + logMsg;
@@ -332,6 +345,7 @@ namespace Voices
                 Pan = Math.Max(Math.Min(1f, (float)se.Pan / 128f), 0.0f),
                 Volume = 1f,
                 OnComplete = new Action(() => {
+                    Console.WriteLine("Line 344");
                     UltrasoundLib.Hooker.GetInstance().onSoundComplete(0, s.File);
                 })
             });

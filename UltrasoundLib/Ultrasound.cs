@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
+using WindowsInput;
 
 namespace UltrasoundLib
 {
@@ -11,12 +13,12 @@ namespace UltrasoundLib
     public delegate void CloseAction();
     public delegate void VoiceCompleteAction(int vid, string soundPath);
 
-    public class Hooker 
+    public class Hooker
     {
         private static Hooker instance;
         public static Hooker GetInstance()
         {
-            if(instance == null)
+            if (instance == null)
             {
                 instance = new Hooker();
             }
@@ -41,6 +43,19 @@ namespace UltrasoundLib
             }
         }
 
+        public void onVoiceComplete(int soundId, string soundPath)
+        {
+            foreach (KeyValuePair<int, VoiceCompleteAction> entry in voiceComplete)
+            {
+                entry.Value.Invoke(soundId, soundPath);
+            }
+        }
+
+        public void KeyBoardTest()
+        {
+
+        }
+
         public void onInit()
         {
             foreach (KeyValuePair<int, InitAction> entry in inits)
@@ -59,7 +74,7 @@ namespace UltrasoundLib
 
         public int hookSoundComplete(SoundCompleteAction act)
         {
-            int Key = soundCompletes.Keys.Last();
+            int Key = (soundCompletes.Keys.ToArray().Length > 0)? soundCompletes.Keys.Last(): 0;
             Key++;
             soundCompletes.Add(Key, act);
             return Key;
@@ -67,7 +82,7 @@ namespace UltrasoundLib
 
         public int hookInit(InitAction act)
         {
-            int Key = inits.Keys.Last();
+            int Key = (inits.Keys.ToArray().Length > 0) ? inits.Keys.Last() : 0;
             Key++;
             inits.Add(Key, act);
             return Key;
@@ -75,7 +90,7 @@ namespace UltrasoundLib
 
         public int hookClose(CloseAction act)
         {
-            int Key = closes.Keys.Last();
+            int Key = (closes.Keys.ToArray().Length > 0) ? closes.Keys.Last() : 0;
             Key++;
             closes.Add(Key, act);
             return Key;
@@ -83,7 +98,7 @@ namespace UltrasoundLib
 
         public int hookVoiceComplete(VoiceCompleteAction act)
         {
-            int Key = closes.Keys.Last();
+            int Key = (voiceComplete.Keys.ToArray().Length > 0) ? voiceComplete.Keys.Last() : 0;
             Key++;
             voiceComplete.Add(Key, act);
             return Key;

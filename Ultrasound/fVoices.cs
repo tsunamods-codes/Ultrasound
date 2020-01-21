@@ -172,7 +172,7 @@ namespace Voices
         if (this._log == null)
           this._log = new StreamWriter(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), string.Format("Log_{0:yyyy-MM-dd}_{0:hh-mm}.txt", (object) DateTime.Now)), true);
         this._log.WriteLine(logMsg);
-        this._log.FlushAsync();
+        this._log.Flush();
       }
     }
 
@@ -303,16 +303,22 @@ namespace Voices
     }
 
     private void IncomingSEvent(fVoices.SoundEvent se)
-    {
-      Sound s = this._ultrasound.Select((int) se.Sound, (int) se.FieldID, (int) se.PPV);
-      if (s == null || !this._data.Exists(s.File))
-        return; this.Invoke(new Action(() => this.LogSEvent("  --> playing " + s.File + " with length of " + GetSoundLength(s.File))));
-            this._output.Play(new ALOutput.SoundPlay()
-      {
-        File = s.File,
-        Pan = Math.Max(Math.Min(1f, (float) se.Pan / 128f), 0.0f),
-        Volume = 10f
-      });
+        {
+            Sound s = this._ultrasound.Select((int)se.Sound, (int)se.FieldID, (int)se.PPV);
+            try
+            {
+                if (s == null || !this._data.Exists(s.File))
+                    return; this.Invoke(new Action(() => this.LogSEvent("  --> playing " + s.File + " with length of " + GetSoundLength(s.File))));
+                this._output.Play(new ALOutput.SoundPlay()
+                {
+                    File = s.File,
+                    Pan = Math.Max(Math.Min(1f, (float)se.Pan / 128f), 0.0f),
+                    Volume = 10f
+                });
+            }catch(FileNotFoundException ex)
+            {
+                this.LogSEvent("  --> ERROR::: " + s.File + " could not be found");
+            }
     }
 
     private void UpdateAmbient(int FID, int PPV)

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{00CEE28A-54A5-466E-B1BF-26E23C56355C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UltrasoundInputHooker</RootNamespace>
+    <AssemblyName>UltrasoundInputHooker</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Plugin.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\GitHub\7heaven\7thWrapperLib\7thWrapperLib.csproj">
+      <Project>{f80db232-4102-4249-8b31-2ddd5c7fa404}</Project>
+      <Name>7thWrapperLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Ultrasound Decompile\Ultrasound\Ultrasound 7H\Ultrasound7H\Ultrasound7H.csproj">
+      <Project>{a5a9c5b4-c53d-403a-aeeb-2c81c96c6c9f}</Project>
+      <Name>Ultrasound7H</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Ultrasound Decompile\Ultrasound\UltrasoundLib\UltrasoundLib.csproj">
+      <Project>{e614a97e-9dc7-4272-b7ff-ab9504379fda}</Project>
+      <Name>UltrasoundLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Marti\source\repos\InputSimulator\WindowsInput\WindowsInput.csproj">
+      <Project>{3549cd6f-80f8-450f-b99e-cf0a736b1f2a}</Project>
+      <Name>WindowsInput</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy "$(TargetDir)*" "D:\Games\FINAL FANTASY VII\mods\7th Heaven\Echo-S" /Y /E</PostBuildEvent>
+  </PropertyGroup>
+</Project>

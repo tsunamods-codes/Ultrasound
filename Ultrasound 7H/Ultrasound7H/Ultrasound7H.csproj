@@ -7,7 +7,7 @@
     <ProjectGuid>{A5A9C5B4-C53D-403A-AEEB-2C81C96C6C9F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Ultrasound7H</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <ApplicationVersion>1.0.0.0</ApplicationVersion>
     <FileAlignment>512</FileAlignment>
     <RootNamespace>Voices</RootNamespace>
@@ -22,6 +22,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -31,13 +32,14 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>bell.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="7thWrapperLib">
-      <HintPath>D:\Projects\GitHub\7haven\.dist\Build\Debug\7thWrapperLib.dll</HintPath>
+      <HintPath>..\..\external\7thWrapperLib.dll</HintPath>
     </Reference>
     <Reference Include="NAudio">
       <HintPath>lib\NAudio.dll</HintPath>
@@ -78,6 +80,7 @@
     <Compile Include="DataSource.cs" />
     <Compile Include="FileDataSource.cs" />
     <Compile Include="Util.cs" />
+    <Compile Include="UltrasoundConfig.cs" />
     <Compile Include="VoiceEntry.cs" />
     <Compile Include="VoiceList.cs" />
     <Compile Include="IndexEntry.cs" />
@@ -91,6 +94,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\UltrasoundLib\UltrasoundLib.csproj">
+      <Project>{e614a97e-9dc7-4272-b7ff-ab9504379fda}</Project>
+      <Name>UltrasoundLib</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\Ultrasound\Ultrasound.csproj">
       <Project>{8687ae4b-adfb-49c0-896f-b86bc6d39def}</Project>
       <Name>Ultrasound</Name>

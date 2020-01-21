@@ -5,6 +5,7 @@
 // Assembly location: C:\Users\Marti\Downloads\Ultrasound_0_42\Ultrasound7H.dll
 
 using System.IO;
+using System.Windows.Forms;
 
 namespace Voices
 {

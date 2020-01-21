@@ -122,16 +122,21 @@ namespace _7thHeaven
                     if (test.IsMatch(procExeName))
                     {
                         ff7 = proc;
+                        procPath[procPath.Length - 1] = "";
+                        BasePath = String.Join("\\", procPath);
                         break;
                     }
                 }
                 catch (Exception) { }
             }
 
-            inputSim = new WindowsInput.InputSimulator();
-            keySim = new WindowsInput.KeyboardSimulator(inputSim);
-
-            windowHandle = ff7.MainWindowHandle;
+            try
+            {
+                inputSim = new WindowsInput.InputSimulator();
+                keySim = new WindowsInput.KeyboardSimulator(inputSim);
+                windowHandle = ff7.MainWindowHandle;
+            }
+            catch (Exception) { }
         }
 
         private Dictionary<KeyBoardBindings, UInt16> Keys { get; set; }
@@ -139,14 +144,19 @@ namespace _7thHeaven
 
         private void getKeys()
         {
-            DateTime lastWrite = File.GetLastWriteTime(BasePath + "ff7input.cfg");
-
-            if (lastWrite > keysLastUpdated)
+            try
             {
-                Keys = readUserInputs();
-                keysLastUpdated = lastWrite;
+                DateTime lastWrite = File.GetLastWriteTime(BasePath + "ff7input.cfg");
+
+                if (lastWrite > keysLastUpdated)
+                {
+                    Keys = readUserInputs();
+                    keysLastUpdated = lastWrite;
+                }
             }
-            
+            catch (Exception) {
+
+            }
         }
 
         public override void Start(RuntimeMod mod)
@@ -161,13 +171,16 @@ namespace _7thHeaven
             {
                 Console.WriteLine("Voice from file " + f + " has finished");
 
-                getKeys();
-                IntPtr thisThread = GetCurrentThreadId();
-                AttachThreadInput(thisThread, new IntPtr(ff7.Threads[0].Id), true);
-                keySim.KeyDown((WindowsInput.Native.VirtualKeyCode)Keys[KeyBoardBindings.OK]);
-                Thread.Sleep(200);
-                keySim.KeyUp((WindowsInput.Native.VirtualKeyCode)Keys[KeyBoardBindings.OK]);
-                AttachThreadInput(thisThread, new IntPtr(ff7.Threads[0].Id), false);
+                if (!ff7.HasExited)
+                {
+                    getKeys();
+                    IntPtr thisThread = GetCurrentThreadId();
+                    AttachThreadInput(thisThread, new IntPtr(ff7.Threads[0].Id), true);
+                    keySim.KeyDown((WindowsInput.Native.VirtualKeyCode)Keys[KeyBoardBindings.OK]);
+                    Thread.Sleep(200);
+                    keySim.KeyUp((WindowsInput.Native.VirtualKeyCode)Keys[KeyBoardBindings.OK]);
+                    AttachThreadInput(thisThread, new IntPtr(ff7.Threads[0].Id), false);
+                }
             }));
             initId = hooks_instance.hookInit(new InitAction(() =>
             {

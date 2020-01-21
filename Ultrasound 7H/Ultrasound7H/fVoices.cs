@@ -611,7 +611,7 @@ namespace Voices
             this.Controls.Add((Control)this.bGo);
             this.MaximizeBox = false;
             this.Name = nameof(fVoices);
-            this.Text = "Ultrasound v0.5 by Barkermn01 / Keatran";
+            this.Text = "Ultrasound v0.51 by Barkermn01 / Keatran";
             this.FormClosed += new FormClosedEventHandler(this.fVoices_FormClosed);
             this.Load += new EventHandler(this.fVoices_Load);
             this.ResumeLayout(false);

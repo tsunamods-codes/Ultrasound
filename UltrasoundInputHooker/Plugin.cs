@@ -13,9 +13,6 @@ namespace _7thHeaven
 {
     public class Plugin : _7HPlugin
     {
-        [DllImport("kernel32")]
-        static extern bool AllocConsole();
-
         [DllImport("user32.dll")]
         public static extern bool AttachThreadInput(IntPtr idAttach, IntPtr idAttachTo, bool fAttach);
 
@@ -161,8 +158,6 @@ namespace _7thHeaven
 
         public override void Start(RuntimeMod mod)
         { 
-            AllocConsole();
-
             soundCompleteId = hooks_instance.hookSoundComplete(new SoundCompleteAction((int soundId, string f) =>
             {
                 Console.WriteLine("Sound from file " + f + " has finished");

@@ -20,6 +20,9 @@ namespace _7thHeaven
         public static extern IntPtr SetFocus(IntPtr hWnd);
 
         [DllImport("Kernel32.dll")]
+        public static extern void AllocConsole();
+
+        [DllImport("Kernel32.dll")]
         public static extern IntPtr GetCurrentThreadId();
 
         public bool kill = false;
@@ -109,7 +112,7 @@ namespace _7thHeaven
         {
             Process[] processes = Process.GetProcesses();
             Console.WriteLine("Proccesses found.");
-            Regex test = new Regex(@"ff7(_[a-z]{2}){0,1}\.exe");
+            Regex test = new Regex(@"[fF][fF]7(_[a-z]{2}){0,1}\.exe");
             foreach(Process proc in processes)
             {
                 try
@@ -157,7 +160,8 @@ namespace _7thHeaven
         }
 
         public override void Start(RuntimeMod mod)
-        { 
+        {
+            AllocConsole();
             soundCompleteId = hooks_instance.hookSoundComplete(new SoundCompleteAction((int soundId, string f) =>
             {
                 Console.WriteLine("Sound from file " + f + " has finished");
